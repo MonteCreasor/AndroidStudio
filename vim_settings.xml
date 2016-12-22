@@ -111,6 +111,7 @@
         <mark key="." line="137" column="15" />
         <mark key="^" line="137" column="15" />
       </file>
+      <file name="$USER_HOME$/AppData/Local/Android/sdk/platforms/android-25/android.jar!/android/view/Window.class" timestamp="1482365997490" />
       <file name="$USER_HOME$/vandy/a1/aad-2-assg-1/app/src/main/java/vandy/mooc/assignments/assignment/activities/MainActivity.java" timestamp="1480456006737">
         <mark key="[" line="54" column="41" />
         <mark key="]" line="54" column="41" />
@@ -207,10 +208,12 @@
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/java/edu/vanderbilt/ema/bootstrap/ui/MainActivity.java" timestamp="1482362393112">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/java/edu/vanderbilt/ema/bootstrap/ui/MainActivity.java" timestamp="1482366315643">
+        <mark key="'" line="61" column="65" />
+        <mark key="[" line="277" column="44" />
+        <mark key="]" line="277" column="44" />
+        <mark key="." line="277" column="44" />
+        <mark key="^" line="277" column="44" />
       </file>
       <file name="$USER_HOME$/vandy/posa-fix/POSA/CS282/A5-PM-AIDL-Services/app/src/main/java/edu/vandy/utils/SimpleSemaphore.java" timestamp="1480385318826">
         <mark key="[" line="22" column="63" />
@@ -257,6 +260,12 @@
         <mark key="]" line="20" column="37" />
         <mark key="." line="20" column="37" />
         <mark key="^" line="20" column="37" />
+      </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/res/layout/question_item.xml" timestamp="1482366878320">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
+        <mark key="^" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/vandy/mooc3/aad-3-assg-container-repo/aad-3-assg-1-private/app/src/main/java/edu/vandy/mooc/aad_3_assg_1/framework/adapters/CustomAdapter.java" timestamp="1481129583010">
         <mark key="'" line="58" column="38" />
@@ -480,7 +489,7 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482363330893">
+      <file name="/Dummy.txt" timestamp="1482366902500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -567,8 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="42" filename="$USER_HOME$/vandy/mooc3/aad-3-assg-container-repo/aad-3-assg-1-private/app/src/main/java/edu/vandy/mooc/aad_3_assg_1/framework/adapters/CustomAdapter.java" />
-      <jump line="37" column="28" filename="$USER_HOME$/vandy/mooc3/aad-3-assg-container-repo/aad-3-assg-1-private/app/src/main/java/edu/vandy/mooc/aad_3_assg_1/framework/adapters/CustomAdapter.java" />
       <jump line="51" column="18" filename="$USER_HOME$/vandy/mooc3/aad-3-assg-container-repo/aad-3-assg-1-private/app/src/main/java/edu/vandy/mooc/aad_3_assg_1/framework/adapters/CustomAdapter.java" />
       <jump line="341" column="0" filename="$USER_HOME$/vandy/mooc3/aad-3-assg-container-repo/aad-3-assg-1-private/app/src/main/java/edu/vandy/mooc/aad_3_assg_1/assignment/activities/MainActivity.java" />
       <jump line="45" column="53" filename="$USER_HOME$/site/production/healthTablet/src/main/java/com/ideallife/healthtablet/fragments/MessageDialogFragment.java" />
@@ -667,10 +674,12 @@
       <jump line="312" column="0" filename="$USER_HOME$/vandy/mooc3/HobbitContentProvider/app/src/main/java/vandy/mooc/hobbitcontentprovider/activities/RaceFragment.java" />
       <jump line="32" column="5" filename="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/AndroidManifest.xml" />
       <jump line="78" column="41" filename="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/AndroidManifest.xml" />
+      <jump line="203" column="0" filename="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/java/edu/vanderbilt/ema/bootstrap/ui/MainActivity.java" />
+      <jump line="61" column="65" filename="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/java/edu/vanderbilt/ema/bootstrap/ui/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJjb20uZ29vZ2xlLmFuZHJvaWQuYzJkbS5wZXJtaXNzaW9uLlJFQ0VJVkUiIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Question Title&quot;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -850,13 +859,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>Question Title&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>PushS</text>
+        <text>setVis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI1LjEuMCcK</text>
+        <text encoding="base64">ICAgICAgICB0b29sczp0ZXh0PSJRdWVzdGlvbiBUaXRsZSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJjb20uZ29vZ2xlLmFuZHJvaWQuYzJkbS5wZXJtaXNzaW9uLlJFQ0VJVkUiIC8+Cg==</text>
@@ -889,13 +898,13 @@
         <text encoding="base64">Ly9tb250ZSBwdWJsaWMgYWJzdHJhY3QgY2xhc3MgQm9vdHN0cmFwQWN0aXZpdHkgZXh0ZW5kcyBBY3Rpb25CYXJBY3Rpdml0eSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>PushS</last-search>
+      <last-search>setVis</last-search>
       <last-offset />
-      <last-pattern>PushS</last-pattern>
+      <last-pattern>setVis</last-pattern>
       <last-replace>Memory</last-replace>
       <last-substitute>mExampleDr</last-substitute>
       <last-dir>1</last-dir>
@@ -903,9 +912,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mDataSet</entry>
-        <entry>mD</entry>
-        <entry>END_INCLUDE</entry>
         <entry>flipperDialog</entry>
         <entry>setData</entry>
         <entry>setupfr</entry>
@@ -923,6 +929,9 @@
         <entry>Click</entry>
         <entry>click</entry>
         <entry>PushS</entry>
+        <entry>progress</entry>
+        <entry>visibl</entry>
+        <entry>setVis</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
@@ -935,8 +944,8 @@
         <entry encoding="base64">JzwsJz5zZXQgaWM=</entry>
         <entry>W</entry>
         <entry>w</entry>
-        <entry>set ic</entry>
         <entry>q!</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
