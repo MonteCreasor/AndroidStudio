@@ -15,12 +15,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/res/layout/expanding_item_base_layout.xml" timestamp="1482532223163">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="51" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="48" column="43" />
+      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/res/layout/expanding_item_base_layout.xml" timestamp="1482535550142">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="51" />
+        <mark key="^" line="65" column="10" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/android/material/cheesesquare/app/build.gradle" timestamp="1482271974119">
         <mark key="[" line="4" column="28" />
@@ -170,12 +170,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/ExpandingItem.java" timestamp="1482534069834">
-        <mark key="a" line="728" column="11" />
-        <mark key="'" line="546" column="12" />
-        <mark key="[" line="726" column="0" />
-        <mark key="]" line="726" column="0" />
-        <mark key="." line="726" column="0" />
+      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/ExpandingItem.java" timestamp="1482535494542">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="784" column="0" />
+        <mark key="]" line="784" column="0" />
+        <mark key="." line="784" column="0" />
       </file>
       <file name="$USER_HOME$/vandy/mooc3/UniqueIdGen/app/src/main/res/layout/main.xml" timestamp="1480712338854">
         <mark key="[" line="29" column="0" />
@@ -646,8 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="0" filename="$USER_HOME$/vandy/mooc3/HobbitContentProvider/app/src/main/java/vandy/mooc/hobbitcontentprovider/activities/RaceFragment.java" />
-      <jump line="32" column="5" filename="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/AndroidManifest.xml" />
       <jump line="78" column="41" filename="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/AndroidManifest.xml" />
       <jump line="203" column="0" filename="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/java/edu/vanderbilt/ema/bootstrap/ui/MainActivity.java" />
       <jump line="61" column="65" filename="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/java/edu/vanderbilt/ema/bootstrap/ui/MainActivity.java" />
@@ -746,10 +743,12 @@
       <jump line="479" column="12" filename="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/ExpandingItem.java" />
       <jump line="506" column="20" filename="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/ExpandingItem.java" />
       <jump line="546" column="12" filename="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/ExpandingItem.java" />
+      <jump line="736" column="50" filename="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/ExpandingItem.java" />
+      <jump line="77" column="17" filename="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/ExpandingItem.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -929,52 +928,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mSubItemsShown ?</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>expandIconIn</text>
+        <text>mIndicatorBack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmFsdWVBbmltYXRvciBhbmltYXRpb24gPSBtU3ViSXRlbXNTaG93biA/CiAgICAgICAgICAgICAgICAgICAgVmFsdWVBbmltYXRvci5vZkZsb2F0KHN0YXJ0aW5nUG9zLCB0b3RhbEhlaWdodCkgOgogICAgICAgICAgICAgICAgICAgIFZhbHVlQW5pbWF0b3Iub2ZGbG9hdCh0b3RhbEhlaWdodCwgc3RhcnRpbmdQb3MpOwogICAgICAgICAgICBhbmltYXRpb24uc2V0SW50ZXJwb2xhdG9yKG5ldyBBY2NlbGVyYXRlRGVjZWxlcmF0ZUludGVycG9sYXRvcigpKTsKICAgICAgICAgICAgYW5pbWF0aW9uLnNldER1cmF0aW9uKG1BbmltYXRpb25EdXJhdGlvbik7CiAgICAgICAgICAgIGFuaW1hdGlvbi5hZGRVcGRhdGVMaXN0ZW5lcihuZXcgVmFsdWVBbmltYXRvci5BbmltYXRvclVwZGF0ZUxpc3RlbmVyKCkgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFuaW1hdGlvblVwZGF0ZShWYWx1ZUFuaW1hdG9yIGFuaW1hdGlvbikgewogICAgICAgICAgICAgICAgICAgIGZsb2F0IHZhbCA9IChmbG9hdCkgYW5pbWF0aW9uLmdldEFuaW1hdGVkVmFsdWUoKTsKICAgICAgICAgICAgICAgICAgICBDdXN0b21WaWV3VXRpbHMuc2V0Vmlld0hlaWdodChtSW5kaWNhdG9yQmFja2dyb3VuZCwgKGludCkgdmFsKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBhbmltYXRpb24uc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgaW50IHRvdGFsSGVpZ2h0ID0gKG1TdWJJdGVtSGVpZ2h0ICogbVN1Ykl0ZW1Db3VudCkgLSBtSW5kaWNhdG9yU2l6ZS8yICsgbUl0ZW1IZWlnaHQvMjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmltYXRpb24uc3RhcnQoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUluZGljYXRvckJhY2tncm91bmQgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3UGFyZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1c3RvbVZpZXdVdGlscy5zZXRWaWV3SGVpZ2h0KG1JbmRpY2F0b3JCYWNrZ3JvdW5kLCAoaW50KSB2YWwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsb2F0IHZhbCA9IChmbG9hdCkgYW5pbWF0aW9uLmdldEFuaW1hdGVkVmFsdWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>expandIconIn</last-search>
+      <last-search>mIndicatorBack</last-search>
       <last-offset />
-      <last-pattern>expandIconIn</last-pattern>
+      <last-pattern>mIndicatorBack</last-pattern>
       <last-replace>Memory</last-replace>
       <last-substitute>mExampleDr</last-substitute>
       <last-dir>1</last-dir>
@@ -982,7 +981,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PushS</entry>
         <entry>progress</entry>
         <entry>visibl</entry>
         <entry>setVis</entry>
@@ -1002,6 +1000,7 @@
         <entry>LayoutP</entry>
         <entry>Layout</entry>
         <entry>expandIconIn</entry>
+        <entry>mIndicatorBack</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
