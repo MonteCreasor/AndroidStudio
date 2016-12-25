@@ -134,6 +134,13 @@
         <mark key="." line="54" column="41" />
         <mark key="^" line="54" column="40" />
       </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/java/edu/vanderbilt/ema/bootstrap/form/QuestionActivity.java" timestamp="1482695565987">
+        <mark key="a" line="152" column="3" />
+        <mark key="[" line="123" column="65" />
+        <mark key="]" line="123" column="92" />
+        <mark key="^" line="160" column="28" />
+        <mark key="." line="123" column="65" />
+      </file>
       <file name="$USER_HOME$/Apps/AnimationTest/app/src/main/res/values/strings.xml" timestamp="1480718563686">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="81" />
@@ -253,13 +260,6 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/ExpandingList.java" timestamp="1482531471163">
-        <mark key="a" line="56" column="0" />
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="47" column="8" />
-        <mark key="." line="47" column="8" />
-        <mark key="^" line="45" column="15" />
-      </file>
       <file name="$USER_HOME$/vandy/mooc3/HobbitContentProvider/app/src/main/java/vandy/mooc/hobbitcontentprovider/HobbitApplication.java" timestamp="1482278775821">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="14" column="41" />
@@ -327,7 +327,7 @@
         <mark key="." line="1829" column="20" />
         <mark key="^" line="899" column="20" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/java/edu/vanderbilt/ema/bootstrap/ui/MealPeriodFragment.java" timestamp="1482694478469" />
+      <file name="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/java/edu/vanderbilt/ema/bootstrap/ui/MealPeriodFragment.java" timestamp="1482694534216" />
       <file name="$USER_HOME$/vandy/security/LocationTracker/app/build.gradle" timestamp="1481514617563">
         <mark key="[" line="26" column="49" />
         <mark key="]" line="26" column="50" />
@@ -775,8 +775,8 @@
       <jump line="616" column="32" filename="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/ExpandingItem.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgCg==</text>
+      <register name="&quot;" type="4">
+        <text>makeNewResponseCallback());</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -956,43 +956,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>makeNewResponseCallback());</text>
       </register>
       <register name="/" type="4">
         <text>mCurrentSubI</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtUmVjdC5ib3R0b20gPSBnZXRCb3R0b20oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcnZpY2VQcm92aWRlci5nZXRRdWVzdGlvbkZvcm0odXNlcklkLCB0b3BpY0lkLCBuZXcgQ2FsbGJhY2s8UXVlc3Rpb25Gb3JtUmVzcG9uc2U+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHN1Y2Nlc3MoUXVlc3Rpb25Gb3JtUmVzcG9uc2UgcXVlc3Rpb25Gb3JtUmVzcG9uc2UsIFJlc3BvbnNlIHJlc3BvbnNlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZy5pKFRBRywgIlN1Y2Nlc3NmdWxseSBnZXQgdGhlIHF1ZXN0aW9uIGZvcm0gLSAiICsgcXVlc3Rpb25Gb3JtKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gY2FuY2VsIGRpYWxvZwogICAgICAgICAgICAgICAgICAgICAgICBwZC5kaXNtaXNzKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIGNhbGwgdGhpcyBvbmx5IHdoZW4gdGhlIHF1ZXN0aW9uIGZvcm0gaXMgZmluYWxpemVkCiAgICAgICAgICAgICAgICAgICAgICAgIFF1ZXN0aW9uQWN0aXZpdHkudGhpcy5xdWVzdGlvbkZvcm0gPSBxdWVzdGlvbkZvcm1SZXNwb25zZS5nZXRUb3BpYygpOwogICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5pdFF1ZXN0aW9uTGlzdCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoUXVlc3Rpb25BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiRmFpbGVkIHRvIHByb2Nlc3MgdGhlIHF1ZXN0aW9ucy4gUGxlYXNlIGNvbnRhY3QgVlUgRU1BIHRlYW0uIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gc2VuZCB1cyBzb21ldGhpbmcKICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKFRBRywgIkludmFsaWQgcXVlc3Rpb24uIiwgZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIGZhaWx1cmUoUmV0cm9maXRFcnJvciBlcnJvcikgewogICAgICAgICAgICAgICAgICAgICAgICBMb2cuZShUQUcsICJGYWlsZWQgdG8gZ2V0IHRoZSBxdWVzdGlvbiBmb3JtLiIpOwogICAgICAgICAgICAgICAgICAgICAgICBwZC5kaXNtaXNzKCk7CgogICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChRdWVzdGlvbkFjdGl2aXR5LnRoaXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkZhaWxlZCB0byBwcm9jZXNzIHRoZSBxdWVzdGlvbnMuIFBsZWFzZSBjb250YWN0IFZVIEVNQSB0ZWFtLiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETyBzZW5kIHVzIHNvbWV0aGluZwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgTGluZVZpZXcgbGluZVZpZXcgPSAoTGluZVZpZXcpZmluZFZpZXdCeUlkKFIuaWQuaWNvbl9saW5lKTsKICAgICAgICAgICAgbGluZVZpZXcuZmluYWxIZWlnaHQgPSAoaW50KXN0YXJ0aW5nUG9zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZVZpZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETyBzZW5kIHVzIHNvbWV0aGluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8rIG1JdGVtSGVpZ2h0IC8gMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8tIG1JbmRpY2F0b3JTaXplIC8gMgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiRmFpbGVkIHRvIHByb2Nlc3MgdGhlIHF1ZXN0aW9ucy4gUGxlYXNlIGNvbnRhY3QgVlUgRU1BIHRlYW0uIiwK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgPFY=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoUXVlc3Rpb25BY3Rpdml0eS50aGlzLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtUmVjdC5ib3R0b20gPSBnZXRCb3R0b20oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGQuZGlzbWlzcygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
