@@ -415,13 +415,11 @@
         <mark key="]" line="27" column="44" />
         <mark key="." line="27" column="44" />
       </file>
-      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CheckedItemView.java" timestamp="1483311315805">
-        <mark key="a" line="62" column="36" />
-        <mark key="'" line="25" column="13" />
-        <mark key="[" line="69" column="38" />
-        <mark key="]" line="69" column="37" />
-        <mark key="^" line="69" column="37" />
-        <mark key="." line="69" column="37" />
+      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CheckedItemView.java" timestamp="1483311838149">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/40au/Animations/app/src/main/res/values/strings.xml" timestamp="1482897900129">
         <mark key="[" line="18" column="32" />
@@ -705,14 +703,14 @@
         <mark key="^" line="121" column="13" />
         <mark key="." line="185" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/RadioItemViewGroup.java" timestamp="1483311000478">
-        <mark key="a" line="59" column="53" />
+      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/RadioItemViewGroup.java" timestamp="1483311664156">
+        <mark key="a" line="59" column="25" />
         <mark key="'" line="16" column="0" />
         <mark key="y" line="58" column="32" />
-        <mark key="[" line="59" column="42" />
-        <mark key="]" line="59" column="53" />
-        <mark key="." line="59" column="53" />
-        <mark key="^" line="59" column="53" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="64" column="42" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/vu-ema-android/app/src/main/java/edu/vanderbilt/ema/bootstrap/ui/BootstrapFragmentActivity.java" timestamp="1482362808028">
         <mark key="[" line="18" column="0" />
@@ -925,13 +923,13 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" timestamp="1483310963332">
-        <mark key="a" line="238" column="8" />
+      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" timestamp="1483312430525">
+        <mark key="a" line="238" column="27" />
         <mark key="'" line="156" column="38" />
-        <mark key="[" line="242" column="61" />
-        <mark key="]" line="242" column="61" />
-        <mark key="^" line="242" column="60" />
-        <mark key="." line="242" column="61" />
+        <mark key="[" line="250" column="44" />
+        <mark key="]" line="250" column="44" />
+        <mark key="^" line="250" column="43" />
+        <mark key="." line="250" column="44" />
       </file>
       <file name="$USER_HOME$/40au/Animations/app/src/main/res/layout/question_layout.xml" timestamp="1483309997404">
         <mark key="[" line="4" column="0" />
@@ -1125,7 +1123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="6" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="269" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="121" column="89" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="281" column="12" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
@@ -1225,10 +1222,11 @@
       <jump line="159" column="13" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="375" column="18" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="154" column="38" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CheckedItemView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.load(url);</text>
+        <text>index</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1408,31 +1406,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.load(url);</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>LayoutP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0SW1hZ2VWaWV3KCkgIT0gbnVsbCkgewogICAgICAgICAgICBnZXRJbWFnZVZpZXcoKS5zZXRJbWFnZVJlc291cmNlKGltYWdlSWQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGRRdWVzdGlvblRvVG9waWMoVmlld0dyb3VwIHRvcGljVmlldywgVmlldyBxdWVzdGlvblZpZXcsIGludCBpbmRleCkgewogICAgICAgIFZpZXdHcm91cCBxdWVzdGlvbkNvbnRhaW5lciA9CiAgICAgICAgICAgICAgICAoVmlld0dyb3VwKSB0b3BpY1ZpZXcuZmluZFZpZXdCeUlkKFIuaWQucXVlc3Rpb25fdmlld19mbGlwcGVyKTsKICAgICAgICBpZiAoaW5kZXggPT0gLTEpIHsKICAgICAgICAgICAgaW5kZXggPSBxdWVzdGlvbkNvbnRhaW5lci5nZXRDaGlsZENvdW50KCk7CiAgICAgICAgfQogICAgICAgIHF1ZXN0aW9uQ29udGFpbmVyLmFkZFZpZXcocXVlc3Rpb25WaWV3LCBpbmRleCk7CiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQaWNhc3NvLkJ1aWxkZXIgYnVpbGQgPSBQaQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXggPSBxdWVzdGlvbkNvbnRhaW5lci5nZXRDaGlsZENvdW50KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0VGV4dFZpZXcoKS5zZXRUZXh0KHRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5kZXggPT0gLTEpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0VGV4dFZpZXcoKSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBSYWRpb0l0ZW0oCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1443,16 +1441,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3LmFkZFJhZGlvSXRlbSgiTm93IiwgUi5kcmF3YWJsZS5tZWFsX25vdyk7CiAgICAgICAgdmlldy5hZGRSYWRpb0l0ZW0oIkVhcmxpZXIiLCBSLmRyYXdhYmxlLm1lYWxfZWFybGllcik7CiAgICAgICAgdmlldy5hZGRSYWRpb0l0ZW0oIkRpZG4ndCBlYXQiLCBSLmRyYXdhYmxlLm5vKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LmFkZFJhZGlvSXRlbSgiSGlnaCIsIFIuZHJhd2FibGUuZW5lcmd5X2hpZ2gpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbWFnZUlkID0gLTE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LmFkZFJhZGlvSXRlbSgiTWVkaXVtIiwgUi5kcmF3YWJsZS5lbmVyZ3lfbWVkaXVtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbWFnZVVybCA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LmFkZFJhZGlvSXRlbSgiTG93IiwgUi5kcmF3YWJsZS5lbmVyZ3lfbG93KTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIHRleHQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
