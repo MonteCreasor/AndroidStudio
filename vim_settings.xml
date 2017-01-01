@@ -885,11 +885,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" timestamp="1483248488654">
-        <mark key="[" line="163" column="12" />
-        <mark key="]" line="163" column="26" />
-        <mark key="." line="163" column="26" />
-        <mark key="^" line="163" column="26" />
+      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" timestamp="1483249094943">
+        <mark key="'" line="93" column="22" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="^" line="160" column="44" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/40au/Animations/app/src/main/res/layout/question_layout.xml" timestamp="1483248101365">
         <mark key="a" line="78" column="8" />
@@ -1080,16 +1081,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/res/layout/option_answer_item.xml" />
-      <jump line="64" column="14" filename="$USER_HOME$/40au/Animations/app/src/main/res/layout/option_answer_item.xml" />
-      <jump line="7" column="37" filename="$USER_HOME$/40au/Animations/app/src/main/res/layout/option_answer_item.xml" />
-      <jump line="11" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/res/layout/option_answer_item.xml" />
-      <jump line="61" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/res/values/styles.xml" />
-      <jump line="85" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/res/values/styles.xml" />
-      <jump line="113" column="11" filename="$USER_HOME$/40au/Animations/app/src/main/res/values/styles.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/res/values/styles.xml" />
-      <jump line="41" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/RadioItemViewGroup.java" />
-      <jump line="4243" column="60" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/view/ViewGroup.java" />
       <jump line="4406" column="66" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/view/ViewGroup.java" />
       <jump line="274" column="45" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="56" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/res/layout/question1_item.xml" />
@@ -1180,10 +1171,20 @@
       <jump line="158" column="35" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="126" column="51" filename="$USER_HOME$/40au/Animations/app/src/main/res/values/styles.xml" />
       <jump line="149" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="161" column="8" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="214" column="27" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="215" column="8" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="216" column="17" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="220" column="11" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="221" column="69" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="223" column="15" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="15" column="33" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="58" column="4" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="93" column="22" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>questionView</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1363,31 +1364,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>questionView</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>inflate</text>
+        <text>Grid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld0dyb3VwIGFuc3dlckNvbnRhaW5lciA9CiAgICAgICAgICAgICAgICAgICAgKFZpZXdHcm91cClxdWVzdGlvblZpZXcuZmluZFZpZXdCeUlkKFIuaWQuYW5zd2VyX2NvbnRhaW5lcik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmlld0dyb3VwIGJ1aWxkTWVhbFRvcGljKCkgewogICAgICAgIFZpZXdHcm91cCBxdWVzdGlvblZpZXcgPQogICAgICAgICAgICAgICAgYnVpbGRRdWVzdGlvblZpZXcoCiAgICAgICAgICAgICAgICAgICAgICAgICJNZWFsIiwKICAgICAgICAgICAgICAgICAgICAgICAgIldoZW4gZGlkIHlvdSBlYXQ/IiwKICAgICAgICAgICAgICAgICAgICAgICAgIlBsZWFzZSBhbnN3ZXIgdHJ1dGhmdWxseSEiKTsKICAgICAgICBWaWV3R3JvdXAgYW5zd2VyQ29udGFpbmVyID0KICAgICAgICAgICAgICAgIChWaWV3R3JvdXApcXVlc3Rpb25WaWV3LmZpbmRWaWV3QnlJZChSLmlkLmFuc3dlcl9jb250YWluZXIpOwogICAgICAgIGFuc3dlckNvbnRhaW5lci5hZGRWaWV3KGJ1aWxkTWVhbFRpbWVBbnN3ZXJWaWV3KCkpOwogICAgICAgIHJldHVybiBxdWVzdGlvblZpZXc7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlc3Rpb25WaWV3LmFkZFZpZXcoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld0dyb3VwIGFuc3dlclZpZXcgPSAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld0dyb3VwIGFuc3dlclZpZXcgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlc3Rpb25zTGF5b3V0LmFkZFZpZXcocXVlc3Rpb25WaWV3KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbnN3ZXJDb250YWluZXIuYWRkVmlldyhncmlkTGF5b3V0KTsKICAgICAgICBxdWVzdGlvbnNMYXlvdXQuYWRkVmlldyhxdWVzdGlvbkxheW91dCk7CiAgICAgICAgZ3JpZExheW91dC5yZXF1ZXN0TGF5b3V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbnN3ZXJDb250YWluZXIuYWRkVmlldyhncmlkTGF5b3V0KTsKICAgICAgICBxdWVzdGlvbnNMYXlvdXQuYWRkVmlldyhxdWVzdGlvbkxheW91dCk7CiAgICAgICAgZ3JpZExheW91dC5yZXF1ZXN0TGF5b3V0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1398,25 +1399,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbnN3ZXJDb250YWluZXIuYWRkVmlldyhhbnN3ZXJWaWV3KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBwZW9wbGUgPSBuZXcgU3RyaW5nW117CiAgICAgICAgICAgICAgICAiU2libGluZ3MocykiLAogICAgICAgICAgICAgICAgIlBhcmVudChzKSIsCiAgICAgICAgICAgICAgICAiQm95L2dpcmxmcmllbmQiLAogICAgICAgICAgICAgICAgIk90aGVyIGZhbWlseSIsCiAgICAgICAgICAgICAgICAiQ2xvc2UgZnJpZW5kcyIsCiAgICAgICAgICAgICAgICAiQ2FzdWFsIGZyaWVuZHMiLAogICAgICAgICAgICAgICAgIlN0cmFuZ2VycyIsCiAgICAgICAgICAgICAgICAiT3RoZXIiLAogICAgICAgICAgICAgICAgIk5vIG9uZSJ9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChWaWV3R3JvdXApcXVlc3Rpb25WaWV3LmZpbmRWaWV3QnlJZChSLmlkLmFuc3dlcl9jb250YWluZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBHcmlkTGF5b3V0IGdyaWRMYXlvdXQgPQogICAgICAgICAgICAgICAgKEdyaWRMYXlvdXQpZ2V0TGF5b3V0SW5mbGF0ZXIoKS5pbmZsYXRlKFIubGF5b3V0LnF1ZXN0aW9uX2dyaWQsIG51bGwpOwoKICAgICAgICBpbnQgY291bnQgPSBwZW9wbGUubGVuZ3RoOwoKICAgICAgICAvLyBHcmlkTGF5b3V0IHdpbGwgbm90IHByb3Blcmx5IGFsaWduIGNoaWxkcmVuIGlmIHRoZXkgYXJlIGluZmxhdGVkIHdpdGhvdXQKICAgICAgICAvLyBhIHBhcmVudCBhbmQgdGhlbiBhZGRlZCB1c2luZyBhZGRWaWV3KCkuIFRoZSBvbmx5IHdheSBmb3IgR3JpZExheW91dCB0bwogICAgICAgIC8vIGJlaGF2ZSBuaWNlbHkgYW5kIGFsaWduIGFsbCB0aGUgY2hpbGRyZW4gcHJvcGVybHkgKHNhbWUgc2l6ZSkgaXMgdG8gcGFzcwogICAgICAgIC8vIHRoZSBHcmlkTGF5b3V0IGFzIHRoZSBwYXJlbnQgaW4gdGhlIGluZmxhdGUoKSBjYWxsLgogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgY291bnQ7IGkrKykgewogICAgICAgICAgICAvLyBTcGVjaWFsIGNhc2UgZm9yIGxhc3QgaXRlbSBpbiBhbiBvZGQgbnVtYmVyZWQgZ3JpZDsKICAgICAgICAgICAgLy8gbG9hZCBzcGVjaWFsIGdyaWQgaXRlbSBsYXlvdXQgdGhhdCBzcGFucyBhbGwgY29sdW1ucy4KICAgICAgICAgICAgaWYgKGkgPT0gY291bnQgLSAxICYmIGNvdW50ICUgMiA9PSAxKSB7CiAgICAgICAgICAgICAgICAvL2dldExheW91dEluZmxhdGVyKCkuaW5mbGF0ZShSLmxheW91dC5xdWVzdGlvbl9ncmlkX2xhc3RfaXRlbV92aWV3LCBncmlkTGF5b3V0KTsKICAgICAgICAgICAgICAgIGdldExheW91dEluZmxhdGVyKCkuaW5mbGF0ZShSLmxheW91dC5xdWVzdGlvbl9ncmlkX2xhc3RfaXRlbV92aWV3LCBncmlkTGF5b3V0KTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGdldExheW91dEluZmxhdGVyKCkuaW5mbGF0ZShSLmxheW91dC5xdWVzdGlvbl9ncmlkX2l0ZW1fdmlldywgZ3JpZExheW91dCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8gTm93IGdldCB0aGUgbGFzdCBhZGRlZCBidXR0b24gYW5kIHNldCBpdCdzIHRleHQuCiAgICAgICAgICAgIEJ1dHRvbiBidXR0b24gPSAoQnV0dG9uKWdyaWRMYXlvdXQuZ2V0Q2hpbGRBdChncmlkTGF5b3V0LmdldENoaWxkQ291bnQoKSAtIDEpOwogICAgICAgICAgICBidXR0b24uc2V0VGV4dChwZW9wbGVbaV0pOwogICAgICAgIH0KICAgICAgICB2aWV3UGFnZXIuc2V0QWRhcHRlcihuZXcgUGFnZXJBZGFwdGVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGludCBnZXRDb3VudCgpIHsKICAgICAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gaXNWaWV3RnJvbU9iamVjdChWaWV3IHZpZXcsIE9iamVjdCBvYmplY3QpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgICBWaWV3R3JvdXAgYW5zd2VyQ29udGFpbmVyID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LmFkZFJhZGlvSXRlbSgiRGlkbid0IGVhdCIsIFIuZHJhd2FibGUubm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmlld0dyb3VwIGFuc3dlckNvbnRhaW5lciA9CiAgICAgICAgICAgICAgICAgICAgKFZpZXdHcm91cClxdWVzdGlvblZpZXcuZmluZFZpZXdCeUlkKFIuaWQuYW5zd2VyX2NvbnRhaW5lcik7CiAgICAgICAgICAgIGFuc3dlckNvbnRhaW5lci5hZGRWaWV3KGFuc3dlclZpZXcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>inflate</last-search>
+      <last-search>Grid</last-search>
       <last-offset />
-      <last-pattern>inflate</last-pattern>
+      <last-pattern>Grid</last-pattern>
       <last-replace>Memory</last-replace>
       <last-substitute>mExampleDr</last-substitute>
       <last-dir>1</last-dir>
@@ -1432,7 +1433,6 @@
         <entry>question_layout</entry>
         <entry>sp</entry>
         <entry>animateSu</entry>
-        <entry>Grid</entry>
         <entry>Ques</entry>
         <entry>Button</entry>
         <entry>gravity</entry>
@@ -1444,6 +1444,7 @@
         <entry>GridLa</entry>
         <entry encoding="base64">SGVyZSA=</entry>
         <entry>inflate</entry>
+        <entry>Grid</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
