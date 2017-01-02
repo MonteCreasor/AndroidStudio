@@ -536,7 +536,7 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1483336734409">
+      <file name="/fragment.java" timestamp="1483349933079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -897,13 +897,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" timestamp="1483349805695">
-        <mark key="a" line="869" column="18" />
+      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" timestamp="1483350942244">
+        <mark key="'" line="345" column="28" />
         <mark key="k" line="245" column="36" />
-        <mark key="[" line="869" column="21" />
-        <mark key="]" line="869" column="8" />
-        <mark key="." line="869" column="8" />
-        <mark key="^" line="869" column="8" />
+        <mark key="[" line="819" column="0" />
+        <mark key="]" line="819" column="0" />
+        <mark key="." line="819" column="0" />
       </file>
       <file name="$USER_HOME$/40au/Animations/app/src/main/res/layout/question_layout.xml" timestamp="1483320408972">
         <mark key="[" line="24" column="0" />
@@ -1022,7 +1021,6 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1483322679627" />
       <file name="$USER_HOME$/vandy/mooc3/UniqueIdGen/app/src/main/res/layout/activity_main.xml" timestamp="1480967537581">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="68" />
@@ -1111,8 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="8" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
-      <jump line="370" column="59" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="226" column="4" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="138" column="16" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="158" column="20" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
@@ -1211,10 +1207,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="854" column="15" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="852" column="46" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="72" column="67" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="345" column="28" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGl0bGU7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1394,28 +1392,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>completed++;</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>gson</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQW5pbWF0b3IgY2lyY2xlQW5pbWF0b3IgPSBnZXRDaXJjbGVBbmltYXRvcihpbmRleCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGl0bGU7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyB0b3BpY0lkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMudHlwZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1429,13 +1427,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG90aGVyVHlwZSAhPSBudWxsICYmIHR5cGUuZXF1YWxzKG90aGVyVHlwZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbGVhbiBlcXVhbHNUeXBlKFN0cmluZyBvdGhlclR5cGUpIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1445,18 +1443,16 @@
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>gson</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>gson</last-pattern>
       <last-replace>Memory</last-replace>
       <last-substitute>mExampleDr</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>toggleTopic</entry>
-        <entry>currentTopic</entry>
         <entry>collapseTopic</entry>
         <entry>Prec</entry>
         <entry>checkPosi</entry>
@@ -1475,6 +1471,8 @@
         <entry>percenta</entry>
         <entry>setFrac</entry>
         <entry>index</entry>
+        <entry>GSon</entry>
+        <entry>gson</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
