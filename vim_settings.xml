@@ -892,14 +892,14 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" timestamp="1483331697106">
-        <mark key="a" line="201" column="25" />
-        <mark key="'" line="443" column="59" />
+      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" timestamp="1483332461401">
+        <mark key="a" line="190" column="17" />
+        <mark key="'" line="153" column="8" />
         <mark key="k" line="231" column="36" />
-        <mark key="[" line="153" column="8" />
-        <mark key="]" line="153" column="23" />
-        <mark key="." line="153" column="23" />
-        <mark key="^" line="153" column="23" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
+        <mark key="^" line="195" column="23" />
       </file>
       <file name="$USER_HOME$/40au/Animations/app/src/main/res/layout/question_layout.xml" timestamp="1483320408972">
         <mark key="[" line="24" column="0" />
@@ -1090,9 +1090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="23" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
-      <jump line="238" column="48" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
-      <jump line="150" column="39" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="214" column="28" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="430" column="34" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="355" column="18" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
@@ -1190,10 +1187,13 @@
       <jump line="55" column="13" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="212" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="443" column="59" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="740" column="40" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="74" column="47" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
+      <jump line="153" column="8" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>24</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdG9nZ2xlVG9waWMoKTsK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1373,28 +1373,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>24</text>
+        <text>expandTopic</text>
       </register>
       <register name="/" type="4">
-        <text>onCli</text>
+        <text>setCur</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrRWxlbWVudEluZGV4KGluZGV4LCBnZXRUb3BpY0NvdW50KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDdXJyZW50VG9waWMoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9nZ2xlVG9waWMoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICBzZXRDdXJyZW50VG9waWMoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuZ3VhdmE6Z3VhdmE6MjEuMC1yYzEnCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9uczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyNS4xLjAnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuZ3VhdmE6Z3VhdmE6MjEuMC1yYzEnCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyNS4xLjAnCg==</text>
@@ -1408,25 +1408,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjgnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyNS4xLjAnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnYW5kcm9pZC1hcHQnZAo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjgnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamF2YScK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnYW5kcm9pZC1hcHQnZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamF2YScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onCli</last-search>
+      <last-search>setCur</last-search>
       <last-offset />
-      <last-pattern>onCli</last-pattern>
+      <last-pattern>setCur</last-pattern>
       <last-replace>Memory</last-replace>
       <last-substitute>mExampleDr</last-substitute>
       <last-dir>1</last-dir>
@@ -1434,7 +1434,6 @@
     </search>
     <history>
       <history-search>
-        <entry>questionL</entry>
         <entry>questionsL</entry>
         <entry>500</entry>
         <entry>buildTop</entry>
@@ -1454,6 +1453,7 @@
         <entry>Precon</entry>
         <entry>setCurr</entry>
         <entry>onCli</entry>
+        <entry>setCur</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
