@@ -555,14 +555,13 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CircleView.java" timestamp="1483555764234">
-        <mark key="a" line="61" column="36" />
-        <mark key="'" line="274" column="0" />
-        <mark key="[" line="109" column="61" />
-        <mark key="m" line="238" column="60" />
-        <mark key="]" line="109" column="65" />
-        <mark key="^" line="109" column="65" />
-        <mark key="." line="109" column="65" />
+      <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CircleView.java" timestamp="1483559575273">
+        <mark key="'" line="133" column="52" />
+        <mark key="[" line="301" column="22" />
+        <mark key="m" line="259" column="60" />
+        <mark key="]" line="301" column="28" />
+        <mark key="^" line="301" column="28" />
+        <mark key="." line="301" column="28" />
       </file>
       <file name="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/DataEntryActivity.java" timestamp="1482956566582">
         <mark key="[" line="18" column="0" />
@@ -952,11 +951,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="59" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
-      <jump line="153" column="16" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
-      <jump line="354" column="21" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
-      <jump line="408" column="28" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
-      <jump line="381" column="17" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="21" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/AndroidManifest.xml" />
       <jump line="238" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
       <jump line="165" column="13" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/activities/QuestionsActivity.java" />
@@ -1052,10 +1046,15 @@
       <jump line="121" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CircleView.java" />
       <jump line="274" column="0" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CircleView.java" />
       <jump line="13" column="41" filename="$USER_HOME$/vandy/security/LocationTracker/app/src/main/AndroidManifest.xml" />
+      <jump line="109" column="28" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CircleView.java" />
+      <jump line="132" column="52" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CircleView.java" />
+      <jump line="215" column="32" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CircleView.java" />
+      <jump line="244" column="18" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CircleView.java" />
+      <jump line="134" column="52" filename="$USER_HOME$/40au/Animations/app/src/main/java/apps/monte/animations/views/CircleView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>orange</text>
+        <text>SELECTED</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1235,31 +1234,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>orange</text>
+        <text>SELECTED</text>
       </register>
       <register name="/" type="4">
-        <text>getTinte</text>
+        <text>makeT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxsUGFpbnQuc2V0QW50aUFsaWFzKHRydWUpOwogICAgICAgIGZpbGxQYWludC5zZXRTdHlsZShQYWludC5TdHlsZS5GSUxMKTsKICAgICAgICBmaWxsUGFpbnQuc2V0U3Ryb2tlV2lkdGgoY2lyY2xlQm9yZGVyU2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IFNFTEVDVEVEID0gMHgwMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aW50UGFpbnQuc2V0QW50aUFsaWFzKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBCaXRtYXAgbWFrZVRpbnRlZEJpdG1hcChCaXRtYXAgc3JjKSB7CiAgICAgICAgQml0bWFwIHJlc3VsdCA9IEJpdG1hcC5jcmVhdGVCaXRtYXAoc3JjLmdldFdpZHRoKCksIHNyYy5nZXRIZWlnaHQoKSwgc3JjLmdldENvbmZpZygpKTsKICAgICAgICBDYW52YXMgYyA9IG5ldyBDYW52YXMocmVzdWx0KTsKICAgICAgICBjLmRyYXdCaXRtYXAoc3JjLCAwLCAwLCB0aW50UGFpbnQpOwogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aW50UGFpbnQuc2V0U3Ryb2tlV2lkdGgoY2lyY2xlQm9yZGVyU2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaXRtYXAgPSBnZXRCaXRtYXBGcm9tRHJhd2FibGUoKTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aW50UGFpbnQuc2V0U3R5bGUoUGFpbnQuU3R5bGUuRklMTCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aW50UGFpbnQuc2V0QW50aUFsaWFzKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aW50UGFpbnQuc2V0U3R5bGUoUGFpbnQuU3R5bGUuRklMTCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1270,25 +1269,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aW50UGFpbnQuc2V0U3Ryb2tlV2lkdGgoY2lyY2xlQm9yZGVyU2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgIFBhaW50IHRpbnRQYWludCA9IG5ldyBQYWludCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW50UGFpbnQuc2V0Q29sb3JGaWx0ZXIobmV3IExpZ2h0aW5nQ29sb3JGaWx0ZXIoY29sb3IsIDApKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aW50UGFpbnQuc2V0Q29sb3JGaWx0ZXIobmV3IExpZ2h0aW5nQ29sb3JGaWx0ZXIoY29sb3IsIDApKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>getTinte</last-search>
+      <last-search>makeT</last-search>
       <last-offset />
-      <last-pattern>getTinte</last-pattern>
+      <last-pattern>makeT</last-pattern>
       <last-replace>Memory</last-replace>
       <last-substitute>mExampleDr</last-substitute>
       <last-dir>1</last-dir>
@@ -1296,8 +1295,6 @@
     </search>
     <history>
       <history-search>
-        <entry>answer</entry>
-        <entry>title_</entry>
         <entry>_title</entry>
         <entry>_topic_</entry>
         <entry>text_</entry>
@@ -1316,6 +1313,8 @@
         <entry>bitmap =</entry>
         <entry>bitmap</entry>
         <entry>getTinte</entry>
+        <entry>makeTinted</entry>
+        <entry>makeT</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
