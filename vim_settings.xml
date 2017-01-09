@@ -92,13 +92,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/activities/QuestionsActivity.java" timestamp="1483968253979">
-        <mark key="a" line="421" column="25" />
-        <mark key="'" line="299" column="51" />
-        <mark key="[" line="427" column="75" />
-        <mark key="]" line="427" column="79" />
-        <mark key="." line="427" column="79" />
-        <mark key="^" line="427" column="79" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/activities/QuestionsActivity.java" timestamp="1483974120363">
+        <mark key="'" line="329" column="0" />
+        <mark key="[" line="54" column="54" />
+        <mark key="]" line="54" column="54" />
+        <mark key="^" line="329" column="2" />
+        <mark key="." line="54" column="54" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/form/data/Topic.java" timestamp="1483844704856">
         <mark key="[" line="7" column="0" />
@@ -188,7 +187,6 @@
         <mark key="." line="290" column="44" />
         <mark key="^" line="290" column="44" />
       </file>
-      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/ExpandingItem.java" timestamp="1483962967975" />
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/core/VUEMAService.java" timestamp="1483955371157">
         <mark key="'" line="69" column="0" />
         <mark key="[" line="83" column="24" />
@@ -269,9 +267,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/question_topic_layout.xml" timestamp="1483967630952">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/question_topic_layout.xml" timestamp="1483974061343">
         <mark key="a" line="35" column="15" />
-        <mark key="'" line="35" column="42" />
+        <mark key="'" line="37" column="50" />
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="45" />
         <mark key="." line="34" column="45" />
@@ -476,7 +474,7 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1483954586407">
+      <file name="/fragment.java" timestamp="1483972921501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -490,8 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="20" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/ViewBuilder.java" />
-      <jump line="306" column="72" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/ViewBuilder.java" />
       <jump line="336" column="22" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/ViewBuilder.java" />
       <jump line="141" column="22" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/ViewBuilder.java" />
       <jump line="136" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/ViewBuilder.java" />
@@ -590,10 +586,12 @@
       <jump line="379" column="79" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/activities/QuestionsActivity.java" />
       <jump line="419" column="25" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/activities/QuestionsActivity.java" />
       <jump line="299" column="51" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/activities/QuestionsActivity.java" />
+      <jump line="37" column="50" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/question_topic_layout.xml" />
+      <jump line="329" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/activities/QuestionsActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>question_container</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -773,31 +771,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>question_container</text>
       </register>
       <register name="/" type="4">
         <text>isColl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNFeHBhbmRpbmcpIHsKICAgICAgICAgICAgc3RhcnRIZWlnaHQgPSB0di5nZXRIZWlnaHQoKTsKICAgICAgICAgICAgZW5kSGVpZ2h0ID0gKGludCl0di5nZXRUYWcoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzdGFydEhlaWdodCA9IChpbnQpdHYuZ2V0VGFnKCk7CiAgICAgICAgICAgIGVuZEhlaWdodCA9IHR2LmdldEhlaWdodCgpOwogICAgICAgICAgICB0di5zZXRUYWcoc3RhcnRIZWlnaHQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGVWaWV3LnNldFRhZygoZmxvYXQpdGl0bGVWaWV3LmdldEhlaWdodCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHYuc2V0VGFnKHN0YXJ0SGVpZ2h0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsb2F0IGZyYWMgPSBjb2xsYXBzaW5nID8gKDFmIC0gZnJhY3Rpb24pIDogZnJhY3Rpb247Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRIZWlnaHQgPSAoaW50KXR2LmdldFRhZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyYWN0aW9uID0gY29sbGFwc2luZyA/ICgxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywgIm9uQW5pbWF0aW9uVXBkYXRlOiB2aWV3IGhlaWdodCA9ICIgKyB0di5nZXRNZWFzdXJlZEhlaWdodCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJvbkFuaW1hdGlvblVwZGF0ZTogdmlldyBoZWlnaHQgPSAiICsgdHYuZ2V0TWVhc3VyZWRIZWlnaHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHYuc2V0VGFnKHN0YXJ0SGVpZ2h0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -808,16 +806,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRIZWlnaHQgPSAoaW50KXR2LmdldFRhZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kSGVpZ2h0ID0gKGludCl0di5nZXRUYWcoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnRIZWlnaHQgPT0gZW5kSGVpZ2h0KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRIZWlnaHQgPSB0di5nZXRIZWlnaHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBmbG9hdCB0aXRsZUhlaWdodCA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
