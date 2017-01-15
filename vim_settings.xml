@@ -68,11 +68,11 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/vandy/jules/mooc4/Assignment1/app/src/androidTest/java/vandy/mooc/testingandsecurity/assignment1/model/DBManagerTest.java" timestamp="1484516698366">
-        <mark key="[" line="47" column="43" />
-        <mark key="]" line="47" column="42" />
-        <mark key="." line="47" column="42" />
-        <mark key="^" line="47" column="42" />
+      <file name="$USER_HOME$/vandy/jules/mooc4/Assignment1/app/src/androidTest/java/vandy/mooc/testingandsecurity/assignment1/model/DBManagerTest.java" timestamp="1484518217589">
+        <mark key="'" line="31" column="39" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/utils/Debug.java" timestamp="1484369306528">
         <mark key="[" line="18" column="59" />
@@ -454,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="403" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/TopicView.java" />
       <jump line="550" column="4" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/TopicView.java" />
       <jump line="395" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/TopicView.java" />
       <jump line="184" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/TopicView.java" />
@@ -554,10 +553,11 @@
       <jump line="16" column="5" filename="$USER_HOME$/vandy/jules/mooc4/Assignment1/app/src/main/java/vandy/mooc/testingandsecurity/assignment1/UserHelper.java" />
       <jump line="48" column="24" filename="$USER_HOME$/vandy/jules/mooc4/Assignment1/app/src/main/java/vandy/mooc/testingandsecurity/assignment1/model/DBManager.java" />
       <jump line="80" column="0" filename="$USER_HOME$/vandy/jules/mooc4/Assignment1/app/src/test/java/vandy/mooc/testingandsecurity/assignment1/UserPreferencesTest.java" />
+      <jump line="47" column="39" filename="$USER_HOME$/vandy/jules/mooc4/Assignment1/app/src/androidTest/java/vandy/mooc/testingandsecurity/assignment1/model/DBManagerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>OpenHelper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrKFNRTGl0ZURhdGFiYXNlLmNsYXNzKS5leGVjU1FMKGFueVN0cmluZygpKTsK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -737,16 +737,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OpenHelper</text>
+        <text>Create</text>
       </register>
       <register name="/" type="4">
         <text>MODE_PRIV</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBTUUxpdGVPcGVuSGVscGVyIHNxTGl0ZU9wZW5IZWxwZXI7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrKFNRTGl0ZU9wZW5IZWxwZXIuY2xhc3MpLm9uQ3JlYXRlKGFueShTUUxpdGVEYXRhYmFzZS5jbGFzcykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIChzcUxpdGVPcGVuSGVscGVyKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrKFNRTGl0ZURhdGFiYXNlLmNsYXNzKS5leGVjU1FMKGFueVN0cmluZygpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -755,13 +755,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFNRTGl0ZURhdGFiYXNlIHNxTGl0ZURhdGFiYXNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25DcmVhdGUoU1FMaXRlRGF0YWJhc2UgZGIpIHsKICAgICAgICAKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVXBncmFkZShTUUxpdGVEYXRhYmFzZSBkYiwgaW50IG9sZFZlcnNpb24sIGludCBuZXdWZXJzaW9uKSB7CgogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERhdGFzZQo=</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -772,16 +772,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXROYW1lKGN1cnNvci5nZXRTdHJpbmcoMSkpOwo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRJZCguZ2V0SW50KDApKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pZCA9IGlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
