@@ -164,12 +164,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/android/vandy/aad/mooc4/Assignment1/app/src/main/java/vandy/mooc/testingandsecurity/assignment1/UserPreferences.java" timestamp="1484457372935">
-        <mark key="a" line="26" column="14" />
-        <mark key="[" line="19" column="72" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="20" column="26" />
+      <file name="$USER_HOME$/android/vandy/aad/mooc4/Assignment1/app/src/main/java/vandy/mooc/testingandsecurity/assignment1/UserPreferences.java" timestamp="1484459612785">
+        <mark key="a" line="25" column="14" />
+        <mark key="[" line="33" column="45" />
+        <mark key="]" line="33" column="45" />
+        <mark key="." line="33" column="45" />
+        <mark key="^" line="33" column="45" />
       </file>
       <file name="$USER_HOME$/android/vandy/aad/mooc4/PublicManifest/app/src/main/res/values/styles.xml" timestamp="1484429547318">
         <mark key="[" line="3" column="0" />
@@ -389,12 +389,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/android/vandy/aad/mooc4/Assignment1/app/src/test/java/vandy/mooc/testingandsecurity/assignment1/UserPreferencesTest.java" timestamp="1484458689770">
+      <file name="$USER_HOME$/android/vandy/aad/mooc4/Assignment1/app/src/test/java/vandy/mooc/testingandsecurity/assignment1/UserPreferencesTest.java" timestamp="1484459713007">
         <mark key="'" line="88" column="44" />
-        <mark key="[" line="92" column="50" />
-        <mark key="]" line="92" column="52" />
-        <mark key="." line="92" column="52" />
-        <mark key="^" line="92" column="52" />
+        <mark key="[" line="96" column="71" />
+        <mark key="]" line="96" column="78" />
+        <mark key="." line="96" column="78" />
+        <mark key="^" line="96" column="78" />
       </file>
     </filemarks>
     <jumps>
@@ -501,7 +501,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>anyString</text>
+        <text>USERNAME</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -681,31 +681,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>anyString</text>
+        <text>USERNAME</text>
       </register>
       <register name="/" type="4">
         <text>MODE_PRIV</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGVkaXRvci5wdXRTdHJpbmcoZXEoVVNFUk5BTUVfS0VZKSwgYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKGVkaXRvcik7CiAgICAgICAgd2hlbihlZGl0b3IucHV0U3RyaW5nKGVxKFBBU1NXT1JEX0tFWSksIGFueVN0cmluZygpKSkudGhlblJldHVybihlZGl0b3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHVzZXJQcmVmZXJlbmNlcy5nZXRTYXZlZFBhc3N3b3JkKGNvbnRleHQpLCBQQVNTV09SRCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGVkaXRvci5wdXRTdHJpbmcoZXEoUEFTU1dPUkRfS0VZKSwgYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKGVkaXRvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHVzZXJQcmVmZXJlbmNlcy5nZXRTYXZlZFBhc3N3b3JkKGNvbnRleHQpLCBQQVNTV09SRCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGVkaXRvci5wdXRTdHJpbmcoZXEoVVNFUk5BTUVfS0VZKSwgYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKGVkaXRvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTaGFyZWRQcmVmZXJlbmNlcy5FZGl0b3IgZWRpdCA9IHByZWZlcmVuY2VzLmVkaXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1vY2s8U2hhcmVkUHJlZmVyZW5jZXMuRWRpdG9yPiBfZWRpdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGVkaXRvci5wdXRTdHJpbmcoZXEoUEFTU1dPUkRfS0VZKSwgYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKGVkaXRvcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0b3IudmVyaWZ5KGVkaXRvciwgKHRpbWVzKDIpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGVkaXRvci5wdXRTdHJpbmcoZXEoVVNFUk5BTUVfS0VZKSwgYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKGVkaXRvcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NraW5nRGV0YWlscyhlZGl0b3IpLmdldEludm9jYXRpb25zKCkuCg==</text>
+        <text encoding="base64">ICAgIE1vY2s8U2hhcmVkUHJlZmVyZW5jZXMuRWRpdG9yPiBfZWRpdG9yOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -716,16 +716,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZWRpdG9yLCAodGltZXMoMikpKTsK</text>
+        <text encoding="base64">ICAgICAgICBlZGl0b3IudmVyaWZ5KGVkaXRvciwgKHRpbWVzKDIpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZWRpdG9yLCAodGltZXMoMikpKTsK</text>
+        <text encoding="base64">ICAgICAgICBtb2NraW5nRGV0YWlscyhlZGl0b3IpLmdldEludm9jYXRpb25zKCkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJzaGFyZWRQcmVmZXJlbmNlc1Rlc3Q6IHN1Y2Nlc3NmdWwhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZWRpdG9yLCAodGltZXMoMikpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZWRpdG9yLCAodGltZXMoMikpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
