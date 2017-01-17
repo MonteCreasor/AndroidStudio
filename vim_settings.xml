@@ -56,11 +56,11 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" timestamp="1484612331472">
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="15" column="48" />
-        <mark key="^" line="15" column="48" />
-        <mark key="." line="15" column="48" />
+      <file name="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" timestamp="1484612897116">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="39" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/database/sqlite/SQLiteDatabase.java" timestamp="1484519729595">
         <mark key="'" line="1366" column="67" />
@@ -551,8 +551,8 @@
       <jump line="62" column="15" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PExvY2F0aW9uSW5mbz4gew==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWxpZFBvc2l0aW9uT3JUaHJvdyhwb3NpdGlvbik7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -732,31 +732,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PExvY2F0aW9uSW5mbz4gew==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>mLocations</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQXJyYXkgb2YgbG9jYXRpb25zIChhdm9pZCBudWxscykKICAgICAqLwogICAgQE5vbk51bGwKICAgIHByaXZhdGUgQXJyYXlMaXN0PExvY2F0aW9uSW5mbz4gbUxvY2F0aW9ucyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgLyoqCiAgICAgKiBNYXBzIGFsbCB2ZW51ZXMgdG8gdGhlaXIgYXNzb2NpYXRlZCBtYXJrZXIgKHZvaWQgbnVsbHMpLgogICAgICovCiAgICBATm9uTnVsbAogICAgcHJpdmF0ZSBBcnJheU1hcDxJbnRlZ2VyLCBNYXJrZXI+IG1NYXJrZXJzID0gbmV3IEFycmF5TWFwPD4oKTsKICAgIC8qKgogICAgICogQ3VycmVudGx5IHNlbGVjdGVkIG1hcmtlciAoZGlzcGxheWVkIGluIHNlbGVjdGlvbiBjb2xvcikuCiAgICAgKi8KICAgIHByaXZhdGUgQXJyYXlMaXN0PEludGVnZXI+IG1TZWxlY3RlZElkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZFBvc2l0aW9uT3JUaHJvdyhwb3NpdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISgwIDw9IHBvc2l0aW9uICYmIHBvc2l0aW9uIDwgbUxvY2F0aW9ucy5zaXplKCkpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TWFya2VyPgo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TG9jYXRpb25JbmZvPiBtTG9jYXRpb25zOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpc3Q8Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -767,16 +767,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIExpc3Q8TWFya2VyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZUxvY2F0aW9uRGF0YShsb2NhdGlvbkRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIExpc3Q8TG9jYXRpb25JbmZvPiBtTG9jYXRpb25zOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZU1hcmtlcigpCg==</text>
+        <text encoding="base64">ICAgIGxpc3Q8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
