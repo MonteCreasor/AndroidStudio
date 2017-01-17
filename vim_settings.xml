@@ -52,14 +52,14 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" timestamp="1484639237436">
-        <mark key="a" line="390" column="23" />
-        <mark key="'" line="104" column="11" />
-        <mark key="[" line="293" column="28" />
-        <mark key="]" line="293" column="28" />
+      <file name="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" timestamp="1484640154488">
+        <mark key="a" line="229" column="29" />
+        <mark key="'" line="229" column="0" />
+        <mark key="[" line="335" column="0" />
+        <mark key="]" line="336" column="9" />
         <mark key="m" line="400" column="36" />
-        <mark key="^" line="104" column="11" />
-        <mark key="." line="293" column="28" />
+        <mark key="^" line="336" column="9" />
+        <mark key="." line="336" column="9" />
       </file>
       <file name="$USER_HOME$/android/vandy/aad/mooc4/Assignment1/app/src/androidTest/java/vandy/mooc/testingandsecurity/assignment1/UserPreferencesTest.java" timestamp="1484453833368">
         <mark key="[" line="26" column="32" />
@@ -465,7 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="8" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
       <jump line="180" column="0" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
       <jump line="304" column="0" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
       <jump line="266" column="0" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
@@ -513,7 +512,6 @@
       <jump line="400" column="17" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
       <jump line="47" column="78" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
       <jump line="278" column="0" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
-      <jump line="340" column="0" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
       <jump line="403" column="44" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
       <jump line="388" column="20" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/MapsActivity.java" />
       <jump line="546" column="42" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
@@ -565,10 +563,12 @@
       <jump line="345" column="4" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/MapsActivity.java" />
       <jump line="28" column="34" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/MapsActivity.java" />
       <jump line="169" column="21" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/MapsActivity.java" />
+      <jump line="340" column="18" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
+      <jump line="229" column="0" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/LocationAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>tddo</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -748,31 +748,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>tddo</text>
       </register>
       <register name="/" type="4">
-        <text>LongC</text>
+        <text>bounds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBib29sZWFuIEVOQUJMRV9EUkFHX01BUktFUiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBMYXRMbmdCb3VuZHMuQnVpbGRlciBib3VuZHMgPSBuZXcgTGF0TG5nQm91bmRzLkJ1aWxkZXIoKTsKCiAgICAgICAgLy8gQ3JlYXRlIGFuZCBhZGQgbWFya2VycyBmb3IgYWxsIGxvY2F0aW9ucy4KICAgICAgICBmb3IgKGZpbmFsIEludGVnZXIgaXRlbUlkIDogbUxvY2F0aW9ucy5rZXlTZXQoKSkgewogICAgICAgICAgICAvLyBDYWxsIGhlbHBlciB0byBhZGQgdGhlIG1hcmtlci4KICAgICAgICAgICAgTGF0TG5nIGxhdExuZyA9IG5ldyBMYXRMbmcoCiAgICAgICAgICAgICAgICAgICAgbUxvY2F0aW9ucy5nZXQoaXRlbUlkKS5nZXRMYXRpdHVkZSgpLAogICAgICAgICAgICAgICAgICAgIG1Mb2NhdGlvbnMuZ2V0KGl0ZW1JZCkuZ2V0TG9uZ2l0dWRlKCkpOwogICAgICAgICAgICBhZGRNYXJrZXIoaXRlbUlkLCBsYXRMbmcsIG1Mb2NhdGlvbnMuZ2V0KGl0ZW1JZCkuZ2V0RGVzY3JpcHRpb24oKSk7CgogICAgICAgICAgICAvLyBVcGRhdGUgdGhlIG1hcCBkaXNwbGF5IGFyZWEgdG8gc2hvdyB0aGlzIG1hcmtlci4KICAgICAgICAgICAgYm91bmRzLmluY2x1ZGUobGF0TG5nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBib29sZWFuIEVOQUJMRV9EUkFHX01BUktFUiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGl0bGUgPSBtQ29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcubWFwX2xhdF9sbmdfZm9ybWF0X2xvbmcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1Mb2NhdGlvbnMuZ2V0KGl0ZW1JZCkuZ2V0TGF0aXR1ZGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbUxvY2F0aW9ucy5nZXQoaXRlbUlkKS5nZXRMb25naXR1ZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbUxvY2F0aW9ucy5nZXQoaXRlbUlkKS5nZXRMb25naXR1ZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrZXIuc2hvd0luZm9XaW5kb3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuZAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -783,25 +783,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrZXIuaGlkZUluZm9XaW5kb3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0ZW0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrZXIuc2V0VGl0bGUodGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdW5kcy5pbmNsdWRlKGxhdExuZyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGl0bGUgPSBnZXRMYXRMbmdUaXRsZSgoSW50ZWdlcikgbWFya2VyLmdldFRhZygpLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFVwZGF0ZSB0aGUgbWFwIGRpc3BsYXkgYXJlYSB0byBzaG93IHRoaXMgbWFya2VyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtQ29udGV4dC5nZXRTdHJpbmcoZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LongC</last-search>
+      <last-search>bounds</last-search>
       <last-offset />
-      <last-pattern>LongC</last-pattern>
+      <last-pattern>bounds</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Lon</last-substitute>
       <last-dir>1</last-dir>
@@ -809,7 +809,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dragMove</entry>
         <entry>label</entry>
         <entry>...</entry>
         <entry>\.\.\.</entry>
@@ -829,6 +828,7 @@
         <entry>marker\.</entry>
         <entry>onLong</entry>
         <entry>LongC</entry>
+        <entry>bounds</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
