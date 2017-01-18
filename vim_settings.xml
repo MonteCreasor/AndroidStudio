@@ -206,13 +206,13 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/res/values/dimens.xml" timestamp="1484695619787">
+      <file name="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/res/values/dimens.xml" timestamp="1484698985114">
         <mark key="a" line="7" column="17" />
         <mark key="'" line="9" column="39" />
         <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="46" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="10" column="46" />
+        <mark key="]" line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="10" column="44" />
       </file>
       <file name="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/res/layout/location_edit_dialog.xml" timestamp="1484559373533">
         <mark key="[" line="0" column="0" />
@@ -547,13 +547,13 @@
         <mark key="^" line="46" column="9" />
         <mark key="." line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/MapView.java" timestamp="1484697796578">
-        <mark key="a" line="112" column="61" />
-        <mark key="'" line="112" column="69" />
-        <mark key="[" line="117" column="44" />
-        <mark key="]" line="117" column="47" />
-        <mark key="." line="117" column="47" />
-        <mark key="^" line="117" column="47" />
+      <file name="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/MapView.java" timestamp="1484699064074">
+        <mark key="a" line="164" column="7" />
+        <mark key="'" line="189" column="35" />
+        <mark key="[" line="201" column="49" />
+        <mark key="]" line="201" column="55" />
+        <mark key="." line="201" column="55" />
+        <mark key="^" line="201" column="55" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionData.java" timestamp="1484198169892">
         <mark key="[" line="32" column="64" />
@@ -572,7 +572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="7" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/BaseLocationActivity.java" />
       <jump line="39" column="14" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/BaseLocationActivity.java" />
       <jump line="67" column="0" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/BaseLocationActivity.java" />
       <jump line="221" column="27" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/BaseLocationActivity.java" />
@@ -672,10 +671,11 @@
       <jump line="273" column="8" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/MapView.java" />
       <jump line="106" column="61" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/MapView.java" />
       <jump line="112" column="69" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/MapView.java" />
+      <jump line="189" column="35" filename="$USER_HOME$/vandy/jules/mooc4/MapApp/app/src/main/java/vandy/mooc/testingandsecurity/mapapp/activities/MapView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CENTER</text>
+        <text>(int)fontMetrics.descent;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -855,31 +855,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CENTER</text>
+        <text>(int)fontMetrics.descent;</text>
       </register>
       <register name="/" type="4">
-        <text>0x</text>
+        <text>Some</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtVGludFBhaW50TG9jYXRpb24uc2V0Q29sb3JGaWx0ZXIobmV3IExpZ2h0aW5nQ29sb3JGaWx0ZXIoMCwgbU1hcmtlckxvY2F0aW9uQ29sb3IpKTsK</text>
+        <text encoding="base64">ICAgICAgICBtUmVjdCA9IG1hcmtlci5nZXRSZWN0KCk7CiAgICAgICAgUmVjdCB0ZXh0UmVjdCA9IG5ldyBSZWN0KCk7CiAgICAgICAgbVRleHRQYWludC5nZXRUZXh0Qm91bmRzKHRleHQsIDAsIHRleHQubGVuZ3RoKCksIHRleHRSZWN0KTsKICAgICAgICB0ZXh0UmVjdC5vZmZzZXQoMCwgLSh0ZXh0UmVjdC50b3ApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGFpbnQgbVRpbnRQYWludDsKICAgIHByaXZhdGUgUGFpbnQgbVRpbnRQYWludFNlbGVjdGVkOwogICAgcHJpdmF0ZSBQYWludCBtVGV4dFJlY3RQYWludDsKICAgIHByaXZhdGUgVGV4dFBhaW50IG1UZXh0UGFpbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVGVzdFBhaW50LnNldFRleHRTaXplKDIwMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGFpbnQgbVRpbnRQYWludDsKICAgIHByaXZhdGUgUGFpbnQgbVRpbnRQYWludFNlbGVjdGVkOwogICAgcHJpdmF0ZSBQYWludCBtVGV4dFJlY3RQYWludDsK</text>
+        <text encoding="base64">ICAgICAgICBtUmVjdCA9IG1hcmtlci5nZXRSZWN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGFpbnQgbVRpbnRQYWludFNlbGVjdGVkOwogICAgcHJpdmF0ZSBQYWludCBtVGV4dFJlY3RQYWludDsKICAgIHByaXZhdGUgaW50IG1NYXJrZXJXaWR0aDsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0KGNhbnZhcywgbWFya2VyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGFpbnQgbVRleHRSZWN0UGFpbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkcmF3SW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtTWFya2VyV2lkdGggPSAoaW50KSBnZXRSZXNvdXJjZXMoKS5nZXREaW1lbnNpb24oUi5kaW1lbi5tYXJrZXJfd2lkdGgpOwogICAgICAgIG1NYXJrZXJIZWlnaHQgPSAoaW50KSBnZXRSZXNvdXJjZXMoKS5nZXREaW1lbnNpb24oUi5kaW1lbi5tYXJrZXJfd2lkdGgpOwogICAgICAgIG1UaXRsZUJvdHRvbU1hcmdpbiA9IChpbnQpIGdldFJlc291cmNlcygpLmdldERpbWVuc2lvbihSLmRpbWVuLm1hcmtlcl90ZXh0X2JvdHRvbV9tYXJnaW4pOwogICAgICAgIG1UZXh0Q29sb3IgPSBDb250ZXh0Q29tcGF0LmdldENvbG9yKGdldENvbnRleHQoKSwgUi5jb2xvci5jb2xyX21hcmtlcl90ZXh0KTsKICAgICAgICBtVGV4dEJhY2tncm91bmRDb2xvciA9IENvbnRleHRDb21wYXQuZ2V0Q29sb3IoZ2V0Q29udGV4dCgpLCBSLmNvbG9yLm1hcmtlcl90ZXh0X2JhY2tncm91bmRfY29sb3IpOwoK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGFpbnQgbVRpbnRQYWludDsKICAgIHByaXZhdGUgUGFpbnQgbVRpbnRQYWludFNlbGVjdGVkOwogICAgcHJpdmF0ZSBQYWludCBtVGV4dFJlY3RQYWludDsKICAgIHByaXZhdGUgVGV4dFBhaW50IG1UZXh0UGFpbnQ7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -890,25 +890,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1UZXh0QmFja2dyb3VuZENvbG9yOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGFpbnQgbVRpbnRQYWludDsKICAgIHByaXZhdGUgUGFpbnQgbVRpbnRQYWludFNlbGVjdGVkOwogICAgcHJpdmF0ZSBQYWludCBtVGV4dFJlY3RQYWludDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtVGV4dENvbG9yID0gKGludCkgZ2V0UmVzb3VyY2VzKCkuZ2V0Q29sb3IoUi5jb2xvci5tYXJrZXJfdGV4dF9jb2xvcik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGFpbnQgbVRpbnRQYWludFNlbGVjdGVkOwogICAgcHJpdmF0ZSBQYWludCBtVGV4dFJlY3RQYWludDsKICAgIHByaXZhdGUgaW50IG1NYXJrZXJXaWR0aDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtVGV4dFJlY3RQYWludC5zZXRDb2xvcgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGFpbnQgbVRleHRSZWN0UGFpbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0UmVjdC5vZmZzZXQoMCwgLXRleHRSZWN0LnRvcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtTWFya2VyV2lkdGggPSAoaW50KSBnZXRSZXNvdXJjZXMoKS5nZXREaW1lbnNpb24oUi5kaW1lbi5tYXJrZXJfd2lkdGgpOwogICAgICAgIG1NYXJrZXJIZWlnaHQgPSAoaW50KSBnZXRSZXNvdXJjZXMoKS5nZXREaW1lbnNpb24oUi5kaW1lbi5tYXJrZXJfd2lkdGgpOwogICAgICAgIG1UaXRsZUJvdHRvbU1hcmdpbiA9IChpbnQpIGdldFJlc291cmNlcygpLmdldERpbWVuc2lvbihSLmRpbWVuLm1hcmtlcl90ZXh0X2JvdHRvbV9tYXJnaW4pOwogICAgICAgIG1UZXh0Q29sb3IgPSBDb250ZXh0Q29tcGF0LmdldENvbG9yKGdldENvbnRleHQoKSwgUi5jb2xvci5jb2xyX21hcmtlcl90ZXh0KTsKICAgICAgICBtVGV4dEJhY2tncm91bmRDb2xvciA9IENvbnRleHRDb21wYXQuZ2V0Q29sb3IoZ2V0Q29udGV4dCgpLCBSLmNvbG9yLm1hcmtlcl90ZXh0X2JhY2tncm91bmRfY29sb3IpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>0x</last-search>
+      <last-search>Some</last-search>
       <last-offset />
-      <last-pattern>0x</last-pattern>
+      <last-pattern>Some</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Lon</last-substitute>
       <last-dir>1</last-dir>
@@ -916,8 +916,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onUpdate</entry>
-        <entry>Update</entry>
         <entry>onItemU</entry>
         <entry>updateI</entry>
         <entry>start</entry>
@@ -936,6 +934,8 @@
         <entry>addMarker</entry>
         <entry>rect.set</entry>
         <entry>0x</entry>
+        <entry>Some T</entry>
+        <entry>Some</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
