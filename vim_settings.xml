@@ -45,7 +45,7 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1485228226422">
+      <file name="/a.dummy" timestamp="1485267675427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/drawable/answer_radio_button_unselected.xml" timestamp="1484964792025">
@@ -218,6 +218,11 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/form/data/AnswerCache.java" timestamp="1485267844048">
+        <mark key="a" line="89" column="34" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="93" column="28" />
+      </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/drawable-hdpi/xxx_unselected.xml" timestamp="1484070083818">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="32" />
@@ -286,7 +291,8 @@
         <mark key="." line="17" column="65" />
         <mark key="^" line="17" column="65" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" timestamp="1485265740194">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" timestamp="1485267664649">
+        <mark key="a" line="432" column="0" />
         <mark key="'" line="423" column="42" />
         <mark key="[" line="430" column="52" />
         <mark key="]" line="431" column="49" />
@@ -899,7 +905,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAwIG9yIG1vcmUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2hhcmVkUHJlZmVyZW5jZXMgc2hhcmVkUHJlZmVyZW5jZXMgPSBQcmVmZXJlbmNlTWFuYWdlcgogICAgICAgICAgICAgICAgICAgIC5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgICAgIFNoYXJlZFByZWZlcmVuY2VzLkVkaXRvciBlZGl0b3IgPSBzaGFyZWRQcmVmZXJlbmNlcy5lZGl0KCk7CiAgICAgICAgICAgIGVkaXRvci5wdXRTdHJpbmcoQU5TV0VSX0NBQ0hFLCBtYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHJlcykpOwogICAgICAgICAgICBlZGl0b3IuY29tbWl0KCk7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1082,10 +1088,10 @@
         <text>may contain</text>
       </register>
       <register name="/" type="4">
-        <text>allRequiredQ</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2hhcmVkUHJlZmVyZW5jZXMgc2hhcmVkUHJlZmVyZW5jZXMgPSBQcmVmZXJlbmNlTWFuYWdlcgogICAgICAgICAgICAgICAgICAgIC5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7CiAgICAgICAgICAgIFNoYXJlZFByZWZlcmVuY2VzLkVkaXRvciBlZGl0b3IgPSBzaGFyZWRQcmVmZXJlbmNlcy5lZGl0KCk7CiAgICAgICAgICAgIGVkaXRvci5wdXRTdHJpbmcoQU5TV0VSX0NBQ0hFLCBtYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHJlcykpOwogICAgICAgICAgICBlZGl0b3IuY29tbWl0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyAwIG9yIG1vcmUgCg==</text>
@@ -1130,17 +1136,16 @@
       </register>
     </registers>
     <search>
-      <last-search>allRequiredQ</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>allRequiredQ</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Lon</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fetchData</entry>
         <entry>bindViews</entry>
         <entry>:15</entry>
         <entry>&quot;topic&quot;:15</entry>
@@ -1160,6 +1165,7 @@
         <entry encoding="base64">XDxnZXRUb3BpY0lkVmVyc2lvbklkXD4=</entry>
         <entry>VersionId</entry>
         <entry>allRequiredQ</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
