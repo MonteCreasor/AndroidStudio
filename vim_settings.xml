@@ -793,14 +793,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerTextAreaView.java" timestamp="1485406162514">
-        <mark key="a" line="197" column="66" />
-        <mark key="'" line="0" column="0" />
-        <mark key="j" line="295" column="6" />
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="197" column="66" />
-        <mark key="." line="197" column="66" />
-        <mark key="^" line="197" column="66" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerTextAreaView.java" timestamp="1485407640002">
+        <mark key="'" line="141" column="24" />
+        <mark key="j" line="312" column="6" />
+        <mark key="[" line="164" column="23" />
+        <mark key="]" line="155" column="21" />
+        <mark key="^" line="155" column="21" />
+        <mark key="." line="155" column="21" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/IndicatorView.java" timestamp="1484947862528">
         <mark key="[" line="68" column="44" />
@@ -891,11 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="22" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/form/data/Answer.java" />
-      <jump line="57" column="15" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/form/data/Answer.java" />
-      <jump line="125" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/form/data/Answer.java" />
-      <jump line="359" column="43" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
-      <jump line="79" column="13" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
       <jump line="182" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
       <jump line="147" column="33" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/form/data/Answer.java" />
       <jump line="7" column="31" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/form/data/Answer.java" />
@@ -991,10 +985,15 @@
       <jump line="130" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerEditTextView.java" />
       <jump line="197" column="66" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerTextAreaView.java" />
       <jump line="0" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerTextAreaView.java" />
+      <jump line="140" column="20" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerTextAreaView.java" />
+      <jump line="240" column="52" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerTextAreaView.java" />
+      <jump line="158" column="48" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerTextAreaView.java" />
+      <jump line="160" column="36" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerTextAreaView.java" />
+      <jump line="144" column="24" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerTextAreaView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBLZWVwIHRyYWNrIG9mIGNsaWNrcyB0byBoYW5kbGUgY2xlYXJpbmcgdGhlIGNoZWNrIGJveAogICAgICAgICAgICAgICAgICAgIC8vIGlmIG9uZSBleGlzdHMuCiAgICAgICAgICAgICAgICAgICAgdmlldy5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IE9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soVmlldyB2aWV3KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBbnN3ZXJDb250YWluZXIgYW5zd2VyQ29udGFpbmVyID0gKEFuc3dlckNvbnRhaW5lcil2aWV3OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGFuc3dlckNvbnRhaW5lci5oYXNBbnN3ZXIoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1dHRvbkFuc3dlckNvbnRhaW5lci5yZXNldCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1174,31 +1173,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>answerContainer</text>
       </register>
       <register name="/" type="4">
-        <text>EditV</text>
+        <text>onCl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidXR0b25BbnN3ZXJDb250YWluZXIucmVzZXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBLZWVwIHRyYWNrIG9mIGNsaWNrcyB0byBoYW5kbGUgY2xlYXJpbmcgdGhlIGNoZWNrIGJveAogICAgICAgICAgICAgICAgICAgIC8vIGlmIG9uZSBleGlzdHMuCiAgICAgICAgICAgICAgICAgICAgdmlldy5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IE9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soVmlldyB2aWV3KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBbnN3ZXJDb250YWluZXIgYW5zd2VyQ29udGFpbmVyID0gKEFuc3dlckNvbnRhaW5lcil2aWV3OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGFuc3dlckNvbnRhaW5lci5oYXNBbnN3ZXIoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1dHRvbkFuc3dlckNvbnRhaW5lci5yZXNldCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuc3dlckJ1dHRvblZpZXcgYW5zd2VyQnV0dG9uVmlldyA9IChBbnN3ZXJCdXR0b25WaWV3KSBhbnN3ZXJDb250YWluZXIuZ2V0VmlldygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL2J1cy5wb3N0KG5ldyBBbnN3ZXJDb21wbGV0ZWRFdmVudChhbnN3ZXJDb250YWluZXIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBidXMgcG9zdCBmb3IgdGhlIGJ1dHRvbi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBkaXNhYmxlZCBieSBpbnN0YWxsaW5nIHRoaXMgY3VzdG9tIGxpc3RlbmVyLCBkbyB0aGUK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1209,25 +1208,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBTaW5jZSB0aGUgYnV0dG9uJ3MgZGVmYXVsdCBvbkNsaWNrKCkgaGFuZGxpbmcgaGFzIGJlZW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBbnN3ZXJCdXR0b25WaWV3IHZpZXcgPSAoQW5zd2VyQnV0dG9uVmlldylhbnN3ZXJDb250YWluZXIuZ2V0VmlldygpOwogICAgICAgIHZpZXcuc2V0T25DaGVja2VkQ2hhbmdlTGlzdGVuZXIobUNoaWxkT25DaGVja2VkQ2hhbmdlTGlzdGVuZXIpOwoKICAgICAgICAvLyBDaGVja2luZyBsb2dpYyBmb3IgcmFkaW8gYnV0dG9ucyByZXF1aXJlcwogICAgICAgIC8vIHZpZXdzIHRvIGhhdmUgdW5pcXVlIElEcy4KICAgICAgICBpZiAodmlldy5nZXRJZCgpIDwgMCkgewogICAgICAgICAgICB2aWV3LnNldElkKFZpZXdVdGlscy5nZW5lcmF0ZVZpZXdJZCgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5zd2VyQnV0dG9uVmlldyB2aWV3ID0gKEFuc3dlckJ1dHRvblZpZXcpYW5zd2VyQ29udGFpbmVyLmdldFZpZXcoKTsKICAgICAgICAgICAgdmlldy5zZXRPbkNoZWNrZWRDaGFuZ2VMaXN0ZW5lcihtQ2hpbGRPbkNoZWNrZWRDaGFuZ2VMaXN0ZW5lcik7CgogICAgICAgICAgICAgICAgLy8gQ2hlY2tpbmcgbG9naWMgZm9yIHJhZGlvIGJ1dHRvbnMgcmVxdWlyZXMKICAgICAgICAgICAgICAgIC8vIHZpZXdzIHRvIGhhdmUgdW5pcXVlIElEcy4KICAgICAgICAgICAgICAgIGlmICh2aWV3LmdldElkKCkgPCAwKSB7CiAgICAgICAgICAgICAgICAgICAgdmlldy5zZXRJZChWaWV3VXRpbHMuZ2VuZXJhdGVWaWV3SWQoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIEFuc3dlckNvbnRhaW5lciBlZGl0VEV4dGFuc3dlckNvbnRhaW5lcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuc3dlckJ1dHRvblZpZXcK</text>
+        <text encoding="base64">ICAgIC8vIFJlZmVyZW5jZSB0byB0aGUgY3JlYXRlZCBFZGl0VGV4dCBjb250YWluZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>EditV</last-search>
+      <last-search>onCl</last-search>
       <last-offset />
-      <last-pattern>EditV</last-pattern>
+      <last-pattern>onCl</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Lon</last-substitute>
       <last-dir>1</last-dir>
@@ -1235,7 +1234,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">RGlkIHlvdSA=</entry>
         <entry>did you ex</entry>
         <entry>null</entry>
         <entry>ect&quot;: true</entry>
@@ -1255,6 +1253,7 @@
         <entry>finish</entry>
         <entry>bindV</entry>
         <entry>EditV</entry>
+        <entry>onCl</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
