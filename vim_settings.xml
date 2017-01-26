@@ -228,12 +228,12 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/fragment_topics.xml" timestamp="1485369407205">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/fragment_topics.xml" timestamp="1485384761698">
         <mark key="a" line="19" column="15" />
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="36" />
-        <mark key="^" line="14" column="45" />
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="31" column="36" />
+        <mark key="." line="31" column="36" />
+        <mark key="^" line="31" column="36" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/drawable-hdpi/xxx_default.xml" timestamp="1484070144394">
         <mark key="[" line="2" column="34" />
@@ -421,13 +421,11 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionView.java" timestamp="1485383810996">
-        <mark key="a" line="136" column="38" />
-        <mark key="'" line="132" column="41" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="^" line="209" column="44" />
-        <mark key="." line="210" column="0" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionView.java" timestamp="1485384922611">
+        <mark key="[" line="214" column="12" />
+        <mark key="]" line="214" column="12" />
+        <mark key="^" line="214" column="12" />
+        <mark key="." line="214" column="12" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/drawable/radio_button_unselected.xml" timestamp="1484962829473">
         <mark key="[" line="0" column="38" />
@@ -924,9 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="47" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
-      <jump line="313" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
-      <jump line="387" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
       <jump line="404" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
       <jump line="288" column="26" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
       <jump line="293" column="17" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
@@ -1024,10 +1019,13 @@
       <jump line="176" column="30" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/qs_latest" />
       <jump line="389" column="20" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/qs_latest" />
       <jump line="623" column="20" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/qs_latest" />
+      <jump line="208" column="46" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionView.java" />
+      <jump line="209" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionView.java" />
+      <jump line="213" column="41" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRCdXR0b24uc2V0T25DbGlja0xpc3RlbmVyKG51bGwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>!getSchema().isMultiSelect()) {</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1207,31 +1205,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>VISIBLE</text>
+        <text>!getSchema().isMultiSelect()) {</text>
       </register>
       <register name="/" type="4">
-        <text>ect&quot;: true</text>
+        <text>VISIBLE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRCdXR0b24uc2V0VmlzaWJpbGl0eShWSVNJQkxFKTsKICAgICAgICAgICAgICAgIG5leHRCdXR0b24uc2V0T25DbGlja0xpc3RlbmVyKG5ldyBPbkNsaWNrTGlzdGVuZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWdldFNjaGVtYSgpLmlzTXVsdGlTZWxlY3QoKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRCdXR0b24uc2V0T25DbGlja0xpc3RlbmVyKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFnZXRTY2hlbWEoKS5pc011bHRpU2VsZWN0KCkpIHsKICAgICAgICAgICAgICAgIG5leHRCdXR0b24uc2V0VmlzaWJpbGl0eShHT05FKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIE11bHRpLXNlbGVjdCByZXF1aXJlcyBhIG5leHQgYnV0dG9uIGZvciB1c2VyIHRvCiAgICAgICAgICAgICAgICAvLyBuYXZpZ2F0ZSB0byB0aGUgbmV4dCBxdWVzdGlvbi4KICAgICAgICAgICAgICAgIG5leHRCdXR0b24uc2V0VmlzaWJpbGl0eShWSVNJQkxFKTsKICAgICAgICAgICAgICAgIG5leHRCdXR0b24uc2V0T25DbGlja0xpc3RlbmVyKG5ldyBPbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gU2VlIGlmIHRoaXMgY29udGFpbmVyIGhhcyBhIGNvbmRpdGlvbmFsIGNoaWxkLgogICAgICAgICAgICAgICAgICAgICAgICBBbnN3ZXJDb250YWluZXIgY29uZGl0aW9uYWxBbnN3ZXIgPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFuc3dlckNvbnRhaW5lckhlbHBlci5maW5kQ29uZGl0aW9uYWxBbnN3ZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBRdWVzdGlvblZpZXcudGhpcyk7CgogICAgICAgICAgICAgICAgICAgICAgICBpZiAoY29uZGl0aW9uYWxBbnN3ZXIgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gUXVlc3Rpb24gZG9lc24ndCBoYXZlIGEgY29uZGl0aW9uYWwgc28gZW5kIHRoZSBxdWVzdGlvbi4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1cy5wb3N0KG5ldyBRdWVzdGlvbkNvbXBsZXRlZEV2ZW50KFF1ZXN0aW9uVmlldy50aGlzKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoY29uZGl0aW9uYWxBbnN3ZXIuaGFzQW5zd2VyKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIENvbmRpdGlvbmFsIHdhcyBjbGlja2VkIHNvIGdvdG8gbmV4dCBxdWVzdGlvbi4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1cy5wb3N0KG5ldyBRdWVzdGlvbkNvbXBsZXRlZEV2ZW50KFF1ZXN0aW9uVmlldy50aGlzKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBDb25kaXRpb25hbCB3YXMgbm90IGNsaWNrZWQsIHNvIHNraXAgYWxsIHN1YnNlcXVlbnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHF1ZXN0aW9ucyBpbiB0aGlzIHRvcGljLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVzLnBvc3QobmV3IFRvcGljQ29tcGxldGVkRXZlbnQoUXVlc3Rpb25WaWV3LnRoaXMpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFnZXRTY2hlbWEoKS5pc011bHRpU2VsZWN0KCkpIHsKICAgICAgICAgICAgICAgIG5leHRCdXR0b24uc2V0VmlzaWJpbGl0eShHT05FKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIE11bHRpLXNlbGVjdCByZXF1aXJlcyBhIG5leHQgYnV0dG9uIGZvciB1c2VyIHRvCiAgICAgICAgICAgICAgICAvLyBuYXZpZ2F0ZSB0byB0aGUgbmV4dCBxdWVzdGlvbi4KICAgICAgICAgICAgICAgIG5leHRCdXR0b24uc2V0VmlzaWJpbGl0eShWSVNJQkxFKTsKICAgICAgICAgICAgICAgIG5leHRCdXR0b24uc2V0T25DbGlja0xpc3RlbmVyKG5ldyBPbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gU2VlIGlmIHRoaXMgY29udGFpbmVyIGhhcyBhIGNvbmRpdGlvbmFsIGNoaWxkLgogICAgICAgICAgICAgICAgICAgICAgICBBbnN3ZXJDb250YWluZXIgY29uZGl0aW9uYWxBbnN3ZXIgPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFuc3dlckNvbnRhaW5lckhlbHBlci5maW5kQ29uZGl0aW9uYWxBbnN3ZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBRdWVzdGlvblZpZXcudGhpcyk7CgogICAgICAgICAgICAgICAgICAgICAgICBpZiAoY29uZGl0aW9uYWxBbnN3ZXIgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gUXVlc3Rpb24gZG9lc24ndCBoYXZlIGEgY29uZGl0aW9uYWwgc28gZW5kIHRoZSBxdWVzdGlvbi4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1cy5wb3N0KG5ldyBRdWVzdGlvbkNvbXBsZXRlZEV2ZW50KFF1ZXN0aW9uVmlldy50aGlzKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoY29uZGl0aW9uYWxBbnN3ZXIuaGFzQW5zd2VyKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIENvbmRpdGlvbmFsIHdhcyBjbGlja2VkIHNvIGdvdG8gbmV4dCBxdWVzdGlvbi4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1cy5wb3N0KG5ldyBRdWVzdGlvbkNvbXBsZXRlZEV2ZW50KFF1ZXN0aW9uVmlldy50aGlzKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBDb25kaXRpb25hbCB3YXMgbm90IGNsaWNrZWQsIHNvIHNraXAgYWxsIHN1YnNlcXVlbnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHF1ZXN0aW9ucyBpbiB0aGlzIHRvcGljLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnVzLnBvc3QobmV3IFRvcGljQ29tcGxldGVkRXZlbnQoUXVlc3Rpb25WaWV3LnRoaXMpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwYW5kZWRWaWV3Lgo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgc2hvd0RvbmVCdXR0b24oYm9vbGVhbiBiKSB7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgYW5kIGJpbmQK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgc2hvd0RvbmVCdXR0b24oYm9vbGVhbiBiKSB7CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dEJ1dHRvbi5zZXRWaXNpYmlsaXR5KFZJU0lCTEUpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1242,25 +1240,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU2luY2UgdGhlIHF1ZXN0aW9uIGlzIGFuc3dlcmVkLCBzaG93IHRoZSBuZXh0IGJ1dHRvbgogICAgICAgICAgICAvLyBzbyB0aGF0IHRoZSB1c2VyIGlzIG5vdCBmb3JjZWQgdG8gYW5zd2VyIHRoaXMgcXVlc3Rpb24KICAgICAgICAgICAgLy8gYWdhaW4gc2ltcGx5IHRvIG5hdmlnYXRlIHRvIHRoZSBuZXh0IHF1ZXN0aW9uLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIDxBPiBBIHJlY3Vyc2l2ZVNlYXJjaChpbnQgaWQsIGludCB2ZXJzaW9uSWQsIEEgYW5zd2VyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRCdXR0b24uc2V0T25DbGlja0xpc3RlbmVyKG51bGwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwYW5kZWRWaWV3Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>ect&quot;: true</last-search>
+      <last-search>VISIBLE</last-search>
       <last-offset />
-      <last-pattern>ect&quot;: true</last-pattern>
+      <last-pattern>VISIBLE</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Lon</last-substitute>
       <last-dir>1</last-dir>
@@ -1268,8 +1266,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bindView</entry>
-        <entry>onView</entry>
         <entry>@Sub</entry>
         <entry>onClick</entry>
         <entry>fetchD</entry>
@@ -1288,6 +1284,8 @@
         <entry>did you ex</entry>
         <entry>null</entry>
         <entry>ect&quot;: true</entry>
+        <entry>nextButton.setVi</entry>
+        <entry>VISIBLE</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
