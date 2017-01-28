@@ -326,12 +326,12 @@
         <mark key="." line="17" column="65" />
         <mark key="^" line="17" column="65" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" timestamp="1485616914786">
-        <mark key="'" line="364" column="12" />
-        <mark key="[" line="274" column="16" />
-        <mark key="]" line="274" column="26" />
-        <mark key="^" line="274" column="26" />
-        <mark key="." line="274" column="26" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" timestamp="1485617864378">
+        <mark key="'" line="457" column="34" />
+        <mark key="[" line="456" column="29" />
+        <mark key="]" line="456" column="34" />
+        <mark key="^" line="456" column="34" />
+        <mark key="." line="456" column="34" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/test.xml" timestamp="1483932679272">
         <mark key="[" line="30" column="40" />
@@ -370,12 +370,12 @@
         <mark key="^" line="82" column="9" />
         <mark key="." line="82" column="9" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerCache.java" timestamp="1485616829289">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerCache.java" timestamp="1485617377729">
         <mark key="'" line="84" column="52" />
-        <mark key="[" line="84" column="52" />
-        <mark key="]" line="84" column="53" />
-        <mark key="." line="84" column="53" />
-        <mark key="^" line="81" column="79" />
+        <mark key="[" line="47" column="7" />
+        <mark key="]" line="47" column="7" />
+        <mark key="." line="47" column="7" />
+        <mark key="^" line="47" column="7" />
       </file>
       <file name="$USER_HOME$/android/vandy/aad/mooc4/Assignment1/app/src/test/java/vandy/mooc/testingandsecurity/assignment1/CommandBuilderTest.java" timestamp="1484421009715">
         <mark key="[" line="52" column="0" />
@@ -916,8 +916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="22" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerButtonView.java" />
-      <jump line="49" column="34" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionView.java" />
       <jump line="130" column="13" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionView.java" />
       <jump line="203" column="29" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/qs_latest" />
       <jump line="0" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/qs_latest" />
@@ -1016,10 +1014,12 @@
       <jump line="340" column="25" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
       <jump line="360" column="17" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
       <jump line="364" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
+      <jump line="455" column="50" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
+      <jump line="457" column="34" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/QuestionsFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXMoY29udGV4dCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>topicAnswer</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1199,10 +1199,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>).edit();</text>
+        <text>topicAnswer</text>
       </register>
       <register name="/" type="4">
-        <text>setTopicAns</text>
+        <text>questionSet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpc1NhbWVEYXkobG9uZyB0aW1lc3RhbXAxLCBsb25nIHRpbWVzdGFtcDIpIHsKICAgICAgICBDYWxlbmRhciBjYWxlbmRhcjEgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpOwogICAgICAgIGNhbGVuZGFyMS5zZXRUaW1lSW5NaWxsaXModGltZXN0YW1wMSk7CiAgICAgICAgQ2FsZW5kYXIgY2FsZW5kYXIyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgICAgICBjYWxlbmRhcjIuc2V0VGltZUluTWlsbGlzKHRpbWVzdGFtcDIpOwoKICAgICAgICByZXR1cm4gY2FsZW5kYXIxLmdldChDYWxlbmRhci5ZRUFSKSA9PSBjYWxlbmRhcjIuZ2V0KENhbGVuZGFyLllFQVIpCiAgICAgICAgICAgICAgICAmJiBjYWxlbmRhcjEuZ2V0KENhbGVuZGFyLk1PTlRIKSA9PSBjYWxlbmRhcjIuZ2V0KENhbGVuZGFyLk1PTlRIKQogICAgICAgICAgICAgICAgJiYgY2FsZW5kYXIxLmdldChDYWxlbmRhci5EQVlfT0ZfTU9OVEgpID09IGNhbGVuZGFyMi5nZXQoQ2FsZW5kYXIuREFZX09GX01PTlRIKTsKICAgIH0KCg==</text>
@@ -1245,9 +1245,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setTopicAns</last-search>
+      <last-search>questionSet</last-search>
       <last-offset />
-      <last-pattern>setTopicAns</last-pattern>
+      <last-pattern>questionSet</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Lon</last-substitute>
       <last-dir>1</last-dir>
@@ -1255,9 +1255,6 @@
     </search>
     <history>
       <history-search>
-        <entry>topicId</entry>
-        <entry>&quot;topicId&quot;: 30</entry>
-        <entry encoding="base64">InRvcGljSWQiOiA=</entry>
         <entry>9931</entry>
         <entry>153</entry>
         <entry>0153</entry>
@@ -1275,6 +1272,9 @@
         <entry>PreferenceMan</entry>
         <entry>restore</entry>
         <entry>setTopicAns</entry>
+        <entry>getAnswers</entry>
+        <entry>getAns</entry>
+        <entry>questionSet</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
