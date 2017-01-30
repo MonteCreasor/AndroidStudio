@@ -870,13 +870,13 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/IndicatorView.java" timestamp="1485805762107">
-        <mark key="a" line="360" column="43" />
-        <mark key="'" line="373" column="38" />
-        <mark key="[" line="360" column="48" />
-        <mark key="]" line="360" column="48" />
-        <mark key="." line="360" column="48" />
-        <mark key="^" line="354" column="52" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/IndicatorView.java" timestamp="1485805903762">
+        <mark key="a" line="361" column="43" />
+        <mark key="'" line="377" column="38" />
+        <mark key="[" line="357" column="21" />
+        <mark key="]" line="357" column="21" />
+        <mark key="." line="357" column="21" />
+        <mark key="^" line="357" column="20" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/TextAreaView.java" timestamp="1484892445524">
         <mark key="[" line="37" column="0" />
@@ -934,8 +934,8 @@
         <mark key="^" line="55" column="64" />
         <mark key="." line="44" column="14" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/friday" timestamp="1485801528949">
-        <mark key="'" line="766" column="29" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/friday" timestamp="1485806552250">
+        <mark key="'" line="733" column="16" />
         <mark key="[" line="796" column="3" />
         <mark key="]" line="796" column="3" />
         <mark key="^" line="797" column="0" />
@@ -981,8 +981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionView.java" />
-      <jump line="65" column="25" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionView.java" />
       <jump line="314" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionView.java" />
       <jump line="212" column="17" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionView.java" />
       <jump line="27" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/QuestionRadioGridView.java" />
@@ -1081,10 +1079,12 @@
       <jump line="360" column="43" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/IndicatorView.java" />
       <jump line="367" column="18" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/IndicatorView.java" />
       <jump line="373" column="38" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/IndicatorView.java" />
+      <jump line="479" column="13" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/friday" />
+      <jump line="733" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/friday" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KSA=</text>
+        <text>a</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1264,10 +1264,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSA=</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>fraction</text>
+        <text>conditional</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmltYXRvci5hZGRMaXN0ZW5lcihuZXcgQW5pbWF0b3JMaXN0ZW5lckFkYXB0ZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFuaW1hdGlvblN0YXJ0KEFuaW1hdG9yIGFuaW1hdGlvbikgewogICAgICAgICAgICAgICAgYW5pbWF0ZVNlbGVjdCA9IHRydWU7CiAgICAgICAgICAgICAgICBzdXBlci5vbkFuaW1hdGlvblN0YXJ0KGFuaW1hdGlvbik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFuaW1hdGlvbkVuZChBbmltYXRvciBhbmltYXRpb24pIHsKICAgICAgICAgICAgICAgIGFuaW1hdGVTZWxlY3QgPSBmYWxzZTsKICAgICAgICAgICAgICAgIHNldFNlbGVjdGVkKHNlbGVjdCk7CiAgICAgICAgICAgICAgICBpbnZhbGlkYXRlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
@@ -1310,9 +1310,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fraction</last-search>
+      <last-search>conditional</last-search>
       <last-offset />
-      <last-pattern>fraction</last-pattern>
+      <last-pattern>conditional</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Lon</last-substitute>
       <last-dir>1</last-dir>
@@ -1320,8 +1320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showDonw</entry>
-        <entry>showDone</entry>
         <entry>showNextB</entry>
         <entry>navTo</entry>
         <entry>navigateTo</entry>
@@ -1340,6 +1338,8 @@
         <entry>drawLine</entry>
         <entry>animator</entry>
         <entry>fraction</entry>
+        <entry>Insulin</entry>
+        <entry>conditional</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
