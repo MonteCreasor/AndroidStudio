@@ -691,6 +691,9 @@
         <mark key="." line="191" column="64" />
         <mark key="^" line="191" column="66" />
       </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/views/AnswerButtonView.java" timestamp="1485971565129">
+        <mark key="'" line="305" column="34" />
+      </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/AnswerRadioButtonView.java" timestamp="1485400431203">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -1024,7 +1027,7 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1485925380271">
+      <file name="/fragment.java" timestamp="1485971513910">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
@@ -1032,7 +1035,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="11" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/TodayFragment.java" />
       <jump line="113" column="11" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/TodayFragment.java" />
       <jump line="128" column="11" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/TodayFragment.java" />
       <jump line="135" column="11" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/fragments/TodayFragment.java" />
@@ -1132,6 +1134,7 @@
       <jump line="159" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/views/AnswerContainers/TopicView.java" />
       <jump line="146" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/views/AnswerContainers/QuestionView.java" />
       <jump line="148" column="15" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/views/AnswerContainers/QuestionView.java" />
+      <jump line="305" column="34" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/views/AnswerButtonView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1318,7 +1321,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>onClick</text>
+        <text>bus.post</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChhbGxSZXF1aXJlZFF1ZXN0aW9uc0Fuc3dlcmVkKCkpIHsKICAgICAgICAgICAgICAgIC8vIFNjcm9sbCB0aGUgc3VibWl0IGJ1dHRvbiBpbnRvIGZ1bGwgdmlldy4KICAgICAgICAgICAgICAgIHVwZGF0ZVN1Ym1pdEJ1dHRvblN0YXRlKCk7CiAgICAgICAgICAgICAgICBzbW9vdGhTY3JvbGxJbnRvRnVsbFZpZXcoc3VibWl0QnV0dG9uKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KAogICAgICAgICAgICAgICAgICAgICAgICBnZXRDb250ZXh0KCksCiAgICAgICAgICAgICAgICAgICAgICAgIFIuc3RyaW5nLnF1ZXN0aW9uX3JlcXVpcmVkX3F1ZXN0aW9uc19ub3RfY29tcGxldGVkLAogICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsKICAgICAgICAgICAgICAgIC8vIE5hdmlnYXRlIHRvIHRoZSBmaXN0IHJlcXVpcmVkIHF1ZXN0aW9uLgogICAgICAgICAgICAgICAgbmF2aWdhdGVUb0ZpcnN0VW5hbnN3ZXJlZFF1ZXN0aW9uKGZhbHNlLCB0cnVlKTsKICAgICAgICAgICAgICAgIHVwZGF0ZVN1Ym1pdEJ1dHRvblN0YXRlKCk7CiAgICAgICAgICAgIH0K</text>
@@ -1361,9 +1364,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onClick</last-search>
+      <last-search>bus.post</last-search>
       <last-offset />
-      <last-pattern>onClick</last-pattern>
+      <last-pattern>bus.post</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Lon</last-substitute>
       <last-dir>1</last-dir>
@@ -1371,7 +1374,6 @@
     </search>
     <history>
       <history-search>
-        <entry>smoothScrollIntoFull</entry>
         <entry>28,</entry>
         <entry>Excersize</entry>
         <entry>Exersize</entry>
@@ -1391,6 +1393,7 @@
         <entry>updateSubmitB</entry>
         <entry>@S</entry>
         <entry>onClick</entry>
+        <entry>bus.post</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
