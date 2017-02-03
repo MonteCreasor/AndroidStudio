@@ -41,13 +41,13 @@
         <mark key="^" line="127" column="7" />
         <mark key="." line="127" column="7" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" timestamp="1486125764118">
-        <mark key="a" line="954" column="30" />
-        <mark key="'" line="940" column="15" />
-        <mark key="[" line="950" column="0" />
-        <mark key="]" line="950" column="57" />
-        <mark key="^" line="958" column="19" />
-        <mark key="." line="950" column="0" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" timestamp="1486129728269">
+        <mark key="a" line="931" column="30" />
+        <mark key="'" line="884" column="31" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="^" line="935" column="19" />
+        <mark key="." line="300" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/views/AnswerContainers/SchemaTopicException.java" timestamp="1485533005505">
         <mark key="[" line="11" column="0" />
@@ -450,7 +450,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486126299672">
+      <file name="/Dummy.txt" timestamp="1486129576981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1050,12 +1050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/TodayFragment.java" />
-      <jump line="185" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/TodayFragment.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/TodayFragment.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/TodayFragment.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/TodayFragment.java" />
-      <jump line="7" column="20" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/TodayFragment.java" />
       <jump line="171" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
       <jump line="238" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/views/AnswerButtonView.java" />
       <jump line="240" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/views/AnswerButtonView.java" />
@@ -1150,10 +1144,16 @@
       <jump line="945" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
       <jump line="944" column="49" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
       <jump line="940" column="15" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
+      <jump line="188" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
+      <jump line="182" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
+      <jump line="300" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
+      <jump line="390" column="27" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
+      <jump line="567" column="35" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
+      <jump line="884" column="31" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Jlc3VsdHNfbGF5b3V0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1336,40 +1336,40 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>finish</text>
+        <text>\.DEBUG</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Jlc3VsdHNfbGF5b3V0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRBY3Rpdml0eSgpLmJhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuc3dlckNhY2hlLmNsZWFyQ2FjaGVkVG9waWMoZ2V0Q29udGV4dCgpLCB0b3BpY0lkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluaXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLmRlYnVnX3NldHRpbmdzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRybwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiB0aGlzIG1lbnUgZG9lc24ndCBzaG93IHVwIGJlY2F1c2Ugb2YgdGhlIGN1c3RvbSBBcHBCYXIgLi4uIGZpeCBvciByZW1vdmUgaXQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbGV2YXRpb249IjNkcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0SGFzT3B0aW9uc01lbnUodHJ1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TGluZWFyTGF5b3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGRDb25maWcuREVCVUcpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1379,9 +1379,9 @@
       </register>
     </registers>
     <search>
-      <last-search>finish</last-search>
+      <last-search>\.DEBUG</last-search>
       <last-offset />
-      <last-pattern>finish</last-pattern>
+      <last-pattern>\.DEBUG</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Lon</last-substitute>
       <last-dir>1</last-dir>
@@ -1389,7 +1389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry>updateCompleted</entry>
         <entry>unable</entry>
         <entry>setEnabled</entry>
@@ -1409,6 +1408,7 @@
         <entry>startActiv</entry>
         <entry>startActivity</entry>
         <entry>finish</entry>
+        <entry>\.DEBUG</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
