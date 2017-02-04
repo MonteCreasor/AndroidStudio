@@ -570,12 +570,12 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" timestamp="1486232699064">
-        <mark key="a" line="324" column="8" />
-        <mark key="'" line="324" column="8" />
-        <mark key="[" line="327" column="0" />
-        <mark key="]" line="327" column="0" />
-        <mark key="." line="327" column="0" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" timestamp="1486234224484">
+        <mark key="'" line="329" column="8" />
+        <mark key="[" line="331" column="70" />
+        <mark key="]" line="331" column="71" />
+        <mark key="." line="331" column="71" />
+        <mark key="^" line="331" column="71" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/utils/Debug.java" timestamp="1485894510363">
         <mark key="[" line="13" column="42" />
@@ -588,6 +588,13 @@
         <mark key="]" line="35" column="0" />
         <mark key="^" line="21" column="2" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/utils/ViewUtils.java" timestamp="1486233715118">
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="228" column="9" />
+        <mark key="]" line="228" column="8" />
+        <mark key="." line="228" column="8" />
+        <mark key="^" line="228" column="8" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/utils/ColorUtils.java" timestamp="1486116114269">
         <mark key="[" line="55" column="0" />
@@ -1147,7 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="54" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
       <jump line="217" column="24" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
       <jump line="59" column="42" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
       <jump line="103" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
@@ -1247,10 +1253,11 @@
       <jump line="18" column="33" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/views/ViewSwapper.java" />
       <jump line="10" column="22" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/views/ViewSwapper.java" />
       <jump line="317" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/utils/ViewUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Jvc3NGYWRlKGltYWdlVmlldyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1430,46 +1437,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mContentView</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>ViewFlipper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYXJBbmltYXRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBEcmF3YWJsZSBjdXJyZW50RHJhd2FibGUgPSBpbWFnZVZpZXcuZ2V0RHJhd2FibGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Jvc3NGYWRlKGltYWdlVmlldyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VWaWV3LnNldEltYWdlRHJhd2FibGUoCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBEcmF3YWJsZVtdIGxheWVycyA9IG5ldyBEcmF3YWJsZVsyXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRHJhd2FibGUgY3VycmVudERyYXdhYmxlID0gaW1hZ2VWaWV3LmdldERyYXdhYmxlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHJhbnNpdGlvbkRyYXdhYmxlIHRyYW5zaXRpb25EcmF3YWJsZSA9IChUcmFuc2l0aW9uRHJhd2FibGUpY3VycmVudERyYXdhYmxlOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUxvYWRpbmdWaWV3LnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFuaW1hdGlvbkVuZChBbmltYXRvciBhbmltYXRpb24pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRMaXN0ZW5lcihuZXcgQW5pbWF0b3JMaXN0ZW5lckFkYXB0ZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2l0aW9uRHJhd2FibGUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
