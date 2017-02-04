@@ -564,12 +564,12 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" timestamp="1486169664578">
-        <mark key="'" line="142" column="8" />
-        <mark key="[" line="328" column="9" />
-        <mark key="]" line="328" column="10" />
-        <mark key="." line="328" column="10" />
-        <mark key="^" line="328" column="10" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" timestamp="1486171057863">
+        <mark key="'" line="235" column="24" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="92" column="11" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/utils/Debug.java" timestamp="1485894510363">
         <mark key="[" line="13" column="42" />
@@ -1142,10 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="77" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
-      <jump line="266" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
-      <jump line="98" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
-      <jump line="144" column="40" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
       <jump line="146" column="37" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
       <jump line="245" column="37" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
       <jump line="268" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
@@ -1242,10 +1238,14 @@
       <jump line="151" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/utils/PermissionRequest.java" />
       <jump line="155" column="24" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/utils/PermissionRequest.java" />
       <jump line="174" column="24" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/utils/PermissionRequest.java" />
+      <jump line="262" column="20" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
+      <jump line="249" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
+      <jump line="88" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
+      <jump line="201" column="24" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50cmFuc2l0aW9uLlRyYW5zaXRpb25Qb3J0Owo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1425,55 +1425,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>mActivity</text>
+        <text>checkAuth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG1QZXJtaXNzaW9ucyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICAiUGVybWlzc2lvbnMgaGF2ZSBhbHJlYWR5IGJlZW4gc2V0LiIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9dXBkYXRlQ29tcGxldGVkU3RhdGUoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC50cmFuc2l0aW9uLlRyYW5zaXRpb25Qb3J0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYW5ub3RhdGlvbi5UYXJnZXRBcGk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVpbGQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLlJlcXVpcmVzQXBpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0U2NyZWVuKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwcG9ydAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icGVybWlzc2lvbnNfdGl0bGUiPk1lZGlhIFN0b3JhZ2UgUGVybWlzc2lvbjwvc3RyaW5nPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icGVybWlzc2lvbl9kZWZhdWx0X3RpdGxlIj5QZXJtaXNzb24gUmVxdWlyZWQ8L3N0cmluZz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIEJ1aWxkZXIgdGl0bGUoaW50IHBlcm1pc3Npb25zX3RpdGxlKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBUcmFuc2l0aW9uIHNoYXJlZEVsZW1lbnRFbnRlclRyYW5zaXRpb24gPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mActivity</last-search>
+      <last-search>checkAuth</last-search>
       <last-offset />
-      <last-pattern>mActivity</last-pattern>
+      <last-pattern>checkAuth</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Lon</last-substitute>
       <last-dir>1</last-dir>
@@ -1481,7 +1481,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showProgress</entry>
         <entry>setText</entry>
         <entry>onSaveIns</entry>
         <entry>initScreen</entry>
@@ -1501,6 +1500,7 @@
         <entry>build(</entry>
         <entry>dialog</entry>
         <entry>mActivity</entry>
+        <entry>checkAuth</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
