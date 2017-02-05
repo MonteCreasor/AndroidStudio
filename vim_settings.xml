@@ -569,13 +569,12 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" timestamp="1486245215864">
-        <mark key="a" line="310" column="0" />
-        <mark key="'" line="310" column="0" />
-        <mark key="[" line="436" column="0" />
-        <mark key="]" line="437" column="78" />
-        <mark key="^" line="432" column="44" />
-        <mark key="." line="432" column="44" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" timestamp="1486311670366">
+        <mark key="'" line="290" column="12" />
+        <mark key="[" line="310" column="40" />
+        <mark key="]" line="311" column="17" />
+        <mark key="." line="311" column="17" />
+        <mark key="^" line="311" column="17" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/utils/Debug.java" timestamp="1485894510363">
         <mark key="[" line="13" column="42" />
@@ -911,6 +910,9 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/25.1.0/design-25.1.0-sources.jar!/android/support/design/widget/CollapsingToolbarLayout.java" timestamp="1486311902884">
+        <mark key="a" line="594" column="37" />
+      </file>
       <file name="$USER_HOME$/android/vandy/aad/mooc4/PublicManifest/app/src/main/res/layout/activity_main.xml" timestamp="1484434156554">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="63" />
@@ -1154,8 +1156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="50" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/views/TopicView.java" />
-      <jump line="935" column="56" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
       <jump line="106" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
       <jump line="107" column="13" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
       <jump line="110" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/fragments/QuestionsFragment.java" />
@@ -1254,10 +1254,12 @@
       <jump line="1830" column="12" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-22/android/transition/Transition.java" />
       <jump line="1844" column="20" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-22/android/transition/Transition.java" />
       <jump line="309" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
+      <jump line="241" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
+      <jump line="290" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/newui/activities/TodayActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBSLmNvbG9yLmFjdGlvbl9iYXJfdGV4dF9jb21wbGV0ZWRfZXhwYW5kZWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBSLmNvbG9yLmFjdGlvbl9iYXJfdGV4dF91bmNvbXBsZXRlZF9leHBhbmRlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsYXBzaW5nVG9vbGJhckxheW91dC5zZXRFeHBhbmRlZFRpdGxlQ29sb3IoZXhwYW5kZWRUaXRsZUNvbG9yKTsK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1437,55 +1439,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>TitleColor(expandedTitleColor);</text>
       </register>
       <register name="/" type="4">
-        <text>end()</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBSLmNvbG9yLmFjdGlvbl9iYXJfdGV4dF9jb21wbGV0ZWRfZXhwYW5kZWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBSLmNvbG9yLmFjdGlvbl9iYXJfdGV4dF91bmNvbXBsZXRlZF9leHBhbmRlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsYXBzaW5nVG9vbGJhckxheW91dC5zZXRFeHBhbmRlZFRpdGxlQ29sb3IoZXhwYW5kZWRUaXRsZUNvbG9yKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsYXBzaW5nVG9vbGJhckxheW91dC5zZXRFeHBhbmRlZFRpdGxlQ29sb3IoZXhwYW5kZWRUaXRsZUNvbG9yKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xsYXBzaW5nVG9vbGJhckxheW91dC5zZXRFeHBhbmRlZFRpdGxlVGV4dENvbG9yKAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdFNjcmVlbkFmdGVyVHJhbnNpdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xsYXBzaW5nVG9vbGJhckxheW91dC5zZXRFeHBhbmRlZFRpdGxlVGV4dENvbG9yKGV4cGFuZGVkQ29sb3JTdGF0ZUxpc3QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYW5kcm9pZC5vcy5CdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gYW5kcm9pZC5vcy5CdWlsZC5WRVJTSU9OX0NPREVTLkxPTExJUE9QKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOiBSLmNvbG9yLmFjdGlvbl9iYXJfdGV4dF9jb21wbGV0ZWRfZXhwYW5kZWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPyBSLmNvbG9yLmFjdGlvbl9iYXJfdGV4dF91bmNvbXBsZXRlZF9leHBhbmRlZAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8gUi5jb2xvci5hY3Rpb25fYmFyX3RleHRfY29tcGxldGVkX2V4cGFuZGVkLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZXhwYW5kZWRTdGFydENvbG9yID0gY29tcGxldGVkID8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25UcmFuc2l0aW9uUmVzdW1lKFRyYW5zaXRpb24gdHJhbnNpdGlvbikgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>end()</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>end()</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Lon</last-substitute>
       <last-dir>1</last-dir>
@@ -1493,7 +1495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bindViews(</entry>
         <entry>contentView</entry>
         <entry>progressBar</entry>
         <entry>questionAnim</entry>
@@ -1513,6 +1514,7 @@
         <entry>checkAuth</entry>
         <entry>Postpon</entry>
         <entry>end()</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>startImage</entry>
