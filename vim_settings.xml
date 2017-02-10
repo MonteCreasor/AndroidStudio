@@ -119,11 +119,11 @@
         <mark key="." line="77" column="68" />
         <mark key="^" line="77" column="68" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/AnswerService.java" timestamp="1486742402197">
-        <mark key="[" line="42" column="14" />
-        <mark key="]" line="42" column="18" />
-        <mark key="." line="42" column="18" />
-        <mark key="^" line="42" column="18" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/AnswerService.java" timestamp="1486760976584">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="13" />
+        <mark key="^" line="31" column="13" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/bootstrap/monte/events/AnswerCompletedEvent.java" timestamp="1485784170848">
         <mark key="[" line="14" column="30" />
@@ -307,6 +307,12 @@
         <mark key="]" line="10" column="14" />
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/injection/modules/ApiModule.java" timestamp="1486760879274">
+        <mark key="[" line="61" column="39" />
+        <mark key="]" line="61" column="73" />
+        <mark key="." line="61" column="73" />
+        <mark key="^" line="61" column="73" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/dimens.xml" timestamp="1486660035848">
         <mark key="[" line="22" column="39" />
@@ -675,7 +681,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486755032871">
+      <file name="/Dummy.txt" timestamp="1486760239081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/newui/utils/StorageUtils.java" timestamp="1486499576666">
@@ -890,12 +896,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/VUEMAService.java" timestamp="1486745906593">
-        <mark key="'" line="91" column="32" />
-        <mark key="[" line="67" column="21" />
-        <mark key="]" line="67" column="25" />
-        <mark key="." line="67" column="25" />
-        <mark key="^" line="67" column="25" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/VUEMAService.java" timestamp="1486761345906">
+        <mark key="'" line="95" column="32" />
+        <mark key="[" line="83" column="12" />
+        <mark key="]" line="74" column="13" />
+        <mark key="." line="83" column="13" />
+        <mark key="^" line="74" column="13" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/integers.xml" timestamp="1486672842338">
         <mark key="[" line="7" column="61" />
@@ -1695,11 +1701,11 @@
         <mark key="." line="32" column="82" />
         <mark key="^" line="32" column="82" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/mocks/MockAnswerService.java" timestamp="1486745791218">
-        <mark key="[" line="106" column="61" />
-        <mark key="]" line="106" column="65" />
-        <mark key="." line="106" column="65" />
-        <mark key="^" line="106" column="65" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/mocks/MockAnswerService.java" timestamp="1486761368571">
+        <mark key="[" line="88" column="11" />
+        <mark key="]" line="88" column="20" />
+        <mark key="." line="88" column="20" />
+        <mark key="^" line="88" column="20" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values-v21/permissions.xml" timestamp="1486167190163">
         <mark key="[" line="10" column="53" />
@@ -1811,8 +1817,8 @@
       <jump line="167" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXR1cEZyYWdtZW50KGNvbmZpZ0NoYW5nZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Call</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1992,7 +1998,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.getParent();</text>
+        <text>Call</text>
       </register>
       <register name="/" type="4">
         <text>onSave</text>
@@ -2001,37 +2007,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiU0VUVVAgRlJBR01FTlQiKTsKICAgICAgICAgICAgICAgICAgICBzZXR1cEZyYWdtZW50KGNvbmZpZ0NoYW5nZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXR1cEZyYWdtZW50KGNvbmZpZ0NoYW5nZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRDYWxsQWRhcHRlckZhY3RvcnkoUnhKYXZhQ2FsbEFkYXB0ZXJGYWN0b3J5LmNyZWF0ZSgpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXR1cEZyYWdtZW50KGNvbmZpZ0NoYW5nZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gSnVzdCB0cmFuc2ZlciBpbnRlbnQgb24gdG8gZnJhZ21lbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gSnVzdCB0cmFuc2ZlciBpbnRlbnQgb24gdG8gZnJhZ21lbnQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSnVzdCB0cmFuc2ZlciBpbnRlbnQgb24gdG8gZnJhZ21lbnQuCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmVwbGFjZShSLmlkLnRvZGF5X2ZyYWdtZW50LCB0b2RheUZyYWdtZW50LCAidG9waWNzIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLmJlZ2luVHJhbnNhY3Rpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmVwbGFjZShSLmlkLnRvZGF5X2ZyYWdtZW50LCB0b2RheUZyYWdtZW50LCAidG9waWNzIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9kYXlGcmFnbWVudCA9IG5ldyBUb2RheUZyYWdtZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLmJlZ2luVHJhbnNhY3Rpb24oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
