@@ -1066,13 +1066,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="60" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" timestamp="1486856924635">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" timestamp="1486858915816">
         <mark key="a" line="502" column="58" />
-        <mark key="'" line="773" column="0" />
-        <mark key="[" line="516" column="57" />
-        <mark key="]" line="516" column="74" />
-        <mark key="." line="516" column="74" />
-        <mark key="^" line="516" column="74" />
+        <mark key="'" line="493" column="30" />
+        <mark key="[" line="697" column="50" />
+        <mark key="]" line="697" column="53" />
+        <mark key="." line="697" column="53" />
+        <mark key="^" line="697" column="53" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/data/Question.java" timestamp="1486776987135">
         <mark key="[" line="147" column="19" />
@@ -1772,7 +1772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="25" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" />
       <jump line="184" column="31" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionTextAreaView.java" />
       <jump line="134" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" />
       <jump line="162" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" />
@@ -1872,10 +1871,11 @@
       <jump line="773" column="25" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="502" column="35" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="755" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
+      <jump line="493" column="30" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deselected view is not the selected view.&quot;);</text>
+        <text>false</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2055,10 +2055,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>deselected view is not the selected view.&quot;);</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>expandT</text>
+        <text>@Sub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAodmlldyAhPSBzZWxlY3RlZFZpZXcpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZGVzZWxlY3RlZCB2aWV3IGlzIG5vdCB0aGUgc2VsZWN0ZWQgdmlldy4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
@@ -2101,9 +2101,9 @@
       </register>
     </registers>
     <search>
-      <last-search>expandT</last-search>
+      <last-search>@Sub</last-search>
       <last-offset />
-      <last-pattern>expandT</last-pattern>
+      <last-pattern>@Sub</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>ApiModule</last-substitute>
       <last-dir>1</last-dir>
@@ -2111,8 +2111,6 @@
     </search>
     <history>
       <history-search>
-        <entry>questionSet</entry>
-        <entry>Set</entry>
         <entry>flipper</entry>
         <entry>Flip</entry>
         <entry>bindViews(</entry>
@@ -2131,6 +2129,8 @@
         <entry>collapse</entry>
         <entry>expandTopic</entry>
         <entry>expandT</entry>
+        <entry>@Subsribe</entry>
+        <entry>@Sub</entry>
       </history-search>
       <history-cmd>
         <entry>/?</entry>
