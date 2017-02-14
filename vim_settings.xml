@@ -710,13 +710,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" timestamp="1487052855398">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" timestamp="1487053759853">
         <mark key="a" line="813" column="12" />
-        <mark key="'" line="406" column="4" />
-        <mark key="[" line="816" column="51" />
-        <mark key="]" line="816" column="55" />
-        <mark key="." line="816" column="55" />
-        <mark key="^" line="816" column="55" />
+        <mark key="[" line="819" column="0" />
+        <mark key="]" line="819" column="0" />
+        <mark key="." line="819" column="0" />
       </file>
       <file name="$USER_HOME$/android/vandy/aad/mooc4/SneakApp/app/src/main/java/vandy/mooc/testingandsecurity/sneakapp/MainActivity.java" timestamp="1484434137459">
         <mark key="[" line="74" column="54" />
@@ -1938,7 +1936,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="55" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/IndicatorView.java" />
       <jump line="349" column="38" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/IndicatorView.java" />
       <jump line="40" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/IndicatorViewOld.java" />
       <jump line="105" column="7" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/IndicatorViewOld.java" />
@@ -2038,10 +2035,11 @@
       <jump line="30" column="32" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionGridView.java" />
       <jump line="67" column="35" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionGridView.java" />
       <jump line="80" column="44" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionGridView.java" />
+      <jump line="819" column="31" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>question</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAganVzdC5jb25jYXRNYXAK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2221,7 +2219,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>question</text>
+        <text>flatMapObservable(</text>
       </register>
       <register name="/" type="4">
         <text>getAns</text>
@@ -2230,37 +2228,37 @@
         <text encoding="base64">ICAgIHB1YmxpYyBTaW5nbGU8UXVlc3Rpb25BbnN3ZXI+IGdldEFuc3dlclNpbmdsZSgpIHsKICAgICAgICBpZiAoIWhhc0Fuc3dlcigpKSB7CiAgICAgICAgICAgIC8vIE5vdCBhbnN3ZXJlZCBzbyByZXR1cm4gYSBRdWVzdGlvbkFuc3dlciB3aXRoIGFuIGVtcHR5IEFuc3dlclJlc3VsdCBsaXN0LgogICAgICAgICAgICByZXR1cm4gU2luZ2xlLmp1c3QoUXVlc3Rpb25BbnN3ZXIuZnJvbShxdWVzdGlvbikuYnVpbGQoKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuZnJvbUl0ZXJhYmxlKGdldEFuc3dlckxpc3QoKSkKICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcChvIC0+IG8ub2JzZXJ2ZU9uKFNjaGVkdWxlcnMuaW8oKSkpCiAgICAgICAgICAgICAgICAgICAgLnRvTGlzdCgpCiAgICAgICAgICAgICAgICAgICAgLm1hcChsaXN0IC0+IFF1ZXN0aW9uQW5zd2VyLmZyb20ocXVlc3Rpb24pLmFuc3dlclJlc3VsdHMobGlzdCkuYnVpbGQoKSk7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgTGlzdDxPYnNlcnZhYmxlPEFuc3dlclJlc3VsdD4+IGdldEFuc3dlckxpc3QoKSB7CiAgICAgICAgTGlzdDxPYnNlcnZhYmxlPEFuc3dlclJlc3VsdD4+IG9ic2VydmFibGVMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZm9yIChmaW5hbCBBbnN3ZXJDb250YWluZXIgYW5zd2VyQ29udGFpbmVyIDogZ2V0Q29udGVudHMoKSkgewogICAgICAgICAgICBPYnNlcnZhYmxlPEFuc3dlclJlc3VsdD4gYW5zd2VyT2JzZXJ2YWJsZSA9CiAgICAgICAgICAgICAgICAgICAgYW5zd2VyQ29udGFpbmVyLmdldEFuc3dlck9ic2VydmFibGUoKTsKICAgICAgICAgICAgaWYgKGFuc3dlck9ic2VydmFibGUgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgb2JzZXJ2YWJsZUxpc3QuYWRkKGFuc3dlck9ic2VydmFibGUpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBvYnNlcnZhYmxlTGlzdDsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAganVzdC5jb25jYXRNYXAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2luZ2xlPExpc3Q8U2luZ2xlPFF1ZXN0aW9uQW5zd2VyPj4+IGxpc3RTaW5nbGUgPSBqdXN0Lm9ic2VydmVPbihTY2hlZHVsZXJzLmlvKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTaW5nbGU8VG9waWNBbnN3ZXI+IGdldEFuc3dlclNpbmdsZSgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JzZXJ2YWJsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JzZXJ2YWJsZTxTaW5nbGU8UXVlc3Rpb25BbnN3ZXI+PiBvYnNlcnZhYmxlID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JzZXJ2YWJsZTxTaW5nbGU8UXVlc3Rpb25BbnN3ZXI+PiBzaW5nbGVPYnNlcnZhYmxlID0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaW5nbGVPYnNlcnZhYmxlLmZsYXRNYXAobGlzdCAtPiBsaXN0LmZsYXRNYXAoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHl5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JzZXJ2YWJsZTxTaW5nbGU8UXVlc3Rpb25BbnN3ZXI+PiBtYXAgPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcChvIC0+IG8ub2JzZXJ2ZU9uKFNjaGVkdWxlcnMuaW8oKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE9ic2VydmFibGU8QW5zd2VyVHlwZT4gZ2V0QW5zd2VyT2JzZXJ2YWJsZSgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
