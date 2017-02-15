@@ -471,9 +471,9 @@
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" timestamp="1487182058182">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" timestamp="1487192152514">
         <mark key="a" line="0" column="0" />
-        <mark key="'" line="0" column="0" />
+        <mark key="'" line="23" column="33" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2419" column="0" />
         <mark key="." line="704" column="35" />
@@ -1796,7 +1796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" />
       <jump line="100" column="14" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" />
       <jump line="111" column="14" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" />
       <jump line="122" column="14" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" />
@@ -1896,6 +1895,7 @@
       <jump line="141" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="145" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="149" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
+      <jump line="23" column="33" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2082,7 +2082,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>startActi</text>
+        <text>disable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFyZXNwb25zZS5pc1N1Y2Nlc3NmdWwoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKCJUb3BpYyBzdWJtaXNzaW9uIGZhaWxlZC4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNwb25zZS4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
@@ -2125,9 +2125,9 @@
       </register>
     </registers>
     <search>
-      <last-search>startActi</last-search>
+      <last-search>disable</last-search>
       <last-offset />
-      <last-pattern>startActi</last-pattern>
+      <last-pattern>disable</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>ApiModule</last-substitute>
       <last-dir>1</last-dir>
@@ -2135,7 +2135,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Single</entry>
         <entry>startAc</entry>
         <entry>startActivity</entry>
         <entry>subscription</entry>
@@ -2155,6 +2154,7 @@
         <entry>219</entry>
         <entry>OnCli</entry>
         <entry>startActi</entry>
+        <entry>disable</entry>
       </history-search>
       <history-cmd>
         <entry>/?</entry>
