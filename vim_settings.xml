@@ -657,7 +657,7 @@
         <mark key="^" line="799" column="1" />
         <mark key="." line="702" column="22" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" timestamp="1487135634202">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" timestamp="1487139475865">
         <mark key="a" line="814" column="12" />
         <mark key="'" line="836" column="0" />
         <mark key="[" line="424" column="48" />
@@ -824,7 +824,7 @@
         <mark key="." line="142" column="16" />
         <mark key="^" line="142" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1487136020944">
+      <file name="/fragment.java" timestamp="1487139720539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -998,7 +998,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/ViewContainerHelper.java" timestamp="1487139188581">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/ViewContainerHelper.java" timestamp="1487139348011">
         <mark key="a" line="97" column="6" />
         <mark key="'" line="128" column="61" />
         <mark key="[" line="129" column="45" />
@@ -1076,12 +1076,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="60" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" timestamp="1487138954379">
-        <mark key="'" line="374" column="0" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" timestamp="1487139895733">
+        <mark key="'" line="670" column="81" />
         <mark key="k" line="586" column="48" />
-        <mark key="[" line="882" column="0" />
-        <mark key="]" line="884" column="18" />
-        <mark key="." line="882" column="0" />
+        <mark key="[" line="832" column="69" />
+        <mark key="]" line="832" column="83" />
+        <mark key="." line="832" column="83" />
+        <mark key="^" line="832" column="83" />
       </file>
       <file name="$USER_HOME$/android/junk/app/src/main/res/layout/indicator_layout.xml" timestamp="1487000939622">
         <mark key="[" line="15" column="27" />
@@ -1783,7 +1784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1563" column="28" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" />
       <jump line="1571" column="78" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" />
       <jump line="1580" column="78" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" />
       <jump line="1589" column="78" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" />
@@ -1883,10 +1883,11 @@
       <jump line="834" column="15" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/feb14" />
       <jump line="836" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" />
       <jump line="374" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
+      <jump line="670" column="81" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text>selectedView</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2066,55 +2067,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>selectedView</text>
       </register>
       <register name="/" type="4">
-        <text>TopicCompletedE</text>
+        <text>@S</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRGV0ZXJtaW5lcyBpZiB0aGUgcGFzc2VkIHF1ZXN0aW9uIGNvbnRhaW5lciBoYXMgb25lIG9yIG1vcmUgY29uZGl0aW9uYWwgYW5zd2Vycy4KICAgICAqIFRoaXMgbWV0aG9kIGlzIHVzZWQgYnkgdGhlIFRvcGljVmlldyB0byBkZXRlcm1pbmUgd2hldGhlciB0byBuYXZpZ2F0ZSB0byB0aGUgbmV4dCAKICAgICAqIHF1ZXN0aW9uIGFuZCBhbHNvIHRvIGRldGVybWluZSB0aGUgcGVyY2VudCBjb21wbGV0ZSBzdGF0aXN0aWMgYW5kIFVJIGZlZWRiYWNrLgogICAgICoKICAgICAqIEBwYXJhbSBxdWVzdGlvbkNvbnRhaW5lciBRdWVzdGlvbiBjb250YWluZXIgdG8gYW5hbHl6ZS4KICAgICAqIEByZXR1cm4gdHJ1ZSBpZiB0aGlzIHF1ZXN0aW9uIGhhcyBhbnkgY29uZGl0aW9uYWwgYW5zd2Vycy4KICAgICAqLwogICAgcHVibGljIHN0YXRpYyBib29sZWFuIGlzQ29uZGl0aW9uYWxRdWVzdGlvbihRdWVzdGlvbkNvbnRhaW5lciBxdWVzdGlvbkNvbnRhaW5lcikgewogICAgICAgIHJldHVybiBWaWV3Q29udGFpbmVySGVscGVyLmZpbmRDb25kaXRpb25hbEFuc3dlcihxdWVzdGlvbkNvbnRhaW5lcikgIT0gbnVsbDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICA9IHNlbGVjdGVkVmlldyAhPSBudWxsID8gc2VsZWN0ZWRWaWV3LmdldFNlbGVjdGVkUG9zKCkgKyAxIDogMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGaW5kIGFsbCBjb25kaXRpb25hbCBhbnN3ZXJzLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGaW5kIGFsbCBjb25kaXRpb25hbCBhbnN3ZXJzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5zd2VyQ29udGFpbmVyLmdldEFuc3dlcihmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfHwgYW5zd2VyQ29udGFpbmVyLmdldFNjaGVtYSgpLmdldEFjdGlvblR5cGUoKSA9PSBBbnN3ZXIuQWN0aW9uLkNIT09TRV9QSE9UTykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5zd2VyQ29udGFpbmVyLmdldEFuc3dlcihmYWxzZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>TopicCompletedE</last-search>
+      <last-search>@S</last-search>
       <last-offset />
-      <last-pattern>TopicCompletedE</last-pattern>
+      <last-pattern>@S</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>ApiModule</last-substitute>
       <last-dir>1</last-dir>
@@ -2126,7 +2127,6 @@
         <entry>setCom</entry>
         <entry>Where were you</entry>
         <entry>@Subscribe</entry>
-        <entry>@S</entry>
         <entry>multi</entry>
         <entry>TextArea</entry>
         <entry>text_area</entry>
@@ -2142,6 +2142,7 @@
         <entry>Exercise_break</entry>
         <entry>condition</entry>
         <entry>TopicCompletedE</entry>
+        <entry>@S</entry>
       </history-search>
       <history-cmd>
         <entry>/?</entry>
