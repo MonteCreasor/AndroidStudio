@@ -142,13 +142,6 @@
         <mark key="." line="241" column="22" />
         <mark key="^" line="241" column="22" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/TodayFragment.java" timestamp="1487840628303">
-        <mark key="a" line="241" column="0" />
-        <mark key="'" line="179" column="40" />
-        <mark key="[" line="244" column="36" />
-        <mark key="]" line="244" column="36" />
-        <mark key="." line="244" column="36" />
-      </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/BaseApp.java" timestamp="1487608946761">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -451,12 +444,12 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionGridView.java" timestamp="1487915548377">
-        <mark key="a" line="72" column="37" />
-        <mark key="'" line="89" column="0" />
-        <mark key="k" line="37" column="50" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+        <mark key="a" line="70" column="37" />
+        <mark key="'" line="87" column="0" />
+        <mark key="k" line="35" column="50" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/activity_questions.xml" timestamp="1487571664501">
         <mark key="[" line="9" column="0" />
@@ -479,12 +472,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionView.java" timestamp="1487915688034">
-        <mark key="a" line="259" column="0" />
-        <mark key="'" line="306" column="32" />
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionView.java" timestamp="1487917402304">
+        <mark key="'" line="295" column="21" />
+        <mark key="[" line="196" column="35" />
+        <mark key="]" line="198" column="49" />
+        <mark key="." line="198" column="49" />
+        <mark key="^" line="198" column="49" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/question_set_view.xml" timestamp="1485800958585">
         <mark key="[" line="5" column="0" />
@@ -536,8 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="34" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerCache.java" />
-      <jump line="231" column="71" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerCache.java" />
       <jump line="950" column="33" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="953" column="37" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="492" column="39" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
@@ -636,10 +627,12 @@
       <jump line="44" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/question_view.xml" />
       <jump line="306" column="32" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionView.java" />
       <jump line="89" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionGridView.java" />
+      <jump line="296" column="5" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionView.java" />
+      <jump line="271" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -819,13 +812,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>End</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>onDestroy</text>
+        <text>@Sub</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSIzZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9ib29sZWFuIHNob3cgPSAhZ2V0U2NoZW1hKCkuaXNSZXF1aXJlZCgpIHx8IGhhc0Fuc3dlcigpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -834,40 +827,40 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBzaG93ID0gaGFzQW5zd2VyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVOZXh0QnV0dG9uKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXZhaWxhYmxlV2lkdGggLT0gKGludCkgZ2V0UmVzb3VyY2VzKCkuZ2V0RGltZW5zaW9uKFIuZGltZW4ucXVlc3Rpb25fbmV4dF9idXR0b25fc2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB1cGRhdGVOZXh0QnV0dG9uKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0U2NoZW1hKCkuaXNNdWx0aVNlbGVjdCgpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlTmV4dEJ1dHRvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBUT0RPOiBvbmx5IG5lY2Vzc2FyeSBpZiBuZXh0IGlzIG9uIHJpZ2h0Li4uCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2Fuc3dlcl9jb250YWluZXIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IjVkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjEwZHAiCiAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiPgogICAgPC9MaW5lYXJMYXlvdXQ+Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZ2V0U2NoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dAogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiPgoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>onDestroy</last-search>
+      <last-search>@Sub</last-search>
       <last-offset />
-      <last-pattern>onDestroy</last-pattern>
+      <last-pattern>@Sub</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>ApiModule</last-substitute>
       <last-dir>1</last-dir>
@@ -875,8 +868,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TypedFile</entry>
-        <entry>doOnNext</entry>
         <entry>Obs</entry>
         <entry>Observal</entry>
         <entry>Single</entry>
@@ -895,6 +886,8 @@
         <entry>nextButton</entry>
         <entry>onStop</entry>
         <entry>onDestroy</entry>
+        <entry>showNextButton</entry>
+        <entry>@Sub</entry>
       </history-search>
       <history-cmd>
         <entry>/?</entry>
