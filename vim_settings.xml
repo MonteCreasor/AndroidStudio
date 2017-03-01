@@ -136,23 +136,11 @@
         <mark key="^" line="116" column="12" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionTextAreaView.java" timestamp="1488396687368">
-        <mark key="[" line="279" column="93" />
-        <mark key="]" line="280" column="43" />
-        <mark key="." line="280" column="43" />
-        <mark key="^" line="280" column="43" />
-      </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionRadioGridView.java" timestamp="1488396171527">
         <mark key="[" line="218" column="5" />
         <mark key="]" line="224" column="3" />
         <mark key="^" line="224" column="3" />
         <mark key="." line="224" column="3" />
-      </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/data/AnswerProvider.java" timestamp="1488310098084">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/answer_text_input_view.xml" timestamp="1487880858954">
         <mark key="[" line="24" column="27" />
@@ -329,12 +317,12 @@
         <mark key="^" line="49" column="18" />
         <mark key="." line="49" column="18" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" timestamp="1488397281798">
-        <mark key="'" line="1103" column="52" />
-        <mark key="[" line="274" column="5" />
-        <mark key="]" line="260" column="5" />
-        <mark key="^" line="260" column="5" />
-        <mark key="." line="260" column="5" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" timestamp="1488397949304">
+        <mark key="'" line="273" column="6" />
+        <mark key="[" line="273" column="5" />
+        <mark key="]" line="259" column="5" />
+        <mark key="^" line="259" column="5" />
+        <mark key="." line="259" column="5" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionGridView.java" timestamp="1488396150298">
         <mark key="'" line="217" column="0" />
@@ -412,7 +400,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1488394795617">
+      <file name="/fragment.java" timestamp="1488398454714">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -433,7 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="66" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" />
       <jump line="287" column="26" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" />
       <jump line="305" column="34" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" />
       <jump line="323" column="29" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" />
@@ -533,6 +520,7 @@
       <jump line="130" column="31" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerEditTextView.java" />
       <jump line="139" column="31" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerEditTextView.java" />
       <jump line="47" column="33" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerEditTextView.java" />
+      <jump line="275" column="6" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -719,7 +707,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>inflate</text>
+        <text>navTo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKCJuYXZUbzogTmF2aWdhdGlvbiByZWplY3QgLSBhbHJlYWR5IGRpc3BsYXlpbmcgcG9zaXRpb24gIiArIHNlbGVjdGVkUG9zKTsK</text>
@@ -762,9 +750,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inflate</last-search>
+      <last-search>navTo</last-search>
       <last-offset />
-      <last-pattern>inflate</last-pattern>
+      <last-pattern>navTo</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -783,7 +771,6 @@
         <entry>animate</entry>
         <entry>animateT</entry>
         <entry>setSele</entry>
-        <entry>navTo</entry>
         <entry>animated expanding ended</entry>
         <entry>animated ex</entry>
         <entry>setAnswer</entry>
@@ -792,6 +779,7 @@
         <entry>SavedState</entry>
         <entry>setText</entry>
         <entry>inflate</entry>
+        <entry>navTo</entry>
       </history-search>
       <history-cmd>
         <entry>r DownloadFactory.java</entry>
