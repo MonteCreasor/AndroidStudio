@@ -174,6 +174,12 @@
         <mark key="." line="279" column="28" />
         <mark key="^" line="279" column="28" />
       </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/actions/ActionPhoto.java" timestamp="1488428708224">
+        <mark key="'" line="50" column="31" />
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+      </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionTextAreaView.java" timestamp="1488436283777">
         <mark key="'" line="352" column="52" />
         <mark key="[" line="109" column="14" />
@@ -387,13 +393,11 @@
         <mark key="^" line="49" column="18" />
         <mark key="." line="49" column="18" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" timestamp="1488436474811">
-        <mark key="a" line="372" column="0" />
-        <mark key="'" line="65" column="13" />
-        <mark key="[" line="374" column="0" />
-        <mark key="]" line="374" column="0" />
-        <mark key="^" line="378" column="7" />
-        <mark key="." line="374" column="0" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" timestamp="1488442496831">
+        <mark key="'" line="335" column="24" />
+        <mark key="[" line="947" column="51" />
+        <mark key="]" line="947" column="51" />
+        <mark key="." line="947" column="51" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionGridView.java" timestamp="1488436268919">
         <mark key="a" line="74" column="34" />
@@ -511,7 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="604" column="33" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="1063" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="28" column="22" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/BaseApp.java" />
@@ -611,10 +614,11 @@
       <jump line="157" column="23" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="39" column="13" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/TodayFragment.java" />
       <jump line="65" column="73" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" />
+      <jump line="334" column="24" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JZFN1ZmZpeCAiLmRlYnVnIgo=</text>
+      <register name="&quot;" type="4">
+        <text>topic</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -794,16 +798,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>topic</text>
       </register>
       <register name="/" type="4">
-        <text>longC</text>
+        <text>bindV</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY29udGVudF9wcm92aWRlciI+ZWR1LnZhbmRlcmJpbHQuZW1hLm15ZGF5LmZpbGVwcm92aWRlcjwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYWRkZWQgPSAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JZFN1ZmZpeCAiLmRlYnVnIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIC8vIEJpbmQgaXQgdG8gdGhlIHF1ZXN0aW9uIGRhdGEuCiAgICAgICAgICAgICAgICBxdWVzdGlvbkNvbnRhaW5lci5iaW5kVmlldyh0b3BpYy5nZXRRdWVzdGlvbnMoKS5nZXQoaSkpOwogICAgICAgICAgICB9IGNhdGNoIChTY2hlbWFFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgVGltYmVyLncoZSwgIlF1ZXN0aW9uIHNjaGVtYSBpcyBpbnZhbGlkOiBcbiIgKyBxdWVzdGlvbkNvbnRhaW5lcik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -812,37 +816,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBBZGQgdGhlIG1WaWV3IHRvIHRoZSBsaXN0IG9mIEFuc3dlckNvbnRhaW5lcnMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQWRkIHRoZSBtVmlldyB0byB0aGUgbGlzdCBvZiBBbnN3ZXJDb250YWluZXJzLgogICAgICAgICAgICBxdWVzdGlvbkNvbnRhaW5lcnMuYWRkKHF1ZXN0aW9uQ29udGFpbmVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDphdXRob3JpdGllcz0iZWR1LnZhbmRlcmJpbHQuZW1hLm15ZGF5LmZpbGVwcm92aWRlciIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUXVlc3Rpb25Db250YWluZXIgcXVlc3Rpb25Db250YWluZXIgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDphdXRob3JpdGllcz0iZWR1LnZhbmRlcmJpbHQuZW1hLm15ZGF5LmZpbGVwcm92aWRlciIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSW5mbGF0ZSBhIG5ldyBxdWVzdGlvbiBtVmlldy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzU3VibWl0dGVkID0gQW5zd2VyQ2FjaGUuaXNUaW1lc3RhbXBUb2RheShpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9kYXlBZGFwdGVyLm5vdGlmeUl0ZW1DaGFuZ2VkKHBvc2l0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZGVkKys7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>longC</last-search>
+      <last-search>bindV</last-search>
       <last-offset />
-      <last-pattern>longC</last-pattern>
+      <last-pattern>bindV</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -850,8 +854,6 @@
     </search>
     <history>
       <history-search>
-        <entry>snackBar</entry>
-        <entry>server</entry>
         <entry>Permiss</entry>
         <entry>MOCKAUTH</entry>
         <entry>focus</entry>
@@ -870,6 +872,8 @@
         <entry>onClick</entry>
         <entry>swipe</entry>
         <entry>longC</entry>
+        <entry>bindViews</entry>
+        <entry>bindV</entry>
       </history-search>
       <history-cmd>
         <entry>r DownloadFactory.java</entry>
