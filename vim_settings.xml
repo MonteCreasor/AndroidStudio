@@ -47,7 +47,7 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/fragment_questions.xml" timestamp="1488526575498">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/fragment_questions.xml" timestamp="1488556935925">
         <mark key="'" line="16" column="20" />
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="13" />
@@ -172,10 +172,10 @@
         <mark key="." line="908" column="47" />
         <mark key="^" line="908" column="47" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/latest" timestamp="1488531335113">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/latest" timestamp="1488557082737">
         <mark key="a" line="220" column="2" />
-        <mark key="'" line="31" column="14" />
-        <mark key="[" line="90" column="0" />
+        <mark key="'" line="27" column="14" />
+        <mark key="[" line="651" column="27" />
         <mark key="]" line="220" column="4" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionRadioGridView.java" timestamp="1488400987478">
@@ -268,12 +268,12 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/Mock.java" timestamp="1488531264335">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/Mock.java" timestamp="1488556975475">
         <mark key="'" line="96" column="0" />
-        <mark key="[" line="34" column="49" />
-        <mark key="]" line="34" column="49" />
-        <mark key="." line="34" column="49" />
-        <mark key="^" line="31" column="55" />
+        <mark key="[" line="30" column="53" />
+        <mark key="]" line="30" column="53" />
+        <mark key="." line="30" column="53" />
+        <mark key="^" line="30" column="53" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/fragment_today.xml" timestamp="1488307743903">
         <mark key="[" line="27" column="25" />
@@ -505,11 +505,11 @@
         <mark key="." line="280" column="32" />
         <mark key="^" line="280" column="32" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/topic_view.xml" timestamp="1488498915096">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/topic_view.xml" timestamp="1488557678449">
         <mark key="'" line="64" column="24" />
-        <mark key="[" line="58" column="40" />
-        <mark key="]" line="58" column="40" />
-        <mark key="." line="58" column="40" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1488093240067">
         <mark key="[" line="0" column="0" />
@@ -578,7 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="28" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/fragment_questions.xml" />
       <jump line="37" column="32" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/fragment_questions.xml" />
       <jump line="51" column="24" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/fragment_questions.xml" />
       <jump line="5" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/fragment_questions.xml" />
@@ -678,10 +677,11 @@
       <jump line="62" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/longstrings.txt" />
       <jump line="3198" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/long" />
       <jump line="31" column="14" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/latest" />
+      <jump line="27" column="14" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/latest" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWVzdEZvY3VzLz4K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -861,55 +861,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Feeling</text>
+        <text>When did you eat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB7CiAgICAidG9waWMiOiB7CiAgICAgICJ0b3BpY0lkIjogMzUsCiAgICAgICJ0b3BpY0lkVmVyc2lvbklkIjogMTEwMTkxLAogICAgICAidGltZXN0YW1wIjogMTQ4ODMyNjEyNSwKICAgICAgInRpdGxlIjogIkZlZWxpbmdzIiwKICAgICAgInRpbWVwb2ludCI6ICJCZWR0aW1lIiwKICAgICAgInRpbWVwb2ludElkIjogNiwKICAgICAgInNuYWNrIjogZmFsc2UsCiAgICAgICJpY29uX3VybCI6ICJodHRwczovL3MzLmFtYXpvbmF3cy5jb20vdmFuZHktbXlkYXkvaW1hZ2VzL25ld19hc3NldHMvRmVlbGluZ3MlNDAzeC5wbmciLAogICAgICAicXVlc3Rpb25zIjogWwogICAgICAgIHsKICAgICAgICAgICJpZCI6IDExOSwKICAgICAgICAgICJxdWVzdGlvblZlcnNpb25JZCI6IDEwOTUwMCwKICAgICAgICAgICJ0aXRsZSI6ICJNb29kIiwKICAgICAgICAgICJ0ZXh0IjogIldoYXQgd2FzIHlvdXIgbW9vZD8iLAogICAgICAgICAgInR5cGUiOiAiUkFESU9fQlVUVE9OIiwKICAgICAgICAgICJyZXF1aXJlZCI6IGZhbHNlLAogICAgICAgICAgIm11bHRpX3NlbGVjdCI6IGZhbHNlLAogICAgICAgICAgInZhcmlhYmxlX25hbWUiOiAibW9vZCIsCiAgICAgICAgICAiYW5zd2VycyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJpZCI6IDI0MCwKICAgICAgICAgICAgICAiYW5zd2VyVmVyc2lvbklkIjogMTA5MTQzLAogICAgICAgICAgICAgICJ0eXBlIjogInJhZGlvX2J1dHRvbiIsCiAgICAgICAgICAgICAgInRpdGxlIjogIkdvb2QiLAogICAgICAgICAgICAgICJ2YWx1ZSI6ICJnb29kIiwKICAgICAgICAgICAgICAiaWNvbl91cmwiOiAiaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3ZhbmR5LW15ZGF5L2ltYWdlcy9uZXdfYXNzZXRzL01vb2QtR29vZCU0MDN4LnBuZyIsCiAgICAgICAgICAgICAgInRyYWNrZXIiOiAiTW9vZCIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICJpZCI6IDI0MSwKICAgICAgICAgICAgICAiYW5zd2VyVmVyc2lvbklkIjogMTA5MTQ0LAogICAgICAgICAgICAgICJ0eXBlIjogInJhZGlvX2J1dHRvbiIsCiAgICAgICAgICAgICAgInRpdGxlIjogIk9rYXkiLAogICAgICAgICAgICAgICJ2YWx1ZSI6ICJva2F5IiwKICAgICAgICAgICAgICAiaWNvbl91cmwiOiAiaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3ZhbmR5LW15ZGF5L2ltYWdlcy9uZXdfYXNzZXRzL01vb2QtT2theSU0MDN4LnBuZyIsCiAgICAgICAgICAgICAgInRyYWNrZXIiOiAiTW9vZCIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICJpZCI6IDI0MiwKICAgICAgICAgICAgICAiYW5zd2VyVmVyc2lvbklkIjogMTA5MTQ1LAogICAgICAgICAgICAgICJ0eXBlIjogInJhZGlvX2J1dHRvbiIsCiAgICAgICAgICAgICAgInRpdGxlIjogIkJhZCIsCiAgICAgICAgICAgICAgInZhbHVlIjogImJhZCIsCiAgICAgICAgICAgICAgImljb25fdXJsIjogImh0dHBzOi8vczMuYW1hem9uYXdzLmNvbS92YW5keS1teWRheS9pbWFnZXMvbmV3X2Fzc2V0cy9Nb29kLUJhZCU0MDN4LnBuZyIsCiAgICAgICAgICAgICAgInRyYWNrZXIiOiAiTW9vZCIKICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImlkIjogMTIwLAogICAgICAgICAgInF1ZXN0aW9uVmVyc2lvbklkIjogMTA5NTAxLAogICAgICAgICAgInRpdGxlIjogIkVuZXJneSIsCiAgICAgICAgICAidGV4dCI6ICJXaGF0IHdhcyB5b3VyIGVuZXJneSBsZXZlbD8iLAogICAgICAgICAgInR5cGUiOiAiUkFESU9fQlVUVE9OIiwKICAgICAgICAgICJyZXF1aXJlZCI6IHRydWUsCiAgICAgICAgICAibXVsdGlfc2VsZWN0IjogZmFsc2UsCiAgICAgICAgICAidmFyaWFibGVfbmFtZSI6ICJlbmVyZ3lfc3YiLAogICAgICAgICAgImFuc3dlcnMiOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAiaWQiOiAyNDMsCiAgICAgICAgICAgICAgImFuc3dlclZlcnNpb25JZCI6IDEwOTE0NywKICAgICAgICAgICAgICAidHlwZSI6ICJyYWRpb19idXR0b24iLAogICAgICAgICAgICAgICJ0aXRsZSI6ICJMb3ciLAogICAgICAgICAgICAgICJ2YWx1ZSI6ICJsb3ciLAogICAgICAgICAgICAgICJpY29uX3VybCI6ICJodHRwczovL3MzLmFtYXpvbmF3cy5jb20vdmFuZHktbXlkYXkvaW1hZ2VzL25ld19hc3NldHMvRW5lcmd5LUxvdyU0MDN4LnBuZyIsCiAgICAgICAgICAgICAgInRyYWNrZXIiOiAiRW5lcmd5IgogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgImlkIjogMjQ0LAogICAgICAgICAgICAgICJhbnN3ZXJWZXJzaW9uSWQiOiAxMDkxNDgsCiAgICAgICAgICAgICAgInR5cGUiOiAicmFkaW9fYnV0dG9uIiwKICAgICAgICAgICAgICAidGl0bGUiOiAiTWVkaXVtIiwKICAgICAgICAgICAgICAidmFsdWUiOiAibWVkaXVtIiwKICAgICAgICAgICAgICAiaWNvbl91cmwiOiAiaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3ZhbmR5LW15ZGF5L2ltYWdlcy9uZXdfYXNzZXRzL0VuZXJneS1NZWRpdW0lNDAzeC5wbmciLAogICAgICAgICAgICAgICJ0cmFja2VyIjogIkVuZXJneSIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICJpZCI6IDI0NSwKICAgICAgICAgICAgICAiYW5zd2VyVmVyc2lvbklkIjogMTA5MTQ5LAogICAgICAgICAgICAgICJ0eXBlIjogInJhZGlvX2J1dHRvbiIsCiAgICAgICAgICAgICAgInRpdGxlIjogIkhpZ2giLAogICAgICAgICAgICAgICJ2YWx1ZSI6ICJoaWdoIiwKICAgICAgICAgICAgICAiaWNvbl91cmwiOiAiaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3ZhbmR5LW15ZGF5L2ltYWdlcy9uZXdfYXNzZXRzL0VuZXJneS1IaWdoJTQwM3gucG5nIiwKICAgICAgICAgICAgICAidHJhY2tlciI6ICJFbmVyZ3kiCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpZCI6IDEyMSwKICAgICAgICAgICJxdWVzdGlvblZlcnNpb25JZCI6IDEwOTUwMiwKICAgICAgICAgICJ0aXRsZSI6ICJTdHJlc3MiLAogICAgICAgICAgInRleHQiOiAiV2hhdCB3YXMgeW91ciBzdHJlc3MgbGV2ZWw/IiwKICAgICAgICAgICJ0eXBlIjogIlJBRElPX0JVVFRPTiIsCiAgICAgICAgICAicmVxdWlyZWQiOiB0cnVlLAogICAgICAgICAgIm11bHRpX3NlbGVjdCI6IGZhbHNlLAogICAgICAgICAgInZhcmlhYmxlX25hbWUiOiAic3RyZXNzX3N2IiwKICAgICAgICAgICJhbnN3ZXJzIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgImlkIjogMjQ2LAogICAgICAgICAgICAgICJhbnN3ZXJWZXJzaW9uSWQiOiAxMDkxNTEsCiAgICAgICAgICAgICAgInR5cGUiOiAicmFkaW9fYnV0dG9uIiwKICAgICAgICAgICAgICAidGl0bGUiOiAiTG93IiwKICAgICAgICAgICAgICAidmFsdWUiOiAibG93IiwKICAgICAgICAgICAgICAiaWNvbl91cmwiOiAiaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3ZhbmR5LW15ZGF5L2ltYWdlcy9uZXdfYXNzZXRzL1N0cmVzcy1Mb3clNDAzeC5wbmciLAogICAgICAgICAgICAgICJ0cmFja2VyIjogIlN0cmVzcyIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICJpZCI6IDI0NywKICAgICAgICAgICAgICAiYW5zd2VyVmVyc2lvbklkIjogMTA5MTUyLAogICAgICAgICAgICAgICJ0eXBlIjogInJhZGlvX2J1dHRvbiIsCiAgICAgICAgICAgICAgInRpdGxlIjogIk1lZGl1bSIsCiAgICAgICAgICAgICAgInZhbHVlIjogIm1lZGl1bSIsCiAgICAgICAgICAgICAgImljb25fdXJsIjogImh0dHBzOi8vczMuYW1hem9uYXdzLmNvbS92YW5keS1teWRheS9pbWFnZXMvbmV3X2Fzc2V0cy9TdHJlc3MtTWVkaXVtJTQwM3gucG5nIiwKICAgICAgICAgICAgICAidHJhY2tlciI6ICJTdHJlc3MiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAiaWQiOiAyNDgsCiAgICAgICAgICAgICAgImFuc3dlclZlcnNpb25JZCI6IDEwOTE1MywKICAgICAgICAgICAgICAidHlwZSI6ICJyYWRpb19idXR0b24iLAogICAgICAgICAgICAgICJ0aXRsZSI6ICJIaWdoIiwKICAgICAgICAgICAgICAidmFsdWUiOiAiaGlnaCIsCiAgICAgICAgICAgICAgImljb25fdXJsIjogImh0dHBzOi8vczMuYW1hem9uYXdzLmNvbS92YW5keS1teWRheS9pbWFnZXMvbmV3X2Fzc2V0cy9TdHJlc3MtSGlnaCU0MDN4LnBuZyIsCiAgICAgICAgICAgICAgInRyYWNrZXIiOiAiU3RyZXNzIgogICAgICAgICAgICB9CiAgICAgICAgICBdCiAgICAgICAgfQogICAgICBdCiAgICB9CiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRTbW9vdGhTY3JvbGxpbmdFbmFibGVkKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8cmVxdWVzdEZvY3VzLz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8L2VkdS52YW5kZXJiaWx0LmVtYS5teWRheS51aS52aWV3cy5Ub3BpY1ZpZXc+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsCg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVxdWVzdEZvY3VzLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5leHRGb2N1c1JpZ2h0PSJAaWQvdGV4dF9hcmVhX3ZpZXciCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzZXRTbW9vdGhTY3JvbGxpbmdFbmFibGVkKHRydWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbk5lc3RlZFByZVNjcm9sbCh0YXJnZXQsIGR4LCBkeSwgY29uc3VtZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uTmVzdGVkUHJlU2Nyb2xsKFZpZXcgdGFyZ2V0LCBpbnQgZHgsIGludCBkeSwgaW50W10gY29uc3VtZWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>Feeling</last-search>
+      <last-search>When did you eat</last-search>
       <last-offset />
-      <last-pattern>Feeling</last-pattern>
+      <last-pattern>When did you eat</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -917,7 +917,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setScroll</entry>
         <entry>Nested</entry>
         <entry>Scroll</entry>
         <entry>AnimationU</entry>
@@ -937,6 +936,7 @@
         <entry>RADIO_</entry>
         <entry>Feelings</entry>
         <entry>Feeling</entry>
+        <entry>When did you eat</entry>
       </history-search>
       <history-cmd>
         <entry>r DownloadFactory.java</entry>
