@@ -26,10 +26,12 @@
       <file name="/a.dummy" timestamp="1488483036679">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" timestamp="1488508984011">
-        <mark key="[" line="116" column="43" />
-        <mark key="]" line="116" column="43" />
-        <mark key="." line="116" column="43" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" timestamp="1488513965905">
+        <mark key="'" line="131" column="8" />
+        <mark key="[" line="394" column="56" />
+        <mark key="]" line="394" column="56" />
+        <mark key="." line="394" column="56" />
+        <mark key="^" line="394" column="91" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/data/TopicAnswer.java" timestamp="1488320884367">
         <mark key="a" line="96" column="8" />
@@ -341,13 +343,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TableView.java" timestamp="1488512496696">
-        <mark key="a" line="99" column="25" />
-        <mark key="'" line="163" column="45" />
-        <mark key="[" line="100" column="53" />
-        <mark key="]" line="100" column="58" />
-        <mark key="." line="100" column="58" />
-        <mark key="^" line="100" column="58" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TableView.java" timestamp="1488514280265">
+        <mark key="a" line="140" column="0" />
+        <mark key="'" line="167" column="45" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/actions/ActionInputDialog.java" timestamp="1488447484780">
         <mark key="a" line="245" column="12" />
@@ -464,11 +465,6 @@
         <mark key="]" line="49" column="11" />
         <mark key="^" line="49" column="11" />
         <mark key="." line="49" column="11" />
-      </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/utils/ViewUtils.java" timestamp="1488498272448">
-        <mark key="[" line="359" column="0" />
-        <mark key="]" line="359" column="0" />
-        <mark key="." line="359" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/injection/modules/DataModule.java" timestamp="1487959108822">
         <mark key="[" line="34" column="31" />
@@ -645,8 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionTextAreaView.java" />
-      <jump line="183" column="31" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionTextAreaView.java" />
       <jump line="34" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/test" />
       <jump line="207" column="46" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionTextAreaView.java" />
       <jump line="427" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/lastest" />
@@ -745,10 +739,12 @@
       <jump line="118" column="20" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TableView.java" />
       <jump line="119" column="51" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TableView.java" />
       <jump line="163" column="45" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TableView.java" />
+      <jump line="215" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
+      <jump line="131" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Top</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -928,64 +924,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Top</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>col</text>
+        <text>getMinimumW</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJvdyA+IDApIHsKICAgICAgICAgICAgICAgIHRhYmxlUm93LnNldFBhZGRpbmcoMCwgcm93U3BhY2luZywgMCwgMCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBJdGVyYXRlIHRocm91Z2ggYWxsIGFuc3dlcnMgZGV0ZXJtaW5pbmcgdGhlIG1pbmltdW0gYnV0dG9uIHdpZHRoIHRoYXQKICAgICAgICAgKiB3aWxsIGVuc3VyZSB0aGF0IG5vIHdvcmQgaXMgc3BsaXQgb3ZlciB0d28gbGluZXMuCiAgICAgICAgICovCiAgICAgICAgaWYgKGdldFNjaGVtYSgpLmdldEFuc3dlcnMoKS5zaXplKCkgPiAwCiAgICAgICAgICAgICAgICAmJiAoZ2V0U2NoZW1hKCkuZ2V0VHlwZSgpID09IFF1ZXN0aW9uLlR5cGUuQ0hFQ0tCT1gKICAgICAgICAgICAgICAgIHx8IGdldFNjaGVtYSgpLmdldFR5cGUoKSA9PSBRdWVzdGlvbi5UeXBlLlJBRElPX0JVVFRPTikpIHsKICAgICAgICAgICAgLy8gQ3JlYXRlIGFuIGVtcHR5IGFuc3dlciBidXR0b24gdmlldyBzbyB0aGF0IHRoZSBzYW1lIGxheW91dCBpcwogICAgICAgICAgICAvLyB1c2VkIGZvciBib3RoIHRoZSBjYWxjdWxhdGlvbiBoZXJlIGFuZCB0aGUgcmVhbCBpbmZsYXRlZCB2aWV3IGxhdGVyLgogICAgICAgICAgICBBbnN3ZXJCdXR0b25WaWV3IHZpZXcgPQogICAgICAgICAgICAgICAgICAgIEFuc3dlckJ1dHRvblZpZXcuaW5mbGF0ZShBbnN3ZXIuVHlwZS5DSEVDS0JPWCwgdGhpcywgZmFsc2UpOwogICAgICAgICAgICAvLyBNZWFzdXJlIGFsbCB2aWV3cyB0byBmaW5kIHRoZSBtaW5pbXVtIHdpZHRoIHRoYXQgZW5zdXJlcyB0aGF0CiAgICAgICAgICAgIC8vIG5vIHdvcmQgZ2V0J3Mgc3BsaXQgb3ZlciB0d28gbGluZXMuCiAgICAgICAgICAgIG1pbldpZHRoID0gU3RyZWFtU3VwcG9ydC5zdHJlYW0oZ2V0U2NoZW1hKCkuZ2V0QW5zd2VycygpKQogICAgICAgICAgICAgICAgICAgIC5tYXBUb0ludChhbnN3ZXIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KGFuc3dlci5nZXRUaXRsZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHNwbGl0VGV4dCA9IGFuc3dlci5nZXRUaXRsZSgpLnJlcGxhY2UoJyAnLCAnXG4nKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcuc2V0VGV4dChzcGxpdFRleHQpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcubWVhc3VyZShWaWV3R3JvdXAuTGF5b3V0UGFyYW1zLldSQVBfQ09OVEVOVCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZpZXdHcm91cC5MYXlvdXRQYXJhbXMuV1JBUF9DT05URU5UKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHZpZXcuZ2V0TWVhc3VyZWRXaWR0aCgpOwogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgLm1heCgpCiAgICAgICAgICAgICAgICAgICAgLm9yRWxzZSgwKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGVSb3cuc2V0TGF5b3V0UGFyYW1zKGxheW91dFBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyb3cgPiAwKSB7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3LnNldE0oMCwgcm93U3BhY2luZywgMCwgMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVGFibGVMYXlvdXQuTGF5b3V0UGFyYW1zLldSQVBfQ09OVEVOVCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNsaWNrYWJsZT0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwVG9JbnQoYW5zd2VyIC0+IGFuc3dlci4K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS0gVGhlIGdvYWwgaXMgdG8gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6Y2xpY2thYmxlPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBWaWV3VXRpbHMuZ2V0TWluVGV4dFZpZXdXaWR0aCh0ZXh0VmlldywgYW5zd2VyLmdldFRpdGxlKCkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGltYWdlVmlldyAhPSBudWxsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAidHJhY2tlciI6ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>col</last-search>
+      <last-search>getMinimumW</last-search>
       <last-offset />
-      <last-pattern>col</last-pattern>
+      <last-pattern>getMinimumW</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>action</entry>
-        <entry>action_type</entry>
         <entry>No posi</entry>
         <entry>Disable</entry>
         <entry encoding="base64">VG9kYXkgSSA=</entry>
@@ -993,7 +987,6 @@
         <entry>transla</entry>
         <entry>useD</entry>
         <entry>measure</entry>
-        <entry>bindView</entry>
         <entry>getType</entry>
         <entry>finalButtonWidth</entry>
         <entry>setAd</entry>
@@ -1004,6 +997,9 @@
         <entry>rowSp</entry>
         <entry>columnSpa</entry>
         <entry>col</entry>
+        <entry>inflate</entry>
+        <entry>bindView</entry>
+        <entry>getMinimumW</entry>
       </history-search>
       <history-cmd>
         <entry>r DownloadFactory.java</entry>
