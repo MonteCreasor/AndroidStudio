@@ -353,10 +353,11 @@
       <file name="/a.regexp" timestamp="1488093240067">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/answer_group_view.xml" timestamp="1488846381612">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/answer_group_view.xml" timestamp="1488847073785">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/radio" timestamp="1488763674074">
         <mark key="a" line="31" column="12" />
@@ -518,8 +519,8 @@
       <jump line="221" column="11" filename="$USER_HOME$/android/widgets/flexbox-layout/app/src/main/java/com/google/android/apps/flexbox/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLQo=</text>
+      <register name="&quot;" type="4">
+        <text>flex_start</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -699,7 +700,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stretch</text>
+        <text>flex_start</text>
       </register>
       <register name="/" type="4">
         <text>flexGrow</text>
