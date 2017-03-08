@@ -6,11 +6,13 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/ApiException.java" timestamp="1489003269984">
-        <mark key="[" line="73" column="49" />
-        <mark key="]" line="73" column="49" />
-        <mark key="." line="73" column="49" />
-        <mark key="^" line="72" column="13" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/ApiException.java" timestamp="1489003913782">
+        <mark key="a" line="83" column="6" />
+        <mark key="'" line="66" column="8" />
+        <mark key="[" line="99" column="19" />
+        <mark key="]" line="99" column="19" />
+        <mark key="^" line="97" column="39" />
+        <mark key="." line="99" column="19" />
       </file>
       <file name="$USER_HOME$/android/mvp/AndroidStarter/config/quality.gradle" timestamp="1488666227802">
         <mark key="[" line="32" column="55" />
@@ -135,12 +137,12 @@
       <file name="/a.txt" timestamp="1488093246960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/TodayFragment.java" timestamp="1489003059097">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/TodayFragment.java" timestamp="1489004174703">
         <mark key="'" line="58" column="23" />
-        <mark key="[" line="240" column="66" />
-        <mark key="]" line="240" column="76" />
-        <mark key="^" line="240" column="76" />
-        <mark key="." line="247" column="72" />
+        <mark key="[" line="235" column="65" />
+        <mark key="]" line="235" column="85" />
+        <mark key="^" line="235" column="85" />
+        <mark key="." line="235" column="85" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/NoSplitWordsView.java" timestamp="1488948010570" />
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/BaseApp.java" timestamp="1488435693730">
@@ -502,6 +504,12 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/Constants.java" timestamp="1489003739174">
+        <mark key="[" line="62" column="85" />
+        <mark key="]" line="62" column="89" />
+        <mark key="." line="62" column="89" />
+        <mark key="^" line="62" column="89" />
+      </file>
       <file name="$USER_HOME$/android/mvp/best/android-mvp-architecture/app/src/main/java/com/mindorks/framework/mvp/ui/base/BasePresenter.java" timestamp="1488997388270" />
       <file name="$USER_HOME$/android/widgets/flexbox-layout/app/src/main/res/layout/flex_button.xml" timestamp="1488745828639">
         <mark key="[" line="3" column="33" />
@@ -574,7 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="819" column="24" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="821" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="903" column="44" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="954" column="28" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
@@ -674,10 +681,11 @@
       <jump line="17" column="27" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/RetrofitException.java" />
       <jump line="35" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/ErrorHandlingCallAdapterFactory.java" />
       <jump line="89" column="6" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/RetrofitException.java" />
+      <jump line="63" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/ApiException.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>connection</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -857,46 +865,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>connection</text>
       </register>
       <register name="/" type="4">
         <text>RetrofitExc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdGVyLnNob3dTaG9ydChnZXRBY3Rpdml0eSgpLCAiQ2xpZW50IEVycm9yIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhcGlFeGNlcHRpb24uaXNDb25uZWN0aW9uRXJyb3IoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0ZXIuc2hvd1Nob3J0KGdldENvbnRleHQoKSwgIk5vIGludGVybmV0IGNvbm5lY3Rpb24uIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGFwaUV4Y2VwdGlvbi5pc1VuYXV0aGVudGljYXRlZEVycm9yKCkpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3Rlci5zaG93U2hvcnQoZ2V0QWN0aXZpdHkoKSwgIkNsaWVudCBFcnJvciIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhcGlFeGNlcHRpb24uaXNDb25uZWN0aW9uRXJyb3IoKSkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSLnN0cmluZy5mZXRjaF90b2RheV90b3BpY3NfZmFpbGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVW5rbm93bkhvc3RFeGNlcHRpb24gY2F1c2UgPSAoVW5rbm93bkhvc3RFeGNlcHRpb24pZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0ZXIuc2hvd1Nob3J0KGdldEFjdGl2aXR5KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSLnN0cmluZy5mZXRjaF90b2RheV90b3BpY3NfZmFpbGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTXlEYXlBcHAuZ2V0SW5zdGFuY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9hc3Rlci5zaG93U2hvcnQoZ2V0QWN0aXZpdHkoKSwgIkNsaWVudCBFcnJvciIpOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBcGlFeGNlcHRpb24gYXBpRXhjZXB0aW9uID0gKEFwaUV4Y2VwdGlvbillcnJvcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSLnN0cmluZy5mZXRjaF90b2RheV90b3BpY3NfZmFpbGVkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChlcnJvciBpbnN0YW5jZW9mIEFwaUV4Y2VwdGlvbikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEV4Y2VwdG9pbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0ZXIuc2hvd1Nob3J0KGdldEFjdGl2aXR5KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSLnN0cmluZy5mZXRjaF90b2RheV90b3BpY3NfZmFpbGVkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
