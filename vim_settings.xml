@@ -6,11 +6,6 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/ApiException.java" timestamp="1489264581376">
-        <mark key="'" line="76" column="44" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="77" column="39" />
-      </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/ErrorView.java" timestamp="1489274301792">
         <mark key="[" line="47" column="45" />
         <mark key="]" line="48" column="15" />
@@ -31,6 +26,12 @@
       </file>
       <file name="/a.dummy" timestamp="1489192616956">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/authenticator/ApiKeyProvider.java" timestamp="1489278615895">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/answer_radio_button.xml" timestamp="1488912573003">
         <mark key="'" line="27" column="102" />
@@ -77,12 +78,12 @@
         <mark key="^" line="50" column="67" />
         <mark key="." line="50" column="67" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/AccountService.java" timestamp="1489276058551">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/AccountService.java" timestamp="1489278570687">
         <mark key="'" line="39" column="34" />
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="59" />
-        <mark key="^" line="24" column="59" />
-        <mark key="." line="24" column="59" />
+        <mark key="[" line="70" column="40" />
+        <mark key="]" line="70" column="44" />
+        <mark key="^" line="70" column="44" />
+        <mark key="." line="70" column="44" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/anim/fade_in.xml" timestamp="1489256857643">
         <mark key="[" line="6" column="0" />
@@ -365,13 +366,13 @@
         <mark key="^" line="65" column="49" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/LoginActivity.java" timestamp="1489277998650">
-        <mark key="'" line="343" column="25" />
-        <mark key="[" line="320" column="44" />
-        <mark key="]" line="320" column="47" />
-        <mark key="." line="320" column="47" />
-        <mark key="^" line="320" column="47" />
-        <mark key="o" line="219" column="28" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/LoginActivity.java" timestamp="1489278697295">
+        <mark key="'" line="308" column="5" />
+        <mark key="[" line="338" column="78" />
+        <mark key="]" line="338" column="81" />
+        <mark key="^" line="338" column="81" />
+        <mark key="." line="338" column="81" />
+        <mark key="o" line="216" column="28" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/BaseActivity.java" timestamp="1489274635152">
         <mark key="'" line="552" column="14" />
@@ -577,7 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="438" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/ViewSwapper.java" />
       <jump line="439" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/ViewSwapper.java" />
       <jump line="270" column="22" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/ViewSwapper.java" />
       <jump line="298" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/ViewSwapper.java" />
@@ -677,10 +677,11 @@
       <jump line="304" column="37" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/LoginActivity.java" />
       <jump line="219" column="28" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/LoginActivity.java" />
       <jump line="343" column="25" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/LoginActivity.java" />
+      <jump line="308" column="5" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/LoginActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBBbHdheXMgY2xlYXIgdGhlIGF1dGhlbnRpY2F0aW9uIGtleSBzZW50IHdpdGggZWFjaCBBUEkgcmVxdWVzdC4K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -860,55 +861,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>authentication key sent with each API request.</text>
       </register>
       <register name="/" type="4">
-        <text>token =</text>
+        <text>setAuthToken</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudE1hbmFnZXIuc2V0QXV0aFRva2VuKGFjY291bnQsIENvbnN0YW50cy5BdXRoLkJPT1RTVFJBUF9BQ0NPVU5UX1RZUEUsIHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQWx3YXlzIGNsZWFyIGFueSBwcmV2aW91c2x5IGNhY2hlZCBhdXRoZW50aWNhdGlvbiB0b2tlbiBpbiB0aGUgS2V5UHJvdmlkZXIuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIE5vdCBjdXJyZW50bHkgY2FsbGVkLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBBbHdheXMgY2xlYXIgdGhlIGF1dGhlbnRpY2F0aW9uIGtleSBzZW50IHdpdGggZWFjaCBBUEkgcmVxdWVzdC4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdWNjZXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBBbHdheXMgY2xlYXIgdGhlIGF1dGhlbnRpY2F0aW9uIGtleSBzZW50IHdpdGggZWFjaCBBUEkgcmVxdWVzdC4KICAgICAgICBhY2NvdW50U2VydmljZS5jbGVhckF1dGhLZXkoKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlbnQucHV0RXh0cmEoS0VZX0JPT0xFQU5fUkVTVUxULCBzdWNjZXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBBbHdheXMgY2xlYXIgdGhlIGF1dGhlbnRpY2F0aW9uIGtleSBzZW50IHdpdGggZWFjaCBBUEkgcmVxdWVzdC4KICAgICAgICBhY2NvdW50U2VydmljZS5jbGVhckF1dGhLZXkoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudE1hbmFnZXIuc2V0QXV0aFRva2VuKGFjY291bnQsIENvbnN0YW50cy5BdXRoLkJPT1RTVFJBUF9BQ0NPVU5UX1RZUEUsIHRva2VuKTsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluaXNoQ29uZmlybUNyZWRlbnRpYWxzKHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAqIGNhbGxlci4gQWxzbyBzZXRzIHRoZSBhdXRoVG9rZW4gaW4gQWNjb3VudE1hbmFnZXIgZm9yIHRoaXMgYWNjb3VudC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZpcm1DcmVkZW50aWFscykgewo=</text>
+        <text encoding="base64">ICAgICAqIG9uQXV0aGVudGljYXRpb25SZXN1bHQoKS4gU2V0cyB0aGUgQWNjb3VudEF1dGhlbnRpY2F0b3JSZXN1bHQgd2hpY2ggaXMgc2VudCBiYWNrIHRvIHRoZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqIENhbGxlZCB3aGVuIHJlc3BvbnNlIGlzIHJlY2VpdmVkIGZyb20gdGhlIHNlcnZlciBmb3IgYXV0aGVudGljYXRpb24gcmVxdWVzdC4gU2VlCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>token =</last-search>
+      <last-search>setAuthToken</last-search>
       <last-offset />
-      <last-pattern>token =</last-pattern>
+      <last-pattern>setAuthToken</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -916,7 +917,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setRefre</entry>
         <entry>onSwip</entry>
         <entry>swipeRefresh</entry>
         <entry>onRefre</entry>
@@ -936,6 +936,7 @@
         <entry>finishConfirmCre</entry>
         <entry>token</entry>
         <entry>token =</entry>
+        <entry>setAuthToken</entry>
       </history-search>
       <history-cmd>
         <entry>r DownloadFactory.java</entry>
