@@ -234,12 +234,12 @@
         <mark key="." line="277" column="23" />
         <mark key="^" line="277" column="23" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" timestamp="1489354311540">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="26" />
-        <mark key="]" line="57" column="27" />
-        <mark key="." line="57" column="27" />
-        <mark key="^" line="130" column="72" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" timestamp="1489428768465">
+        <mark key="'" line="78" column="61" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/activity_login.xml" timestamp="1489383572542">
         <mark key="[" line="83" column="43" />
@@ -504,6 +504,9 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/mar13" timestamp="1489429372438">
+        <mark key="'" line="3199" column="19" />
+      </file>
       <file name="$USER_HOME$/android/mvp/android-mvp-architecture/app/src/main/java/com/mindorks/framework/mvp/ui/main/MainPresenter.java" timestamp="1488663304518">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -723,12 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/LoginActivity.java" />
-      <jump line="316" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/LoginActivity.java" />
-      <jump line="61" column="31" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/LoginActivity.java" />
-      <jump line="220" column="63" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/LoginActivity.java" />
-      <jump line="42" column="13" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/TodayFragment.java" />
-      <jump line="53" column="11" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/TodayFragment.java" />
       <jump line="56" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/TodayFragment.java" />
       <jump line="30" column="56" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/ViewSwapper.java" />
       <jump line="306" column="11" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/ViewSwapper.java" />
@@ -823,6 +820,12 @@
       <jump line="656" column="20" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="38" column="62" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/colors.xml" />
       <jump line="50" column="4" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/colors.xml" />
+      <jump line="0" column="1" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" />
+      <jump line="78" column="61" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" />
+      <jump line="3339" column="1" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/mar13" />
+      <jump line="21" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/mar13" />
+      <jump line="3098" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/mar13" />
+      <jump line="3199" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/mar13" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1009,7 +1012,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>fetchDat</text>
+        <text>&quot;Snack&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdnYWJsZSB0cnVlCg==</text>
@@ -1052,19 +1055,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fetchDat</last-search>
+      <last-search>&quot;Snack&quot;</last-search>
       <last-offset />
-      <last-pattern>fetchDat</last-pattern>
+      <last-pattern>&quot;Snack&quot;</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>19AD75</entry>
-        <entry>darkGreen</entry>
-        <entry>sttr</entry>
         <entry>colorGreen</entry>
         <entry>green</entry>
         <entry>LongClick</entry>
@@ -1082,6 +1082,9 @@
         <entry>updateCol</entry>
         <entry>bindViews</entry>
         <entry>fetchDat</entry>
+        <entry>allDone</entry>
+        <entry>All</entry>
+        <entry>&quot;Snack&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>r DownloadFactory.java</entry>
