@@ -64,8 +64,12 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/build.gradle" timestamp="1489392328202">
-        <mark key="[" line="56" column="27" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/build.gradle" timestamp="1489443754780">
+        <mark key="a" line="64" column="12" />
+        <mark key="[" line="65" column="39" />
+        <mark key="]" line="65" column="39" />
+        <mark key="." line="65" column="39" />
+        <mark key="^" line="65" column="39" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/graphics/Rect.java" timestamp="1488872633023">
         <mark key="[" line="121" column="18" />
@@ -835,7 +839,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>e</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1015,46 +1019,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>&quot;Snack&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnYWJsZSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXYgewogICAgICAgICAgICB2ZXJzaW9uQ29kZSBnaXRWZXJzaW9uQ29kZVRtZQogICAgICAgICAgICB2ZXJzaW9uTmFtZSBnaXRWZXJzaW9uTmFtZQogICAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJhY3Rpb25fYmFyX3RleHRfdW5jb21wbGV0ZWRfZXhwYW5kZWQiPkBjb2xvci9ibGFjazwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iYWN0aW9uX2Jhcl90ZXh0X3VuY29tcGxldGVkX2NvbGxhcHNlZCI+QGNvbG9yL3doaXRlPC9jb2xvcj4K</text>
+      <register name="1" type="4">
+        <text>apply plugin: 'com.android.application'
+apply plugin: 'me.tatarka.retrolambda'
+apply from: &quot;$project.rootDir/tools/it-version.gradle&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJhY3Rpb25fYmFyX3RleHRfY29tcGxldGVkX2NvbGxhcHNlZCI+QGNvbG9yL2JsYWNrPC9jb2xvcj4K</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJhY3Rpb25fYmFyX3RleHRfdW5jb21wbGV0ZWRfZXhwYW5kZWQiPkBjb2xvci9ibGFjazwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iYWN0aW9uX2Jhcl90ZXh0X3VuY29tcGxldGVkX2NvbGxhcHNlZCI+QGNvbG9yL3doaXRlPC9jb2xvcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJhY3Rpb25fYmFyX3RleHRfY29tcGxldGVkX2NvbGxhcHNlZCI+QGNvbG9yL2JsYWNrPC9jb2xvcj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUkFXX1FVRVNUSU9OUzsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCBnZXRSYXdRdWVzdGlvbnMoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUkFXX1FVRVNUSU9OUzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSYXdSZXMK</text>
+        <text encoding="base64">ICAgIGludCBnZXRSYXdRdWVzdGlvbnMoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMK</text>
+        <text encoding="base64">ICAgIEBSYXdSZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
