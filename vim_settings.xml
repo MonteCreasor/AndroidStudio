@@ -442,10 +442,11 @@
         <mark key="^" line="34" column="41" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/CustomTestExecutor.java" timestamp="1491512588959">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/CustomTestExecutor.java" timestamp="1491515665188">
+        <mark key="[" line="70" column="13" />
+        <mark key="]" line="71" column="13" />
+        <mark key="." line="71" column="13" />
+        <mark key="^" line="71" column="13" />
       </file>
       <file name="/a.regexp" timestamp="1489960620553">
         <mark key="[" line="0" column="0" />
@@ -599,8 +600,8 @@
       <jump line="39" column="33" filename="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/TestRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdFJlcXVlc3QuZ2V0UmVxdWVzdCgpLmdldFJ1bm5lcigpLmdldAo=</text>
+      <register name="&quot;" type="4">
+        <text>EvaluationCriteriaScore</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -780,7 +781,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getRunner().getDescription().</text>
+        <text>EvaluationCriteriaScore</text>
       </register>
       <register name="/" type="4">
         <text>TestExecutor</text>
