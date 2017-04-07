@@ -437,7 +437,14 @@
         <mark key="^" line="32" column="55" />
         <mark key="." line="32" column="55" />
       </file>
-      <file name="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" timestamp="1491605851716" />
+      <file name="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" timestamp="1491607266469">
+        <mark key="a" line="163" column="0" />
+        <mark key="'" line="163" column="0" />
+        <mark key="[" line="226" column="51" />
+        <mark key="]" line="226" column="59" />
+        <mark key="^" line="226" column="59" />
+        <mark key="." line="226" column="59" />
+      </file>
       <file name="$USER_HOME$/jules/apps/app/src/main/java/edu/vanderbilt/demo/App.java" timestamp="1491499890660">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="7" />
@@ -574,7 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="42" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/actions/ActionTimeDialog.java" />
       <jump line="79" column="31" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/actions/ActionTimeDialog.java" />
       <jump line="2124" column="37" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/sandbox" />
       <jump line="682" column="61" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
@@ -674,10 +680,11 @@
       <jump line="2297" column="88" filename="$USER_HOME$/jules/apps/.idea/workspace.xml" />
       <jump line="2299" column="82" filename="$USER_HOME$/jules/apps/.idea/workspace.xml" />
       <jump line="2306" column="89" filename="$USER_HOME$/jules/apps/.idea/workspace.xml" />
+      <jump line="163" column="0" filename="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>increased</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -857,13 +864,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>increased</text>
       </register>
       <register name="/" type="4">
-        <text>TestRunner</text>
+        <text>mCache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Rlc3RJbnN0cnVtZW50YXRpb25SdW5uZXIgImFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywgIkNhY2hlIHNpemUgaW5jcmVhc2VkIHRvICIgKyBtQ2FjaGUuc2l6ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBJbnN0cnVtZW50YXRpb24K</text>
@@ -903,9 +910,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TestRunner</last-search>
+      <last-search>mCache</last-search>
       <last-offset />
-      <last-pattern>TestRunner</last-pattern>
+      <last-pattern>mCache</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -913,7 +920,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getThumb</entry>
         <entry>hasAnswer</entry>
         <entry>setAnswer</entry>
         <entry>reset</entry>
@@ -933,6 +939,7 @@
         <entry>Runner</entry>
         <entry>AndroidJUnit</entry>
         <entry>TestRunner</entry>
+        <entry>mCache</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
