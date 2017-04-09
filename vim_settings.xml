@@ -466,12 +466,8 @@
         <mark key="^" line="32" column="55" />
         <mark key="." line="32" column="55" />
       </file>
-      <file name="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" timestamp="1491770986741">
-        <mark key="'" line="82" column="41" />
-        <mark key="[" line="152" column="40" />
-        <mark key="]" line="153" column="21" />
-        <mark key="^" line="153" column="21" />
-        <mark key="." line="153" column="21" />
+      <file name="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" timestamp="1491775967216">
+        <mark key="a" line="151" column="37" />
       </file>
       <file name="$USER_HOME$/jules/apps/app/src/main/java/edu/vanderbilt/demo/App.java" timestamp="1491499890660">
         <mark key="[" line="13" column="25" />
@@ -615,7 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="541" column="25" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
       <jump line="426" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
       <jump line="451" column="13" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
       <jump line="455" column="42" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
@@ -715,10 +710,11 @@
       <jump line="55" column="21" filename="$USER_HOME$/android/rxjava/RxJava2-Android-Samples/app/src/main/java/com/rxjava2/android/samples/ui/operators/SingleObserverExampleActivity.java" />
       <jump line="68" column="28" filename="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" />
       <jump line="82" column="41" filename="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" />
+      <jump line="146" column="0" filename="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>unti</text>
+        <text>cancelRunnable</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -898,55 +894,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>unti</text>
+        <text>cancelRunnable</text>
       </register>
       <register name="/" type="4">
-        <text>mCache</text>
+        <text>TimeoutMil</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGV4dFZpZXcuYXBwZW5kKCIgb25FcnJvciA6ICIgKyBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHRleHRWaWV3LmFwcGVuZChBcHBDb25zdGFudC5MSU5FX1NFUEFSQVRPUik7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZy5kKFRBRywgIiBvbkVycm9yIDogIiArIGUuZ2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBTY2hlZHVsZSB0aGUgcnVubmFibGUgdG8gYmUgZXhlY3V0ZWQgYWZ0ZXIgbVRpbWVvdXRJbk1pbGxpc2Vjcy4KICAgICAgICAgICAgICAgICAgICBtU2NoZWR1bGVkRXhlY3V0b3JTZXJ2aWNlLnNjaGVkdWxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gUmVtb3ZlIHRoZSBrZXkgb25seSBpZiBpdCBoYXNuJ3QgYmVlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gYWNjZXNzZWQgaW4gbVRpbWVvdXRJbk1pbGxpc2Vjcy4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtQ2FjaGUucmVtb3ZlKGtleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vbkFjY2Vzc2VkVmFsdWUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAia2V5ICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsga2V5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICIgcmVtb3ZlZCBmcm9tIGNhY2hlIHNpbmNlIGl0IGhhc24ndCBiZWVuIGFjY2Vzc2VkICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgInJlY2VudGx5Iik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5kKFRBRywgImtleSAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIGtleQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAiIE5PVCByZW1vdmVkIGZyb20gY2FjaGUgc2luY2UgaXRzIHJlZiBjb3VudCAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIGZ1dHVyZVRhc2subVJlZkNvdW50LmdldCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICIgaW5kaWNhdGVzIHJlY2VudCBhY2Nlc3MiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBSZXNldCB0aGUga2V5J3MgdmFsdWUgc28gaXQgd29uJ3QgYmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25zaWRlcmVkIGFzIGFjY2Vzc2VkICh5ZXQpLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1DYWNoZS5yZXBsYWNlKGtleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub25BY2Nlc3NlZFZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBSZXNjaGVkdWxlIHRoaXMgcnVubmFibGUgdG8gYmUgcnVuIGluIG1UaW1lb3V0SW5NaWxsaXNlY3MuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNjaGVkdWxlZEV4ZWN1dG9yU2VydmljZS5zY2hlZHVsZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRoaXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVRpbWVvdXRJbk1pbGxpc2VjcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtVGltZW91dEluTWlsbGlzZWNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWVVbml0Lk1JTExJU0VDT05EUyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWVVbml0Lk1JTExJU0VDT05EUyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmdXR1cmVUYXNrLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1UaW1lb3V0SW5NaWxsaXNlY3MsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1dHVyZVRhc2suZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRoaXMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb21wbGV0YWJsZUZ1dHVyZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1TY2hlZHVsZWRFeGVjdXRvclNlcnZpY2Uuc2NoZWR1bGUK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJhcHBseTogc2NoZWR1bGluZyBjYW5jZWwgcnVubmFibGUgdG8gcnVuIGluICIgKyBtVGltZW91dEluTWlsbGlzZWNzICsgIiBtc2VjcyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJydW46IHJlLXNjaGVkdWxpbmcgY2FuY2VsIHJ1bm5hYmxlIHRvIHJ1biBpbiAiICsgbVRpbWVvdXRJbk1pbGxpc2VjcyArICIgbXNlY3MiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>mCache</last-search>
+      <last-search>TimeoutMil</last-search>
       <last-offset />
-      <last-pattern>mCache</last-pattern>
+      <last-pattern>TimeoutMil</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -954,7 +950,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setAnswer</entry>
         <entry>reset</entry>
         <entry>BG level</entry>
         <entry>Mock</entry>
@@ -974,6 +969,7 @@
         <entry>TestRunner</entry>
         <entry>Obser</entry>
         <entry>mCache</entry>
+        <entry>TimeoutMil</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
