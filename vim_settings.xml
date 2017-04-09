@@ -331,11 +331,12 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/jules/apps/app/build.gradle" timestamp="1491593649845">
-        <mark key="[" line="27" column="61" />
-        <mark key="]" line="52" column="43" />
-        <mark key="^" line="25" column="9" />
-        <mark key="." line="52" column="43" />
+      <file name="$USER_HOME$/jules/apps/app/build.gradle" timestamp="1491777569771">
+        <mark key="'" line="42" column="48" />
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="41" />
+        <mark key="^" line="52" column="41" />
+        <mark key="." line="52" column="41" />
       </file>
       <file name="$USER_HOME$/jules/apps/autograder/src/main/java/edu/vanderbilt/autograder/CustomTestExecutor.java" timestamp="1491517969021">
         <mark key="[" line="107" column="0" />
@@ -372,10 +373,6 @@
         <mark key="]" line="67" column="0" />
         <mark key="^" line="65" column="49" />
         <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/injection/modules/ApplicationModule.java" timestamp="1491686848053">
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="141" column="57" />
       </file>
       <file name="$USER_HOME$/android/junk/app/build/intermediates/res/merged/debug/layout/activity_grid_view.xml" timestamp="1489284837952">
         <mark key="[" line="2" column="0" />
@@ -611,7 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="426" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
       <jump line="451" column="13" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
       <jump line="455" column="42" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
       <jump line="487" column="61" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
@@ -711,10 +707,11 @@
       <jump line="68" column="28" filename="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" />
       <jump line="82" column="41" filename="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" />
       <jump line="146" column="0" filename="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" />
+      <jump line="42" column="48" filename="$USER_HOME$/jules/apps/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cancelRunnable</text>
+        <text>autograder</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -894,10 +891,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cancelRunnable</text>
+        <text>autograder</text>
       </register>
       <register name="/" type="4">
-        <text>TimeoutMil</text>
+        <text>auto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBTY2hlZHVsZSB0aGUgcnVubmFibGUgdG8gYmUgZXhlY3V0ZWQgYWZ0ZXIgbVRpbWVvdXRJbk1pbGxpc2Vjcy4KICAgICAgICAgICAgICAgICAgICBtU2NoZWR1bGVkRXhlY3V0b3JTZXJ2aWNlLnNjaGVkdWxlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gUmVtb3ZlIHRoZSBrZXkgb25seSBpZiBpdCBoYXNuJ3QgYmVlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gYWNjZXNzZWQgaW4gbVRpbWVvdXRJbk1pbGxpc2Vjcy4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtQ2FjaGUucmVtb3ZlKGtleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vbkFjY2Vzc2VkVmFsdWUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAia2V5ICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsga2V5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICIgcmVtb3ZlZCBmcm9tIGNhY2hlIHNpbmNlIGl0IGhhc24ndCBiZWVuIGFjY2Vzc2VkICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgInJlY2VudGx5Iik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5kKFRBRywgImtleSAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIGtleQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyAiIE5PVCByZW1vdmVkIGZyb20gY2FjaGUgc2luY2UgaXRzIHJlZiBjb3VudCAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIGZ1dHVyZVRhc2subVJlZkNvdW50LmdldCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICIgaW5kaWNhdGVzIHJlY2VudCBhY2Nlc3MiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBSZXNldCB0aGUga2V5J3MgdmFsdWUgc28gaXQgd29uJ3QgYmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25zaWRlcmVkIGFzIGFjY2Vzc2VkICh5ZXQpLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1DYWNoZS5yZXBsYWNlKGtleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub25BY2Nlc3NlZFZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBSZXNjaGVkdWxlIHRoaXMgcnVubmFibGUgdG8gYmUgcnVuIGluIG1UaW1lb3V0SW5NaWxsaXNlY3MuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNjaGVkdWxlZEV4ZWN1dG9yU2VydmljZS5zY2hlZHVsZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRoaXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVRpbWVvdXRJbk1pbGxpc2VjcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtVGltZW91dEluTWlsbGlzZWNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWVVbml0Lk1JTExJU0VDT05EUyk7Cg==</text>
@@ -940,9 +937,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TimeoutMil</last-search>
+      <last-search>auto</last-search>
       <last-offset />
-      <last-pattern>TimeoutMil</last-pattern>
+      <last-pattern>auto</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -950,7 +947,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reset</entry>
         <entry>BG level</entry>
         <entry>Mock</entry>
         <entry>BuildConfig</entry>
@@ -970,6 +966,7 @@
         <entry>Obser</entry>
         <entry>mCache</entry>
         <entry>TimeoutMil</entry>
+        <entry>auto</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
