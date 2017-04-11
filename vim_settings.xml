@@ -66,6 +66,9 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
+      <file name="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" timestamp="1491890141102">
+        <mark key="'" line="357" column="15" />
+      </file>
       <file name="$USER_HOME$/android/testing/spoon/spoon-client/src/main/java/com/squareup/spoon/SpoonRule.java" timestamp="1491888824244" />
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/utils/ColorStateListUtils.java" timestamp="1489039870611">
         <mark key="[" line="90" column="4" />
@@ -480,7 +483,6 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1491878818522" />
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/TopicView.java" timestamp="1490130024785">
         <mark key="[" line="903" column="0" />
         <mark key="]" line="903" column="0" />
@@ -622,10 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="487" column="61" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
-      <jump line="489" column="23" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
-      <jump line="498" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
-      <jump line="331" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerEditTextView.java" />
       <jump line="2342" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/sandbox" />
       <jump line="2352" column="15" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/sandbox" />
       <jump line="2353" column="15" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/sandbox" />
@@ -722,6 +720,10 @@
       <jump line="42" column="48" filename="$USER_HOME$/jules/apps/app/build.gradle" />
       <jump line="218" column="0" filename="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" />
       <jump line="129" column="27" filename="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeScheduledExecutorService/app/src/main/java/vandy/mooc/prime/utils/TimedMemoizer.java" />
+      <jump line="181" column="0" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
+      <jump line="294" column="6" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
+      <jump line="296" column="8" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
+      <jump line="357" column="15" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -908,7 +910,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>auto</text>
+        <text>pull</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgam9rZTEgPSBuZXcgSm9rZVNtaXRoKCkuZ2V0Sm9rZSgpOwogICAgICAgICgoVGV4dFZpZXcpZmluZFZpZXdCeUlkKFIuaWQudGV4dF92aWV3XzEpKS5zZXRUZXh0KGpva2UxKTsK</text>
@@ -951,9 +953,9 @@
       </register>
     </registers>
     <search>
-      <last-search>auto</last-search>
+      <last-search>pull</last-search>
       <last-offset />
-      <last-pattern>auto</last-pattern>
+      <last-pattern>pull</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -961,7 +963,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BG level</entry>
         <entry>Mock</entry>
         <entry>BuildConfig</entry>
         <entry>BuildConfig.DEBUG</entry>
@@ -981,6 +982,7 @@
         <entry>mCache</entry>
         <entry>TimeoutMil</entry>
         <entry>auto</entry>
+        <entry>pull</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
