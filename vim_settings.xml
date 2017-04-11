@@ -305,6 +305,12 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/jules/apps/app/build.gradle" timestamp="1491891054963">
+        <mark key="'" line="42" column="48" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/jules/apps/autograder/src/main/java/edu/vanderbilt/autograder/CustomTestExecutor.java" timestamp="1491517969021">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="69" />
@@ -358,6 +364,11 @@
         <mark key="]" line="11" column="81" />
         <mark key="^" line="11" column="80" />
         <mark key="." line="11" column="81" />
+      </file>
+      <file name="$USER_HOME$/jules/apps/internaltestlib/build.gradle" timestamp="1491891208867">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="29" column="5" />
       </file>
       <file name="$USER_HOME$/udacity/ud867-master/MyApplication/app/src/main/java/edu/vanderbilt/myapplication/MainActivity.java" timestamp="1491883028666">
         <mark key="[" line="18" column="47" />
@@ -592,7 +603,6 @@
         <mark key="." line="68" column="44" />
         <mark key="^" line="68" column="43" />
       </file>
-      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1491878818522" />
       <file name="$USER_HOME$/udacity/ud867-master/3.06-Demo-DeclaringFlavors/app/build.gradle" timestamp="1491877088449">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -616,7 +626,7 @@
         <mark key="^" line="3" column="74" />
         <mark key="." line="3" column="74" />
       </file>
-      <file name="/fragment.java" timestamp="1491889421819">
+      <file name="/fragment.java" timestamp="1491891178343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -727,7 +737,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>t</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -907,7 +917,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>pull</text>
@@ -916,37 +926,37 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgam9rZTEgPSBuZXcgSm9rZVNtaXRoKCkuZ2V0Sm9rZSgpOwogICAgICAgICgoVGV4dFZpZXcpZmluZFZpZXdCeUlkKFIuaWQudGV4dF92aWV3XzEpKS5zZXRUZXh0KGpva2UxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFzayBidWlsZFRlc3RKYXIge30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51ZGFjaXR5LmV4YW1wbGUuam9rZXMuSm9rZVNtaXRoOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51ZGFjaXR5LmV4YW1wbGUuam9rZXMuSm9rZVNtaXRoOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJ0ZXh0VmlldzEiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJ0ZXh0VmlldzEiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuNwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuNwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
