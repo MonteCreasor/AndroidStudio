@@ -78,8 +78,8 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" timestamp="1491890141102">
-        <mark key="'" line="357" column="15" />
+      <file name="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" timestamp="1492044946598">
+        <mark key="'" line="373" column="16" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/utils/ColorStateListUtils.java" timestamp="1489039870611">
         <mark key="[" line="90" column="4" />
@@ -402,6 +402,7 @@
         <mark key="." line="51" column="27" />
         <mark key="^" line="51" column="27" />
       </file>
+      <file name="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceLogger.java" timestamp="1492045115922" />
       <file name="$USER_HOME$/vandy/security/LocationTracker/app/src/main/res/layout/activity_ui.xml" timestamp="1490899016994">
         <mark key="[" line="25" column="31" />
         <mark key="]" line="25" column="42" />
@@ -577,7 +578,7 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492041679797">
+      <file name="/Dummy.txt" timestamp="1492044113938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -671,13 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="18" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionFlexBoxView.java" />
-      <jump line="165" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionFlexBoxView.java" />
-      <jump line="167" column="43" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionFlexBoxView.java" />
-      <jump line="376" column="22" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
-      <jump line="477" column="35" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
-      <jump line="581" column="24" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
-      <jump line="580" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
       <jump line="577" column="7" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
       <jump line="525" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
       <jump line="409" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
@@ -771,6 +765,13 @@
       <jump line="1015" column="46" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-all/c3ib5obfnqr0no9szq6qc17do/gradle-3.4.1/src/core/org/gradle/api/Project.java" />
       <jump line="1019" column="4" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-all/c3ib5obfnqr0no9szq6qc17do/gradle-3.4.1/src/core/org/gradle/api/Project.java" />
       <jump line="44" column="27" filename="$USER_HOME$/sandbox/AndroidAssg1/build.gradle" />
+      <jump line="242" column="0" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
+      <jump line="265" column="10" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
+      <jump line="108" column="9" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
+      <jump line="421" column="22" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
+      <jump line="503" column="12" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
+      <jump line="373" column="16" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -957,7 +958,7 @@
         <text>, JavaExec) {</text>
       </register>
       <register name="/" type="4">
-        <text>Config</text>
+        <text>TestResult</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcmludGxuICJ0ZXN0VmFyaWFudE91dHB1dHMuc2l6ZTogJHt0ZXN0VmFyaWFudE91dHB1dHMuc2l6ZSgpfSIK</text>
@@ -1000,9 +1001,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Config</last-search>
+      <last-search>TestResult</last-search>
       <last-offset />
-      <last-pattern>Config</last-pattern>
+      <last-pattern>TestResult</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1010,8 +1011,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BuildConfig.DEBUG</entry>
-        <entry>visibl</entry>
         <entry>xxx</entry>
         <entry>onCreate</entry>
         <entry>onExc</entry>
@@ -1030,6 +1029,8 @@
         <entry>instrum</entry>
         <entry>Runner</entry>
         <entry>Config</entry>
+        <entry>numShards</entry>
+        <entry>TestResult</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
