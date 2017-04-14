@@ -290,12 +290,11 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/sandbox/AndroidAssg1/build.gradle" timestamp="1492136112448">
-        <mark key="'" line="71" column="27" />
-        <mark key="[" line="83" column="49" />
-        <mark key="]" line="83" column="49" />
-        <mark key="^" line="83" column="49" />
-        <mark key="." line="83" column="49" />
+      <file name="$USER_HOME$/sandbox/AndroidAssg1/build.gradle" timestamp="1492138476116">
+        <mark key="[" line="88" column="17" />
+        <mark key="]" line="88" column="19" />
+        <mark key="." line="88" column="19" />
+        <mark key="^" line="88" column="19" />
       </file>
       <file name="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/AutoGraderTestRunner.java" timestamp="1491505726116">
         <mark key="[" line="14" column="0" />
@@ -697,7 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="16" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Instrumentation.java" />
       <jump line="353" column="43" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Instrumentation.java" />
       <jump line="357" column="44" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Instrumentation.java" />
       <jump line="1467" column="32" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Instrumentation.java" />
@@ -797,10 +795,11 @@
       <jump line="279" column="4" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-3.4.1-all/c3ib5obfnqr0no9szq6qc17do/gradle-3.4.1/src/core/org/gradle/api/Project.java" />
       <jump line="67" column="0" filename="$USER_HOME$/sandbox/AndroidAssg1/build.gradle" />
       <jump line="70" column="27" filename="$USER_HOME$/sandbox/AndroidAssg1/build.gradle" />
+      <jump line="87" column="29" filename="$USER_HOME$/sandbox/AndroidAssg1/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>generateTestJar</text>
+        <text>Zip</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -980,55 +979,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>generateTestJar</text>
+        <text>Zip</text>
       </register>
       <register name="/" type="4">
-        <text>Project get</text>
+        <text>Out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gIkRFU1RESVI6ICR7Y29tcGlsZURlYnVnQW5kcm9pZFRlc3RKYXZhV2l0aEphdmFjLmRlc3RpbmF0aW9uRGlyfSIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJzb3VyY2VTZXRzID0gJHthbmRyb2lkLnNvdXJjZVNldHMubWFpbi5qYXZhfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICAgICBnZXQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ByaW50bG4gIkRFU1RESVI6ICR7Y29tcGlsZURlYnVnSmF2YVdpdGhKYXZhYy5kZXN0aW5hdGlvbkRpcn0iCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkLnNvdXJjZVNldHMubWFpbi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZU5hbWUgIk1PTlRFX0xJQlJBUllfVEVTVCIKICAgICAgICAgICAgZnJvbSBjb21waWxlRGVidWdBbmRyb2lkVGVzdEphdmFXaXRoSmF2YWMuZGVzdGluYXRpb25EaXIKICAgICAgICAgICAgaW50byAnTU9OVEVfRElSJwo=</text>
+        <text encoding="base64">ICAgICAgICBzcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW4gCg==</text>
+        <text encoding="base64">c291cmNlU2V0T3UK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9kZXBlbmRzT24gY29tcGlsZURlYnVnQW5kcm9pZFRlc3RTb3VyY2VzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJzb3VyY2VTZXRPdXRwdXQgPSAke2FuZHJvaWQuc291cmNlU2V0T3V0cHV0fSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">LyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAiQVBQUFJPSiA9ICRhcHBQcm9qZWN0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Project get</last-search>
+      <last-search>Out</last-search>
       <last-offset />
-      <last-pattern>Project get</last-pattern>
+      <last-pattern>Out</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1036,8 +1035,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AndroidJUnit</entry>
-        <entry>TestRunner</entry>
         <entry>Obser</entry>
         <entry>mCache</entry>
         <entry>TimeoutMil</entry>
@@ -1056,6 +1053,8 @@
         <entry>mPalantiri</entry>
         <entry encoding="base64">IGdldA==</entry>
         <entry>Project get</entry>
+        <entry>out</entry>
+        <entry>Out</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
