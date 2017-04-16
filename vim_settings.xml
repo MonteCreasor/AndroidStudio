@@ -315,6 +315,9 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
+      <file name="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/CliArgs.kt" timestamp="1492317975711">
+        <mark key="'" line="66" column="6" />
+      </file>
       <file name="$USER_HOME$/vandy/CS891/KeySetBug/app/src/main/java/edu/vanderbilt/keysetbug/MainActivity.java" timestamp="1492117136464">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -363,10 +366,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/android/testing/spoon/build.gradle" timestamp="1492317720522">
+      <file name="$USER_HOME$/android/testing/spoon/build.gradle" timestamp="1492319315112">
+        <mark key="a" line="55" column="10" />
         <mark key="'" line="15" column="46" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="57" column="5" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/jules/apps/app/src/main/java/edu/vanderbilt/demo/SomeClass.java" timestamp="1491155171562">
@@ -667,9 +671,9 @@
         <mark key="^" line="23" column="30" />
         <mark key="." line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/android/testing/spoon/spoon-runner/build.gradle" timestamp="1492317733968">
+      <file name="$USER_HOME$/android/testing/spoon/spoon-runner/build.gradle" timestamp="1492317998674">
         <mark key="a" line="10" column="14" />
-        <mark key="[" line="10" column="0" />
+        <mark key="[" line="19" column="1" />
         <mark key="]" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/android/widgets/flexbox-layout/app/src/main/res/layout/flex_button.xml" timestamp="1488745828639">
@@ -678,7 +682,7 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492313897318">
+      <file name="/Dummy.txt" timestamp="1492318832142">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -770,8 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="29" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
-      <jump line="148" column="33" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
       <jump line="24" column="37" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonUtils.java" />
       <jump line="151" column="28" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonUtils.java" />
       <jump line="44" column="19" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
@@ -870,10 +872,12 @@
       <jump line="206" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.35/a80acda9d5c2aa80afb8b6f858968b24a178f4bc/jcommander-1.35-sources.jar!/com/beust/jcommander/JCommander.java" />
       <jump line="299" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.35/a80acda9d5c2aa80afb8b6f858968b24a178f4bc/jcommander-1.35-sources.jar!/com/beust/jcommander/JCommander.java" />
       <jump line="15" column="46" filename="$USER_HOME$/android/testing/spoon/build.gradle" />
+      <jump line="40" column="99" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/CliArgs.kt" />
+      <jump line="66" column="6" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/CliArgs.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29tcGlsZUtvdGxpbiB7CiAgc291cmNlQ29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CgogIGtvdGxpbk9wdGlvbnMgewogICAganZtVGFyZ2V0ID0gJzEuOCcKICAgIGFwaVZlcnNpb24gPSAnMS4xJwogICAgbGFuZ3VhZ2VWZXJzaW9uID0gJzEuMScKICB9Cn0K</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsKICAgICAgdXJsICdodHRwczovL3BsdWdpbnMuZ3JhZGxlLm9yZy9tMi8nCiAgICB9Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1056,10 +1060,10 @@
         <text>sdk</text>
       </register>
       <register name="/" type="4">
-        <text>xeno</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29tcGlsZUtvdGxpbiB7CiAgc291cmNlQ29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CgogIGtvdGxpbk9wdGlvbnMgewogICAganZtVGFyZ2V0ID0gJzEuOCcKICAgIGFwaVZlcnNpb24gPSAnMS4xJwogICAgbGFuZ3VhZ2VWZXJzaW9uID0gJzEuMScKICB9Cn0K</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsKICAgICAgdXJsICdodHRwczovL3BsdWdpbnMuZ3JhZGxlLm9yZy9tMi8nCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJ2FyZ3BhcnNlcic6ICdjb20ueGVub21hY2hpbmE6a290bGluLWFyZ3BhcnNlcjoxLjEuMCcsCg==</text>
@@ -1099,9 +1103,9 @@
       </register>
     </registers>
     <search>
-      <last-search>xeno</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>xeno</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1109,7 +1113,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BufferedReader</entry>
         <entry>androidSdk =</entry>
         <entry>new RemoteA</entry>
         <entry>isNullOr</entry>
@@ -1129,6 +1132,7 @@
         <entry>main(</entry>
         <entry>JCommander</entry>
         <entry>xeno</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
