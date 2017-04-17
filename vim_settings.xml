@@ -368,15 +368,19 @@
         <mark key="^" line="16" column="42" />
         <mark key="." line="16" column="42" />
       </file>
+      <file name="$USER_HOME$/android/testing/spoon/gradle.properties" timestamp="1492414363570">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="27" />
+      </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/values/strings.xml" timestamp="1492227654937">
         <mark key="[" line="2" column="52" />
         <mark key="]" line="3" column="3" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/android/testing/spoon/build.gradle" timestamp="1492404419494">
+      <file name="$USER_HOME$/android/testing/spoon/build.gradle" timestamp="1492414340082">
         <mark key="a" line="55" column="10" />
-        <mark key="'" line="15" column="46" />
+        <mark key="'" line="62" column="10" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="57" column="5" />
         <mark key="." line="13" column="0" />
@@ -580,11 +584,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/sandbox/AndroidAssg1/runner/src/main/java/com/example/TestRunListener.java" timestamp="1492303280177">
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-      </file>
       <file name="$USER_HOME$/android/mvp/AndroidStarterAlt/config/quality.gradle" timestamp="1488669820793">
         <mark key="[" line="32" column="55" />
         <mark key="]" line="32" column="55" />
@@ -678,7 +677,7 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492404305292">
+      <file name="/Dummy.txt" timestamp="1492414344237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -775,8 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="44" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonUtils.java" />
       <jump line="66" column="19" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonUtils.java" />
       <jump line="51" column="17" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonUtils.java" />
       <jump line="35" column="19" filename="$USER_HOME$/sandbox/AndroidAssg1/runner/src/main/java/com/example/Runner.java" />
@@ -875,10 +872,12 @@
       <jump line="205" column="4" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonDeviceRunner.java" />
       <jump line="233" column="0" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonRunner.java" />
       <jump line="135" column="43" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonRunner.java" />
+      <jump line="49" column="9" filename="$USER_HOME$/android/testing/spoon/build.gradle" />
+      <jump line="62" column="10" filename="$USER_HOME$/android/testing/spoon/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsKICAgICAgdXJsICdodHRwczovL3BsdWdpbnMuZ3JhZGxlLm9yZy9tMi8nCiAgICB9Cg==</text>
+        <text encoding="base64">R1JPVVA9Y29tLnNxdWFyZXVwLnNwb29uClZFUlNJT05fTkFNRT0yLjAuMC1TTkFQU0hPVAo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1061,10 +1060,10 @@
         <text>sdk</text>
       </register>
       <register name="/" type="4">
-        <text>GSON</text>
+        <text>GROUP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsKICAgICAgdXJsICdodHRwczovL3BsdWdpbnMuZ3JhZGxlLm9yZy9tMi8nCiAgICB9Cg==</text>
+        <text encoding="base64">R1JPVVA9Y29tLnNxdWFyZXVwLnNwb29uClZFUlNJT05fTkFNRT0yLjAuMC1TTkFQU0hPVAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJ2FyZ3BhcnNlcic6ICdjb20ueGVub21hY2hpbmE6a290bGluLWFyZ3BhcnNlcjoxLjEuMCcsCg==</text>
@@ -1104,9 +1103,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GSON</last-search>
+      <last-search>GROUP</last-search>
       <last-offset />
-      <last-pattern>GSON</last-pattern>
+      <last-pattern>GROUP</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1114,7 +1113,6 @@
     </search>
     <history>
       <history-search>
-        <entry>run(</entry>
         <entry>className</entry>
         <entry>testSize</entry>
         <entry>junitRe</entry>
@@ -1134,6 +1132,7 @@
         <entry>work</entry>
         <entry>Logger</entry>
         <entry>GSON</entry>
+        <entry>GROUP</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
