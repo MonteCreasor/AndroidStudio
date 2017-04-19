@@ -595,11 +595,11 @@
       <file name="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonTestRunListener.java" timestamp="1492303314368">
         <mark key="'" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1492632240742">
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="29" />
-        <mark key="^" line="43" column="29" />
-        <mark key="." line="43" column="29" />
+      <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1492634246171">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="42" />
+        <mark key="^" line="38" column="42" />
+        <mark key="." line="38" column="42" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values-v23/themes.xml" timestamp="1489388208534">
         <mark key="[" line="16" column="35" />
@@ -861,8 +861,8 @@
       <jump line="62" column="10" filename="$USER_HOME$/android/testing/spoon/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICh2YXJpYW50Lm5hbWUgPT0gImRlYnVnIikgewogICAgICAgIHZhcmlhbnQub3V0cHV0cy5lYWNoIHsgb3V0cHV0IC0+CiAgICAgICAgICAgIGFwayA9IG91dHB1dC5vdXRwdXRGaWxlCiAgICAgICAgICAgIGFwa0RpciA9IG91dHB1dC5vdXRwdXRGaWxlLnBhcmVudAogICAgICAgIH0KICAgIH0KfQoK</text>
+      <register name="&quot;" type="4">
+        <text>getByName</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1042,7 +1042,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sdk</text>
+        <text>getByName</text>
       </register>
       <register name="/" type="4">
         <text>GROUP</text>
