@@ -36,7 +36,7 @@
         <mark key="^" line="70" column="36" />
         <mark key="." line="70" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1493217851653">
+      <file name="/a.dummy" timestamp="1493247997239">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/xxx.java" timestamp="1491505887364">
@@ -258,6 +258,11 @@
         <mark key="]" line="62" column="60" />
         <mark key="^" line="45" column="3" />
         <mark key="." line="62" column="60" />
+      </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/dimens.xml" timestamp="1493247966045">
+        <mark key="'" line="19" column="17" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="49" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/drawable-v21/button_background_selector.xml" timestamp="1489037338689">
         <mark key="[" line="11" column="64" />
@@ -586,10 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="16" filename="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/MainActivityTest.java" />
-      <jump line="284" column="0" filename="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/android/support/test/runner/AndroidJUnitRunner.java" />
-      <jump line="371" column="0" filename="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/android/support/test/runner/AndroidJUnitRunner.java" />
-      <jump line="58" column="17" filename="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/TestRunner.java" />
       <jump line="48" column="12" filename="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/TestRunner.java" />
       <jump line="43" column="24" filename="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/TestRunner.java" />
       <jump line="42" column="19" filename="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/TestRunner.java" />
@@ -686,10 +687,14 @@
       <jump line="149" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/util/Strings.java" />
       <jump line="22" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/util/Strings.java" />
       <jump line="0" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/SplashActivity.java" />
+      <jump line="27" column="34" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/dimens.xml" />
+      <jump line="12" column="44" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/dimens.xml" />
+      <jump line="18" column="17" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/dimens.xml" />
+      <jump line="19" column="17" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/dimens.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KFZpZXdDb21wYXQuZ2V0VHJhbnNpdGlvbk5hbWUoc2hhcmVkRWxlbWVudCkpKSB7CiAgICAgICAgICAgICAgICBWaWV3Q29tcGF0LnNldFRyYW5zaXRpb25OYW1lKHNoYXJlZEVsZW1lbnQsICJzaGFyZWRFbGVtZW50Iik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHBhaXJzLmFkZChQYWlyLmNyZWF0ZShzaGFyZWRFbGVtZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmlld0NvbXBhdC5nZXRUcmFuc2l0aW9uTmFtZShzaGFyZWRFbGVtZW50KSkpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIEFjdGl2aXR5T3B0aW9uc0NvbXBhdC5tYWtlU2NlbmVUcmFuc2l0aW9uQW5pbWF0aW9uKAogICAgICAgICAgICAgICAgYWN0aXZpdHksIHBhaXJzLnRvQXJyYXkobmV3IFBhaXJbcGFpcnMuc2l6ZSgpXSkpLnRvQnVuZGxlKCk7Cg==</text>
+        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJzcGxhc2hfaW1hZ2Vfc2l6ZSI+MjAwZHA8L2RpbWVuPgo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -872,10 +877,10 @@
         <text>Top</text>
       </register>
       <register name="/" type="4">
-        <text>startActivityW</text>
+        <text>splash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KFZpZXdDb21wYXQuZ2V0VHJhbnNpdGlvbk5hbWUoc2hhcmVkRWxlbWVudCkpKSB7CiAgICAgICAgICAgICAgICBWaWV3Q29tcGF0LnNldFRyYW5zaXRpb25OYW1lKHNoYXJlZEVsZW1lbnQsICJzaGFyZWRFbGVtZW50Iik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHBhaXJzLmFkZChQYWlyLmNyZWF0ZShzaGFyZWRFbGVtZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmlld0NvbXBhdC5nZXRUcmFuc2l0aW9uTmFtZShzaGFyZWRFbGVtZW50KSkpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIEFjdGl2aXR5T3B0aW9uc0NvbXBhdC5tYWtlU2NlbmVUcmFuc2l0aW9uQW5pbWF0aW9uKAogICAgICAgICAgICAgICAgYWN0aXZpdHksIHBhaXJzLnRvQXJyYXkobmV3IFBhaXJbcGFpcnMuc2l6ZSgpXSkpLnRvQnVuZGxlKCk7Cg==</text>
+        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJzcGxhc2hfaW1hZ2Vfc2l6ZSI+MjAwZHA8L2RpbWVuPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4K</text>
@@ -915,9 +920,9 @@
       </register>
     </registers>
     <search>
-      <last-search>startActivityW</last-search>
+      <last-search>splash</last-search>
       <last-offset />
-      <last-pattern>startActivityW</last-pattern>
+      <last-pattern>splash</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -925,7 +930,6 @@
     </search>
     <history>
       <history-search>
-        <entry>auto</entry>
         <entry>runner</entry>
         <entry>Runner</entry>
         <entry>set</entry>
@@ -945,6 +949,7 @@
         <entry>join)</entry>
         <entry>join</entry>
         <entry>startActivityW</entry>
+        <entry>splash</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
