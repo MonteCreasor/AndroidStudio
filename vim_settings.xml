@@ -128,6 +128,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" timestamp="1493170045762">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="156" column="45" />
+        <mark key="]" line="156" column="46" />
+        <mark key="." line="156" column="45" />
+      </file>
       <file name="$USER_HOME$/jules/apps/app/src/main/java/edu/vanderbilt/demo/MainActivity.java" timestamp="1491257994162">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -153,9 +159,6 @@
       </file>
       <file name="/a.txt" timestamp="1493167440110">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/AlertDialog.java" timestamp="1493157825000">
-        <mark key="'" line="502" column="15" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/drawable/answer_checkbox_button_divider.xml" timestamp="1489709971783">
         <mark key="[" line="1" column="49" />
@@ -387,6 +390,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="16" column="42" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/myday/sample/src/main/java/com/monte/sample/MainActivity.java" timestamp="1493169545571">
+        <mark key="a" line="123" column="8" />
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="64" />
       </file>
       <file name="$USER_HOME$/jules/sandbox/MyApplication/app/build.gradle" timestamp="1491593522200">
         <mark key="[" line="11" column="81" />
@@ -633,10 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="69" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerButtonView.java" />
-      <jump line="2601" column="28" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/raw/mar22" />
-      <jump line="54" column="6" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/TodayFragment.java" />
-      <jump line="365" column="47" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/TodayFragment.java" />
       <jump line="348" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/TodayFragment.java" />
       <jump line="4" column="29" filename="$USER_HOME$/vandy/test/app/build.gradle" />
       <jump line="82" column="39" filename="$USER_HOME$/vandy/security/ClientApp/app/src/main/java/vandy/mooc/assignments/clientapp/MainActivity.java" />
@@ -733,10 +738,14 @@
       <jump line="486" column="92" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/AlertDialog.java" />
       <jump line="500" column="24" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/AlertDialog.java" />
       <jump line="502" column="15" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/AlertDialog.java" />
+      <jump line="130" column="58" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
+      <jump line="256" column="0" filename="$USER_HOME$/Projects/myday/sample/src/main/java/com/monte/sample/MainActivity.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/Projects/myday/sample/src/main/java/com/monte/sample/MainActivity.java" />
+      <jump line="142" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>s</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -916,55 +925,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>Builder</text>
+        <text>onResume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25DbGljayhEaWFsb2dJbnRlcmZhY2UgZGlhbG9nLCBpbnQgd2hpY2gpIHsKICAgICAgICBzd2l0Y2ggKHdoaWNoKSB7CiAgICAgICAgICAgIGNhc2UgQlVUVE9OX1BPU0lUSVZFOgogICAgICAgICAgICAgICAgaWYgKG1UaW1lU2V0TGlzdGVuZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIG1UaW1lU2V0TGlzdGVuZXIub25UaW1lU2V0KG1UaW1lUGlja2VyLCBtVGltZVBpY2tlci5nZXRDdXJyZW50SG91cigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVRpbWVQaWNrZXIuZ2V0Q3VycmVudE1pbnV0ZSgpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIEJVVFRPTl9ORUdBVElWRToKICAgICAgICAgICAgICAgIGNhbmNlbCgpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBVQWlyc2hpcC5zaGFyZWQoKS5nZXRJbmJveCgpLmFkZExpc3RlbmVyKGluYm94TGlzdGVuZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBZGQgdGhpcyBsaW5lCg==</text>
+        <text encoding="base64">ICAgICAgICBSaWNoUHVzaEluYm94Lgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewo=</text>
+        <text encoding="base64">ICAgICAgICBqbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVQWlyc2hpcC5zaGFyZWQoKS5nZXRJbmJveCgpLnJlbW92ZUxpc3RlbmVyKGluYm94TGlzdGVuZXIoKTsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c3MK</text>
+        <text encoding="base64">ICAgICAgICBVQWlyc2hpcC5zaGFyZWQoKS5nZXRJbmJveCgpLmFkZExpc3RlbmVyKGluYm94TGlzdGVuZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnVyYmFuYWlyc2hpcC1zZGsnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFVzZSB0aGUgVXJiYW4gQWlyc2hpcCBTREsgcHJvamVjdC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>Builder</last-search>
+      <last-search>onResume</last-search>
       <last-offset />
-      <last-pattern>Builder</last-pattern>
+      <last-pattern>onResume</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -972,8 +981,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AndroidJUnitRunner</entry>
-        <entry>onStart</entry>
         <entry>AndroidJUnit</entry>
         <entry>TestRunner</entry>
         <entry>Obser</entry>
@@ -992,6 +999,8 @@
         <entry>setOnCance</entry>
         <entry>builder</entry>
         <entry>Builder</entry>
+        <entry>onPause</entry>
+        <entry>onResume</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
