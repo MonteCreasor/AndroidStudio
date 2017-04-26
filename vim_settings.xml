@@ -54,7 +54,7 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/build.gradle" timestamp="1493175879243">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/build.gradle" timestamp="1493246650506">
         <mark key="[" line="122" column="65" />
         <mark key="]" line="123" column="51" />
         <mark key="^" line="123" column="51" />
@@ -329,7 +329,8 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/SplashActivity.java" timestamp="1490036494286">
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/SplashActivity.java" timestamp="1493246995165">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="78" column="56" />
         <mark key="]" line="78" column="59" />
         <mark key="." line="78" column="59" />
@@ -352,6 +353,11 @@
         <mark key="]" line="67" column="0" />
         <mark key="^" line="65" column="49" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/BaseActivity.java" timestamp="1493247168312">
+        <mark key="a" line="221" column="0" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="230" column="76" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/injection/modules/ApplicationModule.java" timestamp="1493240353769">
         <mark key="[" line="93" column="0" />
@@ -580,7 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/MainActivityTest.java" />
       <jump line="40" column="16" filename="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/MainActivityTest.java" />
       <jump line="284" column="0" filename="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/android/support/test/runner/AndroidJUnitRunner.java" />
       <jump line="371" column="0" filename="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/android/support/test/runner/AndroidJUnitRunner.java" />
@@ -680,10 +685,11 @@
       <jump line="28" column="38" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/util/Strings.java" />
       <jump line="149" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/util/Strings.java" />
       <jump line="22" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/util/Strings.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/SplashActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KFZpZXdDb21wYXQuZ2V0VHJhbnNpdGlvbk5hbWUoc2hhcmVkRWxlbWVudCkpKSB7CiAgICAgICAgICAgICAgICBWaWV3Q29tcGF0LnNldFRyYW5zaXRpb25OYW1lKHNoYXJlZEVsZW1lbnQsICJzaGFyZWRFbGVtZW50Iik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHBhaXJzLmFkZChQYWlyLmNyZWF0ZShzaGFyZWRFbGVtZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmlld0NvbXBhdC5nZXRUcmFuc2l0aW9uTmFtZShzaGFyZWRFbGVtZW50KSkpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIEFjdGl2aXR5T3B0aW9uc0NvbXBhdC5tYWtlU2NlbmVUcmFuc2l0aW9uQW5pbWF0aW9uKAogICAgICAgICAgICAgICAgYWN0aXZpdHksIHBhaXJzLnRvQXJyYXkobmV3IFBhaXJbcGFpcnMuc2l6ZSgpXSkpLnRvQnVuZGxlKCk7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -866,10 +872,10 @@
         <text>Top</text>
       </register>
       <register name="/" type="4">
-        <text>join</text>
+        <text>startActivityW</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTiIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KFZpZXdDb21wYXQuZ2V0VHJhbnNpdGlvbk5hbWUoc2hhcmVkRWxlbWVudCkpKSB7CiAgICAgICAgICAgICAgICBWaWV3Q29tcGF0LnNldFRyYW5zaXRpb25OYW1lKHNoYXJlZEVsZW1lbnQsICJzaGFyZWRFbGVtZW50Iik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHBhaXJzLmFkZChQYWlyLmNyZWF0ZShzaGFyZWRFbGVtZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmlld0NvbXBhdC5nZXRUcmFuc2l0aW9uTmFtZShzaGFyZWRFbGVtZW50KSkpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIEFjdGl2aXR5T3B0aW9uc0NvbXBhdC5tYWtlU2NlbmVUcmFuc2l0aW9uQW5pbWF0aW9uKAogICAgICAgICAgICAgICAgYWN0aXZpdHksIHBhaXJzLnRvQXJyYXkobmV3IFBhaXJbcGFpcnMuc2l6ZSgpXSkpLnRvQnVuZGxlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4K</text>
@@ -909,9 +915,9 @@
       </register>
     </registers>
     <search>
-      <last-search>join</last-search>
+      <last-search>startActivityW</last-search>
       <last-offset />
-      <last-pattern>join</last-pattern>
+      <last-pattern>startActivityW</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -919,7 +925,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TimeoutMil</entry>
         <entry>auto</entry>
         <entry>runner</entry>
         <entry>Runner</entry>
@@ -939,6 +944,7 @@
         <entry>capitalize</entry>
         <entry>join)</entry>
         <entry>join</entry>
+        <entry>startActivityW</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
