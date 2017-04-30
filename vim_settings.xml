@@ -400,10 +400,11 @@
         <mark key="^" line="28" column="38" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/src/main/java/edu/vanderbilt/demoapp/MainActivity.java" timestamp="1493343258533">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/jules/DemoApp/app/src/main/java/edu/vanderbilt/demoapp/MainActivity.java" timestamp="1493595881210">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="15" column="50" />
+        <mark key="^" line="15" column="50" />
+        <mark key="." line="15" column="50" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/java/edu/vanderbilt/androidassg1/Utils/KeyboardUtils.java" timestamp="1492289721745">
         <mark key="[" line="9" column="8" />
@@ -621,12 +622,11 @@
         <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="43" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" timestamp="1493358458395">
-        <mark key="'" line="18" column="57" />
-        <mark key="[" line="46" column="38" />
-        <mark key="]" line="46" column="45" />
-        <mark key="^" line="46" column="45" />
-        <mark key="." line="46" column="45" />
+      <file name="$USER_HOME$/jules/DemoApp/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" timestamp="1493595840018">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="44" column="63" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/fonts.xml" timestamp="1490044726304">
         <mark key="[" line="5" column="0" />
@@ -935,7 +935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="18" filename="$USER_HOME$/jules/TestApp/autograder/autograder.gradle" />
       <jump line="138" column="0" filename="$USER_HOME$/jules/TestApp/autograder/autograder.gradle" />
       <jump line="3" column="0" filename="$USER_HOME$/jules/TestApp/autograder/autograder.gradle" />
       <jump line="137" column="0" filename="$USER_HOME$/jules/TestApp/autograder/autograder.gradle" />
@@ -1035,10 +1034,11 @@
       <jump line="45" column="28" filename="$USER_HOME$/jules/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="28" column="0" filename="$USER_HOME$/jules/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/MockitoTests.java" />
       <jump line="18" column="57" filename="$USER_HOME$/jules/DemoApp/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" />
+      <jump line="17" column="53" filename="$USER_HOME$/jules/DemoApp/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI1LjMuMScKICAgIGNvbXBpbGUgJ2p1bml0Omp1bml0OjQuMTInCg==</text>
+      <register name="&quot;" type="4">
+        <text>.getText().toString());</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1218,55 +1218,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.getText().toString());</text>
       </register>
       <register name="/" type="4">
-        <text>, null</text>
+        <text>startA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtRW1haWwuZ2V0VGV4dCgpLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI1LjMuMScKICAgIGNvbXBpbGUgJ2p1bml0Omp1bml0OjQuMTInCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KHN0YXJ0ZXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KHN0YXJ0ZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdGFydGVyLnB1dEV4dHJhKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFkb3dJbnRlbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlbnQgc3RhcnRlciA9IG5ldyBJbnRlbnQoY29udGV4dCwgTWFpbkFjdGl2aXR5LmNsYXNzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBFWFRSQV9FTUFJTCA9ICJlbWFpbCI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRVhUUkFfUEFTU1dPUkQgPSAicGFzc3dvcmQiOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJTaG93IGVycm9yIGZvciBQYXNzd29yZCBmaWVsZCAiLCBwYXNzd29yZFZpZXcuZ2V0RXJyb3IoKSwgaXMobnVsbFZhbHVlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKEVYVFJBX0VNQUlMLCBtRW1haWwuZ2V0VGV4dCgpLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoRVhUUkFfUEFTU1dPUkQsIG1QYXNzd29yZC5nZXRUZXh0KCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoaW50ZW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJTaG93IGVycm9yIGZvciBFbWFpbCBmaWVsZCAgZW1haWxWaWV3LmdldEVycm9yKCksIGlzKG51bGxWYWx1ZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKEVYVFJBX0VNQUlMLCBtRW1haWwuZ2V0VGV4dCgpLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoRVhUUkFfUEFTU1dPUkQsIG1QYXNzd29yZC5nZXRUZXh0KCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoTG9naW5BY3Rpdml0eS50aGlzLCBNYWluQWN0aXZpdHkuY2xhc3MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJTaG93IGVycm9yIGZvciBQYXNzd29yZCBmaWVsZCAiLCBwYXNzd29yZFZpZXcuZ2V0RXJyb3IoKSwgaXMobnVsbFZhbHVlKCkpKTsK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI1LjMuMScKICAgIGNvbXBpbGUgJ2p1bml0Omp1bml0OjQuMTInCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>, null</last-search>
+      <last-search>startA</last-search>
       <last-offset />
-      <last-pattern>, null</last-pattern>
+      <last-pattern>startA</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1274,7 +1274,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GROUP</entry>
         <entry>args</entry>
         <entry>getConnected</entry>
         <entry>runCmd</entry>
@@ -1294,6 +1293,7 @@
         <entry>enterText</entry>
         <entry>\.id</entry>
         <entry>, null</entry>
+        <entry>startA</entry>
       </history-search>
       <history-cmd>
         <entry>w!@</entry>
