@@ -115,12 +115,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/buildSrc/src/main/groovy/AutograderPlugin.groovy" timestamp="1493765657952">
-        <mark key="'" line="45" column="4" />
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
+      <file name="$USER_HOME$/jules/DemoApp/buildSrc/src/main/groovy/AutograderPlugin.groovy" timestamp="1493766112684">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/data/PostResponse.java" timestamp="1489681994617">
         <mark key="[" line="13" column="0" />
@@ -978,8 +978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="32" filename="$USER_HOME$/jules/DemoApp/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/jules/DemoApp/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" />
       <jump line="63" column="16" filename="$USER_HOME$/jules/DemoApp/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" />
       <jump line="28" column="8" filename="$USER_HOME$/jules/DemoApp/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" />
       <jump line="40" column="23" filename="$USER_HOME$/jules/DemoApp/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" />
@@ -1078,10 +1076,12 @@
       <jump line="0" column="22" filename="$USER_HOME$/jules/DemoApp/buildSrc/src/main/groovy/AutograderPlugin.groovy" />
       <jump line="66" column="30" filename="$USER_HOME$/jules/DemoApp/buildSrc/src/main/groovy/AutograderPlugin.groovy" />
       <jump line="43" column="4" filename="$USER_HOME$/jules/DemoApp/buildSrc/src/main/groovy/AutograderPlugin.groovy" />
+      <jump line="58" column="0" filename="$USER_HOME$/jules/DemoApp/buildSrc/src/main/groovy/AutograderPlugin.groovy" />
+      <jump line="41" column="8" filename="$USER_HOME$/jules/DemoApp/buildSrc/src/main/groovy/AutograderPlugin.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcm9qZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1261,7 +1261,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>greet</text>
       </register>
       <register name="/" type="4">
         <text>rootDir</text>
@@ -1270,37 +1270,37 @@
         <text encoding="base64">ZXh0LnRlc3RMaWJOYW1lID0gInRlc3QtbGliLmFhciIKZXh0LmF1dG9ncmFkZXJEaXJOYW1lID0gImdyYWRlciIKZXh0LmF1dG9ncmFkZXJEaXIgPSBuZXcgRmlsZShyb290RGlyLmdldEFic29sdXRlUGF0aCgpICsgIi8kYXV0b2dyYWRlckRpck5hbWUvIikKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcm9qZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dGFzayBidWlsZFRlc3RBcGsodHlwZTogQnVpbGRHcmFkZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">dGFzayBidWlsZFRlc3RBcGsodHlwZTogQnVpbGRHcikKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gcHJvamVjdC5ncmVldGluZy5tZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9MYXN0IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0LnRhc2soJ2hlbGxvJykgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50byBvdXRwdXREaXIK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
