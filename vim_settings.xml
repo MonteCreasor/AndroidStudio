@@ -326,13 +326,12 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493756757276">
-        <mark key="a" line="59" column="23" />
-        <mark key="'" line="4" column="34" />
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-        <mark key="^" line="3" column="34" />
+      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493759190966">
+        <mark key="'" line="72" column="17" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="77" column="65" />
+        <mark key="^" line="77" column="65" />
+        <mark key="." line="77" column="65" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/layout/content_main.xml" timestamp="1492232245466">
         <mark key="[" line="27" column="49" />
@@ -626,6 +625,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="44" column="63" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/java/io/File.java" timestamp="1493757445359">
+        <mark key="'" line="250" column="6" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/fonts.xml" timestamp="1490044726304">
         <mark key="[" line="5" column="0" />
@@ -956,17 +958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="32" filename="$USER_HOME$/jules/Splash/app/src/main/res/layout/content_login.xml" />
-      <jump line="43" column="32" filename="$USER_HOME$/jules/Splash/app/src/main/res/layout/content_login.xml" />
-      <jump line="55" column="32" filename="$USER_HOME$/jules/Splash/app/src/main/res/layout/content_login.xml" />
-      <jump line="66" column="32" filename="$USER_HOME$/jules/Splash/app/src/main/res/layout/content_login.xml" />
-      <jump line="25" column="15" filename="$USER_HOME$/jules/Splash/app/src/main/res/layout/content_login.xml" />
-      <jump line="26" column="0" filename="$USER_HOME$/jules/Splash/app/src/main/res/layout/content_login.xml" />
-      <jump line="29" column="36" filename="$USER_HOME$/jules/Splash/app/src/main/java/edu/vanderbilt/splash/LoginActivity.java" />
-      <jump line="291" column="19" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/ActivityTransitionState.java" />
-      <jump line="292" column="12" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/ActivityTransitionState.java" />
-      <jump line="311" column="81" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/ActivityTransitionState.java" />
-      <jump line="45" column="30" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/ActivityTransitionState.java" />
       <jump line="5233" column="35" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Activity.java" />
       <jump line="2617" column="26" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Activity.java" />
       <jump line="2641" column="12" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Activity.java" />
@@ -1055,11 +1046,22 @@
       <jump line="5" column="0" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="65" column="53" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="73" column="54" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
-      <jump line="4" column="34" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="3" column="25" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="56" column="93" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="19" column="10" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="55" column="38" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="4" column="4" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="62" column="4" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="60" column="17" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="195" column="5" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/java/io/File.java" />
+      <jump line="233" column="12" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/java/io/File.java" />
+      <jump line="250" column="6" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/java/io/File.java" />
+      <jump line="59" column="29" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="69" column="17" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXh0LmF1dG9ncmFkZXJEaXJOYW1lCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1239,55 +1241,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>androidSdk</text>
+        <text>appt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgR3JhZGxlRXhjZXB0aW9uKCJBdXRvZ3JhZGVyIEVycm9yOiBVbmFibGUgdG8gbG9jYXRlIGFwcHQgY29tbWFuZCAiICsgYWFwdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXh0LmF1dG9ncmFkZXJEaXJOYW1lCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50IFBBVEgsICIiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgKCkK</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbW0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBhbmRyb2lkLmdldEJ1aWxkVG9vbHNWZXJzaW9uKCkK</text>
+        <text encoding="base64">ICAgIEZpbGUgYXV0b2dyYWRlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIGlmICghbmV3IEZpbGUoYXV0b2dyYWRlckRpcikuaXNEaXJlY3RvcnkoKSkgewogICAgICAgIHRocm93IG5ldyBHcmFkbGVFeGNlcHRpb24oIkF1dG9ncmFkZXIgRXJyb3I6IE1pc3NpbmcgIiArIGF1dG9ncmFkZXJEaXIgKyAiIGRpcmVjdG9yeSBpbiAiICsgcm9vdERpcikKICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZXh0LmF1dG9ncmFkZXJEaXJOYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>androidSdk</last-search>
+      <last-search>appt</last-search>
       <last-offset />
-      <last-pattern>androidSdk</last-pattern>
+      <last-pattern>appt</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1295,11 +1297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gravity</entry>
-        <entry>gone</entry>
-        <entry>mEnteringNames</entry>
-        <entry>onBackPre</entry>
-        <entry>output</entry>
         <entry>unner</entry>
         <entry>Android</entry>
         <entry>validateA</entry>
@@ -1315,6 +1312,11 @@
         <entry>summaryWriter</entry>
         <entry>Runner</entry>
         <entry>androidSdk</entry>
+        <entry>exist</entry>
+        <entry>File(</entry>
+        <entry>public File</entry>
+        <entry>exits</entry>
+        <entry>appt</entry>
       </history-search>
       <history-cmd>
         <entry>w!@</entry>
