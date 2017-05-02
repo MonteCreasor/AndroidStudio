@@ -170,9 +170,6 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/BaseApp.java" timestamp="1493272980563">
-        <mark key="]" line="4" column="79" />
-      </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/drawable/submit_button_selector_disabled.xml" timestamp="1489038848541">
         <mark key="[" line="7" column="59" />
         <mark key="]" line="7" column="66" />
@@ -221,11 +218,11 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/assets/airshipconfig.properties" timestamp="1493311477517">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/assets/airshipconfig.properties" timestamp="1493690400718">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/NotificationActivity.java" timestamp="1493311687882">
         <mark key="[" line="20" column="9" />
@@ -268,6 +265,12 @@
         <mark key="]" line="17" column="26" />
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/build.gradle" timestamp="1493690686319">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="$USER_HOME$/jules/apps/app/src/main/res/values/strings.xml" timestamp="1491257642790">
         <mark key="[" line="19" column="33" />
@@ -619,7 +622,6 @@
         <mark key="." line="50" column="11" />
         <mark key="^" line="50" column="11" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/build.gradle" timestamp="1493681406924" />
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/activity_questions.xml" timestamp="1489377620512">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="14" />
@@ -796,8 +798,8 @@
       <jump line="116" column="4" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tPgo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -977,7 +979,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>card</text>
@@ -986,37 +988,39 @@
         <text encoding="base64">ICAgICAgICBpbnRlbnQuYWRkRmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJjb20udXJiYW5haXJzaGlwLnB1c2guRElTTUlTU0VEIiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJjb20udXJiYW5haXJzaGlwLnB1c2guUkVDRUlWRUQiIC8+Cg==</text>
+      <register name="3" type="4">
+        <text># For testing only.
+#developmentAppKey = bPxzzLQFSLmg6Rgf2jQzBg
+#developmentAppSecret = AVFNpo_iReKciP4aql2DfQ</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJjb20udXJiYW5haXJzaGlwLnB1c2guQ0hBTk5FTF9VUERBVEVEIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJjb20udXJiYW5haXJzaGlwLnB1c2guRElTTUlTU0VEIiAvPgo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJjb20udXJiYW5haXJzaGlwLnB1c2guUkVDRUlWRUQiIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJlZHUudmFuZGVyYmlsdC5lbWEubXlkYXkiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJjb20udXJiYW5haXJzaGlwLnB1c2guQ0hBTk5FTF9VUERBVEVEIiAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0ta2trawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6Y2FyZHZpZXctdjc6MjUuMy4xJwo=</text>
+        <text encoding="base64">ICAgICAgICAtLT4K</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
