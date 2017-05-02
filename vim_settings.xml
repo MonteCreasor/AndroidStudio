@@ -326,12 +326,13 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493759190966">
-        <mark key="'" line="72" column="17" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="77" column="65" />
-        <mark key="^" line="77" column="65" />
-        <mark key="." line="77" column="65" />
+      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493762355705">
+        <mark key="a" line="55" column="0" />
+        <mark key="'" line="4" column="37" />
+        <mark key="[" line="77" column="84" />
+        <mark key="]" line="78" column="15" />
+        <mark key="." line="78" column="15" />
+        <mark key="^" line="78" column="15" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/layout/content_main.xml" timestamp="1492232245466">
         <mark key="[" line="27" column="49" />
@@ -844,7 +845,7 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493406386840">
+      <file name="/Dummy.txt" timestamp="1493760220619">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -878,6 +879,11 @@
         <mark key="]" line="51" column="13" />
         <mark key="^" line="51" column="13" />
         <mark key="." line="51" column="13" />
+      </file>
+      <file name="$USER_HOME$/jules/DemoApp/buildSrc/src/main/groovy/GreetingPlugin.java" timestamp="1493762117131">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/udacity/ud867-master/MyApplication/manualJokes/build.gradle" timestamp="1491882083324">
         <mark key="[" line="1" column="0" />
@@ -958,8 +964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5233" column="35" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Activity.java" />
-      <jump line="2617" column="26" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Activity.java" />
       <jump line="2641" column="12" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Activity.java" />
       <jump line="2724" column="16" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Activity.java" />
       <jump line="138" column="58" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonRunner.java" />
@@ -1045,12 +1049,9 @@
       <jump line="68" column="51" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="5" column="0" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="65" column="53" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
-      <jump line="73" column="54" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="3" column="25" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="56" column="93" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="19" column="10" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
-      <jump line="55" column="38" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
-      <jump line="4" column="4" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="62" column="4" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="60" column="17" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="195" column="5" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/java/io/File.java" />
@@ -1058,10 +1059,15 @@
       <jump line="250" column="6" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/java/io/File.java" />
       <jump line="59" column="29" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="69" column="17" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="73" column="44" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="12" column="26" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="55" column="0" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="83" column="32" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="4" column="37" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1241,55 +1247,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>appt</text>
+        <text>getAbsolute</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgR3JhZGxlRXhjZXB0aW9uKCJBdXRvZ3JhZGVyIEVycm9yOiBVbmFibGUgdG8gbG9jYXRlIGFwcHQgY29tbWFuZCAiICsgYWFwdCkK</text>
+        <text encoding="base64">ICAgIGRlZiBwYXRoID0gU3lzdGVtLmdldGVudignUEFUSCcpICsgIjoke2J1aWxkVG9vbHNEaXJ9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50IFBBVEgsICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvRmlyc3QgewogICAgICAgIGNvcHkgewogICAgICAgICAgICBkZWYgemlwRmlsZSA9IGZpbGUoJ3NyYy9kaXN0cy9kaXN0LnppcCcpCiAgICAgICAgICAgIGRlZiBvdXRwdXREaXIgPSBmaWxlKCIke2J1aWxkRGlyfS91bnBhY2tlZC9kaXN0IikKCiAgICAgICAgICAgIGZyb20gemlwVHJlZSh6aXBGaWxlKQogICAgICAgICAgICBpbnRvIG91dHB1dERpcgogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgIGNvcHkgewogICAgICAgIGRlZiB6aXBGaWxlID0gZmlsZSgnc3JjL2Rpc3RzL2Rpc3QuemlwJykKICAgICAgICBkZWYgb3V0cHV0RGlyID0gZmlsZSgiJHtidWlsZERpcn0vdW5wYWNrZWQvZGlzdCIpCgogICAgICAgIGZyb20gemlwVHJlZSh6aXBGaWxlKQogICAgICAgIGludG8gb3V0cHV0RGlyCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbW0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZpbGUgYXV0b2dyYWRlcgo=</text>
+        <text encoding="base64">ICAgIGRlZiB6aXBGaWxlID0gZmlsZSgnc3JjL2Rpc3RzL2Rpc3QuemlwJykKICAgIGRlZiBvdXRwdXREaXIgPSBmaWxlKCIke2J1aWxkRGlyfS91bnBhY2tlZC9kaXN0IikKCiAgICBmcm9tIHppcFRyZWUoemlwRmlsZSkKICAgIGludG8gb3V0cHV0RGlyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghbmV3IEZpbGUoYXV0b2dyYWRlckRpcikuaXNEaXJlY3RvcnkoKSkgewogICAgICAgIHRocm93IG5ldyBHcmFkbGVFeGNlcHRpb24oIkF1dG9ncmFkZXIgRXJyb3I6IE1pc3NpbmcgIiArIGF1dG9ncmFkZXJEaXIgKyAiIGRpcmVjdG9yeSBpbiAiICsgcm9vdERpcikKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIC8vY29tbWFuZExpbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXh0LmF1dG9ncmFkZXJEaXJOYW1lCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>appt</last-search>
+      <last-search>getAbsolute</last-search>
       <last-offset />
-      <last-pattern>appt</last-pattern>
+      <last-pattern>getAbsolute</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1297,7 +1303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unner</entry>
         <entry>Android</entry>
         <entry>validateA</entry>
         <entry encoding="base64">bUVycm9yID0g</entry>
@@ -1317,6 +1322,7 @@
         <entry>public File</entry>
         <entry>exits</entry>
         <entry>appt</entry>
+        <entry>getAbsolute</entry>
       </history-search>
       <history-cmd>
         <entry>w!@</entry>
