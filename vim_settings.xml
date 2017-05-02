@@ -326,13 +326,13 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493762355705">
+      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493763381516">
         <mark key="a" line="55" column="0" />
-        <mark key="'" line="4" column="37" />
-        <mark key="[" line="77" column="84" />
-        <mark key="]" line="78" column="15" />
-        <mark key="." line="78" column="15" />
-        <mark key="^" line="78" column="15" />
+        <mark key="'" line="107" column="16" />
+        <mark key="[" line="104" column="57" />
+        <mark key="]" line="104" column="57" />
+        <mark key="." line="104" column="57" />
+        <mark key="^" line="104" column="57" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/layout/content_main.xml" timestamp="1492232245466">
         <mark key="[" line="27" column="49" />
@@ -710,6 +710,7 @@
         <mark key="^" line="682" column="13" />
         <mark key="." line="682" column="13" />
       </file>
+      <file name="$USER_HOME$/jules/DemoApp/buildSrc/src/main/groovy/GreetingPlugin.groovy" timestamp="1493763195679" />
       <file name="$USER_HOME$/jules/DemoApp/autograder/src/main/java/edu/vanderbilt/autograder/AutograderTestRunListener.java" timestamp="1493684517379">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="10" />
@@ -964,9 +965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2641" column="12" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Activity.java" />
-      <jump line="2724" column="16" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/app/Activity.java" />
-      <jump line="138" column="58" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonRunner.java" />
       <jump line="160" column="32" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonRunner.java" />
       <jump line="162" column="72" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonRunner.java" />
       <jump line="135" column="49" filename="$USER_HOME$/android/testing/spoon/spoon-runner/src/main/java/com/squareup/spoon/SpoonRunner.java" />
@@ -1064,10 +1062,13 @@
       <jump line="55" column="0" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="83" column="32" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="4" column="37" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="75" column="36" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="104" column="8" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="107" column="16" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>hh</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1247,10 +1248,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>hh</text>
       </register>
       <register name="/" type="4">
-        <text>getAbsolute</text>
+        <text>println</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBwYXRoID0gU3lzdGVtLmdldGVudignUEFUSCcpICsgIjoke2J1aWxkVG9vbHNEaXJ9Igo=</text>
@@ -1293,9 +1294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getAbsolute</last-search>
+      <last-search>println</last-search>
       <last-offset />
-      <last-pattern>getAbsolute</last-pattern>
+      <last-pattern>println</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1303,7 +1304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Android</entry>
         <entry>validateA</entry>
         <entry encoding="base64">bUVycm9yID0g</entry>
         <entry>esp</entry>
@@ -1323,6 +1323,7 @@
         <entry>exits</entry>
         <entry>appt</entry>
         <entry>getAbsolute</entry>
+        <entry>println</entry>
       </history-search>
       <history-cmd>
         <entry>w!@</entry>
