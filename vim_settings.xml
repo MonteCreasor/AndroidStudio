@@ -337,13 +337,12 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493836499868">
+      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493837806751">
         <mark key="a" line="81" column="33" />
-        <mark key="'" line="135" column="20" />
-        <mark key="[" line="145" column="33" />
-        <mark key="]" line="145" column="33" />
-        <mark key="." line="145" column="33" />
-        <mark key="^" line="144" column="37" />
+        <mark key="[" line="134" column="12" />
+        <mark key="]" line="134" column="12" />
+        <mark key="." line="134" column="12" />
+        <mark key="^" line="134" column="48" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/layout/content_main.xml" timestamp="1492232245466">
         <mark key="[" line="27" column="49" />
@@ -845,11 +844,11 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/AutograderPlugin.groovy" timestamp="1493779406913">
+      <file name="$USER_HOME$/jules/DemoApp/AutograderPlugin.groovy" timestamp="1493837662653">
         <mark key="a" line="79" column="0" />
         <mark key="'" line="18" column="20" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="88" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="75" />
         <mark key="^" line="34" column="0" />
         <mark key="." line="89" column="0" />
       </file>
@@ -871,7 +870,7 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493836512370">
+      <file name="/Dummy.txt" timestamp="1493836534985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -990,10 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="1" filename="$USER_HOME$/jules/DemoApp/buildSrc/src/main/groovy/AutograderPlugin.groovy" />
-      <jump line="15" column="9" filename="$USER_HOME$/jules/DemoApp/AutograderPlugin.groovy" />
-      <jump line="90" column="0" filename="$USER_HOME$/jules/DemoApp/AutograderPlugin.groovy" />
-      <jump line="50" column="0" filename="$USER_HOME$/jules/DemoApp/AutograderPlugin.groovy" />
       <jump line="73" column="0" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="126" column="8" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="2" column="0" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
@@ -1050,7 +1045,6 @@
       <jump line="165" column="7" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="164" column="14" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="119" column="17" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
-      <jump line="112" column="17" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="97" column="12" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="173" column="9" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="60" column="0" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
@@ -1089,11 +1083,16 @@
       <jump line="105" column="0" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="66" column="5" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="47" column="43" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
-      <jump line="135" column="20" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="136" column="26" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="85" column="25" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="86" column="9" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="135" column="47" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="112" column="12" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="134" column="12" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZW52aXJvbm1lbnQg</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1273,67 +1272,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZW52aXJvbm1lbnQg</text>
       </register>
       <register name="/" type="4">
-        <text>apksigner</text>
+        <text>environ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncGFzczphbmRyb2lkJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52aXJvbm1lbnQgIlBBVEgiLCBTeXN0ZW0ucHJvcGVydGllc1snUEFUSCddICsgIjoke2J1aWxkVG9vbHNEaXJ9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaWduZWRUZXN0QXBrLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52aXJvbm1lbnQgPQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYW5kcm9pZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd29ya2luZ0RpciA9IGJ1aWxkVG9vbHNEaXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnLXN0b3JlcGFzcycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtIAogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBhcGtTaWduZXJMaW51eE9yTWFjID0gbmV3IEZpbGUoYnVpbGRUb29sc0RpciwgJ2Fwa3NpZ25lci5zaCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmICghbmV3IEZpbGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0ZW1wRGlyIG9ubHkgZXhpc3RzIG9uY2UgZG9GaXJzdCBoYXMgYmVlbiBjYWxsZWQuCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4gImFwa1NpZ25lciA9ICRhcGtTaWduZXIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>apksigner</last-search>
+      <last-search>environ</last-search>
       <last-offset />
-      <last-pattern>apksigner</last-pattern>
+      <last-pattern>environ</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>apth</entry>
-        <entry>path</entry>
-        <entry>tempDir</entry>
-        <entry>signApk</entry>
-        <entry>signTestApk</entry>
         <entry>signTEst</entry>
         <entry>signT</entry>
         <entry>Monte test for</entry>
@@ -1349,6 +1343,11 @@
         <entry>signTest</entry>
         <entry>println</entry>
         <entry>apksigner</entry>
+        <entry>apkSinger</entry>
+        <entry>apkSigner</entry>
+        <entry>getAbsolutePath</entry>
+        <entry>new File</entry>
+        <entry>environ</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zZXQgaWM=</entry>
