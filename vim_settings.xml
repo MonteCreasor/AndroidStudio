@@ -338,13 +338,12 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493832172546">
-        <mark key="a" line="111" column="9" />
+      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493833287761">
         <mark key="'" line="66" column="5" />
-        <mark key="[" line="105" column="28" />
-        <mark key="]" line="107" column="20" />
-        <mark key="." line="107" column="20" />
-        <mark key="^" line="107" column="20" />
+        <mark key="[" line="127" column="52" />
+        <mark key="]" line="127" column="53" />
+        <mark key="^" line="127" column="40" />
+        <mark key="." line="127" column="53" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/layout/content_main.xml" timestamp="1492232245466">
         <mark key="[" line="27" column="49" />
@@ -1093,8 +1092,8 @@
       <jump line="66" column="5" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gImJhc2VOYW1lID0gJGJhc2VOYW1lIgo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1274,55 +1273,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>signTest</text>
+        <text>println</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVbnBhY2sgdGhlIHRlc3QgQVBLIGludG8gdGhlIHRlbXAgZGlyZWN0b3J5IGxlYXZpbmcKICAgICAgICAvLyBvdXQgdGhlIE1FVEEtSU5GIGRpcmVjdG9yeS4KICAgICAgICBjb3B5IHsKICAgICAgICAgICAgbG9nZ2VyLmxpZmVjeWNsZSAiVW5wYWNraW5nIHRlc3QgYXBrICR0ZXN0QXBrIC4uLiIKICAgICAgICAgICAgZnJvbSB6aXBUcmVlKHRlc3RBcGspCiAgICAgICAgICAgIGV4Y2x1ZGUgJ01FVEEtSU5GLyoqJwogICAgICAgICAgICBpbnRvIHRlbXBEaXIKICAgICAgICAgICAgbG9nZ2VyLmxpZmVjeWNsZSgiZG9uZS4iKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlZiBzaWduZWRUZXN0QXBrID0gbmV3IEZpbGUoZ3JhZGVyRGlyLCAic2lnbmVkLSR0ZXN0QXBrTmFtZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gImJhc2VOYW1lID0gJGJhc2VOYW1lIgo=</text>
+        <text encoding="base64">ICAgIGFyY2hpdmVOYW1lID0gc2lnbmVkVGVzdEFway5nZXROYW1lKCkKICAgIGRlc3RpbmF0aW9uRGlyIGdyYWRlckRpcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmdldFByb3BlcnR5KCd1c2VyLmhvbWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmVkVGVzdEFwawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZW5hbWUgewo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29ya2luZ0RpciA9IGdyYWRlckRpcgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGJhc2VOYW1lID0gCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIG91dCB0aGUgTUVUQS1JTkYgZGlyZWN0b3J5Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFVucGFjayB0aGUgdGVzdCBBUEsgaW50byB0aGUgdGVtcCBkaXJlY3RvcnkgbGVhdmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2kK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>signTest</last-search>
+      <last-search>println</last-search>
       <last-offset />
-      <last-pattern>signTest</last-pattern>
+      <last-pattern>println</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1338,7 +1337,6 @@
         <entry>signTestApk</entry>
         <entry>signTEst</entry>
         <entry>signT</entry>
-        <entry>println</entry>
         <entry>Monte test for</entry>
         <entry>throw</entry>
         <entry>getpath</entry>
@@ -1350,6 +1348,7 @@
         <entry>Zip</entry>
         <entry>zip</entry>
         <entry>signTest</entry>
+        <entry>println</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zZXQgaWM=</entry>
