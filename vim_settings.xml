@@ -338,12 +338,13 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493833287761">
-        <mark key="'" line="66" column="5" />
-        <mark key="[" line="127" column="52" />
-        <mark key="]" line="127" column="53" />
-        <mark key="^" line="127" column="40" />
-        <mark key="." line="127" column="53" />
+      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493834909547">
+        <mark key="a" line="125" column="11" />
+        <mark key="'" line="47" column="43" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="156" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/layout/content_main.xml" timestamp="1492232245466">
         <mark key="[" line="27" column="49" />
@@ -1008,7 +1009,6 @@
       <jump line="43" column="24" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="44" column="24" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="46" column="33" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
-      <jump line="47" column="6" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="52" column="11" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="53" column="11" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="54" column="11" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
@@ -1090,10 +1090,11 @@
       <jump line="103" column="15" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="105" column="0" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="66" column="5" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="47" column="43" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1273,16 +1274,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>println</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBzaWduZWRUZXN0QXBrID0gbmV3IEZpbGUoZ3JhZGVyRGlyLCAic2lnbmVkLSR0ZXN0QXBrTmFtZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGVjIHsKICAgICAgICAgICAgbG9nZ2VyLmxpZmVjeWNsZSAiUmVzaWduaW5nIEFQSyAkc2lnbmVkVGVzdEFwayAuLi4iCiAgICAgICAgICAgIGRlZiBob21lID0gU3lzdGVtLnByb3BlcnRpZXNbJ3VzZXIuaG9tZSddCiAgICAgICAgICAgIGNvbW1hbmRMaW5lID0gWwogICAgICAgICAgICAgICAgICAgICdqYXJzaWduZXInLAogICAgICAgICAgICAgICAgICAgICIta2V5c3RvcmUiLAogICAgICAgICAgICAgICAgICAgICIkaG9tZS8uYW5kcm9pZC9kZWJ1Zy5rZXlzdG9yZSIsCiAgICAgICAgICAgICAgICAgICAgJy1zdG9yZXBhc3MnLAogICAgICAgICAgICAgICAgICAgICdhbmRyb2lkJywKICAgICAgICAgICAgICAgICAgICAnLWtleXBhc3MnLAogICAgICAgICAgICAgICAgICAgICdhbmRyb2lkJywKICAgICAgICAgICAgICAgICAgICBzaWduZWRUZXN0QXBrLAogICAgICAgICAgICAgICAgICAgICdhbmRyb2lkZGVidWdrZXknXQogICAgICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmVOYW1lID0gc2lnbmVkVGVzdEFway5nZXROYW1lKCkKICAgIGRlc3RpbmF0aW9uRGlyIGdyYWRlckRpcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1291,28 +1292,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtIAogICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmVkVGVzdEFwawo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZW5hbWUgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0ZW1wRGlyIG9ubHkgZXhpc3RzIG9uY2UgZG9GaXJzdCBoYXMgYmVlbiBjYWxsZWQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhc2VOYW1lID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGhvbWUgPSBTeXN0ZW0ucHJvcGVydGllc1sndXNlci5ob21lJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYW5kcm9pZGRlYnVna2V5J10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2kK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYW5kcm9pZCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
