@@ -335,12 +335,12 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493778792658">
-        <mark key="'" line="128" column="21" />
-        <mark key="[" line="97" column="8" />
-        <mark key="]" line="97" column="15" />
-        <mark key="^" line="97" column="15" />
-        <mark key="." line="97" column="15" />
+      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493781762535">
+        <mark key="'" line="66" column="4" />
+        <mark key="[" line="98" column="44" />
+        <mark key="]" line="98" column="44" />
+        <mark key="." line="98" column="44" />
+        <mark key="^" line="98" column="44" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/layout/content_main.xml" timestamp="1492232245466">
         <mark key="[" line="27" column="49" />
@@ -842,9 +842,11 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/AutograderPlugin.groovy" timestamp="1493778683801">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
+      <file name="$USER_HOME$/jules/DemoApp/AutograderPlugin.groovy" timestamp="1493779406913">
+        <mark key="a" line="79" column="0" />
+        <mark key="'" line="18" column="20" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="88" column="0" />
         <mark key="^" line="34" column="0" />
         <mark key="." line="89" column="0" />
       </file>
@@ -985,10 +987,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="53" filename="$USER_HOME$/jules/DemoApp/autograder/src/main/java/edu/vanderbilt/autograder/AutoGraderTestRunner.java" />
-      <jump line="121" column="15" filename="$USER_HOME$/jules/DemoApp/autograder/src/main/java/edu/vanderbilt/autograder/AutoGraderTestRunner.java" />
-      <jump line="138" column="39" filename="$USER_HOME$/jules/DemoApp/autograder/src/main/java/edu/vanderbilt/autograder/AutoGraderTestRunner.java" />
-      <jump line="139" column="56" filename="$USER_HOME$/jules/DemoApp/autograder/src/main/java/edu/vanderbilt/autograder/AutoGraderTestRunner.java" />
       <jump line="105" column="12" filename="$USER_HOME$/jules/DemoApp/autograder/src/main/java/edu/vanderbilt/autograder/AutoGraderTestExecutor.java" />
       <jump line="104" column="39" filename="$USER_HOME$/jules/DemoApp/autograder/src/main/java/edu/vanderbilt/autograder/AutoGraderTestExecutor.java" />
       <jump line="17" column="37" filename="$USER_HOME$/jules/DemoApp/.idea/workspace.xml" />
@@ -1061,7 +1059,6 @@
       <jump line="99" column="1" filename="$USER_HOME$/jules/DemoApp/buildSrc/src/main/groovy/AutograderPlugin.groovy" />
       <jump line="15" column="9" filename="$USER_HOME$/jules/DemoApp/AutograderPlugin.groovy" />
       <jump line="90" column="0" filename="$USER_HOME$/jules/DemoApp/AutograderPlugin.groovy" />
-      <jump line="66" column="8" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="105" column="46" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="50" column="0" filename="$USER_HOME$/jules/DemoApp/AutograderPlugin.groovy" />
       <jump line="73" column="0" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
@@ -1085,10 +1082,15 @@
       <jump line="53" column="11" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="54" column="11" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
       <jump line="128" column="21" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="21" column="17" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="18" column="20" filename="$USER_HOME$/jules/DemoApp/AutograderPlugin.groovy" />
+      <jump line="70" column="98" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="48" column="0" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
+      <jump line="66" column="4" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ki8K</text>
+      <register name="&quot;" type="4">
+        <text>tempDir</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1268,63 +1270,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>tempDir</text>
       </register>
       <register name="/" type="4">
-        <text>exec</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLkRlZmF1bHRUYXNrCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIubGlmZWN5Y2xlKCJEZWxldGluZyB0ZW1wb3J5IGRpcmVjdG9yeSAiICsgdGVtcERpcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICAgICByZW5hbWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FhcHQgcGFja2FnZSAtbSAtSiBnZW4vIC1NIC4vQW5kcm9pZE1hbmlmZXN0LnhtbCAtUyByZXMxLyAtUyByZXMyIC4uLiAtSSBhbmRyb2lkLmphcgo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50ICJQQVRIIiwgU3lzdGVtLmdldGVudignUEFUSCcpICsgIjoke2J1aWxkVG9vbHNEaXJ9IgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlbmFtZSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuICJjb21tYW5kTGluZSA9ICIgKyBjb21tYW5kTGluZQo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50ICJQQVRIIiwgU3lzdGVtLmdldGVudignUEFUSCcpICsgIjoke2J1aWxkVG9vbHNEaXJ9IgoK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>exec</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>exec</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>public File</entry>
         <entry>exits</entry>
         <entry>appt</entry>
         <entry>getAbsolute</entry>
@@ -1344,6 +1345,7 @@
         <entry>Missing</entry>
         <entry>android.</entry>
         <entry>exec</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>w!@</entry>
