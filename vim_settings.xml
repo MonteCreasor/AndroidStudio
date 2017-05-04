@@ -357,11 +357,11 @@
         <mark key="]" line="11" column="49" />
         <mark key="." line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493931587733">
+      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493932507100">
         <mark key="'" line="56" column="42" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/layout/content_main.xml" timestamp="1492232245466">
         <mark key="[" line="27" column="49" />
@@ -757,7 +757,6 @@
         <mark key="^" line="119" column="2" />
         <mark key="." line="119" column="2" />
       </file>
-      <file name="$USER_HOME$/vandy/Autograder/build.gradle" timestamp="1493929568458" />
       <file name="$USER_HOME$/jules/apps/autograder/build.gradle" timestamp="1491891328766">
         <mark key="[" line="29" column="4" />
         <mark key="]" line="29" column="4" />
@@ -842,6 +841,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
+      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1493931779386" />
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -1027,6 +1027,7 @@
         <mark key="." line="68" column="44" />
         <mark key="^" line="68" column="43" />
       </file>
+      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1493931779386" />
       <file name="$USER_HOME$/jules/TestApp/app/src/main/AndroidManifest.xml" timestamp="1493338200851">
         <mark key="[" line="16" column="15" />
         <mark key="]" line="17" column="17" />
@@ -1195,8 +1196,8 @@
       <jump line="54" column="42" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ci8qKgogKiBETyBOT1QgUkVNT1ZFIQogKiBETyBOT1QgUkVNT1ZFIQogKiBETyBOT1QgUkVNT1ZFIQogKgogKiBBdXRvZ3JhZGVyIHRhc2sgbWFuYWdlbWVudC4KICovCmRlZiBhdXRvZ3JhZGVyR3JhZGxlUGF0aCA9IHJvb3REaXIuYWJzb2x1dGVQYXRoICsgJy9hdXRvZ3JhZGVyL2F1dG9ncmFkZXIuZ3JhZGxlJwppZiAoZmlsZShhdXRvZ3JhZGVyR3JhZGxlUGF0aCkuZXhpc3RzKCkpIHsKICAgIGFwcGx5IGZyb206IGF1dG9ncmFkZXJHcmFkbGVQYXRoCn0=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1384,16 +1385,28 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8qKgogKiBETyBOT1QgUkVNT1ZFIQogKiBETyBOT1QgUkVNT1ZFIQogKiBETyBOT1QgUkVNT1ZFIQogKgogKiBBdXRvZ3JhZGVyIHRhc2sgbWFuYWdlbWVudC4KICovCmRlZiBhdXRvZ3JhZGVyR3JhZGxlUGF0aCA9IHJvb3REaXIuYWJzb2x1dGVQYXRoICsgJy9hdXRvZ3JhZGVyL2F1dG9ncmFkZXIuZ3JhZGxlJwppZiAoZmlsZShhdXRvZ3JhZGVyR3JhZGxlUGF0aCkuZXhpc3RzKCkpIHsKICAgIGFwcGx5IGZyb206IGF1dG9ncmFkZXJHcmFkbGVQYXRoCn0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ci8qKgogKiBETyBOT1QgUkVNT1ZFIQogKiBETyBOT1QgUkVNT1ZFIQogKiBETyBOT1QgUkVNT1ZFIQogKgogKiBBdXRvZ3JhZGVyIHRhc2sgbWFuYWdlbWVudC4KICovCmRlZiBhdXRvZ3JhZGVyR3JhZGxlUGF0aCA9IHJvb3REaXIuYWJzb2x1dGVQYXRoICsgJy9hdXRvZ3JhZGVyL2F1dG9ncmFkZXIuZ3JhZGxlJwppZiAoZmlsZShhdXRvZ3JhZGVyR3JhZGxlUGF0aCkuZXhpc3RzKCkpIHsKICAgIGFwcGx5IGZyb206IGF1dG9ncmFkZXJHcmFkbGVQYXRoCn0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqCiAqIERPIE5PVCBSRU1PVkUhCiAqIERPIE5PVCBSRU1PVkUhCiAqIERPIE5PVCBSRU1PVkUhCiAqCiAqIEF1dG9ncmFkZXIgdGFzayBtYW5hZ2VtZW50LgogKi8KZGVmIGF1dG9ncmFkZXJHcmFkbGVQYXRoID0gcm9vdERpci5hYnNvbHV0ZVBhdGggKyAnL2F1dG9ncmFkZXIvYXV0b2dyYWRlci5ncmFkbGUnCmlmIChmaWxlKGF1dG9ncmFkZXJHcmFkbGVQYXRoKS5leGlzdHMoKSkgewogICAgYXBwbHkgZnJvbTogYXV0b2dyYWRlckdyYWRsZVBhdGgKfQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="u" type="4">
+        <text />
+      </register>
+      <register name="6" type="4">
         <text>buildscript {
     repositories {
         jcenter()
@@ -1404,26 +1417,14 @@
     }
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnanVuaXQ6anVuaXQ6NC4xMicK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
-      </register>
-      <register name="u" type="4">
-        <text />
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
