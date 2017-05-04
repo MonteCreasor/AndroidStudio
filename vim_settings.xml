@@ -353,11 +353,11 @@
         <mark key="]" line="11" column="49" />
         <mark key="." line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493919314679">
+      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493921809039">
         <mark key="'" line="65" column="42" />
-        <mark key="[" line="31" column="18" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/layout/content_main.xml" timestamp="1492232245466">
         <mark key="[" line="27" column="49" />
@@ -379,6 +379,12 @@
       </file>
       <file name="$USER_HOME$/jules/DemoApp/runner/src/main/java/edu/vanderbilt/autograder/runner/DeviceRunner.java" timestamp="1493920067350">
         <mark key="a" line="198" column="68" />
+      </file>
+      <file name="$USER_HOME$/jules/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" timestamp="1493920951112">
+        <mark key="[" line="49" column="57" />
+        <mark key="]" line="49" column="67" />
+        <mark key="^" line="49" column="67" />
+        <mark key="." line="49" column="67" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/drawable-v21/button_background_selector.xml" timestamp="1489037338689">
         <mark key="[" line="11" column="64" />
@@ -428,19 +434,17 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/runner/src/main/java/edu/vanderbilt/autograder/runner/DeviceTest.java" timestamp="1493868832209">
-        <mark key="c" line="12" column="0" />
-        <mark key="[" line="60" column="25" />
-        <mark key="]" line="60" column="25" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="60" column="25" />
-      </file>
       <file name="$USER_HOME$/jules/DemoApp/runner/src/main/java/edu/vanderbilt/autograder/runner/main.kt" timestamp="1493867844999">
         <mark key="'" line="10" column="2" />
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="14" />
         <mark key="^" line="12" column="47" />
         <mark key="." line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/jules/DemoApp/gradle/wrapper/gradle-wrapper.properties" timestamp="1493921336903">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/java/edu/vanderbilt/androidassg1/Utils/KeyboardUtils.java" timestamp="1492289721745">
         <mark key="[" line="9" column="8" />
@@ -866,9 +870,10 @@
         <mark key="." line="5" column="54" />
         <mark key="^" line="5" column="54" />
       </file>
-      <file name="$USER_HOME$/jules/DemoApp/build.gradle" timestamp="1493920193902">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/jules/DemoApp/build.gradle" timestamp="1493922039080">
+        <mark key="a" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="0" />
       </file>
@@ -1026,7 +1031,7 @@
         <mark key="^" line="3" column="74" />
         <mark key="." line="3" column="74" />
       </file>
-      <file name="/fragment.java" timestamp="1493919414508">
+      <file name="/fragment.java" timestamp="1493921949795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -1152,8 +1157,8 @@
       <jump line="54" column="42" filename="$USER_HOME$/jules/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jywg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBqY2VudGVyKCkKICAgIH0KCiAgICBkZXBlbmRlbmNpZXMgewogICAgICAgIGNsYXNzcGF0aCAnY29tLmFuZHJvaWQudG9vbHMuYnVpbGQ6Z3JhZGxlOjIuNC4wLWFscGhhNycKICAgIH0KfQoK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1333,46 +1338,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jywg</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly9pbmNsdWRlICc6YXBwJywgJzphdXRvZ3JhZGVyJywgJzpydW5uZXInCg==</text>
+        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBqY2VudGVyKCkKICAgIH0KCiAgICBkZXBlbmRlbmNpZXMgewogICAgICAgIGNsYXNzcGF0aCAnY29tLmFuZHJvaWQudG9vbHMuYnVpbGQ6Z3JhZGxlOjIuNC4wLWFscGhhNycKICAgIH0KfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJ1bm5lcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmFuZHJvaWQuYXBwbGljYXRpb24nCgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToyLjQuMC1hbHBoYTcnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
