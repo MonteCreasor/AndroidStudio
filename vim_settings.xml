@@ -113,6 +113,12 @@
         <mark key="^" line="50" column="57" />
         <mark key="." line="50" column="57" />
       </file>
+      <file name="$USER_HOME$/vandy/DemoApp/run.sh" timestamp="1494206198772">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="27" column="35" />
+      </file>
       <file name="$USER_HOME$/jules/DemoApp/runner/src/main/java/edu/vanderbilt/autograder/runner/CliArgs.kt" timestamp="1493860075879">
         <mark key="[" line="46" column="25" />
         <mark key="]" line="46" column="31" />
@@ -142,12 +148,6 @@
         <mark key="]" line="17" column="13" />
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="13" />
-      </file>
-      <file name="$USER_HOME$/jules/DemoApp/app/build.gradle" timestamp="1493948604024">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/layout/content_main.xml" timestamp="1492232245466">
         <mark key="[" line="27" column="49" />
@@ -583,11 +583,11 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/AnnotationsTestPrinter.java" timestamp="1494203659761">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="42" column="15" />
+      <file name="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/AnnotationsTestPrinter.java" timestamp="1494206042732">
+        <mark key="[" line="13" column="72" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/integers.xml" timestamp="1490073169080">
         <mark key="[" line="16" column="45" />
@@ -900,7 +900,7 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/GraderTestRunner.java" timestamp="1494199989309">
+      <file name="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/GraderTestRunner.java" timestamp="1494204703758">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -1219,8 +1219,8 @@
       <jump line="80" column="4" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSdWJyaWMoCiAgICAgICAgICAgIHZhbHVlID0gIkVzcHJlc3NvIHRlc3QxKCkiLAogICAgICAgICAgICBnb2FsID0gIlRoZSBnb2FsIGZvciB0ZXN0MSgpIiwKICAgICAgICAgICAgcG9pbnRzID0gMTAuMCwKICAgICAgICAgICAgcmVmZXJlbmNlID0gIlRoZXJlIGFyZSBubyByZWZlcmVuY2VzIGZvciB0aGlzIHRlc3QiCiAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1400,49 +1400,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>This test is derived from the material in these videos: &quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSdWJyaWMoCiAgICAgICAgICAgIHZhbHVlID0gIkVzcHJlc3NvIHRlc3QxKCkiLAogICAgICAgICAgICBnb2FsID0gIlRoZSBnb2FsIGZvciB0ZXN0MSgpIiwKICAgICAgICAgICAgcG9pbnRzID0gMTAuMCwKICAgICAgICAgICAgcmVmZXJlbmNlID0gIlRoZXJlIGFyZSBubyByZWZlcmVuY2VzIGZvciB0aGlzIHRlc3QiCiAgICApCg==</text>
+        <text encoding="base64">IyBUaGlzIG9uZSB3b3Jrcy4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICIuY29tL3dhdGNoP3Y9Z1NUSTNTRHVHdW8maW5kZXg9MzImbGlzdD1QTHlVbG5nekd6a3p0Z1RpenhNNl96cWl3OHNSajd2Qm0wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICJodHRwczovL3d3dy55b3V0dWJlIgo=</text>
+        <text encoding="base64">dGVzdFJ1bm5lcj1lZHUudmFuZGVyYmlsdC5kZW1vYXBwLkdyYWRlclRlc3RSdW5uZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICIuY29tL3dhdGNoP3Y9emNsV3psQW5Sd0EmbGlzdD1QTHlVbG5nekd6a3p0Z1RpenhNNl96cWl3OHNSajd2Qm0wJmluZGV4PTEwICIK</text>
+        <text encoding="base64">cGFja2FnZT1lZHUudmFuZGVyYmlsdC5kZW1vYXBwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICJodHRwczovL3d3dy55b3V0dWJlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICIuY29tL3dhdGNoP3Y9Z1NUSTNTRHVHdW8maW5kZXg9MzImbGlzdD1QTHlVbG5nekd6a3p0Z1RpenhNNl96cWl3OHNSajd2Qm0wIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5ydW5uZXJzLlBhcmFtZXRlcml6ZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICJodHRwczovL3d3dy55b3V0dWJlIgo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICIuY29tL3dhdGNoP3Y9emNsV3psQW5Sd0EmbGlzdD1QTHlVbG5nekd6a3p0Z1RpenhNNl96cWl3OHNSajd2Qm0wJmluZGV4PTEwICIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICJodHRwczovL3d3dy55b3V0dWJlIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5ydW5uZXJzLlBhcmFtZXRlcml6ZWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQoYW5ub3RhdGlvbi5hbm5vdGF0aW9uVHlwZSgpLmdldFNpbXBsZU5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dCA9IHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1495,9 +1495,9 @@
         <entry>st ic</entry>
         <entry>set ic</entry>
         <entry>:w</entry>
-        <entry>w</entry>
         <entry>q!1</entry>
         <entry>q!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
