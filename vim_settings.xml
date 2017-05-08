@@ -523,13 +523,12 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/GraderInstrumentationListener.java" timestamp="1494213730296">
-        <mark key="a" line="93" column="43" />
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="101" column="50" />
-        <mark key="^" line="93" column="54" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/GraderInstrumentationListener.java" timestamp="1494214601925">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="73" column="22" />
+        <mark key="]" line="73" column="34" />
+        <mark key="^" line="73" column="34" />
+        <mark key="." line="73" column="34" />
       </file>
       <file name="$USER_HOME$/vandy/POSA/ex/M4/Primes/PrimeExecutorCompletionService/app/src/main/java/vandy/mooc/prime/utils/ThresholdCrosser.java" timestamp="1492121415189">
         <mark key="[" line="35" column="16" />
@@ -1232,8 +1231,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/GraderInstrumentationListener.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHMucHJpbnRsbigiUG9pbnRzOiAgICAgICIgKyAoc3RhdHVzID8gU3RyaW5nLnZhbHVlT2YocnVicmljLnBvaW50cygpKSA6ICIwIikgKyAiLyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgcnVicmljLnBvaW50cygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Parcelable</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1413,7 +1412,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Parcelable</text>
       </register>
       <register name="/" type="4">
         <text>instrum</text>
@@ -1422,37 +1421,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcHMucHJpbnRsbigK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHMucHJpbnRsbigiUG9pbnRzOiAgICAgICIgKyAoc3RhdHVzID8gU3RyaW5nLnZhbHVlT2YocnVicmljLnBvaW50cygpKSA6ICIwIikgKyAiLyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgcnVicmljLnBvaW50cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICJlZHUudmFuZGVyYmlsdC5kZW1vYXBwLkdyYWRlclRlc3RSdW5uZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEZpbGUgcnVicmljRmlsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhbm5vdGF0aW9uIGluc3RhbmNlb2YgUnVicmljKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHMucHJpbnRsbigiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChBbm5vdGF0aW9uIGFubm90YXRpb24gOiBhbm5vdGF0aW9ucykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBzdHJpbmdCdWlsZGVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHMucHJpbnRsbigiUmVmZXJlbmNlczogICAiICsgcnVicmljLnJlZmVyZW5jZSgpKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGJ1bmRsZS5wdXRTdHJpbmcoIlJ1YnJpYyIsIHN0cmluZ0J1aWxkZXIudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIGdldEluc3RydW1lbnRhdGlvbigpLnNlbmRTdGF0dXMoCiAgICAgICAgICAgICAgICAgICAgSW5zdHJ1bWVudGF0aW9uUmVzdWx0UHJpbnRlci5SRVBPUlRfVkFMVUVfUkVTVUxUX1NUQVJULCBidW5kbGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRJbnN0cnVtZW50YXRpb24oKS5zZW5kU3RhdHVzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHMucHJpbnRsbigiUmVmZXJlbmNlczogICAiICsgcnVicmljLnJlZmVyZW5jZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
