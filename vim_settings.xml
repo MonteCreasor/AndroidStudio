@@ -93,12 +93,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" timestamp="1494520014998">
-        <mark key="'" line="183" column="34" />
-        <mark key="[" line="203" column="29" />
-        <mark key="]" line="203" column="49" />
-        <mark key="." line="203" column="49" />
-        <mark key="^" line="203" column="49" />
+      <file name="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" timestamp="1494520912356">
+        <mark key="'" line="188" column="32" />
+        <mark key="[" line="209" column="8" />
+        <mark key="]" line="211" column="23" />
+        <mark key="^" line="211" column="23" />
+        <mark key="." line="211" column="23" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/layout/question_view.xml" timestamp="1489383646368">
         <mark key="[" line="50" column="39" />
@@ -829,11 +829,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/JUnitEvaluator.java" timestamp="1494463927238">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
+      <file name="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/JUnitEvaluator.java" timestamp="1494520149077">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
         <mark key="^" line="15" column="4" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/ResultsActivity.java" timestamp="1489387601484">
         <mark key="[" line="39" column="0" />
@@ -1182,11 +1183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="28" column="0" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" />
-      <jump line="80" column="4" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" />
-      <jump line="56" column="50" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/AnnotationsTestPrinter.java" />
-      <jump line="77" column="0" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/AnnotationsTestPrinter.java" />
       <jump line="32" column="35" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/AnnotationsTestPrinter.java" />
       <jump line="90" column="0" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/AnnotationsTestPrinter.java" />
       <jump line="50" column="0" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/GraderInstrumentationPrinter.java" />
@@ -1282,10 +1278,15 @@
       <jump line="53" column="20" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
       <jump line="179" column="94" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
       <jump line="183" column="34" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
+      <jump line="29" column="4" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/JUnitEvaluator.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/JUnitEvaluator.java" />
+      <jump line="72" column="12" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
+      <jump line="7" column="23" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
+      <jump line="200" column="32" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TODO</text>
+        <text>0</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1465,55 +1466,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TODO</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>evaluation</text>
+        <text>Context</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIHNyYyA9IG5ldyBGaWxlKEZpbGVVdGlscy5nZXRHcmFkZXJEaXJlY3RvcnkoKSwgU1JDKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9TdHJpbmcga2V5ID0gRGlnZXN0VXRpbHMubWQ1SGV4KHNjb3JlLmdldENyaXRlcmlhKCkuZ2V0UnVicmljKCkudmFsdWUoKSArIHNyY2hhc2gpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5ID0gbmV3IFN0cmluZyhIZXguZW5jb2RlSGV4KERpZ2VzdFV0aWxzLm1kNShkYXRhKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9TdHJpbmcga2V5ID0gRGlnZXN0VXRpbHMubWQ1SGV4KHZhbHVlICsgc3JjaGFzaCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaWQgPSBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3JjaGFzaDsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIiBhbmQgcGFja2FnZXIuIiwgODApKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIiByZXBvc2l0b3J5IGFnYWluIGFuZCBhcHBseSB5b3VyIGNoYW5nZXMgdG8gaXQgYmVmb3JlIHJ1bm5pbmcgdGhlIHN1Ym1pc3Npb24gZ3JhZGUgZXN0aW1hdG9yIgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIiBhbmQgY2Fubm90IGJlIGdyYWRlZCBvciBwYWNrYWdlZCBmb3Igc3VibWlzc2lvbi4gUGxlYXNlIGNsb25lIHRoZSBvcmlnaW5hbCBhc3NpZ25tZW50Igo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhpcyBzaG91bGQgbmV2ZXIgaGFwcGVuLi4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIkdyYWRsZSBmb3JtYXQgd2l0aCBhIHNyYy8gZGlyZWN0b3J5LiBZb3VyIHByb2plY3QgZG9lcyBub3QgaGF2ZSBhIHNvdXJjZSBkaXJlY3RvcnkiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChGaWxlTm90Rm91bmRFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgIlRoZSBncmFkZSBlc3RpbWF0b3IgYW5kIHN1Ym1pc3Npb24gcGFja2FnZXIgcmVxdWlyZSB0aGF0IHRoZSBjb2RlIGJlIGluIGl0cyBvcmlnaW5hbCAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3JjaGFzaCA9IERpZ2VzdFV0aWxzLm1kNUhleChmaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3cmFwKCJZb3UgaGF2ZSBtb2RpZmllZCB5b3VyIHByb2plY3QgdG8gdXNlIGFuIGFsdGVybmF0ZSBmb3JtYXQgZnJvbSBob3cgaXQgd2FzIGRpc3RyaWJ1dGVkLiAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgKEZpbGVJbnB1dFN0cmVhbSBmaXMgPSBuZXcgRmlsZUlucHV0U3RyZWFtKHNyY2Rlc3QpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>evaluation</last-search>
+      <last-search>Context</last-search>
       <last-offset />
-      <last-pattern>evaluation</last-pattern>
+      <last-pattern>Context</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1521,7 +1522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>instrum</entry>
         <entry>;</entry>
         <entry>refer</entry>
         <entry>CourseraAutogra</entry>
@@ -1541,6 +1541,7 @@
         <entry>eval</entry>
         <entry>getCriteriaScore</entry>
         <entry>evaluation</entry>
+        <entry>Context</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zZXQgaWM=</entry>
