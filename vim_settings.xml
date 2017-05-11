@@ -286,12 +286,12 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/TestResult.java" timestamp="1494532930295">
+      <file name="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/TestResult.java" timestamp="1494536272127">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="54" />
+        <mark key="^" line="29" column="45" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/android/mvp/android-mvp-architecture/app/src/main/java/com/mindorks/framework/mvp/ui/main/MainPresenter.java" timestamp="1488663304518">
         <mark key="[" line="75" column="0" />
@@ -1110,11 +1110,11 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1494463571726">
-        <mark key="[" line="12" column="50" />
-        <mark key="]" line="12" column="55" />
-        <mark key="." line="12" column="55" />
-        <mark key="^" line="12" column="55" />
+      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1494537481107">
+        <mark key="[" line="51" column="4" />
+        <mark key="]" line="51" column="5" />
+        <mark key="." line="51" column="5" />
+        <mark key="^" line="51" column="5" />
       </file>
       <file name="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/CustomTestExecutor.java" timestamp="1491540418432">
         <mark key="[" line="106" column="12" />
@@ -1133,17 +1133,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/InstrumentationListener.java" timestamp="1494534909383">
-        <mark key="a" line="136" column="7" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="29" column="67" />
+      <file name="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/InstrumentationListener.java" timestamp="1494537353051">
+        <mark key="a" line="165" column="7" />
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="42" column="7" />
+        <mark key="^" line="42" column="7" />
+        <mark key="." line="42" column="7" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/settings.gradle" timestamp="1494451157377">
+      <file name="$USER_HOME$/vandy/DemoApp/settings.gradle" timestamp="1494537454937">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/Rubric.java" timestamp="1494212266959">
         <mark key="[" line="15" column="10" />
@@ -1302,8 +1303,8 @@
       <jump line="47" column="29" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/InstrumentationListener.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0UmVzdWx0cyA9IG5ldyBBcnJheU1hcDw+KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1483,16 +1484,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ArrayMap</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>@N</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL21MaXN0ZW5lcnMuYWRkKGluc3RydW1lbnRhdGlvblJ1bkxpc3RlbmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXREaXIgPSBGaWxlVXRpbHMuZ2V0R3JhZGVyRGlyZWN0b3J5KGNvbnRleHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0UmVzdWx0cyA9IG5ldyBBcnJheU1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXREaXIgPSBGaWxlVXRpbHMuZ2V0R3JhZGVyRGlyZWN0b3J5KGNvbnRleHQpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1500,33 +1501,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5BcnJheU1hcDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgYSBuZXcgY2xlYW4gb3V0cHV0IGRpcmVjdG9yeS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0RGlyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyAgICAgICAgICAgIC8qCiAgICAgICAgICAgIHJlc3VsdEJ1bmRsZS5wdXRTdHJpbmcoSW5zdHJ1bWVudGF0aW9uLlJFUE9SVF9LRVlfU1RSRUFNUkVTVUxULAo=</text>
+        <text encoding="base64">ICAgICAgICBmZWVkYmFja0ZpbGUuCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
-      <register name="6" type="4">
-        <text>//            resultBundle.putString(Instrumentation.REPORT_KEY_STREAMRESULT,
-//                                   String.format(&quot;\n%s&quot;, feedbackSummary));
-/</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXREaXIubGkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICBhbGxQcm9wZXJ0aWVzLnB1dCgiVG90YWxTY29yZSIsIFN0cmluZy52YWx1ZU9mKHRvdGFsU2NvcmUpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/@Nonnull //</text>
