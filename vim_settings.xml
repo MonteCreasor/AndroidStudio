@@ -425,7 +425,7 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494469181643">
+      <file name="/Dummy.txt" timestamp="1494534839884">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1133,13 +1133,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/InstrumentationListener.java" timestamp="1494534359841">
+      <file name="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/InstrumentationListener.java" timestamp="1494534909383">
         <mark key="a" line="136" column="7" />
-        <mark key="'" line="43" column="29" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="43" column="38" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="29" column="67" />
       </file>
       <file name="$USER_HOME$/vandy/DemoApp/settings.gradle" timestamp="1494451157377">
         <mark key="[" line="1" column="0" />
@@ -1304,7 +1303,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5BcnJheU1hcDsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0UmVzdWx0cyA9IG5ldyBBcnJheU1hcDw+KCk7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1484,7 +1483,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSBuZXcgQXJyYXlNYXA8U3RyaW5nLCBUZXN0UmVzdWx0PigpOw==</text>
+        <text>ArrayMap</text>
       </register>
       <register name="/" type="4">
         <text>@N</text>
@@ -1493,7 +1492,7 @@
         <text encoding="base64">ICAgICAgICAvL21MaXN0ZW5lcnMuYWRkKGluc3RydW1lbnRhdGlvblJ1bkxpc3RlbmVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5BcnJheU1hcDsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0UmVzdWx0cyA9IG5ldyBBcnJheU1hcDw+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1501,33 +1500,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5BcnJheU1hcDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyAgICAgICAgICAgIC8qCiAgICAgICAgICAgIHJlc3VsdEJ1bmRsZS5wdXRTdHJpbmcoSW5zdHJ1bWVudGF0aW9uLlJFUE9SVF9LRVlfU1RSRUFNUkVTVUxULAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAvKgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>//            resultBundle.putString(Instrumentation.REPORT_KEY_STREAMRESULT,
-//                                   String.format(&quot;\n%s&quot;, feedbackSummary));
-/</text>
+      <register name="5" type="2">
+        <text encoding="base64">LyAgICAgICAgICAgIC8qCiAgICAgICAgICAgIHJlc3VsdEJ1bmRsZS5wdXRTdHJpbmcoSW5zdHJ1bWVudGF0aW9uLlJFUE9SVF9LRVlfU1RSRUFNUkVTVUxULAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+      <register name="6" type="4">
+        <text>//            resultBundle.putString(Instrumentation.REPORT_KEY_STREAMRESULT,
+//                                   String.format(&quot;\n%s&quot;, feedbackSummary));
+/</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>s/@Nonnull //</text>
