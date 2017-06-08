@@ -158,12 +158,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" timestamp="1496948054445">
-        <mark key="a" line="335" column="7" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="277" column="24" />
-        <mark key="]" line="277" column="25" />
-        <mark key="." line="277" column="25" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" timestamp="1496951499509">
+        <mark key="a" line="322" column="19" />
+        <mark key="'" line="348" column="12" />
+        <mark key="[" line="318" column="0" />
+        <mark key="]" line="318" column="0" />
+        <mark key="." line="318" column="0" />
       </file>
       <file name="$USER_HOME$/jules/apps/app/src/main/java/edu/vanderbilt/demo/MainActivity.java" timestamp="1491257994162">
         <mark key="[" line="15" column="0" />
@@ -752,9 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="0" filename="$USER_HOME$/jules/DemoApp/runner/src/main/java/edu/vanderbilt/autograder/runner/DeviceRunner.java" />
-      <jump line="158" column="5" filename="$USER_HOME$/jules/DemoApp/runner/src/main/java/edu/vanderbilt/autograder/runner/DeviceRunner.java" />
-      <jump line="303" column="0" filename="$USER_HOME$/jules/DemoApp/runner/src/main/java/edu/vanderbilt/autograder/runner/DeviceRunner.java" />
       <jump line="306" column="0" filename="$USER_HOME$/jules/DemoApp/runner/src/main/java/edu/vanderbilt/autograder/runner/DeviceRunner.java" />
       <jump line="27" column="13" filename="$USER_HOME$/jules/DemoApp/runner/src/main/java/edu/vanderbilt/autograder/runner/DeviceRunner.java" />
       <jump line="41" column="29" filename="$USER_HOME$/jules/DemoApp/runner/src/main/java/edu/vanderbilt/autograder/runner/DeviceRunner.java" />
@@ -852,10 +849,13 @@
       <jump line="737" column="28" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="865" column="76" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
       <jump line="401" column="26" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/fragments/QuestionsFragment.java" />
+      <jump line="290" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
+      <jump line="319" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
+      <jump line="345" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVzdWJtaXR0ZWQgZm9yIHRlc3RpbmcuCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhcHBsaWNhdGlvbiBjbGFzcyBhbHNvIGhhcyBhIHRpbWVyCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1035,55 +1035,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>submissions.</text>
+        <text encoding="base64">IFRoZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>Debug</text>
+        <text>onResume</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBhbHdheXNMb2dpbigpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVzdWJtaXR0ZWQgZm9yIHRlc3RpbmcuCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhcHBsaWNhdGlvbiBjbGFzcyBhbHNvIGhhcyBhIHRpbWVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhleSBjYW4gYmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVzdWJtaXR0ZWQgZm9yIHRlc3RpbmcuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhleSBjYW4gYmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vblBhdXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uUGF1c2UoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vblBhdXNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uUGF1c2UoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>Debug</last-search>
+      <last-search>onResume</last-search>
       <last-offset />
-      <last-pattern>Debug</last-pattern>
+      <last-pattern>onResume</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1091,7 +1091,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onChannel</entry>
         <entry>onPushR</entry>
         <entry>air</entry>
         <entry>card</entry>
@@ -1111,6 +1110,7 @@
         <entry>saveAns</entry>
         <entry>DEBUG</entry>
         <entry>Debug</entry>
+        <entry>onResume</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
