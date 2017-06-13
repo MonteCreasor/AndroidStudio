@@ -679,6 +679,9 @@
         <mark key="^" line="68" column="43" />
       </file>
       <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1497374073972" />
+      <file name="$USER_HOME$/site/gitproject/healthtablet/healthTablet/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.java" timestamp="1497382430541">
+        <mark key="'" line="39" column="46" />
+      </file>
       <file name="$USER_HOME$/jules/DemoApp/runner/src/main/java/edu/vanderbilt/autograder/runner/Monte.java" timestamp="1493871721066">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="38" />
@@ -723,7 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/vandy/LiveLessons/SearchStreamSpliterator/src/main/resources/completeWorksOfShakespeare.txt" />
       <jump line="2625" column="0" filename="$USER_HOME$/vandy/LiveLessons/SearchStreamSpliterator/src/main/resources/completeWorksOfShakespeare.txt" />
       <jump line="5786" column="0" filename="$USER_HOME$/vandy/LiveLessons/SearchStreamSpliterator/src/main/resources/completeWorksOfShakespeare.txt" />
       <jump line="9932" column="0" filename="$USER_HOME$/vandy/LiveLessons/SearchStreamSpliterator/src/main/resources/completeWorksOfShakespeare.txt" />
@@ -823,6 +825,7 @@
       <jump line="188" column="76" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/pub.devrel/easypermissions/0.4.0/bbc7c5db3a209a1b6419eb3c74db44329a44b25b/easypermissions-0.4.0-sources.jar!/pub/devrel/easypermissions/EasyPermissions.java" />
       <jump line="224" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/pub.devrel/easypermissions/0.4.0/bbc7c5db3a209a1b6419eb3c74db44329a44b25b/easypermissions-0.4.0-sources.jar!/pub/devrel/easypermissions/EasyPermissions.java" />
       <jump line="349" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/pub.devrel/easypermissions/0.4.0/bbc7c5db3a209a1b6419eb3c74db44329a44b25b/easypermissions-0.4.0-sources.jar!/pub/devrel/easypermissions/EasyPermissions.java" />
+      <jump line="39" column="46" filename="$USER_HOME$/site/gitproject/healthtablet/healthTablet/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1009,7 +1012,7 @@
         <text>T1==cGFydG5lcl9pZD00NTg5MDI2MiZzaWc9MDg3ZWU3ZWZjNzk5MTkwMDExZmMwMjkxNGNiZDIwMzYzYjI3N2E0MDpzZXNzaW9uX2lkPTJfTVg0ME5UZzVNREkyTW41LU1UUTVOek13TURRNU1UVXpPSDU0ZFd0SVNXbFVTRk14ZDNBd1JtNW1NRXBNVG1NMlpHcC1mZyZjcmVhdGVfdGltZT0xNDk3MzAxMDEzJm5vbmNlPTAuOTQwOTYxNDI0NTg1NzY0OSZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNDk3MzA0NjEy&quot;;</text>
       </register>
       <register name="/" type="4">
-        <text>AfterPermission</text>
+        <text>setTarget</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICcyNS4wLjInCg==</text>
@@ -1052,9 +1055,9 @@
       </register>
     </registers>
     <search>
-      <last-search>AfterPermission</last-search>
+      <last-search>setTarget</last-search>
       <last-offset />
-      <last-pattern>AfterPermission</last-pattern>
+      <last-pattern>setTarget</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>bindViews</last-substitute>
       <last-dir>1</last-dir>
@@ -1062,7 +1065,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateTitle</entry>
         <entry>@</entry>
         <entry>isActive</entry>
         <entry>New</entry>
@@ -1082,6 +1084,7 @@
         <entry>22</entry>
         <entry>onRequ</entry>
         <entry>AfterPermission</entry>
+        <entry>setTarget</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
