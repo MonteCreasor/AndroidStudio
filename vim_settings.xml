@@ -1145,11 +1145,11 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1497721121893">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="29" />
-        <mark key="^" line="32" column="17" />
-        <mark key="." line="4" column="29" />
+      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1497721654766">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/CustomTestExecutor.java" timestamp="1491540418432">
         <mark key="[" line="106" column="12" />
@@ -1236,8 +1236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="17" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
-      <jump line="187" column="45" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
       <jump line="78" column="8" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/JUnitEvaluation.java" />
       <jump line="209" column="58" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
       <jump line="1" column="0" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
@@ -1336,10 +1334,12 @@
       <jump line="6" column="23" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="11" column="37" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="49" column="13" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="38" column="21" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="3" column="4" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vaW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6ZGVzaWduOjI2LjAuMCcK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1522,13 +1522,13 @@
         <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text>edu</text>
+        <text>compile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBydW5UZXN0KG1TaGFyZWRJbnB1dCwgdHJ1ZSwgZmFsc2UsIGZhbHNlLCBmYWxzZSk7CiAgICAgICAgcnVuVGVzdChtU2hhcmVkSW5wdXQsIHRydWUsIGZhbHNlLCBmYWxzZSwgdHJ1ZSk7CiAgICAgICAgcnVuVGVzdChtU2hhcmVkSW5wdXQsIHRydWUsIGZhbHNlLCB0cnVlLCBmYWxzZSk7CiAgICAgICAgcnVuVGVzdChtU2hhcmVkSW5wdXQsIHRydWUsIGZhbHNlLCB0cnVlLCB0cnVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vaW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6ZGVzaWduOjI2LjAuMCcK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1536,40 +1536,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmRlc2lnbjoyNi4wLjAtYmV0YTInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6ZGVzaWduOjI1LjQuMCcK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmRlc2lnbjoyNi4wLjAtYmV0YTInCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6ZGVzaWduOjI1LjQuMCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBydW5UZXN0KG1TaGFyZWRJbnB1dCwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBydW5UZXN0KG1TaGFyZWRJbnB1dCwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBydW5UZXN0KG1TaGFyZWRJbnB1dCwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBydW5UZXN0KG1TaGFyZWRJbnB1dCwgdHJ1ZSwgdHJ1ZSwgZmFsc2UsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBydW5UZXN0KG1TaGFyZWRJbnB1dCwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSwgZmFsc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBydW5UZXN0KG1TaGFyZWRJbnB1dCwgdHJ1ZSwgdHJ1ZSwgZmFsc2UsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBydW5UZXN0KG1TaGFyZWRJbnB1dCwgdHJ1ZSwgdHJ1ZSwgZmFsc2UsIHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/@Nonnull //</text>
       </register>
     </registers>
     <search>
-      <last-search>edu</last-search>
+      <last-search>compile</last-search>
       <last-offset />
-      <last-pattern>edu</last-pattern>
+      <last-pattern>compile</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">QE5vbm51bGwg</last-substitute>
       <last-dir>1</last-dir>
@@ -1577,7 +1577,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCr</entry>
         <entry>eval</entry>
         <entry>getCriteriaScore</entry>
         <entry>Context</entry>
@@ -1597,6 +1596,7 @@
         <entry>LOG</entry>
         <entry>GraderEx</entry>
         <entry>edu</entry>
+        <entry>compile</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
