@@ -1146,11 +1146,12 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1494977736657">
-        <mark key="[" line="52" column="14" />
-        <mark key="]" line="52" column="42" />
-        <mark key="." line="52" column="42" />
-        <mark key="^" line="52" column="42" />
+      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1497718114108">
+        <mark key="'" line="49" column="13" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="52" column="1" />
+        <mark key="." line="55" column="1" />
+        <mark key="^" line="52" column="1" />
       </file>
       <file name="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/CustomTestExecutor.java" timestamp="1491540418432">
         <mark key="[" line="106" column="12" />
@@ -1237,11 +1238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="43" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
-      <jump line="150" column="47" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
-      <jump line="153" column="39" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
-      <jump line="159" column="25" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
       <jump line="177" column="17" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
       <jump line="187" column="45" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
       <jump line="78" column="8" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/JUnitEvaluation.java" />
@@ -1337,6 +1333,11 @@
       <jump line="211" column="36" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="150" column="16" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="51" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="37" column="29" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="52" column="14" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="6" column="23" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="11" column="37" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="49" column="13" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1523,7 +1524,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>GraderEx</text>
+        <text>edu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBydW5UZXN0KG1TaGFyZWRJbnB1dCwgdHJ1ZSwgZmFsc2UsIGZhbHNlLCBmYWxzZSk7CiAgICAgICAgcnVuVGVzdChtU2hhcmVkSW5wdXQsIHRydWUsIGZhbHNlLCBmYWxzZSwgdHJ1ZSk7CiAgICAgICAgcnVuVGVzdChtU2hhcmVkSW5wdXQsIHRydWUsIGZhbHNlLCB0cnVlLCBmYWxzZSk7CiAgICAgICAgcnVuVGVzdChtU2hhcmVkSW5wdXQsIHRydWUsIGZhbHNlLCB0cnVlLCB0cnVlKTsK</text>
@@ -1568,9 +1569,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GraderEx</last-search>
+      <last-search>edu</last-search>
       <last-offset />
-      <last-pattern>GraderEx</last-pattern>
+      <last-pattern>edu</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">QE5vbm51bGwg</last-substitute>
       <last-dir>1</last-dir>
@@ -1578,7 +1579,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>getCr</entry>
         <entry>eval</entry>
         <entry>getCriteriaScore</entry>
@@ -1598,6 +1598,7 @@
         <entry>GraderE</entry>
         <entry>LOG</entry>
         <entry>GraderEx</entry>
+        <entry>edu</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
