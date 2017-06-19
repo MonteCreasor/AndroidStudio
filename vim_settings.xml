@@ -6,6 +6,9 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/site/gitproject/healthtablet/healthTablet/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" timestamp="1497843528421">
+        <mark key="[" line="357" column="57" />
+      </file>
       <file name="$USER_HOME$/site/gitproject/healthtablet/healthTablet/build.gradle" timestamp="1497839669034">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="26" />
@@ -60,8 +63,10 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="71" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497459811962">
+      <file name="/Dummy.txt" timestamp="1497843630763">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/site/gitproject/healthtablet/build.gradle" timestamp="1497458718820">
         <mark key="[" line="13" column="0" />
@@ -81,7 +86,7 @@
       <file name="$USER_HOME$/site/gitproject/healthtablet/healthTablet/src/main/res/layout/fragment_main.xml" timestamp="1497391037620">
         <mark key="a" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/.android/build-cache/60f4382cf9a1a0eafadc0b88dae45c2e0610c5f0/output/res/values/values.xml" timestamp="1497841391078" />
+      <file name="$USER_HOME$/.android/build-cache/60f4382cf9a1a0eafadc0b88dae45c2e0610c5f0/output/res/values/values.xml" timestamp="1497843122666" />
       <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1497374073972" />
       <file name="/a.txt" timestamp="1493167440110">
         <mark key="[" line="0" column="0" />
@@ -207,7 +212,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Upgraded ToxBox from 2.7.0 to 2.11.0.
+Upgraded google-play from 8.3.0 to 11.0.0.
+Changed min sdk from 14 to 16 as required by TokBox version 2.11.0.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -395,38 +402,40 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJLy8gTW9udGU6IHN0YXJ0IG9mIHZlcnNpb24gMi4xMS4wIGVycm9yIGNvZGVzLgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCVNlc3Npb25TaWduYWxUeXBlVG9vTG9uZywKCQkJCVNlc3Npb25OdWxsT3JJbnZhbGlkUGFyYW1ldGVyLAoJCQkJVmlkZW9DYXB0dXJlRmFpbGVkLAoJCQkJQ2FtZXJhRmFpbGVkLAoJCQkJVmlkZW9SZW5kZXJGYWlsZWQsCgkJCQlTZXNzaW9uU3Vic2NyaWJlck5vdEZvdW5kLAoJCQkJU2Vzc2lvblB1Ymxpc2hlck5vdEZvdW5kLAoJCQkJUHVibGlzaGVyVGltZW91dCwKCQkJCVNlc3Npb25CbG9ja2VkQ291bnRyeSwKCQkJCVNlc3Npb25VbmV4cGVjdGVkR2V0U2Vzc2lvbkluZm9SZXNwb25zZSwKCQkJCVNlc3Npb25JbGxlZ2FsU3RhdGUsCg==</text>
+      <register name="1" type="4">
+        <text>Upgraded ToxBox from 2.7.0 to 2.11.0.
+Upgraded google-play from 8.3.0 to 11.0.0.
+Changed min sdk from 14 to 16 as required by TokBox version 2.11.0.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCVVua25vd25TdWJzY3JpYmVySW5zdGFuY2UoMjAwNCksCg==</text>
+        <text encoding="base64">CQkJCVNlc3Npb25TaWduYWxUeXBlVG9vTG9uZywKCQkJCVNlc3Npb25OdWxsT3JJbnZhbGlkUGFyYW1ldGVyLAoJCQkJVmlkZW9DYXB0dXJlRmFpbGVkLAoJCQkJQ2FtZXJhRmFpbGVkLAoJCQkJVmlkZW9SZW5kZXJGYWlsZWQsCgkJCQlTZXNzaW9uU3Vic2NyaWJlck5vdEZvdW5kLAoJCQkJU2Vzc2lvblB1Ymxpc2hlck5vdEZvdW5kLAoJCQkJUHVibGlzaGVyVGltZW91dCwKCQkJCVNlc3Npb25CbG9ja2VkQ291bnRyeSwKCQkJCVNlc3Npb25VbmV4cGVjdGVkR2V0U2Vzc2lvbkluZm9SZXNwb25zZSwKCQkJCVNlc3Npb25JbGxlZ2FsU3RhdGUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCVVua25vd25QdWJsaXNoZXJJbnN0YW5jZSgyMDAzKSwK</text>
+        <text encoding="base64">CQkJCVVua25vd25TdWJzY3JpYmVySW5zdGFuY2UoMjAwNCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCVN1YnNjcmliZXJTZXNzaW9uRGlzY29ubmVjdGVkKDE1NDEpLAo=</text>
+        <text encoding="base64">CQkJCVVua25vd25QdWJsaXNoZXJJbnN0YW5jZSgyMDAzKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCVN1YnNjcmliZXJXZWJSVENFcnJvcigxNjAwKSwK</text>
+        <text encoding="base64">CQkJCVN1YnNjcmliZXJTZXNzaW9uRGlzY29ubmVjdGVkKDE1NDEpLAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCVN1YnNjcmliZXJJbnRlcm5hbEVycm9yKDIwMDApLAo=</text>
+        <text encoding="base64">CQkJCVN1YnNjcmliZXJXZWJSVENFcnJvcigxNjAwKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCVNlc3Npb25TdGF0ZUZhaWxlZCgxMDIwKSwK</text>
+        <text encoding="base64">CQkJCVN1YnNjcmliZXJJbnRlcm5hbEVycm9yKDIwMDApLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCVNlc3Npb25TaWduYWxEYXRhVG9vTG9uZygxNDEzKSwK</text>
+        <text encoding="base64">CQkJCVNlc3Npb25TdGF0ZUZhaWxlZCgxMDIwKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCVNlc3Npb25JbnZhbGlkU2lnbmFsVHlwZSgxNDYxKSwK</text>
+        <text encoding="base64">CQkJCVNlc3Npb25TaWduYWxEYXRhVG9vTG9uZygxNDEzKSwK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
