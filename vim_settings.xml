@@ -1126,12 +1126,12 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1498271089084">
-        <mark key="'" line="344" column="22" />
-        <mark key="[" line="286" column="70" />
-        <mark key="]" line="286" column="82" />
-        <mark key="." line="286" column="82" />
-        <mark key="^" line="286" column="82" />
+      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1498276501290">
+        <mark key="'" line="318" column="21" />
+        <mark key="[" line="381" column="12" />
+        <mark key="]" line="381" column="12" />
+        <mark key="." line="381" column="17" />
+        <mark key="^" line="318" column="21" />
       </file>
       <file name="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/CustomTestExecutor.java" timestamp="1491540418432">
         <mark key="[" line="106" column="12" />
@@ -1211,8 +1211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="51" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
-      <jump line="191" column="64" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
       <jump line="192" column="44" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
       <jump line="198" column="34" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
       <jump line="201" column="65" filename="$USER_HOME$/vandy/DemoApp/client/src/main/java/edu/vanderbilt/client/AutoGraderTestExecutor.java" />
@@ -1311,10 +1309,12 @@
       <jump line="59" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="329" column="8" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="344" column="22" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="301" column="22" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="318" column="21" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>LOG</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1494,10 +1494,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>LOG</text>
       </register>
       <register name="/" type="4">
-        <text>runCmd</text>
+        <text>LOG</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly9hcHBseSBwbHVnaW46ICdlZHUudmFuZGVyYmlsdC5ncmFkZXIuR3JhZGVyUGx1Z2luJwo=</text>
@@ -1542,9 +1542,9 @@
       </register>
     </registers>
     <search>
-      <last-search>runCmd</last-search>
+      <last-search>LOG</last-search>
       <last-offset />
-      <last-pattern>runCmd</last-pattern>
+      <last-pattern>LOG</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">QE5vbm51bGwg</last-substitute>
       <last-dir>1</last-dir>
@@ -1560,7 +1560,6 @@
         <entry>@N</entry>
         <entry>Rub</entry>
         <entry>GraderE</entry>
-        <entry>LOG</entry>
         <entry>GraderEx</entry>
         <entry>edu</entry>
         <entry>compile</entry>
@@ -1572,6 +1571,7 @@
         <entry>Logg</entry>
         <entry>log</entry>
         <entry>runCmd</entry>
+        <entry>LOG</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
