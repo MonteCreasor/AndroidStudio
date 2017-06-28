@@ -985,11 +985,12 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/build.gradle" timestamp="1498640533570">
+      <file name="$USER_HOME$/vandy/DemoApp/build.gradle" timestamp="1498641675384">
         <mark key="a" line="42" column="3" />
-        <mark key="[" line="16" column="60" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/udacity/ud867-master/MyApplication/app/src/main/java/edu/vanderbilt/myapplication/MainActivity.java" timestamp="1491883028666">
@@ -1198,13 +1199,13 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1498615426438">
+      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1498641711280">
         <mark key="a" line="130" column="24" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="51" column="14" />
+        <mark key="^" line="51" column="14" />
+        <mark key="." line="51" column="14" />
       </file>
       <file name="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/CustomTestExecutor.java" timestamp="1491540418432">
         <mark key="[" line="106" column="12" />
@@ -1284,7 +1285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="26" filename="$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/regex/Pattern.class" />
       <jump line="32" column="28" filename="$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/regex/Pattern.class" />
       <jump line="31" column="28" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="52" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
@@ -1384,10 +1384,11 @@
       <jump line="417" column="0" filename="$USER_HOME$/vandy/DemoApp/app/plugin.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="309" column="40" filename="$USER_HOME$/vandy/DemoApp/app/plugin.gradle" />
+      <jump line="6" column="4" filename="$USER_HOME$/vandy/DemoApp/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>'</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1567,16 +1568,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>DeviceRunner</text>
+        <text>+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNvbHV0aW9uU3RyYXRlZ3kuY2FjaGVDaGFuZ2luZ01vZHVsZXNGb3IgMCwgJ3NlY29uZHMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7dXJsICdodHRwczovL3BsdWdpbnMuZ3JhZGxlLm9yZy9tMi8nfQo=</text>
+        <text encoding="base64">CQljbGFzc3BhdGggJ2dyYWRsZS5wbHVnaW4uZWR1LnZhbmRlcmJpbHQuZ3JhZGVyOnBsdWdpbjorJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1584,40 +1585,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSRVBPLnJlcG8K</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7dXJsICdodHRwczovL3BsdWdpbnMuZ3JhZGxlLm9yZy9tMi8nfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyBSRVBPWzJdLnJlcG8K</text>
+        <text encoding="base64">ICAgICAgICBSRVBPLnJlcG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyBSRVBPWzJdLnJlcG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">R1JBREVSX1BMVUdJTl9WRVJTSU9OPSIwLjAuMC4wLVNOQVBTSE9UIgo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R1JBREVSX1BMVUdJTl9WRVJTSU9OPSIwLjAuMC4wLVNOQVBTSE9UIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYXZlbkxvY2FsID0gU3lzdGVtLmdldFByb3BlcnR5KCJ1c2VyLmRpciIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgc3lzdGVtLn0K</text>
+        <text encoding="base64">ICAgIGRlZiBtYXZlbkxvY2FsID0gU3lzdGVtLmdldFByb3BlcnR5KCJ1c2VyLmRpciIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>DeviceRunner</last-search>
+      <last-search>+</last-search>
       <last-offset />
-      <last-pattern>DeviceRunner</last-pattern>
+      <last-pattern>+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">QE5vbm51bGwg</last-substitute>
       <last-dir>1</last-dir>
@@ -1625,7 +1626,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DOT</entry>
         <entry>Logger</entry>
         <entry>Logg</entry>
         <entry>log</entry>
@@ -1645,6 +1645,7 @@
         <entry>sdkDir</entry>
         <entry>file(</entry>
         <entry>DeviceRunner</entry>
+        <entry>+</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
