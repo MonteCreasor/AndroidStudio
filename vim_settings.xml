@@ -1237,13 +1237,10 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1499109144677">
-        <mark key="a" line="124" column="24" />
+      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1499110783698">
+        <mark key="a" line="126" column="24" />
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="21" column="15" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/doug/LiveLessons/ImageStreamGang/AndroidGUI/build.gradle" timestamp="1498938516697">
         <mark key="[" line="17" column="0" />
@@ -1436,7 +1433,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a b c [ d e f [ h i j ] opq ]</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1616,7 +1613,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a b c [ d e f [ h i j ] opq ]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
@@ -1624,8 +1621,12 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdlZHUudmFuZGVyYmlsdC5ncmFkZXI6cnVicmljOjAuMS4wLjUnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;{    }
+
+
+
+}</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1633,16 +1634,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsICdodHRwczovL2RsLmJpbnRyYXkuY29tL21vbnRlY3JlYXNvci9ncmFkZXInCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsICdodHRwczovL2RsLmJpbnRyYXkuY29tL21vbnRlY3JlYXNvci9ncmFkZXInCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8qKgogKiBHRU5FUkFURUQgQlkgVEhFIEFVVE9HUkFERVI6IERPIE5PVCBSRU1PVkUhCiAqLwphcHBseSBwbHVnaW46ICdlZHUudmFuZGVyYmlsdC5ncmFkZXIucGx1Z2luJwo=</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8qKgogKiBHRU5FUkFURUQgQlkgVEhFIEFVVE9HUkFERVI6IERPIE5PVCBSRU1PVkUhCiAqLwphcHBseSBwbHVnaW46ICdlZHUudmFuZGVyYmlsdC5ncmFkZXIucGx1Z2luJwo=</text>
       </register>
       <register name="u" type="4">
         <text />
@@ -1651,13 +1652,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyLnBsdWdpbicK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyLnBsdWdpbicK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiBlZHUudmFuZGVyYmlsdC5ncmFkZXIucGx1Z2luCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
