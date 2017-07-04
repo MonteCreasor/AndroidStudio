@@ -1237,6 +1237,12 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1499125250481">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/doug/LiveLessons/ImageStreamGang/AndroidGUI/build.gradle" timestamp="1498938516697">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="16" />
@@ -1325,8 +1331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="26" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="127" column="16" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="131" column="37" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="66" column="15" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="79" column="11" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
@@ -1425,10 +1429,12 @@
       <jump line="54" column="0" filename="$USER_HOME$/vandy/DemoApp/build.gradle" />
       <jump line="34" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="23" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="30" column="13" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="20" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjIuMi4yJywgewogICAgICAgIGV4Y2x1ZGUgZ3JvdXA6ICdjb20uYW5kcm9pZC5zdXBwb3J0JywgbW9kdWxlOiAnc3VwcG9ydC1hbm5vdGF0aW9ucycKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1617,7 +1623,7 @@
         <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjIuMi4yJywgewogICAgICAgIGV4Y2x1ZGUgZ3JvdXA6ICdjb20uYW5kcm9pZC5zdXBwb3J0JywgbW9kdWxlOiAnc3VwcG9ydC1hbm5vdGF0aW9ucycKICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1631,57 +1637,25 @@
         <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjIuMi4yJywgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">CWltcGxlbWV0YXRpb24gJ2EuYi5jOmQ6MS4wJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlIGdyb3VwOiAnY29tLmFuZHJvaWQuc3VwcG9ydCcsIG1vZHVsZTogJ3N1cHBvcnQtYW5ub3RhdGlvbnMnCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjIuMi4yJywgewo=</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlIGdyb3VwOiAnY29tLmFuZHJvaWQuc3VwcG9ydCcsIG1vZHVsZTogJ3N1cHBvcnQtYW5ub3RhdGlvbnMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24oJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjIuMi4yJywgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wbGVtZW50YXRpb24gZmlsZVRyZWUoaW5jbHVkZTogWycqLmphciddLCBkaXI6ICdsaWJzJykK</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>dependencies {
-    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
-        exclude group: 'com.android.support', module: 'support-annotations'
-    })
-    implementation fileTree(include: ['*.jar'], dir: 'libs')
-    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
-        exclude group: 'com.android.support', module: 'support-annotations'
-    })
-}
-
-dependencies {
-    implementation fileTree(include: ['*.jar'], dir: 'libs')
-    implementation 'com.android.support:design:26.0.0-beta2'
-    implementation 'com.android.support:appcompat-v7:26.0.0-beta2'
-    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
-    implementation 'org.mockito:mockito-core:2.7.22'
-    implementation 'org.mockito:mockito-android:2.7.22'
-
-    // NOTE: Robotium and rubric Must be declared as implementation entries.
-    implementation 'com.jayway.android.robotium:robotium:5.6.3'
-    implementation 'com.jayway.android.robotium:robotium-solo:5.6.3'
-    implementation 'com.jayway.android.robotium:robotium-core:1.8.0-beta-2'
-    implementation 'edu.vanderbilt.grader:rubric:0.1.0.5'
-
-    testImplementation 'junit:junit:4.12'
-    testImplementation 'org.robolectric:robolectric:3.3.2'
-    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
-        exclude group: 'com.android.support', module: 'support-annotations'
-    })
-    androidTestImplementation('com.android.support.test.espresso:espresso-intents:2.2.2', {
-        exclude group: 'com.android.support', module: 'support-annotations'
-    })
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBleGNsdWRlIGdyb3VwOiAnY29tLmFuZHJvaWQuc3VwcG9ydCcsIG1vZHVsZTogJ3N1cHBvcnQtYW5ub3RhdGlvbnMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
