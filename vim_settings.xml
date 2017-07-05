@@ -272,6 +272,14 @@
         <mark key="]" line="4" column="45" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/vandy/grader/gradle/target-build-stub.gradle" timestamp="1499233144432">
+        <mark key="a" line="27" column="48" />
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+        <mark key="^" line="9" column="31" />
+      </file>
       <file name="$USER_HOME$/jules/TestApp/gradle/wrapper/gradle-wrapper.properties" timestamp="1493337237588">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="70" />
@@ -1237,10 +1245,10 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1499230463913">
+      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1499232439445">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
-        <mark key="^" line="45" column="0" />
+        <mark key="^" line="45" column="41" />
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/doug/LiveLessons/ImageStreamGang/AndroidGUI/build.gradle" timestamp="1498938516697">
@@ -1331,9 +1339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="16" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="201" column="37" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="235" column="48" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="298" column="29" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="302" column="12" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="320" column="12" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
@@ -1431,10 +1436,13 @@
       <jump line="11" column="23" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="66" column="23" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="1" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="26" column="0" filename="$USER_HOME$/vandy/grader/gradle/target-build-stub.gradle" />
+      <jump line="7" column="30" filename="$USER_HOME$/vandy/grader/gradle/target-build-stub.gradle" />
+      <jump line="22" column="4" filename="$USER_HOME$/vandy/grader/gradle/target-build-stub.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVze2FuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gbmFtZTogJ2NsaWVudC1kZWJ1ZycsIGV4dDogJ2Fhcid9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>staging</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1614,16 +1622,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>repositories{flatDir {dirs 'C:/Users/monte/vandy/grader/client/build/out</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
-        <text>rubric</text>
+        <text>_LIB_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWltcGxlbWVudGF0aW9uICdlZHUudmFuZGVyYmlsdC5ncmFkZXI6cnVicmljOjAuKycK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBwcm9qZWN0Lmhhc1Byb3BlcnR5KEdSQURFUl9PVVRQVVRfTkFNRSkKICAgIGFzc2VydCBwcm9qZWN0Lmhhc1Byb3BlcnR5KEdSQURFUl9PVVRQVVRfRElSX1BBVEgpCiAgICBhc3NlcnQgcHJvamVjdC5oYXNQcm9wZXJ0eShHUkFERVJfSU5QVVRfTElCX05BTUUpCiAgICBhc3NlcnQgcHJvamVjdC5oYXNQcm9wZXJ0eShHUkFERVJfSU5QVVRfTElCX0RJUl9QQVRIKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVze2FuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gbmFtZTogJ2NsaWVudC1kZWJ1ZycsIGV4dDogJ2Fhcid9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1631,13 +1639,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVze2ZsYXREaXIge2RpcnMgJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9jbGllbnQvYnVpbGQvb3V0cHV0cy9hYXInfX0K</text>
+        <text encoding="base64">YXNzZXJ0IHByb2plY3QuaGFzUHJvcGVydHkoR1JBREVSX09VVFBVVF9OQU1FKQphc3NlcnQgcHJvamVjdC5oYXNQcm9wZXJ0eShHUkFERVJfT1VUUFVUX0RJUl9QQVRIKQphc3NlcnQgcHJvamVjdC5oYXNQcm9wZXJ0eShHUkFERVJfSU5QVVRfTElCX05BTUUpCmFzc2VydCBwcm9qZWN0Lmhhc1Byb3BlcnR5KEdSQURFUl9JTlBVVF9MSUJfRElSX1BBVEgpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVze2ZsYXREaXIge2RpcnMgJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9jbGllbnQvYnVpbGQvb3V0cHV0cy9hYXInfX0KZGVwZW5kZW5jaWVze2FuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gbmFtZTogJ2NsaWVudC1kZWJ1ZycsIGV4dDogJ2Fhcid9Cg==</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9ncmFkbGUvdGFyZ2V0LWJ1aWxkLXN0dWIuZ3JhZGxlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1646,25 +1654,25 @@
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBwcm9qZWN0Lmhhc1Byb3BlcnR5KEdSQURFUl9PVVRQVVRfTkFNRSkKICAgIGFzc2VydCBwcm9qZWN0Lmhhc1Byb3BlcnR5KEdSQURFUl9PVVRQVVRfRElSX1BBVEgpCiAgICBhc3NlcnQgcHJvamVjdC5oYXNQcm9wZXJ0eShHUkFERVJfSU5QVVRfTElCX05BTUUpCiAgICBhc3NlcnQgcHJvamVjdC5oYXNQcm9wZXJ0eShHUkFERVJfSU5QVVRfTElCX0RJUl9QQVRIKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ3RhcmdldC1idWlsZC1zdHViLmdyYWRsZScK</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6XFVzZXJzXG1vbnRlXHZhbmR5XGdyYWRlclxncmFkbGVcdGFyZ2V0LWJ1aWxkLXN0dWIuZ3JhZGxlJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVze2ZsYXREaXIge2RpcnMgJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9jbGllbnQvYnVpbGQvb3V0cHV0cy9hYXInfX0KZGVwZW5kZW5jaWVze2FuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gbmFtZTogJ2NsaWVudC1kZWJ1ZycsIGV4dDogJ2Fhcid9Cg==</text>
+        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyLnBsdWdpbicK</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6XFVzZXJzXG1vbnRlXHZhbmR5XGdyYWRlci9ncmFkbGUvdGFyZ2V0LWJ1aWxkLXN0dWIuZ3JhZGxlJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rubric</last-search>
+      <last-search>_LIB_</last-search>
       <last-offset />
-      <last-pattern>rubric</last-pattern>
+      <last-pattern>_LIB_</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1672,7 +1680,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RUNNER</entry>
         <entry>apkName</entry>
         <entry>project</entry>
         <entry>runnerName</entry>
@@ -1692,6 +1699,7 @@
         <entry>context</entry>
         <entry encoding="base64">XDw6XD4=</entry>
         <entry>rubric</entry>
+        <entry>_LIB_</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
