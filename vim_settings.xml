@@ -272,12 +272,12 @@
         <mark key="]" line="4" column="45" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/grader/gradle/target-build-stub.gradle" timestamp="1499235764245">
-        <mark key="'" line="25" column="1" />
-        <mark key="[" line="26" column="62" />
-        <mark key="]" line="26" column="38" />
-        <mark key="." line="26" column="62" />
-        <mark key="^" line="26" column="38" />
+      <file name="$USER_HOME$/vandy/grader/gradle/target-build-stub.gradle" timestamp="1499239224986">
+        <mark key="'" line="32" column="3" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/jules/TestApp/gradle/wrapper/gradle-wrapper.properties" timestamp="1493337237588">
         <mark key="[" line="5" column="69" />
@@ -1244,7 +1244,7 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1499235806719">
+      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1499239296225">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -1337,8 +1337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="16" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="332" column="23" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="334" column="8" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="345" column="39" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="347" column="29" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
@@ -1437,10 +1435,12 @@
       <jump line="24" column="36" filename="$USER_HOME$/vandy/grader/gradle/target-build-stub.gradle" />
       <jump line="13" column="60" filename="$USER_HOME$/vandy/grader/gradle/target-build-stub.gradle" />
       <jump line="25" column="1" filename="$USER_HOME$/vandy/grader/gradle/target-build-stub.gradle" />
+      <jump line="27" column="5" filename="$USER_HOME$/vandy/grader/gradle/target-build-stub.gradle" />
+      <jump line="32" column="3" filename="$USER_HOME$/vandy/grader/gradle/target-build-stub.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCmFwcGx5IGZyb206ICdDOi9Vc2Vycy9tb250ZS92YW5keS9ncmFkZXIvZ3JhZGxlL3RhcmdldC1idWlsZC1zdHViLmdyYWRsZScKCi8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCmFwcGx5IGZyb206ICdDOi9Vc2Vycy9tb250ZS92YW5keS9ncmFkZXIvZ3JhZGxlL3RhcmdldC1idWlsZC1zdHViLmdyYWRsZScK</text>
+        <text encoding="base64">Ci8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCmFwcGx5IGZyb206ICdDOi9Vc2Vycy9tb250ZS92YW5keS9ncmFkZXIvZ3JhZGxlL3RhcmdldC1idWlsZC1zdHViLmdyYWRsZScK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1620,16 +1620,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>hasProperty</text>
       </register>
       <register name="/" type="4">
         <text>client-debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RpcnMgIicke0dSQURFUl9JTlBVVF9MSUJfRElSX1BBVEh9JyIK</text>
+        <text encoding="base64">ICAgIHByaW50bG4gIkdSQURFUl9PVVBVVF9OQU1FID0gJHtyb290UHJvamVjdC5nZXRQcm9wZXJ0eSgnR1JBREVSX09VVFBVVF9OQU1FJyl9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCmFwcGx5IGZyb206ICdDOi9Vc2Vycy9tb250ZS92YW5keS9ncmFkZXIvZ3JhZGxlL3RhcmdldC1idWlsZC1zdHViLmdyYWRsZScKCi8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCmFwcGx5IGZyb206ICdDOi9Vc2Vycy9tb250ZS92YW5keS9ncmFkZXIvZ3JhZGxlL3RhcmdldC1idWlsZC1zdHViLmdyYWRsZScK</text>
+        <text encoding="base64">Ci8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCmFwcGx5IGZyb206ICdDOi9Vc2Vycy9tb250ZS92YW5keS9ncmFkZXIvZ3JhZGxlL3RhcmdldC1idWlsZC1zdHViLmdyYWRsZScK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1637,31 +1637,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVze2ZsYXREaXIge2RpcnMgJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9jbGllbnQvYnVpbGQvb3V0cHV0cy9hYXInfX0KZGVwZW5kZW5jaWVze2FuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gbmFtZTogJ2NsaWVudC1kZWJ1ZycsIGV4dDogJ2Fhcid9Cg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXh0LkdSQURFUl9JTlBVVF9MSUJfRElSX1BBVEggPSAnQzovVXNlcnMvbW9udGUvdmFuZHkvZ3JhZGVyL2NsaWVudC9idWlsZC9vdXRwdXRzL2FhcicK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXh0LkdSQURFUl9JTlBVVF9MSUJfTkFNRSA9ICdjbGllbnQtZGVidWcnCg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXh0LkdSQURFUl9PVVRQVVRfRElSX1BBVEggPSAnQzovVXNlcnMvbW9udGUvdmFuZHkvZ3JhZGVyL3N0YWdpbmcnCg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXh0LkdSQURFUl9PVVRQVVRfTkFNRSA9ICd0ZXN0LmFwaycK</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4gIkdSQURFUl9JTlBVVF9MSUJfRElSX1BBVEgnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4gIkdSQURFUl9JTlBVVF9MSUJfTkFNRScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
