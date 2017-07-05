@@ -1020,11 +1020,11 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/build.gradle" timestamp="1499162582070">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/vandy/DemoApp/build.gradle" timestamp="1499227152518">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
         <mark key="^" line="4" column="19" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/udacity/ud867-master/MyApplication/app/src/main/java/edu/vanderbilt/myapplication/MainActivity.java" timestamp="1491883028666">
         <mark key="[" line="18" column="47" />
@@ -1237,12 +1237,11 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1499211369416">
-        <mark key="'" line="11" column="23" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="46" column="52" />
-        <mark key="." line="46" column="52" />
-        <mark key="^" line="46" column="55" />
+      <file name="$USER_HOME$/vandy/DemoApp/app/build.gradle" timestamp="1499228569264">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/doug/LiveLessons/ImageStreamGang/AndroidGUI/build.gradle" timestamp="1498938516697">
         <mark key="[" line="17" column="0" />
@@ -1332,7 +1331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="24" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="197" column="16" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="201" column="37" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="235" column="48" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
@@ -1421,7 +1419,6 @@
       <jump line="173" column="23" filename="$USER_HOME$/doug/LiveLessons/ImageStreamGang/AndroidGUI/app/src/main/java/livelessons/activities/MainActivity.java" />
       <jump line="256" column="58" filename="$USER_HOME$/doug/LiveLessons/ImageStreamGang/AndroidGUI/app/src/main/java/livelessons/activities/MainActivity.java" />
       <jump line="512" column="16" filename="$USER_HOME$/doug/LiveLessons/ImageStreamGang/AndroidGUI/app/src/main/java/livelessons/activities/MainActivity.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="74" column="25" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" />
       <jump line="54" column="0" filename="$USER_HOME$/vandy/DemoApp/build.gradle" />
       <jump line="34" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
@@ -1432,10 +1429,12 @@
       <jump line="3" column="23" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="41" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="11" column="23" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="66" column="23" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="1" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+      <register name="&quot;" type="4">
+        <text>repositories{flatDir {dirs 'C:/Users/monte/vandy/grader/client/build/out</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1615,16 +1614,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>repositories{flatDir {dirs 'C:/Users/monte/vandy/grader/client/build/out</text>
       </register>
       <register name="/" type="4">
         <text>rubric</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmFuZHJvaWQuYXBwbGljYXRpb24nCg==</text>
+        <text encoding="base64">CWltcGxlbWVudGF0aW9uICdlZHUudmFuZGVyYmlsdC5ncmFkZXI6cnVicmljOjAuKycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVze2ZsYXREaXIge2RpcnMgJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9jbGllbnQvYnVpbGQvb3V0cHV0cy9hYXInfX0KZGVwZW5kZW5jaWVze2FuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gbmFtZTogJ2NsaWVudC1kZWJ1ZycsIGV4dDogJ2Fhcid9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1632,34 +1631,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljbGFzc3BhdGggJ2VkdS52YW5kZXJiaWx0LmdyYWRlcjpwbHVnaW46MC4rJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gSU5TRVJURUQgQlkgR1JBREVSIElOU1RBTExFUgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBJTlNFUlRFRCBCWSBHUkFERVIgSU5TVEFMTEVSCg==</text>
+        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyLnBsdWdpbicK</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogJ3RhcmdldC1idWlsZC1zdHViLmdyYWRsZScK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gSU5TRVJURUQgQlkgR1JBREVSIElOU1RBTExFUgo=</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVze2ZsYXREaXIge2RpcnMgJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9jbGllbnQvYnVpbGQvb3V0cHV0cy9hYXInfX0KZGVwZW5kZW5jaWVze2FuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gbmFtZTogJ2NsaWVudC1kZWJ1ZycsIGV4dDogJ2Fhcid9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyLnBsdWdpbicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWltcGxlbWVudGF0aW9uICdlZHUudmFuZGVyYmlsdC5ncmFkZXI6cnVicmljOjAuKycK</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1667,7 +1666,7 @@
       <last-offset />
       <last-pattern>rubric</last-pattern>
       <last-replace />
-      <last-substitute encoding="base64">QE5vbm51bGwg</last-substitute>
+      <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1709,12 +1708,12 @@
         <entry>st ic</entry>
         <entry>:w</entry>
         <entry>q!1</entry>
-        <entry>w</entry>
         <entry>w!</entry>
         <entry>s/@Nonnull //g</entry>
         <entry>s/@Nonnull //</entry>
         <entry>q!</entry>
         <entry>set ic</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
