@@ -115,6 +115,11 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="35" />
       </file>
+      <file name="$USER_HOME$/vandy/DemoApp/SUBMIT_TO_COURSERA/device-log.txt" timestamp="1499465160355">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/jules/DemoApp/settings.gradle" timestamp="1493930791175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1339,11 +1344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="57" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="102" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="148" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="151" column="26" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="155" column="26" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="158" column="30" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="160" column="26" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="168" column="30" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
@@ -1439,10 +1439,15 @@
       <jump line="77" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="89" column="22" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="74" column="4" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
+      <jump line="18" column="1" filename="$USER_HOME$/vandy/DemoApp/SUBMIT_TO_COURSERA/device-log.txt" />
+      <jump line="19" column="0" filename="$USER_HOME$/vandy/DemoApp/SUBMIT_TO_COURSERA/device-log.txt" />
+      <jump line="20" column="1" filename="$USER_HOME$/vandy/DemoApp/SUBMIT_TO_COURSERA/device-log.txt" />
+      <jump line="17" column="35" filename="$USER_HOME$/vandy/DemoApp/SUBMIT_TO_COURSERA/device-log.txt" />
+      <jump line="23" column="14" filename="$USER_HOME$/vandy/DemoApp/SUBMIT_TO_COURSERA/device-log.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1622,10 +1627,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>resultF</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fQo=</text>
@@ -1670,9 +1675,9 @@
       </register>
     </registers>
     <search>
-      <last-search>resultF</last-search>
+      <last-search encoding="base64">LCA=</last-search>
       <last-offset />
-      <last-pattern>resultF</last-pattern>
+      <last-pattern encoding="base64">LCA=</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1680,8 +1685,6 @@
     </search>
     <history>
       <history-search>
-        <entry>runner</entry>
-        <entry>logger</entry>
         <entry encoding="base64">bmV3IA==</entry>
         <entry>graderDir</entry>
         <entry>rootDir</entry>
@@ -1700,6 +1703,8 @@
         <entry>client-debug</entry>
         <entry>resultFi</entry>
         <entry>resultF</entry>
+        <entry>,</entry>
+        <entry encoding="base64">LCA=</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
