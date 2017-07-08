@@ -1636,7 +1636,7 @@
         <text>,Development test with forced error()&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>@Rubric</text>
+        <text>androidTestCompile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIERFVl8xX1NIT1VMRF9QQVNTKCkgewo=</text>
@@ -1681,9 +1681,9 @@
       </register>
     </registers>
     <search>
-      <last-search>@Rubric</last-search>
+      <last-search>androidTestCompile</last-search>
       <last-offset />
-      <last-pattern>@Rubric</last-pattern>
+      <last-pattern>androidTestCompile</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1691,7 +1691,6 @@
     </search>
     <history>
       <history-search>
-        <entry>graderDir</entry>
         <entry>rootDir</entry>
         <entry>sdkDir</entry>
         <entry>file(</entry>
@@ -1711,6 +1710,7 @@
         <entry>,</entry>
         <entry encoding="base64">LCA=</entry>
         <entry>@Rubric</entry>
+        <entry>androidTestCompile</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
