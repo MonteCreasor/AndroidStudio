@@ -22,7 +22,7 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="/a.dummy" timestamp="1499688966838">
+      <file name="/a.dummy" timestamp="1499804590149">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaLifeJune/opentok-android-sdk-samples/Basic-Video-Chat/app/build.gradle" timestamp="1497458581452">
@@ -124,8 +124,13 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" timestamp="1499803671379">
-        <mark key="'" line="62" column="19" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" timestamp="1499805909839">
+        <mark key="a" line="74" column="15" />
+        <mark key="'" line="74" column="15" />
+        <mark key="[" line="89" column="21" />
+        <mark key="]" line="91" column="30" />
+        <mark key="." line="91" column="30" />
+        <mark key="^" line="91" column="30" />
       </file>
       <file name="$USER_HOME$/vandy/MyApplicationa2/app/build.gradle" timestamp="1499104212814">
         <mark key="[" line="26" column="0" />
@@ -156,8 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="46" filename="$USER_HOME$/site/gitproject/healthtablet/healthTablet/src/main/java/com/ideallife/healthtablet/MainActivity.java" />
-      <jump line="363" column="42" filename="$USER_HOME$/site/gitproject/healthtablet/healthTablet/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
       <jump line="364" column="45" filename="$USER_HOME$/site/gitproject/healthtablet/healthTablet/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
       <jump line="365" column="54" filename="$USER_HOME$/site/gitproject/healthtablet/healthTablet/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
       <jump line="366" column="47" filename="$USER_HOME$/site/gitproject/healthtablet/healthTablet/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
@@ -256,10 +259,12 @@
       <jump line="22" column="13" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="58" column="41" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="62" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
+      <jump line="73" column="15" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9ncmFkbGUvdGFyZ2V0LWJ1aWxkLXN0dWIuZ3JhZGxlJwo=</text>
+      <register name="&quot;" type="4">
+        <text>parts[parts.length - 2];</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -439,46 +444,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>parts[parts.length - 2];</text>
       </register>
       <register name="/" type="4">
         <text>getKey</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAnaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tJwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZSgiSW50ZXJjZXB0ZWQgc2hhcmUgc25pcHBldCB3ZWIgdXJsIHNob3VsZCBoYXZlIGZvcm0gJ2h0dHA6Ly8uLi4vLi4uJyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9ncmFkbGUvdGFyZ2V0LWJ1aWxkLXN0dWIuZ3JhZGxlJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdG9waWMgPSBxdWVzdGlvbjsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcXVlc3Rpb24gPSBudWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9ncmFkbGUvdGFyZ2V0LWJ1aWxkLXN0dWIuZ3JhZGxlJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">e1NUVUJfQ09NTUVOVH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjb21wb25lbnRzIHNwbGl0IGJ5IGF0IGxlYXN0IDIgJy8nIGNoYXJhY3RlcnMuIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
