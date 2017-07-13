@@ -161,13 +161,13 @@
         <mark key="." line="20" column="47" />
         <mark key="^" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" timestamp="1499920988788">
-        <mark key="a" line="310" column="0" />
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="336" column="0" />
-        <mark key="]" line="336" column="0" />
-        <mark key="^" line="306" column="38" />
-        <mark key="." line="336" column="0" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" timestamp="1499923755591">
+        <mark key="a" line="250" column="56" />
+        <mark key="'" line="305" column="17" />
+        <mark key="[" line="251" column="72" />
+        <mark key="]" line="251" column="80" />
+        <mark key="." line="251" column="80" />
+        <mark key="^" line="251" column="80" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/view/View.java" timestamp="1499916390674">
         <mark key="'" line="430" column="8" />
@@ -184,8 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="50" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
-      <jump line="169" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="179" column="55" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="180" column="38" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="186" column="23" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
@@ -280,14 +278,16 @@
       <jump line="113" column="30" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="182" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="249" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
-      <jump line="250" column="19" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="217" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="230" column="39" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="91" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
+      <jump line="244" column="41" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
+      <jump line="250" column="36" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
+      <jump line="304" column="17" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tableview</text>
+        <text>NULL</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -467,55 +467,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tableview</text>
+        <text>NULL</text>
       </register>
       <register name="/" type="4">
-        <text>saveI</text>
+        <text>showProgress</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBTSEFSRV9SRVNVTFQgPSAxOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFdlYlZpZXcgZXh0ZW5kcyBXZWJWaWV3IHsK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZUZyYW1lTGF5b3V0LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZUZyYW1lTGF5b3V0LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvdwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25QYWdlU3RhcnRlZCh2aWV3LCB1cmwsIGZhdmljb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoImdvdCBhIG9uUGFnZVN0YXJ0ZWQgY2FsbCwgdXJsID0gIiArIHVybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBvblBhZ2VTdGFydGVkKFdlYlZpZXcgdmlldywgU3RyaW5nIHVybCwgQml0bWFwIGZhdmljb24pIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5sb2FkVXJsKHVybCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhbGwgaXMgc2F2ZS9yZXN0b3JlIGluc3RhbmNlIHN0YXRlIGl0c2VsZi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBXZSBvbmx5IG5lZWQgdG8gbG9hZCB0aGUgdXJsIHRoZSBmaXJzdCB0aW1lIGluOyBXZWJWaWV3IGhhbmRsZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>saveI</last-search>
+      <last-search>showProgress</last-search>
       <last-offset />
-      <last-pattern>saveI</last-pattern>
+      <last-pattern>showProgress</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Builder</last-substitute>
       <last-dir>1</last-dir>
@@ -523,8 +523,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showProgress</entry>
-        <entry>saveBitmap</entry>
         <entry>showPro</entry>
         <entry>imageView</entry>
         <entry>setVis</entry>
@@ -543,6 +541,8 @@
         <entry>showBitmap</entry>
         <entry>scale</entry>
         <entry>saveI</entry>
+        <entry>showProgress(false)</entry>
+        <entry>showProgress</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
