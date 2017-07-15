@@ -425,8 +425,9 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" timestamp="1499926608590">
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" timestamp="1500097721714">
         <mark key="a" line="72" column="11" />
+        <mark key="'" line="47" column="33" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="^" line="83" column="32" />
@@ -1166,6 +1167,9 @@
         <mark key="." line="4" column="156" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/vandy/DemoApp-a3/AUTOGRADER_SUBMISSION/device-log.txt" timestamp="1500097854634">
+        <mark key="'" line="460" column="42" />
+      </file>
       <file name="$USER_HOME$/40au/test/build.gradle" timestamp="1496875514509">
         <mark key="[" line="7" column="56" />
         <mark key="]" line="7" column="63" />
@@ -1329,6 +1333,9 @@
         <mark key="." line="52" column="32" />
         <mark key="^" line="52" column="32" />
       </file>
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" timestamp="1500097753242">
+        <mark key="'" line="43" column="30" />
+      </file>
       <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1499926484095" />
       <file name="$USER_HOME$/jules/TestApp/app/src/main/AndroidManifest.xml" timestamp="1493338200851">
         <mark key="[" line="16" column="15" />
@@ -1371,14 +1378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="51" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="76" column="9" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="116" column="32" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="264" column="41" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="278" column="50" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="288" column="13" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="289" column="76" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="94" column="33" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="135" column="28" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="212" column="33" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="225" column="36" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
@@ -1471,6 +1470,14 @@
       <jump line="80" column="4" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="108" column="4" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="42" column="61" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="47" column="33" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" />
+      <jump line="42" column="11" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
+      <jump line="43" column="30" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/AUTOGRADER_SUBMISSION/device-log.txt" />
+      <jump line="12" column="17" filename="$USER_HOME$/vandy/DemoApp-a3/AUTOGRADER_SUBMISSION/device-log.txt" />
+      <jump line="197" column="17" filename="$USER_HOME$/vandy/DemoApp-a3/AUTOGRADER_SUBMISSION/device-log.txt" />
+      <jump line="476" column="17" filename="$USER_HOME$/vandy/DemoApp-a3/AUTOGRADER_SUBMISSION/device-log.txt" />
+      <jump line="460" column="42" filename="$USER_HOME$/vandy/DemoApp-a3/AUTOGRADER_SUBMISSION/device-log.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1657,7 +1664,7 @@
         <text>displayFatalError(project, Messages.noAndroidPluginError, e)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwuXD4=</text>
+        <text>testMissingEm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgYnVpbGRUb29sc1ZlcnNpb24K</text>
@@ -1702,20 +1709,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwuXD4=</last-search>
+      <last-search>testMissingEm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwuXD4=</last-pattern>
+      <last-pattern>testMissingEm</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Local</entry>
-        <entry>Menu</entry>
-        <entry>view</entry>
-        <entry>context</entry>
         <entry encoding="base64">XDw6XD4=</entry>
         <entry>rubric</entry>
         <entry>_LIB_</entry>
@@ -1732,6 +1735,10 @@
         <entry>@</entry>
         <entry>@Test</entry>
         <entry encoding="base64">XDwuXD4=</entry>
+        <entry>failTestEx</entry>
+        <entry>tstMissingE</entry>
+        <entry>FAIL</entry>
+        <entry>testMissingEm</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
