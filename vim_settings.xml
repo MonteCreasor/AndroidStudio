@@ -209,10 +209,11 @@
         <mark key="." line="113" column="20" />
         <mark key="^" line="113" column="17" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1500078924067">
-        <mark key="[" line="9" column="51" />
-        <mark key="]" line="9" column="51" />
-        <mark key="." line="9" column="51" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1500081099401">
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
       </file>
       <file name="$USER_HOME$/jules/apps/internaltestlib/src/main/java/edu/vanderbilt/internaltestlib/MainActivityTest.java" timestamp="1491936390185">
         <mark key="[" line="26" column="0" />
@@ -448,8 +449,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1500074304608">
-        <mark key="[" line="41" column="6" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1500080104402">
+        <mark key="'" line="40" column="61" />
+        <mark key="[" line="40" column="75" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
@@ -1375,7 +1380,6 @@
       <file name="$USER_HOME$/vandy/DemoApp-a3/SUBMIT_TO_COURSERA/device-log.txt" timestamp="1500066248392" />
     </filemarks>
     <jumps>
-      <jump line="117" column="0" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="254" column="51" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="76" column="9" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="116" column="32" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
@@ -1475,10 +1479,11 @@
       <jump line="52" column="4" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="80" column="4" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="108" column="4" filename="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
+      <jump line="42" column="61" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IChkbyBub3QgcmVtb3ZlKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1658,16 +1663,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IChkbyBub3QgcmVtb3ZlKQ==</text>
+        <text>999.2.2.+'</text>
       </register>
       <register name="/" type="4">
-        <text>@Test</text>
+        <text encoding="base64">XDwuXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQloZWxsbwoJCWJ5ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2VkdS52YW5kZXJiaWx0LmdyYWRlcjpydWJyaWM6MS4wLVNOQVBTSE9UJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1675,48 +1680,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8gTk9URTogRG8gbm90IHBsYWNlIHlvdXIgYXBwbGljYXRpb24gZGVwZW5kZW5jaWVzIGhlcmU7IHRoZXkgYmVsb25nCiAgICAgICAgLy8gaW4gdGhlIGluZGl2aWR1YWwgbW9kdWxlIGJ1aWxkLmdyYWRsZSBmaWxlcwogICAgfQoKCWNvbmZpZ3VyYXRpb25zLmNsYXNzcGF0aCB7CgkJcmVzb2x1dGlvblN0cmF0ZWd5IHsKCQkJY2FjaGVEeW5hbWljVmVyc2lvbnNGb3IgMCwgJ3NlY29uZHMnCgkJCWNhY2hlQ2hhbmdpbmdNb2R1bGVzRm9yIDAsICdzZWNvbmRzJwoJCX0KCX0KfQoKYWxscHJvamVjdHMgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBnb29nbGUoKQogICAgICAgIGpjZW50ZXIoKQogICAgfQp9Cgp0YXNrIGNsZWFuKHR5cGU6IERlbGV0ZSkgewogICAgZGVsZXRlIHJvb3RQcm9qZWN0LmJ1aWxkRGlyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2VkdS52YW5kZXJiaWx0LmdyYWRlcjpydWJyaWM6MS4wLVNOQVBTSE9UCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCg==</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2VkdS52YW5kZXJiaWx0LmdyYWRlcjpydWJyaWM6MS4wLVNOQVBTSE9UJ30K</text>
+        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCg==</text>
+        <text encoding="base64">YnVpbGRzY3JpcHQgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>@Test</last-search>
+      <last-search encoding="base64">XDwuXD4=</last-search>
       <last-offset />
-      <last-pattern>@Test</last-pattern>
+      <last-pattern encoding="base64">XDwuXD4=</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>local</entry>
         <entry>Local</entry>
         <entry>Menu</entry>
         <entry>view</entry>
@@ -1736,6 +1740,7 @@
         <entry>JScrollPane</entry>
         <entry>@</entry>
         <entry>@Test</entry>
+        <entry encoding="base64">XDwuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
