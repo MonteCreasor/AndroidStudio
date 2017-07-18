@@ -124,11 +124,6 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="35" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp/SUBMIT_TO_COURSERA/device-log.txt" timestamp="1499494850688">
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/jules/DemoApp/settings.gradle" timestamp="1493930791175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -939,6 +934,9 @@
         <mark key="." line="3" column="68" />
         <mark key="^" line="3" column="68" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" timestamp="1500356194457">
+        <mark key="'" line="78" column="51" />
+      </file>
       <file name="$USER_HOME$/jules/apps/app/src/androidTest/java/edu/vanderbilt/demo/AutoGraderTestRunner.java" timestamp="1491505726116">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -1396,11 +1394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="28" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="212" column="33" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="225" column="36" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="234" column="30" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
-      <jump line="274" column="28" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="275" column="40" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="276" column="28" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
       <jump line="307" column="37" filename="$USER_HOME$/vandy/DemoApp/app/build.gradle" />
@@ -1496,6 +1489,11 @@
       <jump line="197" column="17" filename="$USER_HOME$/vandy/DemoApp-a3/AUTOGRADER_SUBMISSION/device-log.txt" />
       <jump line="476" column="17" filename="$USER_HOME$/vandy/DemoApp-a3/AUTOGRADER_SUBMISSION/device-log.txt" />
       <jump line="460" column="42" filename="$USER_HOME$/vandy/DemoApp-a3/AUTOGRADER_SUBMISSION/device-log.txt" />
+      <jump line="84" column="16" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
+      <jump line="87" column="16" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
+      <jump line="88" column="13" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
+      <jump line="92" column="13" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
+      <jump line="78" column="51" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1682,7 +1680,7 @@
         <text>displayFatalError(project, Messages.noAndroidPluginError, e)</text>
       </register>
       <register name="/" type="4">
-        <text>testMissingEm</text>
+        <text>getTarget</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZWNobyAiSEVMTE8iCg==</text>
@@ -1727,9 +1725,9 @@
       </register>
     </registers>
     <search>
-      <last-search>testMissingEm</last-search>
+      <last-search>getTarget</last-search>
       <last-offset />
-      <last-pattern>testMissingEm</last-pattern>
+      <last-pattern>getTarget</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1737,8 +1735,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw6XD4=</entry>
-        <entry>rubric</entry>
         <entry>_LIB_</entry>
         <entry>client-debug</entry>
         <entry>resultFi</entry>
@@ -1757,6 +1753,8 @@
         <entry>tstMissingE</entry>
         <entry>FAIL</entry>
         <entry>testMissingEm</entry>
+        <entry>setTarget</entry>
+        <entry>getTarget</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
