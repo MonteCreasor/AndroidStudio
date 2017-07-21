@@ -462,8 +462,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/grader/client/fat-aar.gradle" timestamp="1500673375478">
-        <mark key="'" line="443" column="0" />
+      <file name="$USER_HOME$/vandy/grader/client/fat-aar.gradle" timestamp="1500674517980">
+        <mark key="'" line="379" column="39" />
+        <mark key="[" line="369" column="57" />
+        <mark key="]" line="369" column="57" />
+        <mark key="." line="369" column="57" />
+        <mark key="^" line="369" column="58" />
       </file>
       <file name="$USER_HOME$/android/rxjava/RxJava2-Android-Samples/app/src/main/java/com/rxjava2/android/samples/ui/operators/FlowableExampleActivity.java" timestamp="1491708498269">
         <mark key="[" line="12" column="41" />
@@ -535,7 +539,7 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500614183693">
+      <file name="/Dummy.txt" timestamp="1500674725794">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionView.java" timestamp="1492290884065">
@@ -1438,8 +1442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="16" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
-      <jump line="87" column="16" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
       <jump line="88" column="13" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
       <jump line="92" column="13" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
       <jump line="78" column="51" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
@@ -1538,10 +1540,12 @@
       <jump line="12" column="0" filename="$USER_HOME$/vandy/grader/client/build.gradle" />
       <jump line="158" column="41" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
       <jump line="443" column="0" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
+      <jump line="362" column="8" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
+      <jump line="364" column="39" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, ':clientwrapper'</text>
+        <text>i</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1721,16 +1725,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, ':clientwrapper'</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>task clean</text>
+        <text>copyManifest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIFRoaXMgcGx1Z2luIG5lZWRzIHRvIGJlIGEgRkFUIEpBUiBzbyB0aGF0IGl0J3MgZGVwZW5kZW5jaWVzIGRvbid0CiAqIGNvbmZsaWN0IHdpdGggdGhvc2UgdXNlZCBvbiB0aGUgaW5zdGFsbGVkIGhvc3QuCiAqLwphcnRpZmFjdHMgewogICAgYXJjaGl2ZXMgc2hhZG93SmFyCn0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9pbmNsdWRlICc6ZGVtby1hcHAtYTMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGRpciA9IG9yaWdNYW5mZXN0LmdldFBhcmVudCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1738,40 +1742,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9pbmNsdWRlICc6ZGVtby1hcHAtYTMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmFuZHJvaWQubGlicmFyeScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmFwcGx5IGZyb206ICdmYXQtYWFyLmdyYWRsZScK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmFuZHJvaWQubGlicmFyeScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ2ZhdC1hYXIuZ3JhZGxlJwo=</text>
+        <text encoding="base64">CmFwcGx5IGZyb206ICdmYXQtYWFyLmdyYWRsZScK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5qb2hucmVuZ2VsbWFuLnBsdWdpbi1zaGFkb3cnCg==</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogJ2ZhdC1hYXIuZ3JhZGxlJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5qb2hucmVuZ2VsbWFuLnBsdWdpbi1zaGFkb3cnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5qb2hucmVuZ2VsbWFuLnBsdWdpbi1zaGFkb3cnCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>set noic</text>
       </register>
     </registers>
     <search>
-      <last-search>task clean</last-search>
+      <last-search>copyManifest</last-search>
       <last-offset />
-      <last-pattern>task clean</last-pattern>
+      <last-pattern>copyManifest</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1779,7 +1783,6 @@
     </search>
     <history>
       <history-search>
-        <entry>listen</entry>
         <entry>AutograderListener</entry>
         <entry>runner</entry>
         <entry>TestRunner</entry>
@@ -1799,6 +1802,7 @@
         <entry>isSnapshot</entry>
         <entry>installMa</entry>
         <entry>task clean</entry>
+        <entry>copyManifest</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
