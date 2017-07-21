@@ -67,12 +67,12 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/vandy/grader/client/build.gradle" timestamp="1500671037172">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/vandy/grader/client/build.gradle" timestamp="1500673183609">
+        <mark key="'" line="11" column="0" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
-        <mark key="^" line="49" column="10" />
         <mark key="." line="12" column="0" />
+        <mark key="^" line="50" column="11" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/utils/ColorStateListUtils.java" timestamp="1489039870611">
         <mark key="[" line="90" column="4" />
@@ -462,7 +462,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/grader/client/fat-aar.gradle" timestamp="1500671635259" />
+      <file name="$USER_HOME$/vandy/grader/client/fat-aar.gradle" timestamp="1500673375478">
+        <mark key="'" line="443" column="0" />
+      </file>
       <file name="$USER_HOME$/android/rxjava/RxJava2-Android-Samples/app/src/main/java/com/rxjava2/android/samples/ui/operators/FlowableExampleActivity.java" timestamp="1491708498269">
         <mark key="[" line="12" column="41" />
         <mark key="]" line="12" column="50" />
@@ -1059,11 +1061,10 @@
         <mark key="." line="140" column="4" />
         <mark key="^" line="140" column="4" />
       </file>
-      <file name="$USER_HOME$/vandy/grader/settings.gradle" timestamp="1500617493167">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="15" column="1" />
+      <file name="$USER_HOME$/vandy/grader/settings.gradle" timestamp="1500673237991">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
       </file>
       <file name="$USER_HOME$/jules/Splash/app/src/main/java/edu/vanderbilt/splash/SplashActivity.java" timestamp="1493324032633">
         <mark key="[" line="26" column="0" />
@@ -1437,8 +1438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="476" column="17" filename="$USER_HOME$/vandy/DemoApp-a3/AUTOGRADER_SUBMISSION/device-log.txt" />
-      <jump line="460" column="42" filename="$USER_HOME$/vandy/DemoApp-a3/AUTOGRADER_SUBMISSION/device-log.txt" />
       <jump line="84" column="16" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
       <jump line="87" column="16" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
       <jump line="88" column="13" filename="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/3.0.0-alpha4/gradle-core-3.0.0-alpha4.jar!/com/android/build/gradle/internal/dsl/ProductFlavor.class" />
@@ -1534,13 +1533,15 @@
       <jump line="817" column="20" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
       <jump line="50" column="0" filename="$USER_HOME$/vandy/grader/client/build.gradle" />
       <jump line="54" column="10" filename="$USER_HOME$/vandy/grader/client/build.gradle" />
-      <jump line="12" column="0" filename="$USER_HOME$/vandy/grader/client/build.gradle" />
       <jump line="6" column="0" filename="$USER_HOME$/vandy/grader/plugin/build.gradle" />
       <jump line="46" column="0" filename="$USER_HOME$/vandy/grader/client/build.gradle" />
+      <jump line="12" column="0" filename="$USER_HOME$/vandy/grader/client/build.gradle" />
+      <jump line="158" column="41" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
+      <jump line="443" column="0" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5qb2hucmVuZ2VsbWFuLnBsdWdpbi1zaGFkb3cnCg==</text>
+      <register name="&quot;" type="4">
+        <text>, ':clientwrapper'</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1720,7 +1721,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>embedded</text>
+        <text>, ':clientwrapper'</text>
       </register>
       <register name="/" type="4">
         <text>task clean</text>
@@ -1729,7 +1730,7 @@
         <text encoding="base64">LyoqCiAqIFRoaXMgcGx1Z2luIG5lZWRzIHRvIGJlIGEgRkFUIEpBUiBzbyB0aGF0IGl0J3MgZGVwZW5kZW5jaWVzIGRvbid0CiAqIGNvbmZsaWN0IHdpdGggdGhvc2UgdXNlZCBvbiB0aGUgaW5zdGFsbGVkIGhvc3QuCiAqLwphcnRpZmFjdHMgewogICAgYXJjaGl2ZXMgc2hhZG93SmFyCn0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5qb2hucmVuZ2VsbWFuLnBsdWdpbi1zaGFkb3cnCg==</text>
+        <text encoding="base64">Ly9pbmNsdWRlICc6ZGVtby1hcHAtYTMnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1740,28 +1741,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmFuZHJvaWQubGlicmFyeScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5qb2hucmVuZ2VsbWFuLnBsdWdpbi1zaGFkb3cnCg==</text>
+        <text encoding="base64">CmFwcGx5IGZyb206ICdmYXQtYWFyLmdyYWRsZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogJ2ZhdC1hYXIuZ3JhZGxlJwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5qb2hucmVuZ2VsbWFuLnBsdWdpbi1zaGFkb3cnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmVzIHNoYWRvd0phcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXJ0aWZhY3RzIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5qb2hucmVuZ2VsbWFuLnBsdWdpbi1zaGFkb3cnCg==</text>
       </register>
       <register name=":" type="4">
         <text>set noic</text>
