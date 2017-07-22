@@ -62,11 +62,12 @@
         <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1500575990367" />
-      <file name="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/internal/ZipUtils.java" timestamp="1500689829199">
-        <mark key="[" line="80" column="93" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="0" />
+      <file name="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/internal/ZipUtils.java" timestamp="1500691565699">
+        <mark key="'" line="78" column="44" />
+        <mark key="[" line="181" column="12" />
+        <mark key="]" line="181" column="18" />
+        <mark key="." line="181" column="18" />
+        <mark key="^" line="181" column="18" />
       </file>
       <file name="$USER_HOME$/vandy/DemoApp-a2/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" timestamp="1499208947281">
         <mark key="[" line="28" column="17" />
@@ -104,9 +105,9 @@
       </file>
       <file name="$USER_HOME$/vandy/grader/client/build.gradle" timestamp="1500689035489">
         <mark key="[" line="44" column="30" />
-        <mark key="]" line="46" column="32" />
-        <mark key="." line="46" column="32" />
-        <mark key="^" line="46" column="32" />
+        <mark key="]" line="45" column="32" />
+        <mark key="." line="45" column="32" />
+        <mark key="^" line="45" column="32" />
       </file>
       <file name="$USER_HOME$/vandy/DemoApp-a2/settings.gradle" timestamp="1499694164747">
         <mark key="[" line="0" column="0" />
@@ -122,6 +123,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/ShareWebView.java" timestamp="1499920704554">
+        <mark key="'" line="49" column="43" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/client/TestResults.java" timestamp="1500688517370">
         <mark key="[" line="2" column="0" />
@@ -218,10 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="36" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
-      <jump line="304" column="17" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
-      <jump line="137" column="26" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/MockAnswerService.java" />
-      <jump line="5" column="23" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/MockAnswerService.java" />
       <jump line="6" column="23" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/MockAnswerService.java" />
       <jump line="47" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/MockAnswerService.java" />
       <jump line="67" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/MockAnswerService.java" />
@@ -318,10 +322,14 @@
       <jump line="550" column="8" filename="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/internal/SecurityUtils.java" />
       <jump line="52" column="1" filename="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/internal/ZipUtils.java" />
       <jump line="26" column="22" filename="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/internal/ZipUtils.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/internal/ZipUtils.java" />
+      <jump line="24" column="34" filename="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/internal/ZipUtils.java" />
+      <jump line="147" column="52" filename="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/internal/ZipUtils.java" />
+      <jump line="78" column="44" filename="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/internal/ZipUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1ZmZlcmVkUmVhZGVyLgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -501,55 +509,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>buf</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>tempDir</text>
+        <text>dest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuUHJlY29uZGl0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHppcE91dHB1dFN0cmVhbS53cml0ZShuZXcgRmlsZShzcmNGaWxlLmdldEFic29sdXRlUGF0aCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1ZmZlcmVkUmVhZGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHppcE91dHB1dFN0cmVhbS53cml0ZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBGaWxlIHRlbXBEaXIgPSBuZXcgRmlsZSgiX196aXAgd29yayBkaXJfXyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHppcE91dHB1dFN0cmVhbS53cml0ZShuZXcgRmlsZShzcmNGaWxlLmdldEFic29sdXRlUGF0aCgpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoIGRlc3RQYXRoID0gUGF0aHMuZ2V0KHppcEZpbGVQYXRoKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IGlucHV0IHN0cmVhbSB0byBjbGFzc2VzLmRleCB0byB1c2UgYXMgdGhlIGJhc2lzIG9mIGEgc2lnbmF0dXJlLgogICAgICogVGhlIHJlYXNvbiBmb3IgdGhpcyBpcyBiZWNhdXNlIHRoZSBBUEsgaXRzZWxmIGhhcyB0byBiZSByZXNpZ25lZCBvbgogICAgICogZWFjaCBsb2NhbCBtYWNoaW5lIGFuZCB0aGVyZWZvcmUgY2Fubm90IGJlIHVzZWQgdG8gdmVyaWZ5IGEgc2lnbmF0dXJlLgogICAgICogT25seSB0aGUgY2xhc3Nlcy5kZXggY29udGVudCBmaWxlIGNhbiBiZSB1c2VkIHNpbmNlIGl0IHdpbGwgbm90IGNoYW5nZQogICAgICogZXZlbiB3aGVuIHRoZSBBUEsgaXMgcmVzaWduZWQuCiAgICAgKgogICAgICogQHBhcmFtIHppcEZpbGUgQSBaaXBGaWxlIGNvbnRhaW5pbmcgZm9yIGFuIEFQSy4KICAgICAqIEByZXR1cm4gQW4gSW5wdXRTdHJlYW0gZm9yIHRoZSBjb250YWluZWQgdGhlIHNwZWNpZmllZCBlbnRyeSBhcyBhIGNvbXByZXNzZWQgZmlsZS4KICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIHN0YXRpYyBJbnB1dFN0cmVhbSBnZXRaaXBJbnB1dFN0cmVhbShaaXBGaWxlIHppcEZpbGUsIFN0cmluZyBlbnRyeU5hbWUpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgRW51bWVyYXRpb248PyBleHRlbmRzIFppcEVudHJ5PiBlbnRyaWVzID0gemlwRmlsZS5lbnRyaWVzKCk7CgogICAgICAgIHdoaWxlIChlbnRyaWVzLmhhc01vcmVFbGVtZW50cygpKSB7CiAgICAgICAgICAgIFppcEVudHJ5IGVudHJ5ID0gZW50cmllcy5uZXh0RWxlbWVudCgpOwogICAgICAgICAgICBpZiAoZW50cnkuZ2V0TmFtZSgpLmVxdWFscyhlbnRyeU5hbWUpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gemlwRmlsZS5nZXRJbnB1dFN0cmVhbShlbnRyeSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigiVW5hYmxlIHRvIGxvY2F0ZSAiICsgZW50cnlOYW1lICsgIkFQSyBlbnRyeS4iKTsKICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmlvLkZpbGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIEJ1ZmZlcmVkT3V0cHV0U3RyZWFtIGRlc3QgPSBuZXcgQnVmZmVyZWRPdXRwdXRTdHJlYW0obmV3IEZpbGVPdXRwdXRTdHJlYW0oZGVzdEZpbGUpLCBCVUZGRVIpKSB7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY29tLmdvb2dsZS5jb21tb24uaW8uRmlsZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgKEJ1ZmZlcmVkSW5wdXRTdHJlYW0gaXMgPSBuZXcgQnVmZmVyZWRJbnB1dFN0cmVhbSh6aXBGaWxlLmdldElucHV0U3RyZWFtKHppcEVudHJ5KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB6aXBGaWxlLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgamF2YS5uaW8uZmlsZS5QYXRoczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHppcEZpbGUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgamF2YS5uaW8uZmlsZS5QYXRoOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHppcEZpbGUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tempDir</last-search>
+      <last-search>dest</last-search>
       <last-offset />
-      <last-pattern>tempDir</last-pattern>
+      <last-pattern>dest</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Builder</last-substitute>
       <last-dir>1</last-dir>
@@ -557,8 +565,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveI</entry>
-        <entry>showProgress(false)</entry>
         <entry>showProgress</entry>
         <entry>Gson</entry>
         <entry>readRawJson</entry>
@@ -577,6 +583,8 @@
         <entry>embeddedJars</entry>
         <entry>client-debug</entry>
         <entry>tempDir</entry>
+        <entry>Files\.</entry>
+        <entry>dest</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
