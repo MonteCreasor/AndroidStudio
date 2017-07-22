@@ -91,12 +91,12 @@
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="51" />
       </file>
-      <file name="$USER_HOME$/vandy/grader/installer/installer.gradle" timestamp="1500740902865">
-        <mark key="'" line="202" column="7" />
-        <mark key="[" line="205" column="63" />
-        <mark key="]" line="205" column="63" />
-        <mark key="^" line="203" column="51" />
-        <mark key="." line="205" column="63" />
+      <file name="$USER_HOME$/vandy/grader/installer/installer.gradle" timestamp="1500741516654">
+        <mark key="'" line="211" column="76" />
+        <mark key="[" line="231" column="34" />
+        <mark key="]" line="231" column="38" />
+        <mark key="^" line="231" column="38" />
+        <mark key="." line="231" column="38" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/events/TopicNavigationvent.java" timestamp="1488961530847">
         <mark key="[" line="8" column="28" />
@@ -1441,7 +1441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="51" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/AutoGraderTestRunner.java" />
       <jump line="166" column="54" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/AutoGraderTestRunner.java" />
       <jump line="18" column="19" filename="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/client/TestResult.java" />
       <jump line="27" column="18" filename="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/client/TestResult.java" />
@@ -1541,10 +1540,11 @@
       <jump line="196" column="54" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
       <jump line="200" column="17" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
       <jump line="202" column="7" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
+      <jump line="211" column="76" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>release</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1724,10 +1724,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>release</text>
       </register>
       <register name="/" type="4">
-        <text>rubric</text>
+        <text>client-release</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGaWxlIG9yaWdNYW5pZmVzdCA9IGZpbGUoIiRidW5kbGVfcmVsZWFzZV9kaXIvQW5kcm9pZE1hbmlmZXN0LnhtbCIpCiAgICAgICAgRmlsZSBjb3B5TWFuaWZlc3QgPSBmaWxlKCIkYnVuZGxlX3JlbGVhc2VfZGlyL0FuZHJvaWRNYW5pZmVzdC5vcmlnLnhtbCIpCg==</text>
@@ -1772,9 +1772,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rubric</last-search>
+      <last-search>client-release</last-search>
       <last-offset />
-      <last-pattern>rubric</last-pattern>
+      <last-pattern>client-release</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1782,7 +1782,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AutograderRunn</entry>
         <entry>score</entry>
         <entry>AndroidJUnit</entry>
         <entry>Instrumen</entry>
@@ -1802,6 +1801,7 @@
         <entry>bundle_release_dir</entry>
         <entry>Rubric</entry>
         <entry>rubric</entry>
+        <entry>client-release</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
