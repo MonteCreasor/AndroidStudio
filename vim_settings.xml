@@ -106,11 +106,13 @@
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/vandy/grader/client/build.gradle" timestamp="1500681284592">
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="37" column="10" />
-        <mark key="." line="37" column="10" />
-        <mark key="^" line="37" column="10" />
+      <file name="$USER_HOME$/vandy/grader/client/build.gradle" timestamp="1500685157379">
+        <mark key="a" line="44" column="0" />
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="47" column="27" />
+        <mark key="." line="47" column="27" />
+        <mark key="^" line="47" column="38" />
       </file>
       <file name="$USER_HOME$/vandy/DemoApp-a2/settings.gradle" timestamp="1499694164747">
         <mark key="[" line="0" column="0" />
@@ -200,6 +202,11 @@
         <mark key="[" line="92" column="0" />
         <mark key="]" line="94" column="33" />
       </file>
+      <file name="$USER_HOME$/vandy/grader/build.gradle" timestamp="1500684838547">
+        <mark key="a" line="14" column="4" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="20" column="51" />
+      </file>
       <file name="$USER_HOME$/sandbox/TestWebView/app/src/main/AndroidManifest.xml" timestamp="1499911829395">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="3" />
@@ -216,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="217" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="230" column="39" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="91" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
@@ -316,10 +322,11 @@
       <jump line="93" column="0" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
       <jump line="227" column="44" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
       <jump line="991" column="72" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
+      <jump line="34" column="0" filename="$USER_HOME$/vandy/grader/client/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>2</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -499,46 +506,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>client-debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQ29weSBhbGwgZW1iZWRkZWQgamFyIGZpbGVzIHRvIGJ1bmRsZSBsaWIKICAgICAgICAgICAgY29weSB7CiAgICAgICAgICAgICAgICBwcmludGxuICJjb3B5aW5nIGVtYmVkZGVkIGphciBmaWxlcyB0byBidW5kbGUgbGliIGluICR7YnVuZGxlX3JlbGVhc2VfZGlyfS9saWJzIgogICAgICAgICAgICAgICAgcHJpbnRsbiAiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIKICAgICAgICAgICAgICAgIHByaW50bG4gIiR7ZW1iZWRkZWRKYXJzfSIKICAgICAgICAgICAgICAgIHByaW50bG4gIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iCiAgICAgICAgICAgICAgICBmcm9tIGVtYmVkZGVkSmFycwogICAgICAgICAgICAgICAgaW50byBmaWxlKCIkYnVuZGxlX3JlbGVhc2VfZGlyL2xpYnMiKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ3NoYWRvdy1ndWF2YToyMi4wJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIENMSUVOVF9BQVJfTElCUkFSWV9QQVRIID0gJycK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmNvbW1vbicpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tcGlsZSAnY29tLmdvb2dsZS5jb2RlLmdzb246Z3NvbjoyLjguMCcsCmNvbXBpbGUgJ2NvbW1vbnMtaW86Y29tbW9ucy1pbzoyLjUnLApjb21waWxlICdjb20uZ29vZ2xlLmd1YXZhOmd1YXZhOjIyLjAnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIENMSUVOVF9BQVJfTElCUkFSWV9QQVRIID0gJycK</text>
+        <text encoding="base64">Y29tcGlsZSAnb3JnLmFwYWNoZS5jb21tb25zOmNvbW1vbnMtbGFuZzM6My41JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Y29tcGlsZSAnY29tbW9ucy1jbGk6Y29tbW9ucy1jbGk6MS40JywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ2xpZW50IEFBUiBsaWJyYXJ5IHBhdGguCg==</text>
+        <text encoding="base64">Y29tcGlsZSAnY29tbW9ucy1jb2RlYzpjb21tb25zLWNvZGVjOjEuMTAnLAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">J2RkbWxpYic6ICdjb20uYW5kcm9pZC50b29scy5kZG1zOmRkbWxpYjoyNS4zLjAnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYmVkZGVkSmFycwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmNvbW1vbicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAiIgogICAgICAgICAgICBwcmludGxuICItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIgo=</text>
+        <text encoding="base64">ZGVmIENMSUVOVF9BQVJfTElCUkFSWV9QQVRIID0gJycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
