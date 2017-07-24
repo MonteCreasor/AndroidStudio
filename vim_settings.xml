@@ -182,6 +182,12 @@
         <mark key="." line="28" column="1" />
         <mark key="^" line="28" column="1" />
       </file>
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/main/res/layout/activity_login.xml" timestamp="1500920603108">
+        <mark key="'" line="74" column="18" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/java/edu/vanderbilt/androidassg1/LoginActivity.java" timestamp="1492289782018">
         <mark key="[" line="52" column="50" />
         <mark key="]" line="53" column="15" />
@@ -212,7 +218,7 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1500914656281">
+      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1500919538854">
         <mark key="[" line="12" column="48" />
         <mark key="]" line="12" column="49" />
         <mark key="." line="12" column="49" />
@@ -963,12 +969,11 @@
         <mark key="]" line="11" column="49" />
         <mark key="." line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" timestamp="1500744184873">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="87" column="15" />
-        <mark key="]" line="87" column="19" />
-        <mark key="^" line="87" column="19" />
-        <mark key="." line="87" column="19" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" timestamp="1500920617363">
+        <mark key="'" line="81" column="56" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/jules/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" timestamp="1493920951112">
         <mark key="[" line="49" column="57" />
@@ -1497,11 +1502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2921" column="168" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
-      <jump line="2927" column="168" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
-      <jump line="2933" column="168" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
-      <jump line="2939" column="96" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
-      <jump line="2945" column="168" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
       <jump line="2947" column="70" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
       <jump line="3228" column="107" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
       <jump line="3330" column="170" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
@@ -1597,10 +1597,15 @@
       <jump line="374" column="19" filename="$USER_HOME$/vandy/grader/common/src/main/java/edu/vanderbilt/grader/internal/SecurityUtils.java" />
       <jump line="22" column="63" filename="$USER_HOME$/vandy/grader/common/build.gradle" />
       <jump line="177" column="16" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/core/org/gradle/api/tasks/bundling/AbstractArchiveTask.java" />
+      <jump line="72" column="8" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" />
+      <jump line="91" column="26" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" />
+      <jump line="74" column="18" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/main/res/layout/activity_login.xml" />
+      <jump line="14" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" />
+      <jump line="83" column="56" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/main/java/edu/vanderbilt/demoapp/LoginActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1780,7 +1785,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>setDestin</text>
@@ -1789,7 +1794,7 @@
         <text encoding="base64">dGFza3MuZ2V0QnlOYW1lKCdhc3NlbWJsZScpLmRlcGVuZHNPbignc2hhZG93SmFyJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGFza3MuZ2V0QnlOYW1lKCdhc3NlbWJsZScpLmRlcGVuZHNPbignY29tbW9uOmFzc2VtYmxlJykK</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1797,31 +1802,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgbmFtZTogJ3NoYWRvdy0xLjAnCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29tcGlsZSBuYW1lOiAiY29tbW9uLSR7VkVSU0lPTl9OQU1FfS1zaGFkb3cnCg==</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCAiQ2xpY2siLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBvbkNsaWNrKFZpZXcgdmlldykgewo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGFza3MuZ2V0QnlOYW1lKCdwdWJsaXNoJykuZGVwZW5kc09uKCdzaGFkb3dKYXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogU3R1ZGlvIGFuZCBJbnRlbGxpai4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6b25DbGljaz0ib25DbGljayIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">dGFza3MuZ2V0QnlOYW1lKCdhc3NlbWJsZScpLmRlcGVuZHNPbignY29tbW9uOmFzc2VtYmxlJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogc28gdGhhdCB0aGUgSkFSIHdpbGwgYmUgc2ltcGx5IHBsdWdpbi4wLjAuMS5qYXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set noic</text>
