@@ -96,7 +96,8 @@
         <mark key="]" line="7" column="55" />
         <mark key="." line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a2/.gitignore" timestamp="1500966613695">
+      <file name="$USER_HOME$/vandy/DemoApp-a2/.gitignore" timestamp="1500966938150">
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -145,7 +146,7 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500966676321">
+      <file name="/Dummy.txt" timestamp="1500966854115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/client/TestResults.java" timestamp="1500688517370">
@@ -233,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="12" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
       <jump line="72" column="11" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
       <jump line="73" column="4" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
       <jump line="90" column="52" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
@@ -333,6 +333,7 @@
       <jump line="78" column="4" filename="$USER_HOME$/vandy/DemoApp-a2/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="106" column="4" filename="$USER_HOME$/vandy/DemoApp-a2/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="53" column="23" filename="$USER_HOME$/vandy/DemoApp-a2/app/build.gradle" />
+      <jump line="16" column="0" filename="$USER_HOME$/vandy/DemoApp-a2/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -519,7 +520,7 @@
         <text>workspace.xml</text>
       </register>
       <register name="/" type="4">
-        <text>\/\/@</text>
+        <text>.idea</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkLmdldEFkYkV4ZSgpCg==</text>
@@ -539,32 +540,41 @@
       <register name="4" type="2">
         <text encoding="base64">LmlkZWEvdGFza3MueG1sCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ci8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCi8vIFRoaXMgYXBwbHkgc3RhdGVtZW50IE1VU1QgYmUgYmUgZGVjbGFyZWQgYWZ0ZXIgdGhlIGFuZHJvaWQgYmxvY2suCmFwcGx5IHBsdWdpbjogJ2VkdS52YW5kZXJiaWx0LmdyYWRlci5wbHVnaW4nCg==</text>
+      <register name="5" type="4">
+        <text>*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+libs/
+src/main/res/drawable/</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBUZW1wb3Jhcnkgc3R1YiBmb3IgZ3JhZGVyIGluc3RhbGxhdGlvbiAobXVzdCBiZSByZW1vdmVkKQo=</text>
+        <text encoding="base64">LmlkZWEvbGlicmFyaWVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">LmlkZWEvZGljdGlvbmFyaWVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQltYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">LmlkZWEvZ3JhZGxlLnhtbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">LmlkZWEvdGFza3MueG1sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\/\/@</last-search>
+      <last-search>.idea</last-search>
       <last-offset />
-      <last-pattern>\/\/@</last-pattern>
+      <last-pattern>.idea</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Builder</last-substitute>
       <last-dir>1</last-dir>
@@ -572,7 +582,6 @@
     </search>
     <history>
       <history-search>
-        <entry>aaapt</entry>
         <entry>embedded</entry>
         <entry>println</entry>
         <entry>aapt_dir</entry>
@@ -592,6 +601,7 @@
         <entry>@Test</entry>
         <entry>@T</entry>
         <entry>\/\/@</entry>
+        <entry>.idea</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
