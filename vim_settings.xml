@@ -218,6 +218,12 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1500945748446">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/jules/apps/internaltestlib/src/main/java/edu/vanderbilt/internaltestlib/MainActivityTest.java" timestamp="1491936390185">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="28" column="0" />
@@ -484,6 +490,11 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1500945941015">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -541,7 +552,7 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500944901065">
+      <file name="/Dummy.txt" timestamp="1500946123540">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/vandy/grader/common/src/main/java/edu/vanderbilt/grader/internal/SecurityUtils.java" timestamp="1500754532545">
@@ -1780,31 +1791,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdlZHUudmFuZGVyYmlsdC5ncmFkZXI6cnVicmljOjAuMC4zJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGZhaWxUZXN0RXhhbXBsZSgpIHsK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyLnBsdWdpbicK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vQFRlc3QK</text>
+      <register name="5" type="4">
+        <text>edu.vanderbilt.grader.plugin'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion &quot;26.0.0&quot;
+    defaultConfig {
+        applicationId &quot;edu.vanderbilt.demoapp&quot;
+        minSdkVersion 21
+        targetSdkVersion 26
+        versionCode 1
+        versionName &quot;1.0&quot;
+        testInstrumentationRunner &quot;android.support.test.runner.AndroidJUnitRunner&quot;
+    }</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaHR0cHM6Ly93d3cueW91dHViZS5jb20vMiIK</text>
+        <text encoding="base64">ICAgICAgICAvL2NsYXNzcGF0aCAiZ3JhZGxlLnBsdWdpbi5lZHUudmFuZGVyYmlsdC5ncmFkZXI6cGx1Z2luOiR7VkVSU0lPTn0iIGNoYW5naW5nIHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaHR0cHM6Ly93d3cueW91dHViZS5jb20vMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggImdyYWRsZS5wbHVnaW4uZWR1LnZhbmRlcmJpbHQuZ3JhZGVyOnBsdWdpbjoke1JFUE9TW1JFUE9dLnZlcnNpb259IiBjaGFuZ2luZyB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>set noic</text>
