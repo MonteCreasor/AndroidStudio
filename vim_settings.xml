@@ -221,11 +221,11 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1501093716552">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="25" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1501094509855">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/jules/apps/internaltestlib/src/main/java/edu/vanderbilt/internaltestlib/MainActivityTest.java" timestamp="1491936390185">
         <mark key="[" line="26" column="0" />
@@ -498,7 +498,7 @@
       </file>
       <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501071683481">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="0" />
+        <mark key="[" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
@@ -1600,7 +1600,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmRlZiBvdXRwdXREaXIgPSBmaWxlKCJBVVRPR1JBREVSX1NVQk1JU1NJT04iKQoKdGFzayB4KHR5cGU6IFppcCkgewoKICAgIGZyb20ocHJvamVjdERpcikgewogICAgICAgIGluY2x1ZGUgJ2J1aWxkLmdyYWRsZScKICAgICAgICBpbmNsdWRlICdncmFkbGUucHJvcGVydGllcycKICAgICAgICBpbmNsdWRlICdncmFkbGV3JwogICAgICAgIGluY2x1ZGUgJ2dyYWRsZXcuYmF0JwogICAgICAgIGluY2x1ZGUgJ3NldHRpbmdzLmdyYWRsZScKICAgICAgICBpbmNsdWRlICdncmFkbGUvKionCgogICAgICAgIGV4Y2x1ZGUgJ2J1aWxkJwogICAgICAgIGV4Y2x1ZGUgJy5ncmFkbGUnCiAgICAgICAgZXhjbHVkZSAnLmlkZWEnCiAgICAgICAgZXhjbHVkZSAnKi5pbWwnCiAgICAgICAgZXhjbHVkZSAnbG9jYWwucHJvcGVydGllcycKCiAgICAgICAgaW5jbHVkZSAnYXBwLyoqJwogICAgICAgIGV4Y2x1ZGUgJ2FwcC8qLmltbCcKICAgICAgICBleGNsdWRlICdhcHAvYnVpbGQnCiAgICB9CiAgICBiYXNlTmFtZSA9ICJzb3VyY2UiCiAgICBkZXN0aW5hdGlvbkRpciBmaWxlKG91dHB1dERpcikKCiAgICBkb0ZpcnN0IHsKICAgICAgICBpZiAob3V0cHV0RGlyLmV4aXN0cygpKSB7CiAgICAgICAgICAgIGRlbGV0ZSB7CiAgICAgICAgICAgICAgICBkZWxldGUgb3V0cHV0RGlyCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIG91dHB1dERpci5ta2RpcnMoKQogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1786,7 +1786,7 @@
         <text>@Test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlc3RpbmF0aW9uRGlyIGZpbGUoIkFVVE9HUkFERVJfU1VCTUlTU0lPTiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmRlZiBvdXRwdXREaXIgPSBmaWxlKCJBVVRPR1JBREVSX1NVQk1JU1NJT04iKQoKdGFzayB4KHR5cGU6IFppcCkgewoKICAgIGZyb20ocHJvamVjdERpcikgewogICAgICAgIGluY2x1ZGUgJ2J1aWxkLmdyYWRsZScKICAgICAgICBpbmNsdWRlICdncmFkbGUucHJvcGVydGllcycKICAgICAgICBpbmNsdWRlICdncmFkbGV3JwogICAgICAgIGluY2x1ZGUgJ2dyYWRsZXcuYmF0JwogICAgICAgIGluY2x1ZGUgJ3NldHRpbmdzLmdyYWRsZScKICAgICAgICBpbmNsdWRlICdncmFkbGUvKionCgogICAgICAgIGV4Y2x1ZGUgJ2J1aWxkJwogICAgICAgIGV4Y2x1ZGUgJy5ncmFkbGUnCiAgICAgICAgZXhjbHVkZSAnLmlkZWEnCiAgICAgICAgZXhjbHVkZSAnKi5pbWwnCiAgICAgICAgZXhjbHVkZSAnbG9jYWwucHJvcGVydGllcycKCiAgICAgICAgaW5jbHVkZSAnYXBwLyoqJwogICAgICAgIGV4Y2x1ZGUgJ2FwcC8qLmltbCcKICAgICAgICBleGNsdWRlICdhcHAvYnVpbGQnCiAgICB9CiAgICBiYXNlTmFtZSA9ICJzb3VyY2UiCiAgICBkZXN0aW5hdGlvbkRpciBmaWxlKG91dHB1dERpcikKCiAgICBkb0ZpcnN0IHsKICAgICAgICBpZiAob3V0cHV0RGlyLmV4aXN0cygpKSB7CiAgICAgICAgICAgIGRlbGV0ZSB7CiAgICAgICAgICAgICAgICBkZWxldGUgb3V0cHV0RGlyCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIG91dHB1dERpci5ta2RpcnMoKQogICAgfQp9Cg==</text>
