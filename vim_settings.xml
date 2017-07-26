@@ -221,10 +221,9 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1501096905157">
+      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1501104869242">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
-        <mark key="^" line="6" column="16" />
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/jules/apps/internaltestlib/src/main/java/edu/vanderbilt/internaltestlib/MainActivityTest.java" timestamp="1491936390185">
@@ -496,11 +495,10 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501101781722">
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501103066342">
         <mark key="'" line="23" column="4" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
-        <mark key="^" line="29" column="0" />
         <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
@@ -1500,12 +1498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2376" column="32" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
-      <jump line="200" column="181" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
-      <jump line="3129" column="175" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
-      <jump line="3516" column="177" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
-      <jump line="199" column="28" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
-      <jump line="245" column="102" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
       <jump line="599" column="68" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
       <jump line="847" column="68" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
       <jump line="1290" column="68" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
@@ -1600,6 +1592,12 @@
       <jump line="75" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
       <jump line="82" column="32" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
       <jump line="23" column="4" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="73" column="35" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
+      <jump line="98" column="42" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
+      <jump line="95" column="15" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
+      <jump line="92" column="17" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
+      <jump line="55" column="45" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
+      <jump line="68" column="70" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1783,10 +1781,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>copy()</text>
+        <text>Zip</text>
       </register>
       <register name="/" type="4">
-        <text>@Test</text>
+        <text>LOG</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
@@ -1800,40 +1798,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9pbnN0YWxsZXIvdGFyZ2V0LWJ1aWxkLXN0dWIuZ3JhZGxlJwo=</text>
+        <text encoding="base64">CnB1YmxpYyBjbGFzcyBDb25zdGFudHMgewogICAgLyoqCiAgICAgKiBUaGVzZSBjb25zdGFudHMgYXJlIGR1cGxpY2F0ZWQgaW4gJHByb2plY3RSb290L2dyYWRlci9pbnN0YWxsLmdyYWRsZS4KICAgICAqIEFueSBjaGFuZ2UgbWFkZSBoZXJlIG11c3QgYmUgZHVwbGljYXRlZCBpbiB0aGUgaW5zdGFsbC5ncmFkbGUgc2NyaXB0LgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBHUkFERVJfSU5TVEFMTF9ESVJfTkFNRSA9ICJhdXRvZ3JhZGVyIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEdSQURFUl9URVNUX0FQS19GSUxFX05BTUUgPSAidGVzdC5hcGsiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgR1JBREVSX0FQS19TSUdORVJfSkFSX05BTUUgPSAiYXBrc2lnbmVyLmphciI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBHUkFERVJfVEFTS19HUk9VUCA9ICJfX0FVVE9HUkFERVJfXyI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBHUkFERVJfVEFTS19OQU1FID0gInJ1bkF1dG9ncmFkZXIiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgR1JBREVSX1NVQk1JU1NJT05fQkFTRV9OQU1FID0gInN1Ym1pc3Npb24iOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgR1JBREVSX1NPVVJDRV9aSVBfRklMRV9CQVNFX05BTUUgPSAic291cmNlIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEdSQURFUl9TVEFHSU5HX0RJUl9OQU1FID0gInN0YWdpbmciOwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFQS19TSUdfRklMRV9QQVRIID0gImtleV92MV8wLnNpZyI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBQUklWQVRFX0tFWV9OQU1FID0gImtleV92MV8wLnBlbSI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBQVUJMSUNfS0VZX05BTUUgPSAia2V5X3YxXzAucHViNjQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUFVCTElDX0tFWV9SRVNfTkFNRSA9IFBVQkxJQ19LRVlfTkFNRTsgLy8gU2FtZSBhcyB0aGUgZmlsZSBuYW1lCgogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUlVCUklDX09VVFBVVF9ESVJfTkFNRSA9ICJBVVRPR1JBREVSX1NVQk1JU1NJT04iOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVWSUNFX09VVFBVVF9ESVJfTkFNRSA9ICJncmFkZXItaW50ZXJuYWwiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVWSUNFX0ZFRURCQUNLX0ZJTEVfTkFNRSA9ICJmZWVkYmFjay50eHQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVWSUNFX1NVQk1JU1NJT05fRklMRV9OQU1FID0gInN1Ym1pc3Npb24uanNvbiI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBERVZJQ0VfUlVOTkVSX0xPR19GSUxFX05BTUUgPSAiZGV2aWNlLWxvZy50eHQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVWSUNFX1JFU1VMVFNfRklMRV9OQU1FID0gInJlc3VsdHMuanNvbiI7Cn0KCmRlZiBjcmVhdGVaaXBTdWJtaXNzaW9uVGFzayhkZWYgcHJvamVjdCwgZGVmIHN1Ym1pc3Npb25EaXIpIHsKICAgIEZpbGUgc3RhZ2luZ0RpciA9IG5ldyBGaWxlKHN1Ym1pc3Npb25EaXIgYXMgRmlsZSwgQ29uc3RhbnRzLkdSQURFUl9TVEFHSU5HX0RJUl9OQU1FKQogICAgRmlsZSBwdWxsZWREaXIgPSBuZXcgRmlsZShzdGFnaW5nRGlyIGFzIEZpbGUsIENvbnN0YW50cy5ERVZJQ0VfT1VUUFVUX0RJUl9OQU1FKQogICAgRmlsZSB6aXBGaWxlID0gbmV3IEZpbGUoc3VibWlzc2lvbkRpciwgQ29uc3RhbnRzLkdSQURFUl9TVUJNSVNTSU9OX0JBU0VfTkFNRSArICIuemlwIikKCiAgICAvLyBFbnN1cmUgdGhhdCBzdWJtaXNzaW9uIGFyY2hpdmUgb25seSBjb250YWlucyB0aGUgZXhwZWN0ZWQgZmlsZXMuCiAgICBGaWxlIGZlZWRiYWNrRmlsZSA9IG5ldyBGaWxlKHB1bGxlZERpciwgQ29uc3RhbnRzLkRFVklDRV9GRUVEQkFDS19GSUxFX05BTUUpCiAgICBGaWxlIHN1Ym1pc3Npb25GaWxlID0gbmV3IEZpbGUocHVsbGVkRGlyLCBDb25zdGFudHMuREVWSUNFX1NVQk1JU1NJT05fRklMRV9OQU1FKQogICAgRmlsZSByZXN1bHRzRmlsZSA9IG5ldyBGaWxlKHB1bGxlZERpciwgQ29uc3RhbnRzLkRFVklDRV9SRVNVTFRTX0ZJTEVfTkFNRSkKICAgIEZpbGUgZGV2aWNlTG9nRmlsZSA9IG5ldyBGaWxlKHN0YWdpbmdEaXIsIENvbnN0YW50cy5ERVZJQ0VfUlVOTkVSX0xPR19GSUxFX05BTUUpCiAgICBGaWxlIHNvdXJjZVppcEZpbGUgPSBuZXcgRmlsZShzdGFnaW5nRGlyLCBDb25zdGFudHMuR1JBREVSX1NPVVJDRV9aSVBfRklMRV9CQVNFX05BTUUgKyAiLnppcCIpCgogICAgcmV0dXJuIHByb2plY3QudGFzaygic3VibWlzc2lvblppcCIsIHR5cGU6IFppcCkgewogICAgICAgIGRlc2NyaXB0aW9uID0gJ0NyZWF0ZXMgYSB6aXAgYXJjaGl2ZSBzdWl0YWJsZSBmb3Igc3VibWl0dGluZyB0byBDb3Vyc2VyYS4nCiAgICAgICAgZnJvbShzdGFnaW5nRGlyKSB7CiAgICAgICAgICAgIGluY2x1ZGUgIiR7cHVsbGVkRGlyLm5hbWV9LyR7ZmVlZGJhY2tGaWxlLm5hbWV9IgogICAgICAgICAgICBpbmNsdWRlICIke3B1bGxlZERpci5uYW1lfS8ke3N1Ym1pc3Npb25GaWxlLm5hbWV9IgogICAgICAgICAgICBpbmNsdWRlICIke3B1bGxlZERpci5uYW1lfS8ke3Jlc3VsdHNGaWxlLm5hbWV9IgogICAgICAgICAgICBpbmNsdWRlIGRldmljZUxvZ0ZpbGUubmFtZQogICAgICAgICAgICBpbmNsdWRlIHNvdXJjZVppcEZpbGUubmFtZQogICAgICAgIH0KICAgICAgICBiYXNlTmFtZSA9IENvbnN0YW50cy5HUkFERVJfU1VCTUlTU0lPTl9CQVNFX05BTUUKICAgICAgICBkZXN0aW5hdGlvbkRpciBzdWJtaXNzaW9uRGlyCgogICAgICAgIGRvRmlyc3QgewogICAgICAgICAgICBpZiAoIXN0YWdpbmdEaXIuaXNEaXJlY3RvcnkoKSkgewogICAgICAgICAgICAgICAgTWVzc2FnZXMuZGlzcGxheUZhdGFsRXJyb3IoCiAgICAgICAgICAgICAgICAgICAgICAgIHByb2plY3QgYXMgUHJvamVjdCwKICAgICAgICAgICAgICAgICAgICAgICAgTWVzc2FnZXMuemlwU3VibWlzc2lvbkZhaWxlZF9zLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgRmlsZU5vdEZvdW5kRXhjZXB0aW9uKCJEaXJlY3RvcnkgJHtzdGFnaW5nRGlyLm5hbWV9IG5vdCBmb3VuZCIpLAogICAgICAgICAgICAgICAgICAgICAgICBzdWJtaXNzaW9uRGlyLm5hbWUgYXMgU3RyaW5nKQogICAgICAgICAgICB9CgogICAgICAgICAgICBsb2dnZXIubGlmZWN5Y2xlKCJDcmVhdGluZyBzdWJtaXNzaW9uIHppcCBhcmNoaXZlIC4uLiAiKQogICAgICAgIH0KCiAgICAgICAgZG9MYXN0IHsKICAgICAgICAgICAgaWYgKCF6aXBGaWxlLmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICBwcmludGxuICJaSVBGSUxFIGRvZXMgbm90IGV4aXQ6ICR7emlwRmlsZX0iCiAgICAgICAgICAgICAgICBNZXNzYWdlcy5kaXNwbGF5RmF0YWxFcnJvcigKICAgICAgICAgICAgICAgICAgICAgICAgcHJvamVjdCBhcyBQcm9qZWN0LAogICAgICAgICAgICAgICAgICAgICAgICBNZXNzYWdlcy56aXBTdWJtaXNzaW9uRmFpbGVkX3MsCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaWxlTm90Rm91bmRFeGNlcHRpb24oIkZpbGUgJHt6aXBGaWxlLm5hbWV9IG5vdCBmb3VuZCIpLAogICAgICAgICAgICAgICAgICAgICAgICBzdWJtaXNzaW9uRGlyLm5hbWUgYXMgU3RyaW5nKQogICAgICAgICAgICB9CgogICAgICAgICAgICBwcm9qZWN0LmRlbGV0ZSB7CiAgICAgICAgICAgICAgICBsb2dnZXIubGlmZWN5Y2xlKCJEZWxldGluZyBzdGFnaW5nIGRpcmVjdG9yeSAuLi4iKQogICAgICAgICAgICAgICAgZGVsZXRlIHN0YWdpbmdEaXIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQoKdGFzayB4KCkgewogICAgRmlsZSBmID0gbmV3IEZpbGUocm9vdERpciwgQ29uc3RhbnRzLlJVQlJJQ19PVVRQVVRfRElSX05BTUUpCiAgICBUYXNrIHRhc2sgPSBjcmVhdGVaaXBTdWJtaXNzaW9uVGFzayhwcm9qZWN0LCBmKQogICAgZGVwZW5kc09uKHRhc2spCiAgICBkb0ZpcnN0IHsKICAgIH0KfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGYgPSBuZXcgRmlsZShyb290RGlyLCBDb25zdGFudHMuUlVCUklDX09VVFBVVF9ESVJfTkFNRSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVaaXBTdWJtaXNzaW9uVGFzayhwcm9qZWN0LCBmKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgovLyBSZXF1aXJlZCBieSBWYW5kZXJiaWx0IGFzc2lnbm1lbnQgZ3JhZGVyIChkbyBub3QgcmVtb3ZlKQphcHBseSBmcm9tOiAnQzovVXNlcnMvbW9udGUvdmFuZHkvZ3JhZGVyL2luc3RhbGxlci90YXJnZXQtYnVpbGQtc3R1Yi5ncmFkbGUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGFza3MuZ2V0QnlOYW1lKCJhc3NlbWJsZURlYnVnQW5kcm9pZFRlc3QiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFmdGVyRXZhbHVhdGUgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>@Test</last-search>
+      <last-search>LOG</last-search>
       <last-offset />
-      <last-pattern>@Test</last-pattern>
+      <last-pattern>LOG</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1841,7 +1839,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isSnapshot</entry>
         <entry>installMa</entry>
         <entry>task clean</entry>
         <entry>copyManifest</entry>
@@ -1861,6 +1858,7 @@
         <entry>should be</entry>
         <entry>failTestE</entry>
         <entry>@Test</entry>
+        <entry>LOG</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
