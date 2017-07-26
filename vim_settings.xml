@@ -221,8 +221,12 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1501074270627">
-        <mark key="^" line="67" column="22" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1501076477302">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/jules/apps/internaltestlib/src/main/java/edu/vanderbilt/internaltestlib/MainActivityTest.java" timestamp="1491936390185">
         <mark key="[" line="26" column="0" />
@@ -1494,8 +1498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="17" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
-      <jump line="1986" column="92" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
       <jump line="1991" column="99" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
       <jump line="2282" column="94" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
       <jump line="2376" column="32" filename="$USER_HOME$/vandy/DemoApp-a3/.idea/workspace.xml" />
@@ -1594,10 +1596,12 @@
       <jump line="106" column="4" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="0" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="20" column="34" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
+      <jump line="26" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
+      <jump line="75" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBvdXRwdXREaXIgPSBmaWxlKCJBVVRPR1JBREVSX1NVQk1JU1NJT04iKQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1777,7 +1781,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>@Test</text>
@@ -1786,7 +1790,7 @@
         <text encoding="base64">ICAgIGRlc3RpbmF0aW9uRGlyIGZpbGUoIkFVVE9HUkFERVJfU1VCTUlTU0lPTiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBvdXRwdXREaXIgPSBmaWxlKCJBVVRPR1JBREVSX1NVQk1JU1NJT04iKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1794,31 +1798,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZVV0aWxzLmRlbGV0ZURpcmVjdG9yeShvdXRwdXREaXIpCg==</text>
+        <text encoding="base64">dGFzayB5KCkgewogICAgZGVwZW5kc09uIHppcFByb2plY3QKfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBvdXRwdXREaXIgPSBmaWxlKCJBVVRPR1JBREVSX1NVQk1JU1NJT04iKQoKZnJvbShwcm9qZWN0RGlyKSB7CiAgICBpbmNsdWRlICdidWlsZC5ncmFkbGUnCiAgICBpbmNsdWRlICdncmFkbGUucHJvcGVydGllcycKICAgIGluY2x1ZGUgJ2dyYWRsZXcnCiAgICBpbmNsdWRlICdncmFkbGV3LmJhdCcKICAgIGluY2x1ZGUgJ3NldHRpbmdzLmdyYWRsZScKICAgIGluY2x1ZGUgJ2dyYWRsZS8qKicKCiAgICBleGNsdWRlICdidWlsZCcKICAgIGV4Y2x1ZGUgJy5ncmFkbGUnCiAgICBleGNsdWRlICcuaWRlYScKICAgIGV4Y2x1ZGUgJyouaW1sJwogICAgZXhjbHVkZSAnbG9jYWwucHJvcGVydGllcycKCiAgICBpbmNsdWRlICdhcHAvKionCiAgICBleGNsdWRlICdhcHAvKi5pbWwnCiAgICBleGNsdWRlICdhcHAvYnVpbGQnCn0KYmFzZU5hbWUgPSAic291cmNlIgpkZXN0aW5hdGlvbkRpciBmaWxlKG91dHB1dERpcikKCmRvRmlyc3QgewogICAgaWYgKG91dHB1dERpci5leGlzdHMoKSkgewogICAgICAgIGRlbGV0ZSB7CiAgICAgICAgICAgIGRlbGV0ZSBvdXRwdXREaXIKICAgICAgICB9CiAgICB9CgogICAgb3V0cHV0RGlyLm1rZGlycygpCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vfQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZVV0aWxzLmRlbGV0ZURpcmVjdG9yeShvdXRwdXREaXIpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhc2VOYW1lID0gInNvdXJjZSIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhc2VOYW1lID0gInNvdXJjZSIKICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vemlwIHsK</text>
+        <text encoding="base64">ICAgIGJhc2VOYW1lID0gInNvdXJjZSIK</text>
       </register>
       <register name=":" type="4">
         <text>set noic</text>
