@@ -187,12 +187,6 @@
         <mark key="." line="28" column="1" />
         <mark key="^" line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/main/res/layout/activity_login.xml" timestamp="1500920603108">
-        <mark key="'" line="74" column="18" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/java/edu/vanderbilt/androidassg1/LoginActivity.java" timestamp="1492289782018">
         <mark key="[" line="52" column="50" />
         <mark key="]" line="53" column="15" />
@@ -209,6 +203,12 @@
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/main/java/edu/vanderbilt/demoapp/SomeClass.java" timestamp="1501548507213">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
       </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/layout/content_main.xml" timestamp="1492232245466">
         <mark key="[" line="27" column="49" />
@@ -573,12 +573,6 @@
       <file name="/Dummy.txt" timestamp="1501463657134">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/grader/common/src/main/java/edu/vanderbilt/grader/internal/SecurityUtils.java" timestamp="1500754532545">
-        <mark key="'" line="374" column="19" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/QuestionView.java" timestamp="1492290884065">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="1" />
@@ -649,7 +643,7 @@
         <mark key="^" line="3" column="74" />
         <mark key="." line="3" column="74" />
       </file>
-      <file name="/fragment.java" timestamp="1501309864698">
+      <file name="/fragment.java" timestamp="1501548514682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="9" />
@@ -1434,12 +1428,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/SecurityUtilsTester/common/src/main/java/edu/vanderbilt/grader/internal/SecurityUtils.java" timestamp="1501307700620">
-        <mark key="'" line="427" column="19" />
-        <mark key="[" line="428" column="38" />
-        <mark key="]" line="428" column="38" />
-        <mark key="." line="428" column="38" />
-      </file>
       <file name="$USER_HOME$/jules/MyApplication/app/build.gradle" timestamp="1493338808295">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -1531,6 +1519,12 @@
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/test/java/edu/vanderbilt/demoapp/SomeClassTest.java" timestamp="1501548591437">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="37" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/utils/AlertUtils.java" timestamp="1489961081263">
         <mark key="[" line="68" column="8" />
@@ -1658,8 +1652,8 @@
       <jump line="37" column="8" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/test/java/edu/vanderbilt/demoapp/RobolectricTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWltcGxlbWVudGF0aW9uIG5hbWU6ICd1bml0LXRlc3RzJywgZXh0OiAnamFyJwo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1839,16 +1833,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>testMissingEmail</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>robo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSdWJyaWMoCiAgICAgICAgICAgIHZhbHVlID0gIkVzcHJlc3NvIHRlc3RNaXNzaW5nRW1haWwoKSIsCiAgICAgICAgICAgIGdvYWwgPSAiVGhlIGdvYWwgb2YgdGhpcyBldmFsdWF0aW9uIGlzIHRvIGVuc3VyZSB0aGF0IHlvdXIgbG9naW4gYWN0aXZpdHkgZGV0ZWN0cyAiICsKICAgICAgICAgICAgICAgICAgICAid2hlbiB0aGUgdXNlciBhdHRlbXB0cyB0byBsb2dpbiB3aXRob3V0IGhhdmluZyBlbnRlcmVkIGFuIGVtYWlsIGFkZHJlc3MiLAogICAgICAgICAgICBwb2ludHMgPSAxMC4wLAogICAgICAgICAgICByZWZlcmVuY2UgPSB7CiAgICAgICAgICAgICAgICAgICAgImh0dHBzOi8vd3d3LnlvdXR1YmUuY29tLzEiLAogICAgICAgICAgICAgICAgICAgICJodHRwczovL3d3dy55b3V0dWJlLmNvbS8yIgogICAgICAgICAgICB9CiAgICApCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdE1pc3NpbmdFbWFpbCgpIHsKICAgICAgICBvblZpZXcod2l0aElkKFIuaWQuZW1haWwpKS5wZXJmb3JtKHR5cGVUZXh0KCIiKSk7CiAgICAgICAgb25WaWV3KHdpdGhJZChSLmlkLnBhc3N3b3JkKSkucGVyZm9ybSh0eXBlVGV4dCgiZm9vYmFyXG4iKSk7CgogICAgICAgIG9uVmlldyh3aXRoSWQoUi5pZC5zdWJtaXQpKS5wZXJmb3JtKGNsaWNrKCkpOwoKICAgICAgICBvblZpZXcod2l0aElkKFIuaWQuZW1haWwpKS5jaGVjaygKICAgICAgICAgICAgICAgIG1hdGNoZXMoaGFzRXJyb3JUZXh0KG1BY3Rpdml0eS5nZXRTdHJpbmcoUi5zdHJpbmcubXNnX2VtYWlsX2Vycm9yKSkpKTsKICAgIH0KCgo=</text>
+        <text encoding="base64">CUBUZXN0IAoJcHVibGljIHZvaWQgdGVzdEdldFRydWVWYWx1ZSgpIHsKCQlBc3NlcnRUcnVlKFNvbWVDbGFzcy5nZXRUcnVlVmFsdWUoKSk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWltcGxlbWVudGF0aW9uIG5hbWU6ICd1bml0LXRlc3RzJywgZXh0OiAnamFyJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1856,31 +1850,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CWltcGxlbWVudGF0aW9uIG5hbWU6ICd1bml0LXRlc3RzJywgZXh0OiAnamFyJwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CS8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWltcGxlbWVudGF0aW9uIG5hbWU6ICd1bml0LXRlc3RzJywgZXh0OiAnamFyJwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CS8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkaXJzICdDOi9Vc2Vycy9tb250ZS92YW5keS9ncmFkZXIvbm8gdGFyZ2V0IGRpciBzZXQvYXV0b2dyYWRlcicK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZsYXREaXIgewo=</text>
+        <text encoding="base64">CQlkaXJzICdDOi9Vc2Vycy9tb250ZS92YW5keS9ncmFkZXIvbm8gdGFyZ2V0IGRpciBzZXQvYXV0b2dyYWRlcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsK</text>
+        <text encoding="base64">CWZsYXREaXIgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
