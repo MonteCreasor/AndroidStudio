@@ -501,13 +501,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501624699609">
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501626970998">
         <mark key="a" line="70" column="0" />
-        <mark key="'" line="90" column="51" />
-        <mark key="[" line="133" column="24" />
-        <mark key="]" line="133" column="95" />
-        <mark key="^" line="133" column="95" />
-        <mark key="." line="133" column="95" />
+        <mark key="[" line="58" column="79" />
+        <mark key="]" line="58" column="91" />
+        <mark key="." line="58" column="91" />
+        <mark key="^" line="58" column="91" />
       </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
@@ -1521,8 +1520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="76" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
-      <jump line="132" column="35" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" />
       <jump line="0" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" />
       <jump line="83" column="12" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" />
       <jump line="33" column="43" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" />
@@ -1621,10 +1618,12 @@
       <jump line="78" column="19" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="131" column="26" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="90" column="51" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="133" column="86" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="134" column="89" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ID0gIiI=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1804,16 +1803,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ID0gIiI=</text>
       </register>
       <register name="/" type="4">
-        <text>work</text>
+        <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFmdGVyRXZhbHVhdGUgewogICAgICAgIG1haW4gPSAiYXV0b2dyYWRlci5SdW5uZXIiCiAgICAgICAgYXJncyA9IFtydW5uZXJKYXIsCiAgICAgICAgICAgICAgICAiLWNwICRjbGFzc3BhdGgiCiAgICAgICAgXQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgY2xhc3NlcyA9ICIkcm9vdERpci90ZXN0L2NsYXNzZXMuamFyIgogICAgICAgIGFzc2VydCBmaWxlKGNsYXNzZXMpLmV4aXN0cygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICItY3AgJGNsYXNzcGF0aCIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1821,40 +1820,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zLnByb3ZpZGVkCg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uIGNvbGxldGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgdGVzdENsYXNzZXNKYXIgPSAndGVzdC1jbGFzc2VzLmphcicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgY2xhc3Nlc0phciA9ICdjbGFzc2VzLmphcicK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LWphciAiQzpcVXNlcnNcbW9udGVcdmFuZHlcRGVtb0FwcC1hM1xhdXRvZ3JhZGVyXHVuaXQtdGVzdC1ydW5uZXIuamFyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">amF2YSAtY2xhc3NwYXRoICJqdW5pdC00LjEyLmphcjtoYW1jcmVzdC1jb3JlLTEuMy5qYXI7dW5pdC10ZXN0LmphciIgXAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LWNsYXNzcGF0aCAianVuaXQtNC4xMi5qYXI7aGFtY3Jlc3QtY29yZS0xLjMuamFyO3VuaXQtdGVzdC5qYXIiIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlcygnTWFpbi1DbGFzcyc6ICdhdXRvZ3JhZGVyLlJ1bm5lcicpCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zLnByb3ZpZGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>work</last-search>
+      <last-search>\\</last-search>
       <last-offset />
-      <last-pattern>work</last-pattern>
+      <last-pattern>\\</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1862,7 +1861,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mActi</entry>
         <entry>rt</entry>
         <entry>java.util</entry>
         <entry encoding="base64">XDxiZWNvbWVzXD4=</entry>
@@ -1882,6 +1880,7 @@
         <entry>from</entry>
         <entry>;</entry>
         <entry>work</entry>
+        <entry>\\</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
