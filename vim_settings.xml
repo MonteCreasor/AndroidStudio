@@ -507,13 +507,13 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501554797938">
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501557694524">
         <mark key="a" line="89" column="0" />
-        <mark key="'" line="67" column="20" />
-        <mark key="[" line="91" column="34" />
-        <mark key="]" line="91" column="37" />
-        <mark key="." line="91" column="37" />
-        <mark key="^" line="91" column="37" />
+        <mark key="'" line="89" column="33" />
+        <mark key="[" line="114" column="8" />
+        <mark key="]" line="114" column="9" />
+        <mark key="." line="114" column="9" />
+        <mark key="^" line="114" column="9" />
       </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
@@ -1558,10 +1558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="28" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
-      <jump line="342" column="28" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
-      <jump line="349" column="0" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
-      <jump line="81" column="65" filename="$USER_HOME$/vandy/grader/client/fat-aar.gradle" />
       <jump line="174" column="50" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
       <jump line="555" column="7" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
       <jump line="564" column="12" filename="$USER_HOME$/vandy/grader/installer/installer.gradle" />
@@ -1658,10 +1654,14 @@
       <jump line="74" column="1" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="50" column="36" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="68" column="20" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="97" column="11" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="110" column="37" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="67" column="4" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="89" column="33" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1841,16 +1841,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>stag</text>
+        <text>from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFzayBjcChncm91cDogJ19fYXV0b2dyYWRlcl9fJykgewogICAgZG9MYXN0IHsKICAgICAgICBjb25maWd1cmF0aW9ucy50ZXN0UnVudGltZS5lYWNoIHtwcmludCBpdH0KICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAvL3ZhcmlhbnQuamF2YUNvbXBpbGUuY2xhc3NwYXRoICs9IGNvbmZpZ3VyYXRpb25zLnByb3ZpZGVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWd1cmF0aW9ucy50ZXN0Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1858,40 +1858,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQuYXBwbGljYXRpb25WYXJpYW50cy5lYWNoIHsgdmFyaWFudCAtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1haW4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJQUk9WSURFRDogJHtjb25maWd1cmF0aW9ucy5wcm92aWRlZH0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIi1zJHtBUEtfU0lHX0ZJTEVfUEFUSH0iXQo=</text>
+        <text encoding="base64">ICAgIGRlZiBjbGFzc3B0aCAiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIi1rJHtQUklWQVRFX0tFWV9QQVRIfSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJVcGRhdGluZyBlbWFjcy4uLiIK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIi1hJHtzdGFnaW5nLnRlc3RBcGtGaWxlLnBhdGh9IiwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuIGNvbmZpZ3VyYXRpb25zLmdldEJ5TmFtZSgndGVzdEFuZHJvaWRSdW50aW1lT25seScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNpZ24iLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcGF0aCA9IGNvbmZpZy5nZXRBc1BhdGgoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuIHBhdGgK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IAogICAgICAgIC8v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stag</last-search>
+      <last-search>from</last-search>
       <last-offset />
-      <last-pattern>stag</last-pattern>
+      <last-pattern>from</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1899,7 +1899,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Rubric</entry>
         <entry>rubric</entry>
         <entry>client-release</entry>
         <entry>mActi</entry>
@@ -1919,6 +1918,7 @@
         <entry>robo</entry>
         <entry>unit-test</entry>
         <entry>stag</entry>
+        <entry>from</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
