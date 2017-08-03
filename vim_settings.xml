@@ -522,12 +522,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501745636456">
-        <mark key="'" line="174" column="5" />
-        <mark key="[" line="226" column="27" />
-        <mark key="]" line="226" column="37" />
-        <mark key="^" line="226" column="37" />
-        <mark key="." line="226" column="37" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501747127826">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="133" column="23" />
+        <mark key="]" line="132" column="21" />
+        <mark key="." line="132" column="21" />
+        <mark key="^" line="132" column="21" />
       </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
@@ -1573,9 +1573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="453" column="30" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/main/java/edu/vanderbilt/securityutilstester/common/SecurityUtils.java" />
-      <jump line="450" column="0" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/main/java/edu/vanderbilt/securityutilstester/common/SecurityUtils.java" />
-      <jump line="76" column="46" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/main/java/edu/vanderbilt/securityutilstester/common/SecurityUtils.java" />
       <jump line="105" column="0" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/main/java/edu/vanderbilt/securityutilstester/common/SecurityUtils.java" />
       <jump line="113" column="35" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/main/java/edu/vanderbilt/securityutilstester/common/SecurityUtils.java" />
       <jump line="264" column="25" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/main/java/edu/vanderbilt/securityutilstester/common/SecurityUtils.java" />
@@ -1673,10 +1670,13 @@
       <jump line="78" column="5" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="214" column="4" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="168" column="5" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="179" column="33" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="8" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="87" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1856,16 +1856,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>assembleGrad</text>
+        <text>archiveN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYganVuaXRKYXIgPSBmaWxlKCIke0dSQURFUl9JTlBVVF9MSUJfRElSX1BBVEh9LyR7R1JBREVSX0lOUFVUX0xJQl9OQU1FfS5qYXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBmaWxlKCIke3Byb2plY3REaXJ9L2xpYnMvJHtqdW5pdExpYn0uamFyIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBDbGVhbiBiZWZvcmUgYXNzZW1ibGluZy4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1873,48 +1873,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYganVuaXRKYXIgPSBmaWxlKCIke0dSQURFUl9JTlBVVF9MSUJfRElSX1BBVEh9LyR7R1JBREVSX0lOUFVUX0xJQl9OQU1FfS5qYXIiKQo=</text>
+        <text encoding="base64">ICAgIC8vIE5lZWQgYW5kcm9pZCBibG9jayB0byBiZSBjb21wbGV0ZWQgYmVmb3JlIHdlIGNhbiBhY2Nlc3MgdGhlIGFzc2VtYmxlIHRhc2suCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50byAnL2xpYnMnCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIChqdW5pdEphcikgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIubGlmZWN5Y2xlICIke3Rhc2tOYW1lfTogY29tcGxldGVkLiIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgYWxsRmlsZXMgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHt0YXNrTmFtZX06IFVuYWJsZSB0byBhc3NlbWJsZSB1bml0IHRlc3QgSkFSIGFydGlmYWN0ICRvdXRwdXRGaWxlUGF0aC4iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>assembleGrad</last-search>
+      <last-search>archiveN</last-search>
       <last-offset />
-      <last-pattern>assembleGrad</last-pattern>
+      <last-pattern>archiveN</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>UTF</entry>
         <entry>privateKey</entry>
         <entry>robo</entry>
         <entry>stag</entry>
@@ -1934,6 +1933,7 @@
         <entry>compile</entry>
         <entry>runUnitT</entry>
         <entry>assembleGrad</entry>
+        <entry>archiveN</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
