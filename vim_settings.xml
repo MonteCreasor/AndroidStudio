@@ -422,13 +422,13 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501725983372">
-        <mark key="a" line="91" column="0" />
-        <mark key="'" line="113" column="27" />
-        <mark key="[" line="124" column="5" />
-        <mark key="]" line="125" column="4" />
-        <mark key="^" line="125" column="4" />
-        <mark key="." line="125" column="4" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501727988075">
+        <mark key="a" line="47" column="0" />
+        <mark key="'" line="43" column="21" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="46" column="27" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values-v23/themes.xml" timestamp="1489388208534">
         <mark key="[" line="16" column="35" />
@@ -472,7 +472,7 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501715282983">
+      <file name="/Dummy.txt" timestamp="1501727320010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Android/sdk/platforms/android-26/android.jar!/java/io/File.class" timestamp="1501725609687" />
@@ -1193,12 +1193,13 @@
         <mark key="^" line="51" column="13" />
         <mark key="." line="51" column="13" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/test/java/autograder/Runner.java" timestamp="1501718441311">
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/test/java/autograder/Runner.java" timestamp="1501727796491">
         <mark key="a" line="31" column="0" />
         <mark key="'" line="25" column="55" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="57" />
+        <mark key="." line="26" column="57" />
+        <mark key="^" line="26" column="57" />
       </file>
       <file name="$USER_HOME$/vandy/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/Rubric.java" timestamp="1494212266959">
         <mark key="[" line="15" column="10" />
@@ -1257,7 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="34" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
       <jump line="26" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
       <jump line="75" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
       <jump line="82" column="32" filename="$USER_HOME$/vandy/DemoApp-a3/build.gradle" />
@@ -1336,7 +1336,6 @@
       <jump line="64" column="132" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="46" column="26" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="79" column="8" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
-      <jump line="47" column="37" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="80" column="14" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="100" column="10" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="129" column="4" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
@@ -1357,10 +1356,12 @@
       <jump line="111" column="4" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="108" column="39" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="113" column="27" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="47" column="7" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="43" column="21" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1540,16 +1541,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>&quot;autograder.Runner&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>tempDir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuICIke3RlbXBEaXIucGF0aH0vJHt0ZW1wRmlsZX0iCg==</text>
+        <text encoding="base64">ICAgIGFyY2hpdmVOYW1lID0gJ3J1bm5lci5qYXInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZW1wRmlsZSA9ICJ1bml0LXRlc3QtdW5zaWduZWQuamFyIgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1557,31 +1558,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZW1wRGlyID0gdGFzay5nZXRUZW1wb3JhcnlEaXIoKS5jcmVhdGVOZXdGaWxlKCkK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkaXJzICIkcm9vdERpci9hdXRvZ3JhZGVyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vZGVmIG91dHB1dERpciA9ICIkcm9vdERpci9hdXRvZ3JhZGVyIgogICAgZGVmIHNyY0phciA9IGZpbGUoIiRyb290RGlyL3VuaXQtdGVzdC5qYXIiKQo=</text>
+        <text encoding="base64">CWZsYXREaXIgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgdGVtcEZpbGUgPSBmaWxlKCIke3RlbXBEaXIucGF0aH0vJHt0ZW1wRmlsZS5uYW1lfSIpCg==</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuIGZpbGUucGF0aAo=</text>
+        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRvQXJjaGl2ZU5hbWUgPSAidW5pdC10ZXN0LmphciIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC9kZWYgb3V0cHV0RGlyID0gIiRyb290RGlyL2F1dG9ncmFkZXIiCg==</text>
+        <text encoding="base64">CWltcGxlbWVudGF0aW9uIG5hbWU6ICd1bml0LXRlc3QnLCBleHQ6ICdqYXInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvSmFyID0gZmlsZSgiJHJvb3REaXIvdW5pdC10ZXN0LmphciIpCg==</text>
+        <text encoding="base64">CS8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
