@@ -422,13 +422,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501717876565">
-        <mark key="a" line="69" column="0" />
-        <mark key="'" line="127" column="33" />
-        <mark key="[" line="96" column="101" />
-        <mark key="]" line="96" column="101" />
-        <mark key="." line="96" column="101" />
-        <mark key="^" line="96" column="101" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501721428662">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="51" />
+        <mark key="^" line="79" column="49" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values-v23/themes.xml" timestamp="1489388208534">
         <mark key="[" line="16" column="35" />
@@ -1256,7 +1255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="4" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="49" column="4" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="78" column="4" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="106" column="4" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
@@ -1356,10 +1354,11 @@
       <jump line="63" column="68" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="106" column="30" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="108" column="33" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="45" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJDbGFzc3BhdGggLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1539,16 +1538,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gIkRFQlVHIENMQVNTRVMgRElSOiAke2NvbXBpbGVEZWJ1Z0phdmFXaXRoSmF2YWMuZGVzdGluYXRpb25EaXJ9Igo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJDbGFzc3BhdGggLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJWYXJpYW50OiAke3YuZ2V0TmFtZSgpfSIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1559,28 +1558,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CnRhc2sgcnVuSmFyKHR5cGU6IEphdmFFeGVjLCBncm91cDogJ19fYXV0b2dyYWRlcl9fJykgewogICAgLyoKICAgIGFmdGVyRXZhbHVhdGUgewogICAgICAgIGRlZiBqdW5pdCA9ICIkcm9vdERpci90ZXN0L2p1bml0LTQuMTIuamFyIgogICAgICAgIGFzc2VydCBmaWxlKGp1bml0KS5leGlzdHMoKQogICAgICAgIGRlZiBoYW1jcmVzdCA9ICIkcm9vdERpci90ZXN0L2hhbWNyZXN0LWNvcmUtMS4zLmphciIKICAgICAgICBhc3NlcnQgZmlsZShoYW1jcmVzdCkuZXhpc3RzKCkKICAgICAgICBkZWYgY2xhc3NlcyA9ICIkcm9vdERpci90ZXN0L2NsYXNzZXMuamFyIgogICAgICAgIGFzc2VydCBmaWxlKGNsYXNzZXMpLmV4aXN0cygpCiAgICAgICAgZGVmIHRlc3RDbGFzc2VzID0gIiRyb290RGlyL3Rlc3QvdGVzdC1jbGFzc2VzLmphciIKICAgICAgICBhc3NlcnQgZmlsZSh0ZXN0Q2xhc3NlcykuZXhpc3RzKCkKCiAgICAgICAgZGVmIGNsYXNzUGF0aCA9IGZpbGVzKAogICAgICAgICAgICAgICAgIiRyb290RGlyL3Rlc3QvanVuaXQtNC4xMi5qYXIiLAogICAgICAgICAgICAgICAgIiRyb290RGlyL3Rlc3QvaGFtY3Jlc3QtY29yZS0xLjMuamFyIiwKICAgICAgICAgICAgICAgICIkcm9vdERpci90ZXN0L2NsYXNzZXMuamFyIiwKICAgICAgICAgICAgICAgICIkcm9vdERpci90ZXN0L3Rlc3QtY2xhc3Nlcy5qYXI7ci5qYXIiKQoKICAgICAgICB3b3JraW5nRGlyID0gIiRyb290RGlyL3Rlc3QiCiAgICAgICAgbWFpbiA9ICJhdXRvZ3JhZGVyLlJ1bm5lciIKICAgICAgICBjbGFzc3BhdGggPSBjbGFzc1BhdGgKICAgIH0KICAgICovCn0KCnRhc2sgdChncm91cDogJ19fYXV0b2dyYWRlcl9fJykgewogICAgLyoKICAgIGRlZiB0ZXN0cyA9IGFuZHJvaWQuc291cmNlU2V0cy5maW5kQnlOYW1lKCd0ZXN0JykKICAgIHByaW50bG4gdGVzdHMubmFtZQogICAgcHJpbnRsbiB0ZXN0cy5nZXRKYXZhKCkuZ2V0U291cmNlRmlsZXMoKS5maWxlcwogICAgKi8KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNsYXNzZXM7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4gIkRFQlVHIENMQVNTRVMgRElSOiAke2NvbXBpbGVEZWJ1Z0phdmFXaXRoSmF2YWMuZGVzdGluYXRpb25EaXJ9Igo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVW5hYmxlIHRvIGxvYWQgdGVzdCBjbGFzcyIpOwo=</text>
+        <text encoding="base64">dGFzayBwcmludERlYnVnQ2xhc3Nlc0RpciA8PCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQWRkZWQgZHluYW1pYyB0ZXN0ICIgKyBjbGFzc2VzLmdldChjbGFzc2VzLnNpemUoKSAtMSkpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzZXMuYWRkKGNsYXp6KTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICItLS0tLS0tLS0tLS0tLS0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
