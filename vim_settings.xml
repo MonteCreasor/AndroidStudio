@@ -514,11 +514,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501833557209">
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501834792683">
         <mark key="'" line="38" column="8" />
-        <mark key="[" line="41" column="49" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="65" />
       </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
@@ -1666,7 +1667,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdoYW1lY3Jlc3QtY29yZTonCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2RlZiBydW5uZXJKYXIgPSBuZXcgRmlsZSgiJHtyb290RGlyfS9hdXRvZ3JhZGVyL3VuaXQtdGVzdC5qYXIiKQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1846,16 +1847,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>Imp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcnVubmVySmFyID0gbmV3IEZpbGUoIiR7cm9vdERpcn0vYXV0b2dyYWRlci91bml0LXRlc3QuamFyIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdoYW1lY3Jlc3QtY29yZTonCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2RlZiBydW5uZXJKYXIgPSBuZXcgRmlsZSgiJHtyb290RGlyfS9hdXRvZ3JhZGVyL3VuaXQtdGVzdC5qYXIiKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1863,34 +1864,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnb3JnLnJvYm9sZWN0cmljOnJvYm9sZWN0cmljOjMuMy4yJwo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdoYW1lY3Jlc3QtY29yZTonCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEltcGxlbWVudGF0aW9uICdvcmcucm9ib2xlY3RyaWM6cm9ib2xlY3RyaWM6My4zLjInCg==</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnb3JnLnJvYm9sZWN0cmljOnJvYm9sZWN0cmljOjMuMy4yJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEltcGxlbWVudGF0aW9uICdvcmcucm9ib2xlY3RyaWM6cm9ib2xlY3RyaWM6My4zLjInCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiBpdAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGguZWFjaCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiBpdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9pbnN0YWxsZXIvdGFyZ2V0LWJ1aWxkLXN0dWIuZ3JhZGxlJwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGguZWFjaCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9pbnN0YWxsZXIvdGFyZ2V0LWJ1aWxkLXN0dWIuZ3JhZGxlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1944,8 +1945,8 @@
         <entry>w!</entry>
         <entry>set ic</entry>
         <entry>set noic</entry>
-        <entry>w</entry>
         <entry>q!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
