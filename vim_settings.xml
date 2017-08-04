@@ -284,6 +284,9 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="/build.gradle" timestamp="1501888542659">
+        <mark key="'" line="33" column="23" />
+      </file>
       <file name="$USER_HOME$/jules/DemoApp/autograder/src/main/java/edu/vanderbilt/autograder/EvaluationSetupException.java" timestamp="1493655750878">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -522,12 +525,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501885883103">
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501888649655">
         <mark key="a" line="52" column="52" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="55" column="53" />
-        <mark key="." line="58" column="74" />
-        <mark key="^" line="58" column="74" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="37" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="69" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
@@ -1580,8 +1583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="77" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
-      <jump line="128" column="19" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
       <jump line="129" column="22" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
       <jump line="132" column="65" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
       <jump line="147" column="32" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
@@ -1680,10 +1681,12 @@
       <jump line="257" column="4" filename="$USER_HOME$/vandy/spoon-gradle-plugin/src/main/groovy/com/stanfy/spoon/gradle/SpoonRunTask.groovy" />
       <jump line="127" column="16" filename="$USER_HOME$/vandy/spoon-gradle-plugin/src/main/groovy/com/stanfy/spoon/gradle/SpoonRunTask.groovy" />
       <jump line="128" column="27" filename="$USER_HOME$/vandy/spoon-gradle-plugin/src/main/groovy/com/stanfy/spoon/gradle/SpoonRunTask.groovy" />
+      <jump line="144" column="58" filename="/build.gradle" />
+      <jump line="33" column="23" filename="/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgemlwRmlsZSA9IG5ldyBGaWxlICgiJHJvb3REaXIvYXV0b2dyYWRlci91bml0LXRlc3QuamFyIikKICAgICAgICBkZWYgamFyRmlsZSA9IG5ldyBKYXJGaWxlKHppcEZpbGUpCiAgICAgICAgZGVmIG1hbmlmZXN0ID0gamFyRmlsZS5tYW5pZmVzdAogICAgICAgIGRlZiBhdHRyaWJ1dGVzID0gbWFuaWZlc3QuZ2V0TWFpbkF0dHJpYnV0ZXMoKQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1863,16 +1866,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
-        <text>cp</text>
+        <text>Tree</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgemlwRmlsZSA9IG5ldyBGaWxlICgiJHJvb3REaXIvYXV0b2dyYWRlci91bml0LXRlc3QuamFyIikKICAgICAgICBkZWYgamFyRmlsZSA9IG5ldyBKYXJGaWxlKHppcEZpbGUpCiAgICAgICAgZGVmIG1hbmlmZXN0ID0gamFyRmlsZS5tYW5pZmVzdAogICAgICAgIGRlZiBhdHRyaWJ1dGVzID0gbWFuaWZlc3QuZ2V0TWFpbkF0dHJpYnV0ZXMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuICJMSVNUOiAkeSIK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1880,40 +1883,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgdmFsdWUgPSBbXQo=</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnb3JnLnJvYm9sZWN0cmljOnJvYm9sZWN0cmljOjMuMy4yJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJMSVNUOiAkeSIK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuICJWQUxVRSA9ICR2YWx1ZSIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGF0dGVybi5jb21waWxlKEZpbGUuc2VwYXJhdG9yLCBQYXR0ZXJuLkxJVEVSQUwpLCAiLiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhdHRlcm4uCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgdmFsdWUgPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnRsbiAiU0VQID0gJEZpbGUuc2VwYXJhdG9yIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>cp</last-search>
+      <last-search>Tree</last-search>
       <last-offset />
-      <last-pattern>cp</last-pattern>
+      <last-pattern>Tree</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1921,7 +1924,6 @@
     </search>
     <history>
       <history-search>
-        <entry>srcJar</entry>
         <entry>tempDir</entry>
         <entry>juni</entry>
         <entry>compiile</entry>
@@ -1941,6 +1943,7 @@
         <entry>getClassPath</entry>
         <entry>getClasspath</entry>
         <entry>cp</entry>
+        <entry>Tree</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
