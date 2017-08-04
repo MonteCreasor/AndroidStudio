@@ -517,12 +517,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501818113798">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="40" column="56" />
-        <mark key="]" line="40" column="56" />
-        <mark key="^" line="40" column="64" />
-        <mark key="." line="40" column="56" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501821369268">
+        <mark key="'" line="32" column="51" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="72" column="45" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
@@ -1568,7 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="395" column="39" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/main/java/edu/vanderbilt/securityutilstester/common/SecurityUtils.java" />
       <jump line="407" column="46" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/main/java/edu/vanderbilt/securityutilstester/common/SecurityUtils.java" />
       <jump line="409" column="32" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/main/java/edu/vanderbilt/securityutilstester/common/SecurityUtils.java" />
       <jump line="412" column="46" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/main/java/edu/vanderbilt/securityutilstester/common/SecurityUtils.java" />
@@ -1668,10 +1667,11 @@
       <jump line="135" column="41" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="136" column="73" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="134" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="32" column="51" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1851,16 +1851,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>junit-test</text>
+        <text>println</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9pbnN0YWxsZXIvdGFyZ2V0LWJ1aWxkLXN0dWIuZ3JhZGxlJwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1868,40 +1868,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiBpdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGguZWFjaCB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQltYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9pbnN0YWxsZXIvdGFyZ2V0LWJ1aWxkLXN0dWIuZ3JhZGxlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBTdHViIHVzZWQgZm9yIGRldmVsb3BlbWVudCBhbmQgdGVzdGluZyBvbmx5IChtdXN0IGJlIHJlbW92ZWQpCg==</text>
+        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQltYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBUZW1wb3Jhcnkgc3R1YiBmb3IgZ3JhZGVyIGluc3RhbGxhdGlvbiAobXVzdCBiZSByZW1vdmVkKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQltYXZlbkxvY2FsKCkK</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkvLyBTdHViIHVzZWQgZm9yIGRldmVsb3BlbWVudCBhbmQgdGVzdGluZyBvbmx5IChtdXN0IGJlIHJlbW92ZWQpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQltYXZlbkxvY2FsKCkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>junit-test</last-search>
+      <last-search>println</last-search>
       <last-offset />
-      <last-pattern>junit-test</last-pattern>
+      <last-pattern>println</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1917,7 +1917,6 @@
         <entry>SomeClass</entry>
         <entry>Suite</entry>
         <entry>;</entry>
-        <entry>println</entry>
         <entry>test</entry>
         <entry>srcJar</entry>
         <entry>tempDir</entry>
@@ -1929,6 +1928,7 @@
         <entry>archiveN</entry>
         <entry>client</entry>
         <entry>junit-test</entry>
+        <entry>println</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
