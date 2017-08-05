@@ -239,10 +239,10 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1501890569663">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1501892598039">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/jules/apps/internaltestlib/src/main/java/edu/vanderbilt/internaltestlib/MainActivityTest.java" timestamp="1491936390185">
         <mark key="[" line="26" column="0" />
@@ -526,12 +526,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501890807703">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="10" />
-        <mark key="." line="29" column="10" />
-        <mark key="^" line="29" column="10" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501892622879">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="31" column="67" />
       </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
@@ -1584,7 +1584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="22" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
       <jump line="132" column="65" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
       <jump line="147" column="32" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
       <jump line="49" column="17" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
@@ -1684,10 +1683,11 @@
       <jump line="144" column="58" filename="/build.gradle" />
       <jump line="33" column="23" filename="/build.gradle" />
       <jump line="68" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="22" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>afterEvaluate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1867,7 +1867,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>afterEvaluate</text>
+        <text>testFile</text>
       </register>
       <register name="/" type="4">
         <text>META</text>
@@ -1876,7 +1876,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gdGVzdENsYXNzZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1884,31 +1884,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgovLyBSZXF1aXJlZCBieSBWYW5kZXJiaWx0IGFzc2lnbm1lbnQgZ3JhZGVyIChkbyBub3QgcmVtb3ZlKQphcHBseSBmcm9tOiAnQzovVXNlcnMvbW9udGUvdmFuZHkvZ3JhZGVyL2luc3RhbGxlci9idWlsZC11bml0LXRlc3QtdGFzay5ncmFkbGUnCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CgovLyBSZXF1aXJlZCBieSBWYW5kZXJiaWx0IGFzc2lnbm1lbnQgZ3JhZGVyIChkbyBub3QgcmVtb3ZlKQphcHBseSBmcm9tOiAnQzovVXNlcnMvbW9udGUvdmFuZHkvZ3JhZGVyL2luc3RhbGxlci9idWlsZC11bml0LXRlc3QtdGFzay5ncmFkbGUnCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CQltYXZlbkxvY2FsKCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkvLyBTdHViIHVzZWQgZm9yIGRldmVsb3BtZW50IGFuZCB0ZXN0aW5nIG9ubHkgKG11c3QgYmUgcmVtb3ZlZCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQkJY2FjaGVDaGFuZ2luZ01vZHVsZXNGb3IgMCwgJ3NlY29uZHMnCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJY2FjaGVEeW5hbWljVmVyc2lvbnNGb3IgMCwgJ3NlY29uZHMnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlyZXNvbHV0aW9uU3RyYXRlZ3kgewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CWNvbmZpZ3VyYXRpb25zLmNsYXNzcGF0aCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
