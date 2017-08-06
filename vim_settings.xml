@@ -527,12 +527,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501995124183">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="69" column="25" />
-        <mark key="]" line="69" column="34" />
-        <mark key="." line="69" column="34" />
-        <mark key="^" line="69" column="34" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1501996560340">
+        <mark key="'" line="71" column="32" />
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="75" column="10" />
+        <mark key="." line="75" column="10" />
+        <mark key="^" line="75" column="10" />
       </file>
       <file name="$USER_HOME$/sandbox/TestApp/app/build.gradle" timestamp="1493088164350">
         <mark key="[" line="30" column="0" />
@@ -1591,7 +1591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="65" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
       <jump line="147" column="32" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
       <jump line="49" column="17" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
       <jump line="56" column="8" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
@@ -1691,10 +1690,11 @@
       <jump line="33" column="23" filename="/build.gradle" />
       <jump line="68" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="22" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="72" column="32" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>JavaExec</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1874,48 +1874,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>JavaExec</text>
       </register>
       <register name="/" type="4">
         <text>META</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZWYgb3V0cHV0RGlyID0gIiRyb290RGlyL2F1dG9ncmFkZXIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC56aXAuWmlwRmlsZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnRhc2sgcnVuIHsKICAgIGlmIChTeXN0ZW0uZ2V0UHJvcGVydHkoJ0RFQlVHJywgJ2ZhbHNlJykgPT0gJ3RydWUnKSB7CiAgICAgICAganZtQXJncyAnLVhkZWJ1ZycsCiAgICAgICAgICAgICAgICAnLVhydW5qZHdwOnRyYW5zcG9ydD1kdF9zb2NrZXQsc2VydmVyPXksc3VzcGVuZD15LGFkZHJlc3M9OTAwOScKICAgIH0KfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5kYWVtb249dHJ1ZQpvcmcuZ3JhZGxlLmp2bWFyZ3M9LVhYOk1heFBlcm1TaXplPTRnIC1YWDorSGVhcER1bXBPbk91dE9mTWVtb3J5RXJyb3IgLVhteDRnIC1hZ2VudGxpYjpqZHdwPXRyYW5zcG9ydD1kdF9zb2NrZXQsc2VydmVyPXksc3VzcGVuZD1uLGFkZHJlc3M9NTAwNgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0RGlyLmRlbGV0ZU9uRXhpdCgpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQltYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">Ly8gT25seSByZWNyZWF0ZSB0aGUgbWluaW11bSByZXF1aXJlZCBtYW5pZmVzdCBhdHRyaWJ1dGVzIHRvIHJ1biB0aGUgdGVzdHMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBTdHViIHVzZWQgZm9yIGRldmVsb3BtZW50IGFuZCB0ZXN0aW5nIG9ubHkgKG11c3QgYmUgcmVtb3ZlZCkK</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
