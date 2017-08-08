@@ -674,6 +674,9 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.6.3/3b5daf528712d8629c0af14dc24028c12136b61e/robotium-solo-5.6.3-sources.jar!/com/robotium/solo/Solo.java" timestamp="1502226387236">
+        <mark key="'" line="3622" column="4" />
+      </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/exceptions/AnswerCacheProvider.java" timestamp="1488668056106">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="51" />
@@ -1248,6 +1251,13 @@
         <mark key="." line="2" column="108" />
         <mark key="^" line="2" column="87" />
       </file>
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" timestamp="1502226406695">
+        <mark key="'" line="55" column="15" />
+        <mark key="[" line="55" column="48" />
+        <mark key="]" line="55" column="56" />
+        <mark key="." line="55" column="56" />
+        <mark key="^" line="55" column="56" />
+      </file>
       <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1501784856196" />
       <file name="$USER_HOME$/jules/TestApp/app/src/main/AndroidManifest.xml" timestamp="1493338200851">
         <mark key="[" line="16" column="15" />
@@ -1281,14 +1291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="19" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
-      <jump line="69" column="60" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
-      <jump line="70" column="22" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
-      <jump line="84" column="80" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
-      <jump line="87" column="77" filename="$USER_HOME$/vandy/SecurityUtilsTester/app/src/androidTest/java/edu/vanderbilt/securityutilstester/ExampleInstrumentedTest.java" />
-      <jump line="36" column="48" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
-      <jump line="40" column="40" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
-      <jump line="37" column="8" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/test/java/edu/vanderbilt/demoapp/RobolectricTests.java" />
       <jump line="41" column="51" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="81" column="17" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="97" column="11" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
@@ -1381,10 +1383,18 @@
       <jump line="24" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="58" column="29" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="99" column="11" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
+      <jump line="30" column="43" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
+      <jump line="84" column="56" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
+      <jump line="112" column="48" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
+      <jump line="144" column="56" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
+      <jump line="152" column="58" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
+      <jump line="3622" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.6.3/3b5daf528712d8629c0af14dc24028c12136b61e/robotium-solo-5.6.3-sources.jar!/com/robotium/solo/Solo.java" />
+      <jump line="55" column="15" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1564,16 +1574,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVmIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>last</text>
+        <text>wait</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUSU1FT1VUID0gNTAwMDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1581,40 +1591,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCi8vIFRoaXMgYXBwbHkgc3RhdGVtZW50IE1VU1QgYmUgYmUgZGVjbGFyZWQgYWZ0ZXIgdGhlIGFuZHJvaWQgYmxvY2suCmFwcGx5IHBsdWdpbjogJ2VkdS52YW5kZXJiaWx0LmdyYWRlci5wbHVnaW4nCgp0YXNrIHh4eChncm91cDogJ19fYXNkZl9fXycpIHsKICAgIGRvRmlyc3QgewogICAgICAgIGRlZiBsYXN0ID0gMAogICAgICAgIGRlZiByZXN1bHQgPSAwCiAgICAgICAgWzUsIDMsIDldLmVhY2ggewogICAgICAgICAgICByZXN1bHQgPSBsYXN0ICsgaXQKICAgICAgICAgICAgcHJpbnRsbiAicmVzdWx0KCRyZXN1bHQpID0gbGFzdCgkbGFzdCkgKyBpdCgkaXQpIgogICAgICAgICAgICBsYXN0ID0gaXQKICAgICAgICAgICAgcmVzdWx0CiAgICAgICAgfQogICAgICAgIHByaW50bG4gbGFzdAogICAgfQoKfQo=</text>
+        <text encoding="base64">ICAgICAgICBzb2xvLnNldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAicmVzdWx0KCRyZXN1bHQpID0gbGFzdCgkbGFzdCkgKyBpdCgkaXQpIgo=</text>
+        <text encoding="base64">Ci8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCi8vIFRoaXMgYXBwbHkgc3RhdGVtZW50IE1VU1QgYmUgYmUgZGVjbGFyZWQgYWZ0ZXIgdGhlIGFuZHJvaWQgYmxvY2suCmFwcGx5IHBsdWdpbjogJ2VkdS52YW5kZXJiaWx0LmdyYWRlci5wbHVnaW4nCgp0YXNrIHh4eChncm91cDogJ19fYXNkZl9fXycpIHsKICAgIGRvRmlyc3QgewogICAgICAgIGRlZiBsYXN0ID0gMAogICAgICAgIGRlZiByZXN1bHQgPSAwCiAgICAgICAgWzUsIDMsIDldLmVhY2ggewogICAgICAgICAgICByZXN1bHQgPSBsYXN0ICsgaXQKICAgICAgICAgICAgcHJpbnRsbiAicmVzdWx0KCRyZXN1bHQpID0gbGFzdCgkbGFzdCkgKyBpdCgkaXQpIgogICAgICAgICAgICBsYXN0ID0gaXQKICAgICAgICAgICAgcmVzdWx0CiAgICAgICAgfQogICAgICAgIHByaW50bG4gbGFzdAogICAgfQoKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAicmVzdWx0ID0gJHJlc3VsdCIK</text>
+        <text encoding="base64">ICAgIGNvbmZpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAibGFzdCA9ICRsYXN0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAicmVzdWx0KCRyZXN1bHQpID0gbGFzdCgkbGFzdCkgKyBpdCgkaXQpIgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAicmVzdWx0ID0gJHJlc3VsdCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAiaXQgPSAkaXQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAibGFzdCA9ICRsYXN0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gbGFzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiAicmVzdWx0ID0gJHJlc3VsdCIK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>last</last-search>
+      <last-search>wait</last-search>
       <last-offset />
-      <last-pattern>last</last-pattern>
+      <last-pattern>wait</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1622,9 +1632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>runUnitT</entry>
-        <entry>assembleGrad</entry>
-        <entry>archiveN</entry>
         <entry>client</entry>
         <entry>junit-test</entry>
         <entry>println</entry>
@@ -1642,6 +1649,9 @@
         <entry>feedback</entry>
         <entry>lst</entry>
         <entry>last</entry>
+        <entry>wiat</entry>
+        <entry>Wait</entry>
+        <entry>wait</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
