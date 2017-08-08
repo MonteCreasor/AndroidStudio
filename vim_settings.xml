@@ -1873,7 +1873,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>META</text>
+        <text>feedback</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuICJIQVMgQU5EUk9JRCBQTFVHSU46ICR7cHJvamVjdC5wbHVnaW5zLmhhc1BsdWdpbignY29tLmFuZHJvaWQuYXBwbGljYXRpb24nKX0iCg==</text>
@@ -1918,9 +1918,9 @@
       </register>
     </registers>
     <search>
-      <last-search>META</last-search>
+      <last-search>feedback</last-search>
       <last-offset />
-      <last-pattern>META</last-pattern>
+      <last-pattern>feedback</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1928,7 +1928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>juni</entry>
         <entry>compiile</entry>
         <entry>compile</entry>
         <entry>runUnitT</entry>
@@ -1948,6 +1947,7 @@
         <entry>cp</entry>
         <entry>Tree</entry>
         <entry>META</entry>
+        <entry>feedback</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
