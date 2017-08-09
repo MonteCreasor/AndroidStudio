@@ -189,10 +189,10 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1502179897516">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/build.gradle" timestamp="1502295629222">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/jules/apps/internaltestlib/src/main/java/edu/vanderbilt/internaltestlib/MainActivityTest.java" timestamp="1491936390185">
         <mark key="[" line="26" column="0" />
@@ -420,10 +420,11 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1502266585019">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1502295938284">
+        <mark key="'" line="50" column="52" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values-v23/themes.xml" timestamp="1489388208534">
         <mark key="[" line="16" column="35" />
@@ -1291,7 +1292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="51" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="81" column="17" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="97" column="11" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="110" column="37" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
@@ -1307,7 +1307,6 @@
       <jump line="90" column="51" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="133" column="86" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="74" column="53" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
-      <jump line="50" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
       <jump line="29" column="19" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/test/java/autograder/Runner.java" />
       <jump line="0" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/test/java/autograder/Runner.java" />
       <jump line="59" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/test/java/autograder/Runner.java" />
@@ -1391,10 +1390,12 @@
       <jump line="152" column="58" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
       <jump line="3622" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.6.3/3b5daf528712d8629c0af14dc24028c12136b61e/robotium-solo-5.6.3-sources.jar!/com/robotium/solo/Solo.java" />
       <jump line="55" column="15" filename="$USER_HOME$/vandy/DemoApp-a3/app/src/androidTest/java/edu/vanderbilt/demoapp/RobotiumTests.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
+      <jump line="50" column="52" filename="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnRhc2sgaGVsbG8oZ3JvdXA6ICdfX2FzZGZfXycpIHsKICAgIGRvRmlyc3QgewogICAgICAgIHByaW50bG4gImhlbGxvIgogICAgfQoKICAgIGFmdGVyRXZhbHVhdGUgewogICAgICAgIHByaW50bG4gIkFGVEVSIX4hISEiCiAgICB9CgogICAgZG9MYXN0IHsKICAgICAgICBwcmludGxuICJnb29kYnkiCiAgICB9CiAgICBwcmludGxuICJXVEY/Pz8/ISIKfQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1574,16 +1575,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>task</text>
+        <text>AutograderTask</text>
       </register>
       <register name="/" type="4">
-        <text>wait</text>
+        <text>doLast</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9pbnN0YWxsZXIvYnVpbGQtaW5zdHJ1bWVudGF0aW9uLXRlc3QtdGFzay5ncmFkbGUnCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICJoZWxsbyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnRhc2sgaGVsbG8oZ3JvdXA6ICdfX2FzZGZfXycpIHsKICAgIGRvRmlyc3QgewogICAgICAgIHByaW50bG4gImhlbGxvIgogICAgfQoKICAgIGFmdGVyRXZhbHVhdGUgewogICAgICAgIHByaW50bG4gIkFGVEVSIX4hISEiCiAgICB9CgogICAgZG9MYXN0IHsKICAgICAgICBwcmludGxuICJnb29kYnkiCiAgICB9CiAgICBwcmludGxuICJXVEY/Pz8/ISIKfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1591,16 +1592,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9pbnN0YWxsZXIvYnVpbGQtdW5pdC10ZXN0LXRhc2suZ3JhZGxlJwo=</text>
+        <text encoding="base64">Ci8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCi8vIFRoaXMgYXBwbHkgc3RhdGVtZW50IE1VU1QgYmUgYmUgZGVjbGFyZWQgYWZ0ZXIgdGhlIGFuZHJvaWQgYmxvY2suCmFwcGx5IHBsdWdpbjogJ2VkdS52YW5kZXJiaWx0LmdyYWRlci5wbHVnaW4nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CnRhc2sgY2xlYW4oZ3JvdXA6ICdfX2FzZGZfXycsIHR5cGU6IGVkdS52YW5kZXJiaWx0LmdyYWRlci5wbHVnaW4uU3VibWlzc2lvblRhc2spIHsKICAgIGRvRmlyc3QgewogICAgICAgIHByaW50bG4gImhlbGxvIgogICAgfQoKICAgIGFmdGVyRXZhbHVhdGUgewogICAgICAgIHByaW50bG4gIkFGVEVSIX4hISEiCiAgICB9CgogICAgZG9MYXN0IHsKICAgICAgICBwcmludGxuICJnb29kYnkiCiAgICB9CiAgICBwcmludGxuICJXVEY/Pz8/ISIKfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9pbnN0YWxsZXIvYnVpbGQtaW5zdHJ1bWVudGF0aW9uLXRlc3QtdGFzay5ncmFkbGUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
@@ -1609,22 +1610,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlciAoZG8gbm90IHJlbW92ZSkK</text>
+        <text encoding="base64">ICAgIGFmdGVyRXZhbHVhdGUgewogICAgICAgIHByaW50bG4gIkFGVEVSIX4hISEiCiAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogJ0M6L1VzZXJzL21vbnRlL3ZhbmR5L2dyYWRlci9pbnN0YWxsZXIvaW5zdGFsbGVyLmdyYWRsZScK</text>
+        <text encoding="base64">ICAgIHByaW50bG4gIldURj8/Pz8hIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUSU1FT1VUID0gNTAwMDsK</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSByb290UHJvamVjdC5idWlsZERpcgo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>wait</last-search>
+      <last-search>doLast</last-search>
       <last-offset />
-      <last-pattern>wait</last-pattern>
+      <last-pattern>doLast</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1632,9 +1633,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
-        <entry>junit-test</entry>
-        <entry>println</entry>
         <entry>Imp</entry>
         <entry>findCp</entry>
         <entry>SpoonRun</entry>
@@ -1652,6 +1650,9 @@
         <entry>wiat</entry>
         <entry>Wait</entry>
         <entry>wait</entry>
+        <entry>grader</entry>
+        <entry>Base</entry>
+        <entry>doLast</entry>
       </history-search>
       <history-cmd>
         <entry>r question1_item.xml</entry>
