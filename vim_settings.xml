@@ -196,6 +196,9 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/vandy/DemoApp-a2/app/src/test/java/edu/vanderbilt/demoapp/RobolectricTests.java" timestamp="1502475499331">
+        <mark key="'" line="44" column="32" />
+      </file>
       <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1501729582621" />
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/default.properties" timestamp="1501785933838">
         <mark key="[" line="0" column="0" />
@@ -229,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="30" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/HiddenInternalTests.java" />
       <jump line="65" column="24" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/HiddenInternalTests.java" />
       <jump line="77" column="21" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/HiddenInternalTests.java" />
       <jump line="47" column="35" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
@@ -329,6 +331,7 @@
       <jump line="18" column="20" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/AUTOGRADER_SUBMISSION/staging/unit-test-results/results.json" />
       <jump line="34" column="7" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/AUTOGRADER_SUBMISSION/staging/unit-test-results/results.json" />
       <jump line="109" column="7" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/AUTOGRADER_SUBMISSION/staging/unit-test-results/results.json" />
+      <jump line="44" column="32" filename="$USER_HOME$/vandy/DemoApp-a2/app/src/test/java/edu/vanderbilt/demoapp/RobolectricTests.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -515,7 +518,7 @@
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;[</text>
+        <text>MainA</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGFzayB4eHgoZ3JvdXA6ICdfX2FzZGZfXycpIHsKICAgIGRlZiBjbGFzc1BhdGgKICAgIGRvRmlyc3QgewogICAgICAgIGNsYXNzUGF0aCA9IGdldENsYXNzUGF0aEZyb21BbmRyb2lkR3JhZGxlM1ZhcmlhbnQoKQogICAgICAgIGlmICghY2xhc3NQYXRoKSB7CiAgICAgICAgICAgIGNsYXNzUGF0aCA9IHByb2plY3QuY29uZmlndXJhdGlvbnMuZ2V0QnlOYW1lKCd0ZXN0Q29tcGlsZScpCiAgICAgICAgICAgIGlmICghY2xhc3NQYXRoKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgR3JhZGxlRXhjZXB0aW9uKCJVbmFibGUgdG8gZ2V0IHRlc3QgY29tcGlsZSBjbGFzc3BhdGgiKQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBjbGFzc1BhdGguZWFjaCB7CiAgICAgICAgICAgIHByaW50bG4gaXQKICAgICAgICB9CiAgICB9Cn0KCg==</text>
@@ -558,9 +561,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;[</last-search>
+      <last-search>MainA</last-search>
       <last-offset />
-      <last-pattern>&quot;[</last-pattern>
+      <last-pattern>MainA</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Builder</last-substitute>
       <last-dir>1</last-dir>
@@ -568,7 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OCOU</entry>
         <entry>INN</entry>
         <entry>requestP</entry>
         <entry>tead</entry>
@@ -588,6 +590,7 @@
         <entry>except</entry>
         <entry>Passed.*false</entry>
         <entry>&quot;[</entry>
+        <entry>MainA</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
