@@ -427,12 +427,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1502410401573">
+      <file name="$USER_HOME$/vandy/DemoApp-a3/app/build.gradle" timestamp="1502411770548">
         <mark key="a" line="54" column="0" />
-        <mark key="k" line="60" column="31" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="62" column="53" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values-v23/themes.xml" timestamp="1489388208534">
         <mark key="[" line="16" column="35" />
@@ -1403,7 +1403,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQuYXBwbGljYXRpb25WYXJpYW50cy5maW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1583,16 +1583,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.applicationVariants.all {</text>
+        <text>println &quot;[$key] = [$value]&quot;</text>
       </register>
       <register name="/" type="4">
         <text>compile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFzayB4eHgoZ3JvdXA6ICJfX194eHhfX18iKSB7CiAgICBkZWYgY2xhc3NQYXRoCiAgICBhZnRlckV2YWx1YXRlIHsKICAgICAgICBkb0ZpcnN0IHsKICAgICAgICAgICAgZGVmIGFuZHJvaWRQbHVnaW4gPSBwcm9qZWN0LnBsdWdpbk1hbmFnZXIuZmluZFBsdWdpbignYW5kcm9pZCcpCiAgICAgICAgICAgIGlmIChhbmRyb2lkUGx1Z2luKSB7CiAgICAgICAgICAgICAgICBwcm9qZWN0LmFuZHJvaWQuYXBwbGljYXRpb25WYXJpYW50cy5hbGwgewogICAgICAgICAgICAgICAgICAgIHByaW50bG4gaXQKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmludGxuIGtleQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQuYXBwbGljYXRpb25WYXJpYW50cy5maW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1600,31 +1600,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVGhpcyBhcHBseSBzdGF0ZW1lbnQgTVVTVCBiZSBiZSBkZWNsYXJlZCBhZnRlciB0aGUgYW5kcm9pZCBibG9jay4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YnkgVmFuZGVyYmlsdCBhc3NpZ25tZW50IGdyYWRlcihkbyBub3QgcmVtb3ZlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmludGxuIGl0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyAvIFJlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzUGF0aC5lYWNoIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KiAvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzUGF0aCA9IHVuaXRUZXN0VmFyaWFudC5nZXRSdW50aW1lQ29uZmlndXJhdGlvbigpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmludGxuIHZhbHVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXRlc3RJbXBsZW1lbnRhdGlvbiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyOnJ1YnJpYzoxLjAnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXNzaWdubWVudCBncmFkZXIgKGRvIG5vdCByZW1vdmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
