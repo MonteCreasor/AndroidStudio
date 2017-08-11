@@ -212,6 +212,9 @@
       <file name="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/AUTOGRADER_SUBMISSION/staging/unit-test-results/log.txt" timestamp="1502341900281">
         <mark key="'" line="17" column="90" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1502478221327">
+        <mark key="'" line="21" column="69" />
+      </file>
       <file name="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/main/java/mooc/vandy/java4android/gate/Runner.java" timestamp="1501431218111">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="10" column="31" />
@@ -233,8 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="24" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/HiddenInternalTests.java" />
-      <jump line="77" column="21" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/HiddenInternalTests.java" />
       <jump line="47" column="35" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
       <jump line="53" column="38" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
       <jump line="62" column="38" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
@@ -333,6 +334,8 @@
       <jump line="34" column="7" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/AUTOGRADER_SUBMISSION/staging/unit-test-results/results.json" />
       <jump line="109" column="7" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/AUTOGRADER_SUBMISSION/staging/unit-test-results/results.json" />
       <jump line="44" column="32" filename="$USER_HOME$/vandy/DemoApp-a2/app/src/test/java/edu/vanderbilt/demoapp/RobolectricTests.java" />
+      <jump line="31" column="43" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1" />
+      <jump line="21" column="69" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -519,7 +522,7 @@
         <text>Unable to get &quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>MainA</text>
+        <text>app</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGFzayB4eHgoZ3JvdXA6ICdfX2FzZGZfXycpIHsKICAgIGRlZiBjbGFzc1BhdGgKICAgIGRvRmlyc3QgewogICAgICAgIGNsYXNzUGF0aCA9IGdldENsYXNzUGF0aEZyb21BbmRyb2lkR3JhZGxlM1ZhcmlhbnQoKQogICAgICAgIGlmICghY2xhc3NQYXRoKSB7CiAgICAgICAgICAgIGNsYXNzUGF0aCA9IHByb2plY3QuY29uZmlndXJhdGlvbnMuZ2V0QnlOYW1lKCd0ZXN0Q29tcGlsZScpCiAgICAgICAgICAgIGlmICghY2xhc3NQYXRoKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgR3JhZGxlRXhjZXB0aW9uKCJVbmFibGUgdG8gZ2V0IHRlc3QgY29tcGlsZSBjbGFzc3BhdGgiKQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBjbGFzc1BhdGguZWFjaCB7CiAgICAgICAgICAgIHByaW50bG4gaXQKICAgICAgICB9CiAgICB9Cn0KCg==</text>
@@ -562,9 +565,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MainA</last-search>
+      <last-search>app</last-search>
       <last-offset />
-      <last-pattern>MainA</last-pattern>
+      <last-pattern>app</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Builder</last-substitute>
       <last-dir>1</last-dir>
@@ -572,8 +575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>INN</entry>
-        <entry>requestP</entry>
         <entry>tead</entry>
         <entry>myOut</entry>
         <entry>myErr</entry>
@@ -592,6 +593,8 @@
         <entry>Passed.*false</entry>
         <entry>&quot;[</entry>
         <entry>MainA</entry>
+        <entry>classes</entry>
+        <entry>app</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
