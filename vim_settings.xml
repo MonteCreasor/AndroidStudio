@@ -120,6 +120,13 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3" timestamp="1502518600664">
+        <mark key="'" line="1" column="645" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="1694" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/site/gitproject/healthtablet/healthTablet/src/main/res/values/strings.xml" timestamp="1497391020639">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -130,11 +137,11 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/vandy/DemoApp-a2/app/build.gradle" timestamp="1502515919823">
-        <mark key="a" line="50" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/vandy/DemoApp-a2/app/build.gradle" timestamp="1502518924063">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/vandy/old/jules/mooc4/SneakApp/gradle/wrapper/gradle-wrapper.properties" timestamp="1501018761033">
         <mark key="[" line="5" column="69" />
@@ -256,9 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="8" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
-      <jump line="270" column="8" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
-      <jump line="312" column="8" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
       <jump line="344" column="8" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
       <jump line="120" column="4" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
       <jump line="174" column="4" filename="$USER_HOME$/vandy/java4Android/java4android/assignments/m6-assignment-gate-b-complete/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
@@ -356,10 +360,13 @@
       <jump line="67" column="132" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1" />
       <jump line="49" column="113" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1" />
       <jump line="66" column="120" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1" />
+      <jump line="0" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer3" />
+      <jump line="12" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer3" />
+      <jump line="35" column="645" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer3" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyOnJ1YnJpYzoxLjAnCg==</text>
+        <text encoding="base64">ZGVmIGdldENvbXBpbGVUYXNrKCkgewogICAgaWYgKHByb2plY3QucGx1Z2lucy5oYXNQbHVnaW4oJ2NvbS5hbmRyb2lkLmFwcGxpY2F0aW9uJykpIHsKICAgICAgICByZXR1cm4gdGFza3MuZmluZEJ5TmFtZSgnY29tcGlsZURlYnVnVW5pdFRlc3RKYXZhV2l0aEphdmFjJykKICAgIH0gZWxzZSB7CiAgICAgICAgcmV0dXJuIHRhc2tzLmZpbmRCeU5hbWUoJ2NvbXBpbGVUZXN0SmF2YScpCiAgICB9Cn0KCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -539,55 +546,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text encoding="base64">IG91dHB1dCAtPg==</text>
       </register>
       <register name="/" type="4">
-        <text>compat</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CnRhc2sgeHh4KGdyb3VwOiAnX19feHh4X19fJykgewogICAgYW5kcm9pZC5hcHBsaWNhdGlvblZhcmlhbnRzLmFsbCB7IHZhcmlhbnQgLT4KICAgICAgICB2YXJpYW50LnJ1bnRpbWVDb25maWd1cmF0aW9uLmFsbCB7CiAgICAgICAgICAgIHByaW50bG4gaXQKICAgICAgICB9CiAgICB9CiAgICBkb0ZpcnN0IHsKICAgICAgICBhbmRyb2lkLnNvdXJjZVNldHMucHJvcGVydGllcy5lYWNqaCB7CiAgICAgICAgICAgICAgICBwcmludGxuIGl0CiAgICAgICAgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">CnRhc2sgeHh4KGdyb3VwOiAnX194eHhfXycpIHsKICAgIGRvRmlyc3QgewogICAgICAgIGRlZiB0ZXN0Q2xhc3NlcyA9ICIiCiAgICAgICAgZGVmIHNlcGFyYXRvciA9IFBhdHRlcm4uY29tcGlsZShGaWxlLnNlcGFyYXRvciwgUGF0dGVybi5MSVRFUkFMKQogICAgICAgIGFuZHJvaWQuYXBwbGljYXRpb25WYXJpYW50cy5hbGwgeyB2YXJpYW50IC0+CiAgICAgICAgICAgIGlmICh2YXJpYW50Lm5hbWUgPT0gImRlYnVnIikgewogICAgICAgICAgICAgICAgdmFyaWFudC5vdXRwdXRzLmVhY2ggewogICAgICAgICAgICAgICAgICAgIHByaW50bG4gaXQKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBnZXRDb21waWxlVGFzaygpLm91dHB1dHMuZmlsZXMuZmlsZXMuZWFjaCB7IHJvb3RQYXRoIC0+CiAgICAgICAgICAgIC8vIFNraXAgYW55IHBhdGggd2l0aCBhbiBhaWRsIHN1Yi1wYXRoIGNvbXBvbmVudC4KICAgICAgICAgICAgaWYgKCFyb290UGF0aC5hYnNvbHV0ZVBhdGguY29udGFpbnMoIiR7c2VwYXJhdG9yfWFpZGwke3NlcGFyYXRvcn0iKSkgewogICAgICAgICAgICAgICAgZmlsZVRyZWUocm9vdFBhdGgpLmVhY2ggeyBmdWxsUGF0aCAtPgogICAgICAgICAgICAgICAgICAgIGRlZiByZWxQYXRoID0gcm9vdFBhdGgudG9QYXRoKCkucmVsYXRpdml6ZShmdWxsUGF0aC50b1BhdGgoKSkudG9GaWxlKCkKICAgICAgICAgICAgICAgICAgICBkZWYgY2xhc3NOYW1lID0gcmVsUGF0aC50b1N0cmluZygpLnJlcGxhY2VBbGwoc2VwYXJhdG9yLCAiLiIpLnJlcGxhY2VGaXJzdCgiXFwuY2xhc3NcJCIsICIiKQogICAgICAgICAgICAgICAgICAgIHByaW50bG4gY2xhc3NOYW1lCiAgICAgICAgICAgICAgICAgICAgdGVzdENsYXNzZXMgKz0gIiRjbGFzc05hbWUgIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyOnJ1YnJpYzoxLjAnCg==</text>
+        <text encoding="base64">ZGVmIGdldENvbXBpbGVUYXNrKCkgewogICAgaWYgKHByb2plY3QucGx1Z2lucy5oYXNQbHVnaW4oJ2NvbS5hbmRyb2lkLmFwcGxpY2F0aW9uJykpIHsKICAgICAgICByZXR1cm4gdGFza3MuZmluZEJ5TmFtZSgnY29tcGlsZURlYnVnVW5pdFRlc3RKYXZhV2l0aEphdmFjJykKICAgIH0gZWxzZSB7CiAgICAgICAgcmV0dXJuIHRhc2tzLmZpbmRCeU5hbWUoJ2NvbXBpbGVUZXN0SmF2YScpCiAgICB9Cn0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdlZHUudmFuZGVyYmlsdC5ncmFkZXI6cnVicmljOjEuMCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZGtEaXIgPSBwcm9qZWN0LmFuZHJvaWQuc2RrRGlyZWN0b3J5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFzayB4eHgoZ3JvdXA6ICdfX194eHhfX18nKSB7CiAgICBhbmRyb2lkLmFwcGxpY2F0aW9uVmFyaWFudHMuYWxsIHsgdmFyaWFudCAtPgogICAgICAgIHZhcmlhbnQucnVudGltZUNvbmZpZ3VyYXRpb24uYWxsIHsKICAgICAgICAgICAgcHJpbnRsbiBpdAogICAgICAgIH0KICAgIH0KICAgIGRvRmlyc3QgewogICAgICAgIGFuZHJvaWQuc291cmNlU2V0cy5wcm9wZXJ0aWVzLmVhY2poIHsKICAgICAgICAgICAgICAgIHByaW50bG4gaXQKICAgICAgICB9CiAgICB9Cn0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHBBcGsgPSBvdXRwdXQub3V0cHV0RmlsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQuYXBwbGljYXRpb25WYXJpYW50cy5hbGwgeyB2YXJpYW50IC0+CiAgICAgICAgdmFyaWFudC5ydW50aW1lQ29uZmlndXJhdGlvbi5hbGwgewogICAgICAgICAgICBwcmludGxuIGl0CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmR0ZXN0VmFyaWFudAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuZ2V0QWxsU291cmNlKCkuc3JjRGlycy5lYWNoIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbiBpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdlZHUudmFuZGVyYmlsdC5ncmFkZXI6cnVicmljOjEuMCcKICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyOnJ1YnJpYzoxLjAnCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuIGFuZHJvaWQuc291cmNlU2V0cy5maW5kQnlOYW1lKCd0ZXN0JykucHJvcGVydGllcy5lYWNoIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQltYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">eAphaWRsRGlyZWN0b3JpZXM9W0M6XFVzZXJzXG1vbnRlXHZhbmR5XERlbW9BcHAtYTJcYXBwXHNyY1x0ZXN0XGFpZGxdCmNvbnZlbnRpb249b3JnLmdyYWRsZS5hcGkuaW50ZXJuYWwucGx1Z2lucy5EZWZhdWx0Q29udmVudGlvbkA0MDYxZmNkNApyZXNvdXJjZXM9W3NyYy90ZXN0L3Jlc291cmNlc10KamFja1BsdWdpbkNvbmZpZ3VyYXRpb25OYW1lPXRlc3RKYWNrUGx1Z2luCmNvbnZlbnRpb25NYXBwaW5nPW9yZy5ncmFkbGUuYXBpLmludGVybmFsLkNvbnZlbnRpb25Bd2FyZUhlbHBlckAyY2I0M2EyNQpleHRlbnNpb25zPW9yZy5ncmFkbGUuYXBpLmludGVybmFsLnBsdWdpbnMuRGVmYXVsdENvbnZlbnRpb25ANDA2MWZjZDQKcmVzb3VyY2VzRGlyZWN0b3JpZXM9W0M6XFVzZXJzXG1vbnRlXHZhbmR5XERlbW9BcHAtYTJcYXBwXHNyY1x0ZXN0XHJlc291cmNlc10KbWFuaWZlc3RGaWxlPUM6XFVzZXJzXG1vbnRlXHZhbmR5XERlbW9BcHAtYTJcYXBwXHNyY1x0ZXN0XEFuZHJvaWRNYW5pZmVzdC54bWwKamF2YURpcmVjdG9yaWVzPVtDOlxVc2Vyc1xtb250ZVx2YW5keVxEZW1vQXBwLWEyXGFwcFxzcmNcdGVzdFxqYXZhXQphaWRsPVtzcmMvdGVzdC9haWRsXQpzaGFkZXJzPVtzcmMvdGVzdC9zaGFkZXJzXQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>compat</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>compat</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Builder</last-substitute>
       <last-dir>1</last-dir>
@@ -595,7 +602,6 @@
     </search>
     <history>
       <history-search>
-        <entry>testDir</entry>
         <entry>TIMEOUT</entry>
         <entry>testSetCo</entry>
         <entry>ps</entry>
@@ -609,12 +615,13 @@
         <entry>Passed.*false</entry>
         <entry>&quot;[</entry>
         <entry>MainA</entry>
-        <entry>classes</entry>
         <entry>app</entry>
         <entry>DemoApp-a2</entry>
         <entry>ompat</entry>
         <entry encoding="base64">OnNldCA=</entry>
         <entry>compat</entry>
+        <entry>classes</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
