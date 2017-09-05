@@ -210,12 +210,13 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/vandy/WebCrawler/app/src/androidTest/java/edu/vanderbilt/webcrawler/ui/WebViewActivityTest.kt" timestamp="1504643384304">
-        <mark key="'" line="46" column="34" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="28" column="85" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/vandy/WebCrawler/app/src/androidTest/java/edu/vanderbilt/webcrawler/ui/WebViewActivityTest.kt" timestamp="1504644491815">
+        <mark key="a" line="70" column="45" />
+        <mark key="'" line="80" column="8" />
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="59" column="25" />
+        <mark key="." line="59" column="25" />
+        <mark key="^" line="59" column="53" />
       </file>
       <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/main/java/edu/vanderbilt/demoapp/SomeClass.java" timestamp="1501548507213">
         <mark key="[" line="16" column="15" />
@@ -1426,7 +1427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1110" column="24" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/os/Bundle.java" />
       <jump line="283" column="55" filename="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/os/Bundle.java" />
       <jump line="36" column="0" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/ui/WebViewActivity.kt" />
       <jump line="86" column="29" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/ui/WebViewActivity.kt" />
@@ -1526,10 +1526,11 @@
       <jump line="95" column="30" filename="$USER_HOME$/vandy/WebCrawler/app/src/androidTest/java/edu/vanderbilt/webcrawler/ui/MainActivityTest.kt" />
       <jump line="129" column="0" filename="$USER_HOME$/vandy/WebCrawler/app/src/androidTest/java/edu/vanderbilt/webcrawler/ui/WebViewActivityTest.kt" />
       <jump line="40" column="34" filename="$USER_HOME$/vandy/WebCrawler/app/src/androidTest/java/edu/vanderbilt/webcrawler/ui/WebViewActivityTest.kt" />
+      <jump line="77" column="8" filename="$USER_HOME$/vandy/WebCrawler/app/src/androidTest/java/edu/vanderbilt/webcrawler/ui/WebViewActivityTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGUgdGhlIHRpdGxlIHNob3VsZCBiZSBkaXNwbGF5aW5nIHRoZSB1cmwuCiAgICAgICAgbWF0Y2hUb29sYmFyVGl0bGUodXJsKS5jaGVjayhtYXRjaGVzKGlzRGlzcGxheWVkKCkpKQoK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1709,16 +1710,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>layout\.search</text>
+        <text>textMatcher</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaFRvb2xiYXJUaXRsZSh1cmwpLmNoZWNrKG1hdGNoZXMoaXNEaXNwbGF5ZWQoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uVmlldyhhbGxPZih3aXRoSWQoUi5pZC5zZWFyY2hfYnV0dG9uKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGUgdGhlIHRpdGxlIHNob3VsZCBiZSBkaXNwbGF5aW5nIHRoZSB1cmwuCiAgICAgICAgbWF0Y2hUb29sYmFyVGl0bGUodXJsKS5jaGVjayhtYXRjaGVzKGlzRGlzcGxheWVkKCkpKQoK</text>
+        <text encoding="base64">ICAgICAgICBvblZpZXcoYWxsT2Yod2l0aENsYXNzTmFtZShpcygiQXBwQ29tcGF0VGV4dFZpZXciKSkpLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1726,40 +1727,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaFRvb2xiYXJUaXRsZSh1cmwpLmNoZWNrKG1hdGNoZXMobm90KGlzRGlzcGxheWVkKCkpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdGluZ0FjdGlvbkJ1dHRvbjIucGVyZm9ybShjbGljaygpKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNEaXNwbGF5ZWQoKSkpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSwK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dE1hdGNoZXIuZGVzY3JpYmVUbyhkZXNjcmlwdGlvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpdGhJZChhbmRyb2lkLlIuaWQuY29udGVudCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb24uYXBwZW5kVGV4dCgid2l0aCB0b29sYmFyIHRpdGxlOiAiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGlsZEF0UG9zaXRpb24oCg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gZGVzY3JpYmVUbyhkZXNjcmlwdGlvbjogRGVzY3JpcHRpb24pIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGRBdFBvc2l0aW9uKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>layout\.search</last-search>
+      <last-search>textMatcher</last-search>
       <last-offset />
-      <last-pattern>layout\.search</last-pattern>
+      <last-pattern>textMatcher</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1767,7 +1768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(url)</entry>
         <entry>url</entry>
         <entry>search_action</entry>
         <entry>search_a</entry>
@@ -1787,6 +1787,7 @@
         <entry encoding="base64">aXMg</entry>
         <entry>id\.searchView</entry>
         <entry>layout\.search</entry>
+        <entry>textMatcher</entry>
       </history-search>
       <history-cmd>
         <entry>g/size/p</entry>
