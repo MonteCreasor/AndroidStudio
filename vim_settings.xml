@@ -237,8 +237,11 @@
         <mark key="." line="53" column="15" />
         <mark key="^" line="53" column="15" />
       </file>
-      <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/ImageAdapter.java" timestamp="1504803688344">
-        <mark key="'" line="63" column="21" />
+      <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/ImageAdapter.java" timestamp="1504816564795">
+        <mark key="a" line="103" column="6" />
+        <mark key="'" line="78" column="5" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="121" column="0" />
       </file>
       <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/ui/MyWebViewUrlItemRecyclerViewAdapter.kt" timestamp="1504655161855">
         <mark key="[" line="23" column="55" />
@@ -330,9 +333,6 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.0.2/e2d537ef4d82ba9001ee0ae0f692ef59e1f948d7/design-26.0.2-sources.jar!/android/support/design/widget/Snackbar.java" timestamp="1504756906420">
-        <mark key="'" line="48" column="11" />
-      </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/res/values/strings.xml" timestamp="1492227654937">
         <mark key="[" line="2" column="52" />
         <mark key="]" line="3" column="3" />
@@ -351,12 +351,18 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" timestamp="1504813666627">
-        <mark key="'" line="284" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="211" column="49" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/SelectableViewHolder.kt" timestamp="1504816112457">
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="69" />
+        <mark key="^" line="9" column="90" />
+        <mark key="." line="9" column="69" />
+      </file>
+      <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" timestamp="1504816665522">
+        <mark key="'" line="314" column="0" />
+        <mark key="[" line="99" column="41" />
+        <mark key="]" line="99" column="41" />
+        <mark key="^" line="93" column="41" />
+        <mark key="." line="99" column="41" />
       </file>
       <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/WebViewUrlAdapter.kt" timestamp="1504807803352">
         <mark key="a" line="43" column="0" />
@@ -1028,6 +1034,11 @@
         <mark key="^" line="49" column="67" />
         <mark key="." line="49" column="67" />
       </file>
+      <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/SelectableHolder.kt" timestamp="1504816109033">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/drawable-v21/button_background_selector.xml" timestamp="1489037338689">
         <mark key="[" line="11" column="64" />
         <mark key="]" line="11" column="68" />
@@ -1105,9 +1116,6 @@
         <mark key="]" line="31" column="53" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="19" column="3" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.0.2/e2d537ef4d82ba9001ee0ae0f692ef59e1f948d7/design-26.0.2-sources.jar!/android/support/design/widget/BottomSheetBehavior.java" timestamp="1504687554415">
-        <mark key="'" line="119" column="31" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/ResultsActivity.java" timestamp="1489387601484">
         <mark key="[" line="39" column="0" />
@@ -1536,7 +1544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="36" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/UriAdapter.kt" />
       <jump line="45" column="38" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/UriAdapter.kt" />
       <jump line="41" column="53" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/extensions/ViewExtensions.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/extensions/ViewExtensions.kt" />
@@ -1636,10 +1643,11 @@
       <jump line="20" column="22" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/BaseAdapter.kt" />
       <jump line="26" column="33" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" />
       <jump line="269" column="0" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" />
+      <jump line="78" column="5" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/ImageAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1819,16 +1827,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>position</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>onSelectionL</text>
+        <text>drawS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgSW5kZXhPdXRPZkJvdW5kc0V4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAiVW5hYmxlIHRvIHNlbGVjdCBpdGVtICRwb3NpdGlvbjogaW5kZXggb3V0IG9mIGJvdW5kcy4iKQo=</text>
+        <text encoding="base64">CS8qKgoJICogSGVscGVyIG1ldGhvZCB0byBkcmF3IHRoZSBjdXJyZW50IGl0ZW0ncyBzZWxlY3Rpb24gc3RhdGUuCgkgKgoJICogQHBhcmFtIHZpZXcgICAgIEFueSB2aWV3LgoJICogQHBhcmFtIHBvc2l0aW9uIFRoZSB2aWV3J3MgYXNzb2NpYXRlZCBhZGFwdGVyIHBvc2l0aW9uLgoJICovCglwcml2YXRlIHZvaWQgZHJhd1NlbGVjdGlvblN0YXRlKEltYWdlVmlldyB2aWV3LCBpbnQgcG9zaXRpb24pIHsKCQkvLyBTZXQgbGlzdCBpdGVtIGJhY2tncm91bmQgY29sb3IgYmFzZWQgb24gc2VsZWN0aW9uIHN0YXRlLgoJCWlmIChpc0l0ZW1TZWxlY3RlZChwb3NpdGlvbikpIHsKCQkJdmlldy5zZXRDb2xvckZpbHRlcigKCQkJCQlDb250ZXh0Q29tcGF0LmdldENvbG9yKAoJCQkJCQkJdmlldy5nZXRDb250ZXh0KCksCgkJCQkJCQlSLmNvbG9yLmdyaWRfaXRlbV9zZWxlY3RlZF9jb2xvcl9maWx0ZXIpLAoJCQkJCVBvcnRlckR1ZmYuTW9kZS5TUkNfQVRPUCk7CgkJfSBlbHNlIHsKCQkJdmlldy5jbGVhckNvbG9yRmlsdGVyKCk7CgkJfQoJfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwb3NpdGlvbiBUaGUgdmlldydzIGFzc29jaWF0ZWQgYWRhcHRlciBwb3NpdGlvbi4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1836,40 +1844,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB2aWV3ICAgICBBbnkgdmlldy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdEl0ZW0oaXQsIHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICJVbmFibGUgdG8gc2VsZWN0IGl0ZW0gJHBvc2l0aW9uOiBpbmRleCBvdXQgb2YgYm91bmRzLiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvbGRlci5tSW1hZ2VWaWV3LCBhZGFwdGVyUG9zaXRpb24udG9TdHJpbmcoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgKQo=</text>
+        <text encoding="base64">ICAgICAgICBWaWV3Q29tcGF0LnNldFRyYW5zaXRpb25OYW1lKAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzaGFyZWQgZWxlbWVudCB0cmFuc2l0aW9uIGFuaW1hdGlvbnMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBTZXQgYSB1bmlxdWUgc2hhcmVkIGVsZW1lbnQgdHJhbnNpdGlvbk5hbWUgdG8gc3VwcG9ydGluZyByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdEl0ZW0oKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBzaGFyZWQgZWxlbWVudCB0cmFuc2l0aW9uIGFuaW1hdGlvbnMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>onSelectionL</last-search>
+      <last-search>drawS</last-search>
       <last-offset />
-      <last-pattern>onSelectionL</last-pattern>
+      <last-pattern>drawS</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1877,7 +1885,6 @@
     </search>
     <history>
       <history-search>
-        <entry>finish</entry>
         <entry>urls</entry>
         <entry>+=</entry>
         <entry>urlFra</entry>
@@ -1897,6 +1904,7 @@
         <entry>throw</entry>
         <entry>ArrayI</entry>
         <entry>onSelectionL</entry>
+        <entry>drawS</entry>
       </history-search>
       <history-cmd>
         <entry>g/size/p</entry>
