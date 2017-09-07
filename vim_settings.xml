@@ -351,6 +351,13 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="25" column="25" />
       </file>
+      <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" timestamp="1504813666627">
+        <mark key="'" line="284" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="211" column="49" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/WebViewUrlAdapter.kt" timestamp="1504807803352">
         <mark key="a" line="43" column="0" />
         <mark key="[" line="19" column="0" />
@@ -1529,8 +1536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/ui/WebViewUrlFragment.kt" />
-      <jump line="65" column="0" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/UriAdapter.kt" />
       <jump line="41" column="36" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/UriAdapter.kt" />
       <jump line="45" column="38" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/UriAdapter.kt" />
       <jump line="41" column="53" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/extensions/ViewExtensions.kt" />
@@ -1629,6 +1634,8 @@
       <jump line="143" column="37" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/BaseAdapter.kt" />
       <jump line="163" column="8" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/BaseAdapter.kt" />
       <jump line="20" column="22" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/BaseAdapter.kt" />
+      <jump line="26" column="33" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" />
+      <jump line="269" column="0" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1812,13 +1819,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>position</text>
       </register>
       <register name="/" type="4">
         <text>onSelectionL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgQXJyYXlJbmRleE91dE9mQm91bmRzRXhjZXB0aW9uKCJJbnZhbGlkIGFkYXB0ZXIgaXRlbSBwb3NpdGlvbiAkcG9zaXRpb24uIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgSW5kZXhPdXRPZkJvdW5kc0V4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAiVW5hYmxlIHRvIHNlbGVjdCBpdGVtICRwb3NpdGlvbjogaW5kZXggb3V0IG9mIGJvdW5kcy4iKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1829,31 +1836,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJJbnZhbGlkIGFkYXB0ZXIgaXRlbSBwb3NpdGlvbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdEl0ZW0oaXQsIHRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICJVbmFibGUgdG8gc2VsZWN0IGl0ZW0gJHBvc2l0aW9uOiBpbmRleCBvdXQgb2YgYm91bmRzLiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVmcmVzaCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZWxlY3QgICB0cnVlIG9yIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwb3NpdGlvbiBwb3NpdGlvbiBvZiBpdGVtIHRvIHNlbGVjdCBvciAtMSBmb3IgYWxsIGl0ZW1zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdEl0ZW0oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
