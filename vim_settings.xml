@@ -365,21 +365,20 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/SelectableViewHolder.kt" timestamp="1504844204937">
+      <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/SelectableViewHolder.kt" timestamp="1504852705563">
         <mark key="a" line="23" column="0" />
-        <mark key="'" line="125" column="26" />
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="22" column="48" />
+        <mark key="'" line="126" column="26" />
+        <mark key="[" line="25" column="40" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" timestamp="1504850495495">
-        <mark key="a" line="106" column="35" />
-        <mark key="'" line="378" column="34" />
-        <mark key="[" line="26" column="60" />
-        <mark key="]" line="26" column="62" />
-        <mark key="." line="26" column="62" />
-        <mark key="^" line="26" column="62" />
+      <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" timestamp="1504853131462">
+        <mark key="'" line="248" column="8" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="106" column="44" />
+        <mark key="^" line="133" column="73" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/WebViewUrlAdapter.kt" timestamp="1504834727065">
         <mark key="[" line="21" column="0" />
@@ -1596,8 +1595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="8" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/BaseAdapter.kt" />
-      <jump line="262" column="26" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/BaseAdapter.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/BaseAdapter.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/BaseAdapter.kt" />
       <jump line="154" column="4" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/unused/BaseAdapter.kt" />
@@ -1694,12 +1691,14 @@
       <jump line="449" column="31" filename="$USER_HOME$/android/vandy/downloader/app/src/main/java/vandy/mooc/assignments/framework/application/fragments/RecyclerViewFragment.java" />
       <jump line="409" column="32" filename="$USER_HOME$/android/vandy/downloader/app/src/main/java/vandy/mooc/assignments/framework/application/fragments/RecyclerViewFragment.java" />
       <jump line="412" column="17" filename="$USER_HOME$/android/vandy/downloader/app/src/main/java/vandy/mooc/assignments/framework/application/fragments/RecyclerViewFragment.java" />
+      <jump line="378" column="33" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" />
+      <jump line="130" column="4" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" />
       <jump line="173" column="0" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" />
-      <jump line="378" column="34" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" />
+      <jump line="240" column="8" filename="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/MultiSelectAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLmFjdGl2YXRlZCA9ICFob2xkZXIuYWN0aXZhdGVkCiAgICAgICAgICAgIGhvbGRlci5zZWxlY3RhYmxlID0gdHJ1ZQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1879,16 +1878,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>().</text>
       </register>
       <register name="/" type="4">
-        <text>deleteClicked</text>
+        <text>selectItem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0SXRlbSgtMSwgZmFsc2UpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmlzaEFjdGlvbk1vZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLmFjdGl2YXRlZCA9ICFob2xkZXIuYWN0aXZhdGVkCiAgICAgICAgICAgIGhvbGRlci5zZWxlY3RhYmxlID0gdHJ1ZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1896,40 +1895,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWxldGVDbGlja2VkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uU2VsZWN0aW9uTGlzdGVuZXI/Lm9uQWN0aW9uTW9kZVN0YXJ0ZWQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25Nb2RlID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25TZWxlY3Rpb25MaXN0ZW5lcj8ub25BY3Rpb25Nb2RlU3RhcnRlZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvblNlbGVjdGlvbkxpc3RlbmVyPy5vbkFjdGlvbk1vZGVGaW5pc2hlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RJdGVtKC0xLCBmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhbHNlCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjdGlvbk1vZGUgIT0gMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>deleteClicked</last-search>
+      <last-search>selectItem</last-search>
       <last-offset />
-      <last-pattern>deleteClicked</last-pattern>
+      <last-pattern>selectItem</last-pattern>
       <last-replace />
       <last-substitute>rubric</last-substitute>
       <last-dir>1</last-dir>
@@ -1937,7 +1936,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getRai</entry>
         <entry>isItemSel</entry>
         <entry>drawSel</entry>
         <entry>refresh</entry>
@@ -1957,6 +1955,7 @@
         <entry>notifyItemCh</entry>
         <entry>startActionMode</entry>
         <entry>deleteClicked</entry>
+        <entry>selectItem</entry>
       </history-search>
       <history-cmd>
         <entry>g/size/p</entry>
