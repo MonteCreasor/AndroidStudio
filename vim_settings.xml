@@ -964,10 +964,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/platform/AndroidPlatform.kt" timestamp="1504931067180">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/doug/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/platform/AndroidPlatform.kt" timestamp="1504932317611">
+        <mark key="[" line="141" column="49" />
+        <mark key="]" line="141" column="49" />
+        <mark key="^" line="141" column="61" />
+        <mark key="." line="141" column="49" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/drawable/answer_checkbox_button_divider.xml" timestamp="1489709971783">
         <mark key="[" line="1" column="49" />
@@ -1148,6 +1149,12 @@
         <mark key="." line="4" column="138" />
         <mark key="^" line="4" column="138" />
       </file>
+      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/platform/Platform.java" timestamp="1504931378299">
+        <mark key="[" line="19" column="73" />
+        <mark key="]" line="19" column="73" />
+        <mark key="." line="19" column="73" />
+        <mark key="^" line="19" column="73" />
+      </file>
       <file name="$USER_HOME$/sandbox/AndroidAssg1/app/src/main/java/edu/vanderbilt/androidassg1/Utils/KeyboardUtils.java" timestamp="1492289721745">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="9" />
@@ -1261,12 +1268,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/java-image-crawler/src/main/java/edu/vanderbilt/platform/JavaPlatform.java" timestamp="1504921735824">
+      <file name="$USER_HOME$/doug/WebCrawler/java-image-crawler/src/main/java/edu/vanderbilt/platform/JavaPlatform.java" timestamp="1504931572479">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="33" />
-        <mark key="^" line="25" column="33" />
-        <mark key="." line="25" column="33" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="26" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="18" />
       </file>
       <file name="$USER_HOME$/vandy/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/adapters/meaurementExtensions.kt" timestamp="1504828773700">
         <mark key="[" line="12" column="0" />
@@ -1511,7 +1518,6 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1504921869840" />
       <file name="$USER_HOME$/vandy/DemoApp-a3/app/src/main/java/whatever/Main.java" timestamp="1501700428216">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="20" column="59" />
@@ -1691,7 +1697,6 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1504921869840" />
       <file name="$USER_HOME$/jules/TestApp/app/src/main/AndroidManifest.xml" timestamp="1493338200851">
         <mark key="[" line="16" column="15" />
         <mark key="]" line="17" column="17" />
@@ -1826,8 +1831,8 @@
       <jump line="31" column="12" filename="$USER_HOME$/doug/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/platform/AndroidPlatform.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsLgo=</text>
+      <register name="&quot;" type="4">
+        <text>replaceLast(&quot;&quot;)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2007,16 +2012,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>replaceLast(&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBBc3NldHMgVVJMIHByZWZpeCBzdHJpbmcgZm9yIGNvbXBhcmlzb25zLiAqLwogICAgcHJpdmF0ZSB2YWwgQVNTRVRTX1BSRUZJWCA9ICJmaWxlOjovLy9hbmRyb2lkX2Fzc2V0cy8iCgo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlTmFtZSA9IGZpbGVOYW1lLnN1YnN0cmluZygwLCBmaWxlTmFtZS5sYXN0SW5kZXhPZignXycpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2024,33 +2029,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVVJMLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB1c2VsZXNzIGNoYXJhY3RlcnMgd2l0aCBVTkRFUlNDT1JFUy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZmlsZU5hbWUgPSB1cmlOYW1lLnJlcGxhY2UoIlsuLzpdIi50b1JlZ2V4KCksICJfIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW50ZXJuYWwgY2xhc3MgU2luZ2xldG9uIHByaXZhdGUgY29uc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZXBsYWNlIHVzZWxlc3MgY2hhcmFjdGVycyB3aXRoIFVOREVSU0NPUkUuCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IEhvbGRlci5JTlNUQU5DRSB9CiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGVzIGEgbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSB0byB3cml0ZSB0aGUgZG93bmxvYWRlZAogICAgICAgIC8vIGNvbnRlbnRzIHRvIGEgYnl0ZSBhcnJheSwgd2hpY2ggaXMgYSBnZW5lcmljIGZvcm0gb2YgdGhlCiAgICAgICAgLy8gaW1hZ2UuCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>r
-        val instance: Singleton by lazy {</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>u
-    companion object {</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgb3N0cmVhbSA9IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpCgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PSBTaW5nbGV0b24oKSB9Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXV0b21hdGljYWxseS4K</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
