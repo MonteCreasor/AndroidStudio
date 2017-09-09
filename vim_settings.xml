@@ -964,11 +964,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/platform/AndroidPlatform.kt" timestamp="1504932317611">
-        <mark key="[" line="141" column="49" />
-        <mark key="]" line="141" column="49" />
-        <mark key="^" line="141" column="61" />
-        <mark key="." line="141" column="49" />
+      <file name="$USER_HOME$/doug/WebCrawler/app/src/main/java/edu/vanderbilt/webcrawler/platform/AndroidPlatform.kt" timestamp="1504932931139">
+        <mark key="[" line="142" column="29" />
+        <mark key="]" line="142" column="29" />
+        <mark key="." line="142" column="29" />
+        <mark key="^" line="142" column="35" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/drawable/answer_checkbox_button_divider.xml" timestamp="1489709971783">
         <mark key="[" line="1" column="49" />
@@ -1832,7 +1832,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>replaceLast(&quot;&quot;)</text>
+        <text>replace</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2012,7 +2012,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>replaceLast(&quot;&quot;)</text>
+        <text>replace</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
@@ -2021,7 +2021,7 @@
         <text encoding="base64">ICAgICAgICBmaWxlTmFtZSA9IGZpbGVOYW1lLnN1YnN0cmluZygwLCBmaWxlTmFtZS5sYXN0SW5kZXhPZignXycpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVOYW1lLnJlcGxhY2VMaW5kZXhPZkxhc3QK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2029,31 +2029,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB1c2VsZXNzIGNoYXJhY3RlcnMgd2l0aCBVTkRFUlNDT1JFUy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXBsYWNlUmFuZ2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZmlsZU5hbWUgPSB1cmlOYW1lLnJlcGxhY2UoIlsuLzpdIi50b1JlZ2V4KCksICJfIikK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB1c2VsZXNzIGNoYXJhY3RlcnMgd2l0aCBVTkRFUlNDT1JFUy4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBSZXBsYWNlIHVzZWxlc3MgY2hhcmFjdGVycyB3aXRoIFVOREVSU0NPUkUuCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZmlsZU5hbWUgPSB1cmlOYW1lLnJlcGxhY2UoIlsuLzpdIi50b1JlZ2V4KCksICJfIikK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGVzIGEgbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSB0byB3cml0ZSB0aGUgZG93bmxvYWRlZAogICAgICAgIC8vIGNvbnRlbnRzIHRvIGEgYnl0ZSBhcnJheSwgd2hpY2ggaXMgYSBnZW5lcmljIGZvcm0gb2YgdGhlCiAgICAgICAgLy8gaW1hZ2UuCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBSZXBsYWNlIHVzZWxlc3MgY2hhcmFjdGVycyB3aXRoIFVOREVSU0NPUkUuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb3N0cmVhbSA9IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpCgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGVzIGEgbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSB0byB3cml0ZSB0aGUgZG93bmxvYWRlZAogICAgICAgIC8vIGNvbnRlbnRzIHRvIGEgYnl0ZSBhcnJheSwgd2hpY2ggaXMgYSBnZW5lcmljIGZvcm0gb2YgdGhlCiAgICAgICAgLy8gaW1hZ2UuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXV0b21hdGljYWxseS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
