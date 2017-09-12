@@ -13,6 +13,9 @@
         <mark key="^" line="24" column="27" />
         <mark key="." line="35" column="54" />
       </file>
+      <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1505219626740">
+        <mark key="'" line="57" column="8" />
+      </file>
       <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/platform/AndroidPlatform.kt" timestamp="1505218223292">
         <mark key="a" line="19" column="48" />
         <mark key="[" line="19" column="0" />
@@ -32,11 +35,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.3/89116c309401a6457942135ee47be41ea0eb1ab7/jsoup-1.10.3-sources.jar!/org/jsoup/nodes/Element.java" timestamp="1505216380279">
         <mark key="'" line="309" column="31" />
-      </file>
-      <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/extensions/ImageExt.kt" timestamp="1505202121744">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.3/89116c309401a6457942135ee47be41ea0eb1ab7/jsoup-1.10.3-sources.jar!/org/jsoup/parser/HtmlTreeBuilder.java" timestamp="1505216402446">
         <mark key="'" line="156" column="27" />
@@ -140,13 +138,15 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.3/89116c309401a6457942135ee47be41ea0eb1ab7/jsoup-1.10.3-sources.jar!/org/jsoup/parser/TreeBuilder.java" timestamp="1505215594967">
         <mark key="'" line="40" column="40" />
       </file>
+      <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/crawlers/SequentialStreamsCrawler.java" timestamp="1505219642511">
+        <mark key="'" line="95" column="51" />
+        <mark key="[" line="134" column="36" />
+        <mark key="]" line="134" column="45" />
+        <mark key="^" line="134" column="45" />
+        <mark key="." line="134" column="45" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="470" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
-      <jump line="102" column="10" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
-      <jump line="130" column="10" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
-      <jump line="21" column="59" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
       <jump line="21" column="30" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/ImageViewAdapter.kt" />
       <jump line="31" column="23" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/ImageViewAdapter.kt" />
       <jump line="35" column="18" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/ImageViewAdapter.kt" />
@@ -242,6 +242,11 @@
       <jump line="139" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" />
       <jump line="97" column="4" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/utils/Options.java" />
       <jump line="102" column="49" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/utils/Options.java" />
+      <jump line="125" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" />
+      <jump line="32" column="30" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" />
+      <jump line="34" column="27" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" />
+      <jump line="57" column="8" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" />
+      <jump line="95" column="51" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/crawlers/SequentialStreamsCrawler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -428,7 +433,7 @@
         <text>if (localCrawl) Options. else url)</text>
       </register>
       <register name="/" type="4">
-        <text>asset</text>
+        <text>mFilters</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPcHRpb25zLkRFRkFVTFRfQU5EUk9JRF9MT0NBTF9VUkkK</text>
@@ -473,9 +478,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asset</last-search>
+      <last-search>mFilters</last-search>
       <last-offset />
-      <last-pattern>asset</last-pattern>
+      <last-pattern>mFilters</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDx2YWxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -483,8 +488,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wrappedItems</entry>
-        <entry>set(</entry>
         <entry>addItems</entry>
         <entry>addAll</entry>
         <entry>items</entry>
@@ -503,6 +506,8 @@
         <entry>getRoot</entry>
         <entry>isLocal</entry>
         <entry>asset</entry>
+        <entry>apply</entry>
+        <entry>mFilters</entry>
       </history-search>
       <history-cmd>
         <entry>s/RestAdapter/retrofit/g</entry>
