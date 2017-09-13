@@ -22,6 +22,13 @@
         <mark key="^" line="32" column="55" />
         <mark key="." line="32" column="55" />
       </file>
+      <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MenuHandler.kt" timestamp="1505297382714">
+        <mark key="'" line="70" column="12" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="89" column="9" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/jules/DemoApp/app/src/androidTest/java/edu/vanderbilt/demoapp/MockitoTests.java" timestamp="1493359133879">
         <mark key="[" line="27" column="12" />
         <mark key="]" line="27" column="12" />
@@ -943,14 +950,12 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" timestamp="1505296735201">
-        <mark key="a" line="117" column="37" />
-        <mark key="'" line="457" column="0" />
-        <mark key="z" line="163" column="29" />
-        <mark key="[" line="442" column="0" />
-        <mark key="]" line="444" column="80" />
-        <mark key="." line="444" column="80" />
-        <mark key="^" line="444" column="80" />
+      <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" timestamp="1505297431753">
+        <mark key="z" line="160" column="29" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="70" column="40" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/vandy/DemoApp/app/src/main/res/values/strings.xml" timestamp="1498418013608">
         <mark key="[" line="1" column="39" />
@@ -1929,11 +1934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="8" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" />
-      <jump line="95" column="51" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/crawlers/SequentialStreamsCrawler.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/utils/CacheUtils.java" />
-      <jump line="71" column="38" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/utils/CacheUtils.java" />
-      <jump line="75" column="21" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/utils/CacheUtils.java" />
       <jump line="14" column="4" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/platform/JavaPlatform.java" />
       <jump line="0" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/platform/JavaPlatform.java" />
       <jump line="156" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/platform/JavaPlatform.java" />
@@ -2029,10 +2029,15 @@
       <jump line="226" column="8" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" />
       <jump line="168" column="43" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" />
       <jump line="457" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" />
+      <jump line="119" column="21" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MenuHandler.kt" />
+      <jump line="373" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" />
+      <jump line="68" column="12" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MenuHandler.kt" />
+      <jump line="55" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" />
+      <jump line="71" column="11" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Creates the dynamic crawl and filter strategy submenus.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2212,16 +2217,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Creates the dynamic crawl and filter strategy submenus.</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>Menu</text>
+        <text>filterT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlcyB0aGUgZHluYW1pYyBjcmF3bCBhbmQgZmlsdGVyIHN0cmF0ZWd5IHN1Ym1lbnVzLgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gaGFuZGxlUHJlcGFyZU9wdGlvbnNNZW51KG1lbnUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2229,40 +2234,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNyYXdsZXJSdW5uaW5nID0gZmFsc2UKICAgIHByaXZhdGUgdmFyIHNlYXJjaERyYXdhYmxlOiBEcmF3YWJsZT8gPSBudWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVWaWV3U3RhdGVzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBEZWZhdWx0cy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBGSUxURVJfU1VCTUVOVV9HUk9VUF9JRCA9IDIwMAo=</text>
+        <text encoding="base64">ICAgIHVwZGF0ZVZpZXdTdGF0ZXMoKQogICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNyYXdsRGVwdGg6IEludAoK</text>
+        <text encoding="base64">ICAgIHJldHVybiBoYW5kbGVkIHx8IHN1cGVyLm9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzbyBmb3Igbm93IGp1c3Qgc2F2ZSB0aGUgZHJhd2FibGUgc28gdGhhdCBpdCBjYW4gYmUgcmVzdG9yZWQgbGF0ZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJIGNhbid0IGZpZ3VyZSBvdXQgaG93IHRvIGxvYWQgdGhlIG5pY2Ugc2VhcmNoIGljb24gZHluYW1pY2FsbHksCg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZVZpZXdTdGF0ZXMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>Menu</last-search>
+      <last-search>filterT</last-search>
       <last-offset />
-      <last-pattern>Menu</last-pattern>
+      <last-pattern>filterT</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDx2YWxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2271,7 +2276,6 @@
     <history>
       <history-search>
         <entry>strategy</entry>
-        <entry>filterT</entry>
         <entry>filters</entry>
         <entry>initi</entry>
         <entry>stop</entry>
@@ -2290,6 +2294,7 @@
         <entry>updateV</entry>
         <entry>Click</entry>
         <entry>Menu</entry>
+        <entry>filterT</entry>
       </history-search>
       <history-cmd>
         <entry>s/RestAdapter/retrofit/g</entry>
