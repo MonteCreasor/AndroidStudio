@@ -127,6 +127,13 @@
       <file name="/Dummy.txt" timestamp="1505412014700">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/doug/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/ImageCrawlerTest.java" timestamp="1505412852254">
+        <mark key="'" line="237" column="4" />
+        <mark key="[" line="236" column="4" />
+        <mark key="]" line="236" column="4" />
+        <mark key="." line="236" column="4" />
+        <mark key="^" line="235" column="10" />
+      </file>
       <file name="/fragment.kt" timestamp="1505344317372">
         <mark key="[" line="0" column="0" />
       </file>
@@ -200,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="5" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/ImageViewAdapter.kt" />
       <jump line="66" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
       <jump line="78" column="15" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
       <jump line="100" column="29" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
@@ -300,10 +306,11 @@
       <jump line="56" column="16" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" />
       <jump line="57" column="21" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" />
       <jump line="127" column="12" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" />
+      <jump line="237" column="4" filename="$USER_HOME$/doug/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/ImageCrawlerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQkJCS8vQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChGaWx0ZXJGYWN0b3J5LlR5cGUuTlVMTF9GSUxURVIpLAoJ</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -483,16 +490,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>adapter.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRFeHRyYURhdGEocG9zLCBTdGF0ZS5FUlJPUikK</text>
+        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CQkJCS8vQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChGaWx0ZXJGYWN0b3J5LlR5cGUuTlVMTF9GSUxURVIpLAoJ</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIEBUZXN0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -500,31 +507,31 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Cgk=</text>
+        <text encoding="base64">CQkJCS8vQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChGaWx0ZXJGYWN0b3J5LlR5cGUuTlVMTF9GSUxURVIpLAoJ</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dgkJLy8gVGVsbCBhZGFwdGVyIHRvIGNsZWFyIGFsbCBkb3dubG9hZGluZyBhbmltYXRpb25zLgoJCW5ldyBTZXF1ZW50aWFsU3RyZWFtc0NyYXdsZXIoCgkJCQlsaXN0LCBEZXZpY2Uub3B0aW9ucygpLmdldFJvb3RVcmkoKSkucnVuKCk7Cg==</text>
+        <text encoding="base64">Cgk=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CgkJRmlsdGVyIGZpbHRlciA9IEZpbHRlckZhY3RvcnkubmV3RmlsdGVyKE5VTExfRklMVEVSKTsKCQlMaXN0PEZpbHRlcj4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwoJCWxpc3QuYWRkKGZpbHRlcik7</text>
+        <text encoding="base64">dgkJLy8gVGVsbCBhZGFwdGVyIHRvIGNsZWFyIGFsbCBkb3dubG9hZGluZyBhbmltYXRpb25zLgoJCW5ldyBTZXF1ZW50aWFsU3RyZWFtc0NyYXdsZXIoCgkJCQlsaXN0LCBEZXZpY2Uub3B0aW9ucygpLmdldFJvb3RVcmkoKSkucnVuKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVGVsbCBhZGFwdGVyIHRvIGNsZWFyIGFsbCBkb3dubG9hZGluZyBhbmltYXRpb25zLgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgkJRmlsdGVyIGZpbHRlciA9IEZpbHRlckZhY3RvcnkubmV3RmlsdGVyKE5VTExfRklMVEVSKTsKCQlMaXN0PEZpbHRlcj4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwoJCWxpc3QuYWRkKGZpbHRlcik7</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlci5jcmF3bFN0b3BwZWQoc3RhdHVzID0gZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVGVsbCBhZGFwdGVyIHRvIGNsZWFyIGFsbCBkb3dubG9hZGluZyBhbmltYXRpb25zLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlci5jcmF3bFN0b3BwZWQoc3RhdHVzID0gZmFsc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYwo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
