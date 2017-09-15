@@ -79,12 +79,12 @@
         <mark key="." line="70" column="49" />
         <mark key="^" line="70" column="49" />
       </file>
-      <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/activities/MainActivity.kt" timestamp="1505457942036">
-        <mark key="'" line="107" column="20" />
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="82" column="43" />
+      <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/activities/MainActivity.kt" timestamp="1505458737335">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="76" column="24" />
+        <mark key="." line="76" column="24" />
+        <mark key="^" line="76" column="24" />
       </file>
       <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/fragments/WebViewUrlFragment.kt" timestamp="1505454801382">
         <mark key="[" line="12" column="0" />
@@ -211,9 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="6" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
-      <jump line="149" column="25" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
-      <jump line="182" column="8" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
       <jump line="57" column="39" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
       <jump line="72" column="24" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/adapters/DecoratedAdapter.kt" />
       <jump line="249" column="16" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/MainActivity.kt" />
@@ -311,10 +308,13 @@
       <jump line="96" column="16" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/activities/MainActivity.kt" />
       <jump line="74" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/activities/MainActivity.kt" />
       <jump line="107" column="20" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/activities/MainActivity.kt" />
+      <jump line="79" column="4" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/activities/MainActivity.kt" />
+      <jump line="85" column="46" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/activities/MainActivity.kt" />
+      <jump line="93" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/main/java/edu/vanderbilt/webcrawler/ui/activities/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AppCompatActivity</text>
+        <text>l</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -494,7 +494,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AppCompatActivity</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>stopC</text>
@@ -503,7 +503,7 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHNhdmVkSW5zdGFuY2VTdGF0ZSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -511,31 +511,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdmlld01vZGVsOiBBbnkgPSBWaWV3TW9kZWxQcm92aWRlcnMub2YodGhpcykuZ2V0KE1haW5WaWV3TW9kZWwuY2xhc3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXRMaWZlY3ljbGUoKTogTGlmZWN5Y2xlIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdG9wIHdhdGNoaW5nIHRoZSBjYWNoZSBhbmQgY2xlYXIgcmVjeWNsZXIgdmlldy4KICAgICAgICBmaWxlT2JzZXJ2ZXI/LnN0b3BXYXRjaGluZygpCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9tYWluLioK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHVybC5pc051bGxPckJsYW5rKCkpIHsKICAgICAgICAgICAgdG9hc3QoIlBsZWFzZSBjbGljayB0aGUgc2VhcmNoIGJ1dHRvbiB0byBwaWNrIGEgcm9vdCBVUkwgdG8gY3Jhd2wuIikKICAgICAgICAgICAgcmV0dXJuIGZhbHNlCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW1hZ2VDcmF3bGVBciBjcmF3bGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdG9wIHdhdGNoaW5nIHRoZSBjYWNoZSBhbmQgY2xlYXIgcmVjeWNsZXIgdmlldy4KICAgICAgICBmaWxlT2JzZXJ2ZXI/LnN0b3BXYXRjaGluZygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3Jhd2xlciBzdXBwb3J0IHByb3BlcnRpZXMuCiAgICAgKi8KICAgIHByaXZhdGUgdmFyIGZpbGVPYnNlcnZlcjogUmVjdXJzaXZlRmlsZU9ic2VydmVyPyA9IG51bGwKICAgIHByaXZhdGUgdmFyIGNyYXdsZXI6IEltYWdlQ3Jhd2xlckJhc2U/ID0gbnVsbAoK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHVybC5pc051bGxPckJsYW5rKCkpIHsKICAgICAgICAgICAgdG9hc3QoIlBsZWFzZSBjbGljayB0aGUgc2VhcmNoIGJ1dHRvbiB0byBwaWNrIGEgcm9vdCBVUkwgdG8gY3Jhd2wuIikKICAgICAgICAgICAgcmV0dXJuIGZhbHNlCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
