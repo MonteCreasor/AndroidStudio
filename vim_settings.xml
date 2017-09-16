@@ -203,11 +203,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/Controller.java" timestamp="1505598374323">
-        <mark key="'" line="65" column="38" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
+      <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/Controller.java" timestamp="1505599069248">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="158" column="44" />
+        <mark key="]" line="158" column="44" />
+        <mark key="." line="158" column="44" />
+        <mark key="^" line="158" column="43" />
       </file>
       <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/build.gradle" timestamp="1505456971620">
         <mark key="'" line="49" column="73" />
@@ -269,11 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="12" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/SequentialStreamsCrawler.java" />
-      <jump line="210" column="43" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/SequentialStreamsCrawler.java" />
-      <jump line="189" column="46" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/ImageCrawlerBase.java" />
-      <jump line="198" column="42" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/ImageCrawlerBase.java" />
-      <jump line="207" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/ImageCrawlerBase.java" />
       <jump line="213" column="45" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/ImageCrawlerBase.java" />
       <jump line="214" column="38" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/ImageCrawlerBase.java" />
       <jump line="294" column="38" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/ImageCrawlerBase.java" />
@@ -369,10 +365,15 @@
       <jump line="5" column="50" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/Controller.java" />
       <jump line="185" column="59" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/Controller.java" />
       <jump line="66" column="38" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/Controller.java" />
+      <jump line="131" column="4" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/Controller.java" />
+      <jump line="206" column="8" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/Controller.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/Controller.java" />
+      <jump line="228" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/Controller.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/doug/ImageCrawler/A2/ugrad/image-crawler/src/main/java/edu/vanderbilt/image_crawler/crawlers/framework/Controller.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAamF2YXguYW5ub3RhdGlvbi5Ob25udWxsCg==</text>
+      <register name="&quot;" type="4">
+        <text>list</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -552,16 +553,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENvbnRyb2xsZXIgY29weSkgew==</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text>ini</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQnVpbGRlciBuZXdCdWlsZGVyKEBqYXZheC5hbm5vdGF0aW9uLk5vbm51bGwgQ29udHJvbGxlciBjb3B5KSB7Cg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAamF2YXguYW5ub3RhdGlvbi5Ob25udWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9wdGlvbnMgPT0gbnVsbCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -569,10 +570,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAamF2YXguYW5ub3RhdGlvbi5Ob25udWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9wdGlvbnMgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBAamF2YXguYW5ub3RhdGlvbi5Ob25udWxsCg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBAamF2YXguYW5ub3RhdGlvbi5Ob25udWxsCg==</text>
@@ -587,13 +588,13 @@
         <text encoding="base64">ICAgICAgICBAamF2YXguYW5ub3RhdGlvbi5Ob25udWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAamF2YXguYW5ub3RhdGlvbi5Ob25udWxsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RhdGljIGltcG9ydCBqYXZheC5hbm5vdGF0aW9uLk5vbm51bGwK</text>
+        <text encoding="base64">ICAgICAgICBAamF2YXguYW5ub3RhdGlvbi5Ob25udWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAamF2YXguYW5ub3RhdGlvbi5Ob25udWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
