@@ -47,11 +47,11 @@
         <mark key="]" line="176" column="4" />
         <mark key="." line="176" column="4" />
       </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" timestamp="1505840901038">
-        <mark key="[" line="58" column="49" />
-        <mark key="]" line="58" column="49" />
-        <mark key="^" line="56" column="42" />
-        <mark key="." line="58" column="49" />
+      <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" timestamp="1505842080015">
+        <mark key="[" line="82" column="8" />
+        <mark key="]" line="82" column="17" />
+        <mark key="^" line="82" column="17" />
+        <mark key="." line="82" column="17" />
       </file>
       <file name="$USER_HOME$/doug/ImageCrawler/A2/ugrad/app/src/androidTest/java/edu/vanderbilt/webcrawler/ImageCrawlerTest.java" timestamp="1505683350061">
         <mark key="[" line="142" column="26" />
@@ -490,7 +490,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>crawler</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -670,7 +670,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>crawler</text>
       </register>
       <register name="/" type="4">
         <text>applyT</text>
@@ -679,7 +679,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5yb290VXJsKHJvb3RVcmwpCiAgICAgICAgICAgICAgICAubWF4RGVwdGgoY3Jhd2xEZXB0aCkKICAgICAgICAgICAgICAgIC5kaWFnbm9zdGljc0VuYWJsZWQodHJ1ZSkKICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmF3bGVyLnNldENvbnN1bWVyKGNvbnN1bWVyKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -690,28 +690,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgbGlzdCBvZiBuZXcgVHJhbnNmb3JtIGluc3RhbmNlcyBtYXRjaGluZyB0aGUgY2hvc2VuIGxpc3QuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kaWFnbm9zdGljc0VuYWJsZWQodHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXhEZXB0aChjcmF3bERlcHRoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yb290VXJsKHJvb3RVcmwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5uZXdCdWlsZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kaWFnbm9zdGljc0VuYWJsZWQodHJ1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb3B0aW9ucyA9IE9wdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXhEZXB0aChjcmF3bERlcHRoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGNhY2hlRGlyID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yb290VXJsKHJvb3RVcmwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
