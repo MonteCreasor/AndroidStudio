@@ -33,6 +33,12 @@
         <mark key="." line="35" column="60" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/viewmodels/MainViewModel.kt" timestamp="1505848898451" />
+      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/transforms/Transform.java" timestamp="1505851796527">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/imagecrawler/utils/ImageCache.java" timestamp="1505776338856">
         <mark key="[" line="250" column="37" />
         <mark key="]" line="251" column="19" />
@@ -44,7 +50,8 @@
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/LocalImageCrawlerTest.java" timestamp="1505863806490">
+      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/LocalImageCrawlerTest.java" timestamp="1505866949825">
+        <mark key="a" line="27" column="29" />
         <mark key="[" line="29" column="16" />
         <mark key="]" line="29" column="36" />
         <mark key="^" line="29" column="36" />
@@ -79,13 +86,6 @@
         <mark key="]" line="50" column="0" />
         <mark key="^" line="44" column="44" />
         <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialStreamsCrawler.java" timestamp="1505787048354">
-        <mark key="'" line="48" column="39" />
-        <mark key="[" line="48" column="39" />
-        <mark key="]" line="48" column="39" />
-        <mark key="." line="48" column="39" />
-        <mark key="^" line="48" column="60" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateAssetsLocalCrawlDirectory.java" timestamp="1505858218105">
         <mark key="[" line="27" column="31" />
@@ -160,12 +160,11 @@
         <mark key="^" line="50" column="46" />
         <mark key="." line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/AdminHelpers.java" timestamp="1505863343318">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="263" column="5" />
-        <mark key="]" line="264" column="3" />
-        <mark key="." line="264" column="3" />
-        <mark key="^" line="264" column="3" />
+      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/AdminHelpers.java" timestamp="1505866996380">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateAndroidAssignmentDirectories.java" timestamp="1505859655077">
         <mark key="[" line="9" column="51" />
@@ -220,13 +219,6 @@
         <mark key="." line="26" column="42" />
         <mark key="^" line="26" column="42" />
       </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Image.java" timestamp="1505837869519">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="132" column="51" />
-        <mark key="]" line="133" column="6" />
-        <mark key="^" line="133" column="6" />
-        <mark key="." line="133" column="6" />
-      </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" timestamp="1505852453229">
         <mark key="a" line="415" column="0" />
         <mark key="'" line="411" column="19" />
@@ -240,13 +232,6 @@
         <mark key="]" line="198" column="21" />
         <mark key="." line="198" column="21" />
         <mark key="^" line="198" column="21" />
-      </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/platform/AndroidImage.kt" timestamp="1505839476762">
-        <mark key="'" line="75" column="4" />
-        <mark key="[" line="85" column="34" />
-        <mark key="]" line="86" column="7" />
-        <mark key="^" line="86" column="7" />
-        <mark key="." line="86" column="7" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateFilesLocalCrawlDirectory.java" timestamp="1505858225169">
         <mark key="[" line="27" column="29" />
@@ -400,8 +385,8 @@
       <jump line="30" column="24" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/LocalImageCrawlerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>level</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBidWlsZERlZmF1bHRDb250cm9sbGVyKENvbnRyb2xsZXIgY29udHJvbGxlcikgewogICAgICAgIAogICAgfQogICAgCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -581,7 +566,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>level</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>getFiltesDir</text>
@@ -590,7 +575,7 @@
         <text encoding="base64">CiAgICAgICAgLy8gQ2FsbCBoZWxwZXIgbWV0aG9kIHRvIHJlY3Vyc2l2ZWx5IGNvbXBhcmUgdGhlIGRvd25sb2FkQ2FjaGVEaXIKICAgICAgICAvLyBkaXJlY3Rvcnkgd2l0aCBncm91bmRUcnV0aERpciBkaXJlY3RvcnkuCiAgICAgICAgcmVjdXJzaXZlbHlDb21wYXJlRGlyZWN0b3JpZXMoZ3JvdW5kVHJ1dGhEaXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FjaGVEaXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb3dubG9hZEludG9EaXJlY3RvcnkoCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBidWlsZERlZmF1bHRDb250cm9sbGVyKENvbnRyb2xsZXIgY29udHJvbGxlcikgewogICAgICAgIAogICAgfQogICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -598,31 +583,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5hZG1pbi5oZWxwZXJzLkFkbWluSGVscGVyczsK</text>
+        <text encoding="base64">ICAgICAgICBkb3dubG9hZEludG9EaXJlY3RvcnkoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5hZG1pbi5oZWxwZXJzLkFkbWluSGVscGVyczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUk9VTkRfVFJVVEhfRElSX05BTUUgPSAiZ3JvdW5kLXRydXRoIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBlZHUudmFuZGVyYmlsdC5pbWFnZWNyYXdsZXIuaGVscGVycy5UZXN0SGVscGVycy50ZXN0RG93bmxvYWRDYWNoZU1hdGNoZXNHcm91bmRUcnV0aEZpbGVzOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUk9VTkRfVFJVVEhfRElSX05BTUUgPSAiZ3JvdW5kLXRydXRoIjsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBlZHUudmFuZGVyYmlsdC5pbWFnZWNyYXdsZXIuaGVscGVycy5UZXN0SGVscGVycy50ZXN0RG93bmxvYWRDYWNoZU1hdGNoZXNHcm91bmRUcnV0aEZpbGVzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4obXNnKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBlcnJvcihTdHJpbmcgbXNnKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4obXNnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBlcnJvcihTdHJpbmcgbXNnKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
