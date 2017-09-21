@@ -300,13 +300,13 @@
         <mark key="]" line="190" column="0" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" timestamp="1505959913364">
+      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" timestamp="1505960141261">
         <mark key="a" line="352" column="6" />
         <mark key="'" line="323" column="53" />
-        <mark key="[" line="368" column="19" />
-        <mark key="]" line="368" column="23" />
-        <mark key="." line="368" column="23" />
-        <mark key="^" line="368" column="23" />
+        <mark key="[" line="369" column="28" />
+        <mark key="]" line="369" column="38" />
+        <mark key="." line="369" column="48" />
+        <mark key="^" line="369" column="38" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateAssetsLocalCrawlDirectory.java" timestamp="1505858218105">
         <mark key="[" line="27" column="31" />
@@ -314,11 +314,13 @@
         <mark key="^" line="27" column="39" />
         <mark key="." line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/ImageCache.java" timestamp="1505950245486">
-        <mark key="'" line="216" column="32" />
-        <mark key="[" line="316" column="0" />
-        <mark key="]" line="316" column="0" />
-        <mark key="." line="316" column="0" />
+      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/ImageCache.java" timestamp="1505961385724">
+        <mark key="a" line="73" column="6" />
+        <mark key="'" line="104" column="36" />
+        <mark key="[" line="85" column="33" />
+        <mark key="]" line="85" column="33" />
+        <mark key="." line="85" column="33" />
+        <mark key="^" line="85" column="33" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/previous_assignment/Assignment2aWebCrawlerTest.java" timestamp="1505879952291">
         <mark key="[" line="32" column="0" />
@@ -381,8 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="43" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" />
-      <jump line="396" column="4" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" />
       <jump line="90" column="48" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" />
       <jump line="135" column="0" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" />
       <jump line="266" column="30" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" />
@@ -481,10 +481,12 @@
       <jump line="420" column="23" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" />
       <jump line="286" column="34" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" />
       <jump line="323" column="53" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" />
+      <jump line="185" column="4" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/ImageCache.java" />
+      <jump line="105" column="36" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/ImageCache.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>.getFile();</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -664,16 +666,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>.getFile();</text>
       </register>
       <register name="/" type="4">
         <text>downloadImage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlCdWZmZXJlZEltYWdlIHJlYWQgPSBJbWFnZUlPLnJlYWQoKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hlY2tzIGlmIHRoZSBpdGVtIGV4aXN0cyBpbiB0aGUgY2FjaGUuIElmIHRoZSBpdGVtIGV4aXN0cyBidXQKICAgICAqIGlzIHN0YWxlLCBpdCB3aWxsIGJlIGRlbGV0ZWQgYW5kIGZhbHNlIHdpbGwgYmUgcmV0dXJuZWQuCiAgICAgKgogICAgICogQHBhcmFtIGdyb3VwSWQgVGhlIHBhcmVudCBncm91cC4KICAgICAqIEBwYXJhbSBpdGVtSWQgIFRoZSBpdGVtIGlkLgogICAgICogQHJldHVybiB0cnVlIGlmIGl0ZW0gaXMgaW4gdGhlIGNhY2hlLCBmYWxzZSBpZiBub3QuCiAgICAgKi8KICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gaXNJdGVtQ2FjaGVkKFN0cmluZyBncm91cElkLCBTdHJpbmcgaXRlbUlkKSB7CiAgICAgICAgRmlsZSBmaWxlID0gbmV3IEl0ZW0oZ3JvdXBJZCwgaXRlbUlkKS5nZXRGaWxlKCk7CiAgICAgICAgZGVsZXRlSWZTdGF0ZShmaWxlKTsKICAgICAgICByZXR1cm4gZmlsZS5leGlzdHMoKTsKICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlCdWZmZXJlZEltYWdlIGltYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVtLnB1dElmQWJzZW50KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -681,31 +683,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlCdWZmZXJlZEltYWdlIG9yaWdpbmFsSW1hZ2UgPSBtSW1hZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmlsZS5leGlzdHMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlCdWZmZXJlZEltYWdlIG9yaWdpbmFsSW1hZ2UgPSBtSW1hZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlCdWZmZXJlZEltYWdlIHJlYWQgPSBJbWFnZUlPLnJlYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGVJZlN0YXRlKGZpbGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0cnkgewoJCQltSW1hZ2UgPSBJbWFnZUlPLnJlYWQobmV3IEJ5dGVBcnJheUlucHV0U3RyZWFtKGltYWdlRGF0YSkpOwoJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7CgkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJbUNhY2hlSXRlbSA9IGNhY2hlSXRlbTsK</text>
+        <text encoding="base64">ICAgICAgICBJdGVtIGl0ZW0gPSBuZXcgSXRlbShncm91cElkLCBpdGVtSWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0SXRlbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICBpdGVtLnB1dElmQWJzZW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRJbWFnZShpbWFnZURhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
