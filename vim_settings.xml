@@ -252,8 +252,11 @@
         <mark key="." line="169" column="57" />
         <mark key="^" line="169" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506013095409">
+      <file name="/Dummy.txt" timestamp="1506013265507">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/doug/JavaImageCrawler/app/build.gradle" timestamp="1505932299334">
+        <mark key="'" line="66" column="72" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/test/java/edu/vanderbilt/imagecrawler/helpers/TestHelpers.java" timestamp="1505780380099">
         <mark key="[" line="23" column="0" />
@@ -296,14 +299,14 @@
         <mark key="]" line="190" column="0" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" timestamp="1506004246091">
+      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" timestamp="1506013803868">
         <mark key="a" line="59" column="4" />
-        <mark key="'" line="0" column="0" />
+        <mark key="'" line="281" column="39" />
         <mark key="j" line="59" column="4" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="98" column="12" />
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="277" column="0" />
+        <mark key="^" line="91" column="12" />
+        <mark key="." line="277" column="0" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateAssetsLocalCrawlDirectory.java" timestamp="1505858218105">
         <mark key="[" line="27" column="31" />
@@ -313,10 +316,6 @@
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/ImageCache.java" timestamp="1506013248235">
         <mark key="'" line="0" column="29" />
-        <mark key="[" line="169" column="61" />
-        <mark key="]" line="169" column="93" />
-        <mark key="^" line="169" column="93" />
-        <mark key="." line="169" column="93" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/previous_assignment/Assignment2aWebCrawlerTest.java" timestamp="1505879952291">
         <mark key="[" line="32" column="0" />
@@ -379,8 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="29" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/helpers/AdminHelpers.java" />
-      <jump line="204" column="26" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/helpers/AdminHelpers.java" />
       <jump line="29" column="36" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/helpers/AdminHelpers.java" />
       <jump line="178" column="0" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/helpers/AdminHelpers.java" />
       <jump line="193" column="33" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/helpers/AdminHelpers.java" />
@@ -479,10 +476,12 @@
       <jump line="37" column="16" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
       <jump line="19" column="0" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/ImageCache.java" />
       <jump line="0" column="29" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/ImageCache.java" />
+      <jump line="272" column="0" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" />
+      <jump line="303" column="39" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawlerBase.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bG9jYXRpb24g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ3Jhd2xSZXN1bHQuc3VibWl0RXJyb3IobUNvbnN1bWVyLCB1cmwsIGUuZ2V0TWVzc2FnZSgpLCBlKTsK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -665,13 +664,13 @@
         <text encoding="base64">bG9jYXRpb24g</text>
       </register>
       <register name="/" type="4">
-        <text>raw</text>
+        <text>consumer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhtb250ZSk6IEtsdWRnZSAtIHdvbid0IGhhbmRsZSBhbnl0aGluZyBidXQgZGVmYXVsdCBjYWNoZSBkaXIgbmFtZS4KICAgICAgICAgICAgdmFsIGNhY2hlRGlyID0gRmlsZShBcHAuaW5zdGFuY2UuY2FjaGVEaXIsIE9wdGlvbnMuREVGQVVMVF9ET1dOTE9BRF9ESVJfTkFNRSkKICAgICAgICAgICAgcmV0dXJuIFVSSSh1cmwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFVSSSh1cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3Jhd2xSZXN1bHQuc3VibWl0RXJyb3IobUNvbnN1bWVyLCB1cmwsIGUuZ2V0TWVzc2FnZSgpLCBlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -679,40 +678,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU3VibWl0IGEgbnVsbCByZXN1bHQgYW5kIGVycm9yIGNvZGUgdG8gY29uc3VtZXIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBmdW4gaXNSYXdGaWxlKGZpbGU6IEZpbGUpOiBCb29sZWFuIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcmF3bFJlc3VsdC5TdGF0ZS5RVUVVRUQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnBlZWsodXJsIC0+IENyYXdsUmVzdWx0LnJlcG9ydFN0YXR1cyhtQ29uc3VtZXIsIHVybCwK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gTm90aWZ5IGNvbnN1bWVyIHRoYXQgYW4gaW1hZ2UgaGFzIGJlZSBxdWV1ZWQgdG8gZG93bmxvYWQuCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3Jhd2xlck9ic2VydmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBtQ29uc3VtZXIgPSBjb250cm9sbGVyLmNvbnN1bWVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>raw</last-search>
+      <last-search>consumer</last-search>
       <last-offset />
-      <last-pattern>raw</last-pattern>
+      <last-pattern>consumer</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDx2YWxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -720,8 +719,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resources</entry>
-        <entry>runCr</entry>
         <entry>24</entry>
         <entry>m</entry>
         <entry>groupId</entry>
@@ -740,6 +737,8 @@
         <entry>processIm</entry>
         <entry>&quot;raw&quot;</entry>
         <entry>raw</entry>
+        <entry>crawler</entry>
+        <entry>consumer</entry>
       </history-search>
       <history-cmd>
         <entry>s/RestAdapter/retrofit/g</entry>
