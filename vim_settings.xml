@@ -59,7 +59,13 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialLoopsCrawler.java" timestamp="1506010125203" />
+      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialLoopsCrawler.java" timestamp="1506011301565">
+        <mark key="'" line="141" column="29" />
+        <mark key="[" line="156" column="33" />
+        <mark key="]" line="157" column="7" />
+        <mark key="." line="157" column="7" />
+        <mark key="^" line="157" column="7" />
+      </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/WebPageCrawler.java" timestamp="1505957229733">
         <mark key="[" line="34" column="7" />
         <mark key="]" line="34" column="14" />
@@ -77,6 +83,7 @@
         <mark key="]" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
+      <file name="/SequentialStreamsCrawler.java" timestamp="1506011575591" />
       <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/test/java/edu/vanderbilt/imagecrawler/admin/LocalCacheBuilders.java" timestamp="1505778420764">
         <mark key="[" line="40" column="45" />
         <mark key="]" line="20" column="57" />
@@ -237,7 +244,14 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="29" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506008167271">
+      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ParallelStreamsCrawler.java" timestamp="1506012217539">
+        <mark key="a" line="173" column="23" />
+        <mark key="[" line="169" column="19" />
+        <mark key="]" line="169" column="57" />
+        <mark key="." line="169" column="57" />
+        <mark key="^" line="169" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506012239361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/test/java/edu/vanderbilt/imagecrawler/helpers/TestHelpers.java" timestamp="1505780380099">
@@ -257,12 +271,7 @@
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialStreamsCrawler.java" timestamp="1506009833455">
-        <mark key="[" line="140" column="67" />
-        <mark key="]" line="140" column="67" />
-        <mark key="^" line="140" column="67" />
-        <mark key="." line="140" column="67" />
-      </file>
+      <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialStreamsCrawler.java" timestamp="1506012228960" />
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/JavaImage.java" timestamp="1505957675118">
         <mark key="[" line="78" column="12" />
         <mark key="]" line="78" column="24" />
@@ -362,7 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/helpers/AdminHelpers.java" />
       <jump line="185" column="51" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/helpers/AdminHelpers.java" />
       <jump line="176" column="55" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/helpers/AdminHelpers.java" />
       <jump line="31" column="48" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/helpers/AdminHelpers.java" />
@@ -462,10 +470,11 @@
       <jump line="240" column="14" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialStreamsCrawler.java" />
       <jump line="157" column="0" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialLoopsCrawler.java" />
       <jump line="201" column="8" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialLoopsCrawler.java" />
+      <jump line="141" column="29" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialLoopsCrawler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>Count the number of successful transforms.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -645,16 +654,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>Count the number of successful transforms.</text>
       </register>
       <register name="/" type="4">
-        <text>mCons</text>
+        <text>processIm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDcmF3bFJlc3VsdC5yZXBvcnRTdGF0dXMobUNvbnN1bWVyLAogICAgICAgICAgICAgICAgaW1hZ2UuZ2V0U291cmNlVXJsKCksCiAgICAgICAgICAgICAgICBDcmF3bFJlc3VsdC5TdGF0ZS5UUkFOU0ZPUk1JTkcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFycmF5TGlzdDxCb29sZWFuPiByZXN1bHRzICA9IHRyYW5zZm9ybUltYWdlKGltYWdlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIENvdW50IHRoZSBudW1iZXIgb2Ygc3VjY2Vzc2Z1bCB0cmFuc2Zvcm1zLgogICAgICAgICAgICAgICAgLmZpbHRlcigpCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -665,37 +674,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb3VudCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwKHRoaXM6OnRyYW5zZm9ybUltYWdlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIENvdW50IHRoZSBudW1iZXIgaW1hZ2VzIHRoYXQgd2VyZSBwcm9jZXNzZWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAodGhpczo6dHJhbnNmb3JtSW1hZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwKHRoaXM6OnRyYW5zZm9ybUltYWdlKQogICAgICAgICAgICAgICAgLmNvdW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jbwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQ291bnQgdGhlIG51bWJlciBpbWFnZXMgdGhhdCB3ZXJlIHByb2Nlc3NlZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAodGhpczo6dHJhbnNmb3JtSW1hZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>mCons</last-search>
+      <last-search>processIm</last-search>
       <last-offset />
-      <last-pattern>mCons</last-pattern>
+      <last-pattern>processIm</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDx2YWxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -703,7 +712,6 @@
     </search>
     <history>
       <history-search>
-        <entry>info</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZUFzc2lnbm1lbnQyYkRpcmVjdG9yaWVzXD4=</entry>
         <entry>source =</entry>
         <entry>resources</entry>
@@ -723,6 +731,7 @@
         <entry>processI</entry>
         <entry>peek</entry>
         <entry>mCons</entry>
+        <entry>processIm</entry>
       </history-search>
       <history-cmd>
         <entry>s/RestAdapter/retrofit/g</entry>
