@@ -100,7 +100,6 @@
         <mark key="." line="43" column="26" />
         <mark key="^" line="43" column="36" />
       </file>
-      <file name="$USER_HOME$/android/architecture/u2020/build.gradle" timestamp="1506030574117" />
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/previous_assignment_tests/Assignment2aWebCrawlerTest.java" timestamp="1505878163995">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="40" />
@@ -114,10 +113,16 @@
         <mark key="^" line="50" column="46" />
         <mark key="." line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" timestamp="1506022751289">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="5" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" timestamp="1506094797544">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="36" column="47" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/ui/activities/MainActivity.kt" timestamp="1506094115386">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/BuildAssignment2a.java" timestamp="1505876873932">
         <mark key="[" line="22" column="8" />
@@ -335,8 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="8" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/AdminHelpers.java" />
-      <jump line="58" column="8" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/AdminHelpers.java" />
       <jump line="64" column="16" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/AdminHelpers.java" />
       <jump line="66" column="16" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/AdminHelpers.java" />
       <jump line="220" column="0" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/AdminHelpers.java" />
@@ -435,10 +438,12 @@
       <jump line="59" column="56" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
       <jump line="73" column="4" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
       <jump line="109" column="4" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
+      <jump line="34" column="3" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2.2.0',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5wYXJjZWwuUGFyY2VsZXIK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -618,7 +623,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2.2.0',</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -627,7 +632,7 @@
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3JhdykK</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5wYXJjZWwuUGFyY2VsZXIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -635,31 +640,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuUGFyY2VsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlT2JzZXJ2ZXI/LnN0b3BXYXRjaGluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICBmdW4gZnJvbUZpbGVPYnNlcnZlcih1cmw6IFN0cmluZywgZXZlbnQ6IEludCwgZmlsZTogRmlsZSk6IFJlc291cmNlIHsKICAgICAgICAgICAgcmV0dXJuIFJlc291cmNlKAogICAgICAgICAgICAgICAgICAgIHVybCA9IHVybCwKICAgICAgICAgICAgICAgICAgICBzdGF0ZSA9IHdoZW4gKGV2ZW50KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEZpbGVPYnNlcnZlci5DUkVBVEUgLT4gU3RhdGUuUVVFVUVECiAgICAgICAgICAgICAgICAgICAgICAgIEZpbGVPYnNlcnZlci5PUEVOIC0+IFN0YXRlLkRPV05MT0FESU5HCiAgICAgICAgICAgICAgICAgICAgICAgIEZpbGVPYnNlcnZlci5NT0RJRlkgLT4gU3RhdGUuRE9XTkxPQURJTkcKICAgICAgICAgICAgICAgICAgICAgICAgRmlsZU9ic2VydmVyLkNMT1NFX1dSSVRFIC0+IFN0YXRlLkRPV05MT0FERUQKICAgICAgICAgICAgICAgICAgICAgICAgRmlsZU9ic2VydmVyLkRFTEVURSBvciBGaWxlT2JzZXJ2ZXIuREVMRVRFX1NFTEYgLT4gU3RhdGUuVU5LTk9XTgogICAgICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IFN0YXRlLlVOS05PV04KICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIGZpbGVQYXRoID0gZmlsZS5hYnNvbHV0ZVBhdGgsCiAgICAgICAgICAgICAgICAgICAgc2l6ZSA9IGZpbGUubGVuZ3RoKCkudG9JbnQoKSwKICAgICAgICAgICAgICAgICAgICBtZXNzYWdlID0gbnVsbCwKICAgICAgICAgICAgICAgICAgICBleGNlcHRpb24gPSBudWxsKQogICAgICAgIH0KCiAgICAgICAgZnVuIGZpbmlzaGVkKHJvb3RVcmw6IFN0cmluZyk6IFJlc291cmNlIHsKICAgICAgICAgICAgcmV0dXJuIFJlc291cmNlKHVybCA9IHJvb3RVcmwsIHN0YXRlID0gU3RhdGUuRklOSVNIRUQpCiAgICAgICAgfQoKICAgICAgICBmdW4gY2FuY2VsbGVkKHJvb3RVcmw6IFN0cmluZyk6IFJlc291cmNlIHsKICAgICAgICAgICAgcmV0dXJuIFJlc291cmNlKHVybCA9IHJvb3RVcmwsIHN0YXRlID0gU3RhdGUuQ0FOQ0VMTEVEKQogICAgICAgIH0KCiAgICAgICAgZnVuIGV4Y2VwdGlvbihyb290VXJsOiBTdHJpbmcsIG1lc3NhZ2U6IFN0cmluZz8gPSBudWxsLCBleGNlcHRpb246IEV4Y2VwdGlvbik6IFJlc291cmNlIHsKICAgICAgICAgICAgcmV0dXJuIFJlc291cmNlKAogICAgICAgICAgICAgICAgICAgIHVybCA9IHJvb3RVcmwsCiAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBTdGF0ZS5FWENFUFRJT04sCiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IG1lc3NhZ2UsCiAgICAgICAgICAgICAgICAgICAgZXhjZXB0aW9uID0gZXhjZXB0aW9uKQogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdG9wIHdhdGNoaW5nIHRoZSBjYWNoZS4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBsb2NhbENyYXdsOiBCb29sZWFuID0gZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBjcmF3bERlcHRoOiBJbnQgPSAzCg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciB1cmw6IFN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBDdXJyZW50IHN0YXRlIG9mIHRoZSBjcmF3bCByZXN1bHQKICAgICAgICAgKi8KICAgICAgICBlbnVtIGNsYXNzIFN0YXRlIHsKICAgICAgICAgICAgUVVFVUVELAogICAgICAgICAgICBET1dOTE9BRElORywKICAgICAgICAgICAgRE9XTkxPQURFRCwKICAgICAgICAgICAgVFJBTlNGT1JNSU5HLAogICAgICAgICAgICBSRUFEWSwKICAgICAgICAgICAgRklOSVNIRUQsCiAgICAgICAgICAgIENBTkNFTExFRCwKICAgICAgICAgICAgRVhDRVBUSU9OLAogICAgICAgICAgICBVTktOT1dOCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciB0cmFuc2Zvcm1UeXBlczogTGlzdDxUcmFuc2Zvcm0uVHlwZT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
