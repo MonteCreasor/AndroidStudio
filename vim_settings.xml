@@ -13,12 +13,12 @@
         <mark key="^" line="31" column="27" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/Cache.kt" timestamp="1506264994044">
+      <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/Cache.kt" timestamp="1506265111236">
         <mark key="'" line="5" column="10" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-        <mark key="^" line="20" column="7" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/FileCache.kt" timestamp="1506264711973">
         <mark key="[" line="8" column="10" />
@@ -73,6 +73,13 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
+      <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" timestamp="1506265309797">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="38" column="7" />
+        <mark key="." line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/android/vandy/downloader/app/src/main/java/vandy/mooc/assignments/framework/downloader/HttpDownloader.java" timestamp="1506265854983" />
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateJavaAssignment2bDirectories.java" timestamp="1505876309083">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="21" />
@@ -602,7 +609,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -782,7 +789,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYWNoZVw+</text>
@@ -791,7 +798,7 @@
         <text encoding="base64">ICAgICAgICBmdW4gZ2V0SW5wdXRTdHJlYW0oKTogSW5wdXRTdHJlYW0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0ID0ge30K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -799,31 +806,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0ID0gZmllbGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dFN0cmVhbQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGVJZlN0YXRlKGZpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvbmcgZ2V0SXRlbUR1cmF0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dFN0cmVhbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGVJZlN0YXRlKGZpbGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvbmcgZ2V0SXRlbUR1cmF0aW9uKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0SXRlbUR1cmF0aW9uKGxvbmcgZHVyYXRpb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
