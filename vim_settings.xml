@@ -73,12 +73,12 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" timestamp="1506304751502">
-        <mark key="a" line="131" column="22" />
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="131" column="16" />
-        <mark key="]" line="131" column="16" />
-        <mark key="." line="131" column="16" />
+      <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" timestamp="1506306128604">
+        <mark key="'" line="143" column="58" />
+        <mark key="[" line="92" column="69" />
+        <mark key="]" line="93" column="39" />
+        <mark key="^" line="93" column="39" />
+        <mark key="." line="93" column="39" />
       </file>
       <file name="$USER_HOME$/android/vandy/downloader/app/src/main/java/vandy/mooc/assignments/framework/downloader/HttpDownloader.java" timestamp="1506267300319" />
       <file name="$USER_HOME$/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialStreamsCrawler.java" timestamp="1506269252232" />
@@ -233,7 +233,7 @@
         <mark key="^" line="27" column="39" />
         <mark key="." line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/android/vandy/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1506281849009" />
+      <file name="$USER_HOME$/android/vandy/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1506305915608" />
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/build.gradle" timestamp="1506206453334" />
       <file name="$USER_HOME$/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/StreamCache.java" timestamp="1506222049935">
         <mark key="[" line="22" column="0" />
@@ -502,14 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="9" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
-      <jump line="94" column="16" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
-      <jump line="103" column="35" filename="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/ImageCache.java" />
-      <jump line="55" column="37" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" />
-      <jump line="114" column="9" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
-      <jump line="58" column="9" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
-      <jump line="59" column="56" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
-      <jump line="73" column="4" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
       <jump line="109" column="4" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
       <jump line="34" column="10" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" />
       <jump line="32" column="0" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" />
@@ -602,10 +594,18 @@
       <jump line="132" column="8" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
       <jump line="134" column="61" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
       <jump line="19" column="0" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="135" column="12" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="136" column="54" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="139" column="17" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="140" column="69" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="141" column="17" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="145" column="22" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="146" column="24" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="148" column="58" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>loadDir</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIHN3ZWVwQ2FjaGUgZmlyc3QuCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -785,16 +785,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>loadDir</text>
+        <text>an exception is not thrown, call</text>
       </register>
       <register name="/" type="4">
-        <text>Item</text>
+        <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGxvYWREaXIoZGlyOiBGaWxlKSB7CiAgICAgICAgZGlyLmxpc3RGaWxlcygpCiAgICAgICAgICAgICAgICAubWFwIHsgbmV3SXRlbUZyb21GaWxlKGl0KSB9CiAgICAgICAgICAgICAgICAuZm9yRWFjaCB7IGl0ZW0gLT4gaGFzaE1hcC5wdXQoaXRlbS5rZXksIGl0ZW0pIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBOb3cgaXMgYSBnb29kIHRpbWUgdG8gcmVtb3ZlIGFueSBlbXB0eSBmaWxlcyB0aGF0IG1heQogICAgICAgIC8vIGV4aXN0IGlmIHRoZSBhcHBsaWNhdGlvbiB0ZXJtaW5hdGVkIGFibm9ybWFsIGR1cmluZwogICAgICAgIC8vIGEgcHJldmlvdXMgcnVuLgogICAgICAgIGlmIChmaWxlLmxlbmd0aCgpID09IDBMKSB7CiAgICAgICAgICAgIGluZm8oIlJlbW92aW5nIG9ycGhhbmVkIGVtcHR5IGZpbGUgZnJvbSB0aGUgY2FjaGU6ICRmaWxlIikKICAgICAgICAgICAgZmlsZS5kZWxldGUoKQogICAgICAgICAgICByZXR1cm4gbnVsbAogICAgICAgIH0KCiAgICAgICAgLy8gU3BsaXQgaW50byB0YWcgYW5kIGVuY29kZWQga2V5IG5hbWUuCiAgICAgICAgdmFsIGxpc3QgPSBmaWxlLm5hbWUuc3BsaXQoZGVsaW1pdGVycyA9ICctJywgbGltaXQgPSAyKQogICAgICAgIGlmIChsaXN0LnNpemUgIT0gMikgewogICAgICAgICAgICB3YXJuKCJSZW1vdmluZyB1bmtub3duIGZpbGUgZnJvbSBjYWNoZTogJGZpbGUiKQogICAgICAgICAgICBmaWxlLmRlbGV0ZSgpCiAgICAgICAgICAgIHJldHVybiBudWxsCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIHN3ZWVwQ2FjaGUgZmlyc3QuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -802,40 +802,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZS5kZWxldGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biB2YWxpZGF0ZUNhY2hlKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZS5kZWxldGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5mbygiUmVtb3Zpbmcgb3JwaGFuZWQgZW1wdHkgZmlsZSBmcm9tIHRoZSBjYWNoZTogJGZpbGUiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmlsZS5sZW5ndGgoKSA9PSAwTCkgewogICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmlsZS5sZW5ndGgoKSA9PSAwTCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAvLyBhIHByZXZpb3VzIHJ1bi4K</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>Item</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern>Item</last-pattern>
+      <last-pattern>file</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxDYWNoZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -843,7 +843,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Dur</entry>
         <entry>onCacheChangedEvent</entry>
         <entry>getDe</entry>
         <entry>getDo</entry>
@@ -863,6 +862,7 @@
         <entry>encode</entry>
         <entry>Cache\.Item</entry>
         <entry>Item</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
         <entry>s/RestAdapter/retrofit/g</entry>
