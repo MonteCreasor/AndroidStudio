@@ -73,12 +73,11 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" timestamp="1506306128604">
-        <mark key="'" line="143" column="58" />
-        <mark key="[" line="92" column="69" />
-        <mark key="]" line="93" column="39" />
-        <mark key="^" line="93" column="39" />
-        <mark key="." line="93" column="39" />
+      <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" timestamp="1506309806471">
+        <mark key="[" line="28" column="60" />
+        <mark key="]" line="28" column="59" />
+        <mark key="^" line="28" column="59" />
+        <mark key="." line="28" column="59" />
       </file>
       <file name="$USER_HOME$/android/vandy/downloader/app/src/main/java/vandy/mooc/assignments/framework/downloader/HttpDownloader.java" timestamp="1506267300319" />
       <file name="$USER_HOME$/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialStreamsCrawler.java" timestamp="1506269252232" />
@@ -173,10 +172,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/RecursiveFileObserver.java" timestamp="1506221614690">
+      <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/RecursiveFileObserver.java" timestamp="1506308316986">
+        <mark key="a" line="41" column="0" />
         <mark key="'" line="180" column="37" />
-        <mark key="[" line="187" column="48" />
-        <mark key="]" line="187" column="48" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="53" column="0" />
         <mark key="^" line="151" column="65" />
         <mark key="." line="187" column="69" />
       </file>
@@ -312,6 +312,11 @@
         <mark key="]" line="50" column="55" />
         <mark key="." line="50" column="55" />
         <mark key="^" line="50" column="55" />
+      </file>
+      <file name="$USER_HOME$/AppData/Local/Android/sdk/sources/android-25/android/os/FileObserver.java" timestamp="1506308418657">
+        <mark key="a" line="88" column="33" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="104" column="0" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/test/java/edu/vanderbilt/imagecrawler/admin/LocalCacheBuilders.java" timestamp="1505778420764">
         <mark key="[" line="40" column="45" />
@@ -502,12 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="4" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/model/Crawler.kt" />
-      <jump line="34" column="10" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" />
-      <jump line="32" column="0" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" />
-      <jump line="42" column="75" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" />
-      <jump line="43" column="32" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" />
-      <jump line="52" column="51" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" />
       <jump line="56" column="51" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/Resource.kt" />
       <jump line="165" column="41" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/ui/activities/MainActivity.kt" />
       <jump line="105" column="17" filename="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/ui/activities/MainActivity.kt" />
@@ -602,10 +601,16 @@
       <jump line="145" column="22" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
       <jump line="146" column="24" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
       <jump line="148" column="58" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="116" column="21" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="169" column="26" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="147" column="16" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="26" column="26" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="49" column="9" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
+      <jump line="50" column="8" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/utils/ImageCache.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIHN3ZWVwQ2FjaGUgZmlyc3QuCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -785,16 +790,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>an exception is not thrown, call</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>file</text>
+        <text>loadFromDisk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOb3cgaXMgYSBnb29kIHRpbWUgdG8gcmVtb3ZlIGFueSBlbXB0eSBmaWxlcyB0aGF0IG1heQogICAgICAgIC8vIGV4aXN0IGlmIHRoZSBhcHBsaWNhdGlvbiB0ZXJtaW5hdGVkIGFibm9ybWFsIGR1cmluZwogICAgICAgIC8vIGEgcHJldmlvdXMgcnVuLgogICAgICAgIGlmIChmaWxlLmxlbmd0aCgpID09IDBMKSB7CiAgICAgICAgICAgIGluZm8oIlJlbW92aW5nIG9ycGhhbmVkIGVtcHR5IGZpbGUgZnJvbSB0aGUgY2FjaGU6ICRmaWxlIikKICAgICAgICAgICAgZmlsZS5kZWxldGUoKQogICAgICAgICAgICByZXR1cm4gbnVsbAogICAgICAgIH0KCiAgICAgICAgLy8gU3BsaXQgaW50byB0YWcgYW5kIGVuY29kZWQga2V5IG5hbWUuCiAgICAgICAgdmFsIGxpc3QgPSBmaWxlLm5hbWUuc3BsaXQoZGVsaW1pdGVycyA9ICctJywgbGltaXQgPSAyKQogICAgICAgIGlmIChsaXN0LnNpemUgIT0gMikgewogICAgICAgICAgICB3YXJuKCJSZW1vdmluZyB1bmtub3duIGZpbGUgZnJvbSBjYWNoZTogJGZpbGUiKQogICAgICAgICAgICBmaWxlLmRlbGV0ZSgpCiAgICAgICAgICAgIHJldHVybiBudWxsCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKG9ic2VydmVycykgewogICAgICAgICAgICBvYnNlcnZlcnMuYWRkKFdlYWtSZWZlcmVuY2Uob2JzZXJ2ZXIpKQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIHN3ZWVwQ2FjaGUgZmlyc3QuCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -802,40 +807,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">ICAgIGZ1biByZW1vdmVPYnNlcnZlcihvYnNlcnZlcjogT2JzZXJ2ZXIpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZS5kZWxldGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">ICAgIGZ1biBhZGRPYnNlcnZlcihvYnNlcnZlcjogT2JzZXJ2ZXIpIHsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZS5kZWxldGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mbygiUmVtb3Zpbmcgb3JwaGFuZWQgZW1wdHkgZmlsZSBmcm9tIHRoZSBjYWNoZTogJGZpbGUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdG9wV2F0Y2hpbmcobV9mZCwgZGVzY3JpcHRvcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmlsZS5sZW5ndGgoKSA9PSAwTCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JzZXJ2ZXIuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhIHByZXZpb3VzIHJ1bi4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaTsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>file</last-search>
+      <last-search>loadFromDisk</last-search>
       <last-offset />
-      <last-pattern>file</last-pattern>
+      <last-pattern>loadFromDisk</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxDYWNoZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -843,9 +848,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onCacheChangedEvent</entry>
-        <entry>getDe</entry>
-        <entry>getDo</entry>
         <entry>tost</entry>
         <entry>toast</entry>
         <entry>\.stop</entry>
@@ -863,6 +865,9 @@
         <entry>Cache\.Item</entry>
         <entry>Item</entry>
         <entry>file</entry>
+        <entry>tagify</entry>
+        <entry>loadFromD</entry>
+        <entry>loadFromDisk</entry>
       </history-search>
       <history-cmd>
         <entry>s/RestAdapter/retrofit/g</entry>
