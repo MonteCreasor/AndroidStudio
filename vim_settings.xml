@@ -99,6 +99,14 @@
         <mark key="^" line="168" column="42" />
         <mark key="." line="168" column="42" />
       </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" timestamp="1506565829645">
+        <mark key="a" line="252" column="48" />
+        <mark key="'" line="252" column="48" />
+        <mark key="[" line="172" column="64" />
+        <mark key="]" line="173" column="19" />
+        <mark key="^" line="173" column="19" />
+        <mark key="." line="173" column="19" />
+      </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1506530877175" />
       <file name="$USER_HOME$/vandy/test-assignments/LocationTracker_Asgn_0_1/build.gradle" timestamp="1504486726334">
         <mark key="[" line="7" column="0" />
@@ -306,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="12" filename="$USER_HOME$/vandy/demos/BuggyQueue/app/build.gradle" />
       <jump line="110" column="41" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="391" column="33" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="386" column="54" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
@@ -406,6 +413,7 @@
       <jump line="29" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/AnswerService.java" />
       <jump line="162" column="63" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/MockAnswerService.java" />
       <jump line="42" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/MockAnswerService.java" />
+      <jump line="250" column="48" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -592,7 +600,7 @@
         <text>TopicAnswer</text>
       </register>
       <register name="/" type="4">
-        <text>share</text>
+        <text>onActivity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIENvbXBsZXRhYmxlIHBvc3RUb3BpY0Fuc3dlcihAQm9keSBUb3BpY0Fuc3dlciB0b3BpY0Fuc3dlcikgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIEdzb24gZ3NvbiA9IGdldEdzb24oKTsKICAgICAgICAgICAgVGltYmVyLmkoIkNvbnN0cnVjdGlvbiBKU09OIG1vY2sgc3VibWlzc2lvbi4uLiIpOwogICAgICAgICAgICBTdHJpbmcgc3RyaW5nID0gZ3Nvbi50b0pzb24odG9waWNBbnN3ZXIpOwogICAgICAgICAgICBUaW1iZXIuaSgiUG9zdGVkIEFuc3dlcjogIiArIHN0cmluZyk7CiAgICAgICAgICAgIFJlc3BvbnNlIHJlc3BvbnNlID0gUmVzcG9uc2Uuc3VjY2VzcyhudWxsKTsKICAgICAgICAgICAgcmV0dXJuIGRlbGVnYXRlLnJldHVybmluZ1Jlc3BvbnNlKHJlc3BvbnNlKS5wb3N0VG9waWNBbnN3ZXIodG9waWNBbnN3ZXIpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFRpbWJlci5lKGUsICJNb2NrIHBvc3RUb3BpY0Fuc3dlciBmYWlsZWQuIik7CiAgICAgICAgICAgIHJldHVybiBDb21wbGV0YWJsZS5lcnJvcihlKTsKICAgICAgICB9CiAgICB9Cgo=</text>
@@ -635,9 +643,9 @@
       </register>
     </registers>
     <search>
-      <last-search>share</last-search>
+      <last-search>onActivity</last-search>
       <last-offset />
-      <last-pattern>share</last-pattern>
+      <last-pattern>onActivity</last-pattern>
       <last-replace>retrofit</last-replace>
       <last-substitute>Builder</last-substitute>
       <last-dir>1</last-dir>
@@ -645,7 +653,6 @@
     </search>
     <history>
       <history-search>
-        <entry>REQUEST_ACCESS</entry>
         <entry>rx.Obs</entry>
         <entry>gcm</entry>
         <entry>checkPla</entry>
@@ -665,6 +672,7 @@
         <entry>users</entry>
         <entry>show</entry>
         <entry>share</entry>
+        <entry>onActivity</entry>
       </history-search>
       <history-cmd>
         <entry>s/Network/Memory/</entry>
