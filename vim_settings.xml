@@ -121,11 +121,11 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" timestamp="1506752191406">
-        <mark key="a" line="183" column="26" />
-        <mark key="'" line="340" column="16" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="188" column="0" />
+      <file name="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" timestamp="1506754910497">
+        <mark key="a" line="101" column="13" />
+        <mark key="'" line="218" column="20" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="105" column="0" />
         <mark key="." line="75" column="61" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/ImageCache.kt" timestamp="1506730321300">
@@ -922,8 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="35" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/FileCache.kt" />
-      <jump line="117" column="32" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/FileCache.kt" />
       <jump line="125" column="30" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/FileCache.kt" />
       <jump line="178" column="47" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/FileCache.kt" />
       <jump line="22" column="41" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/test/java/edu/vanderbilt/crawler/utils/ImageCacheTest.kt" />
@@ -1022,10 +1020,12 @@
       <jump line="321" column="50" filename="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" />
       <jump line="326" column="56" filename="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" />
       <jump line="340" column="16" filename="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" />
+      <jump line="215" column="6" filename="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" />
+      <jump line="218" column="20" filename="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGVuZGluZ0ludGVudCBnZXRQZW5kaW5nSW50ZW50KCkgewogICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KHRoaXMsIExvY2F0aW9uVXBkYXRlc0Jyb2FkY2FzdFJlY2VpdmVyLmNsYXNzKTsKICAgICAgICBpbnRlbnQuc2V0QWN0aW9uKExvY2F0aW9uVXBkYXRlc0Jyb2FkY2FzdFJlY2VpdmVyLkFDVElPTl9QUk9DRVNTX1VQREFURVMpOwogICAgICAgIHJldHVybiBQZW5kaW5nSW50ZW50LmdldEJyb2FkY2FzdCh0aGlzLCAwLCBpbnRlbnQsIFBlbmRpbmdJbnRlbnQuRkxBR19VUERBVEVfQ1VSUkVOVCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBDaGVjayBpZiB0aGUgdXNlciByZXZva2VkIHJ1bnRpbWUgcGVybWlzc2lvbnMuCiAgICAgICAgaWYgKCFjaGVja1Blcm1pc3Npb25zKCkpIHsKICAgICAgICAgICAgcmVxdWVzdFBlcm1pc3Npb25zKCk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1208,10 +1208,10 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>getPendingIntent</text>
+        <text>checkP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGVuZGluZ0ludGVudCBnZXRQZW5kaW5nSW50ZW50KCkgewogICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KHRoaXMsIExvY2F0aW9uVXBkYXRlc0Jyb2FkY2FzdFJlY2VpdmVyLmNsYXNzKTsKICAgICAgICBpbnRlbnQuc2V0QWN0aW9uKExvY2F0aW9uVXBkYXRlc0Jyb2FkY2FzdFJlY2VpdmVyLkFDVElPTl9QUk9DRVNTX1VQREFURVMpOwogICAgICAgIHJldHVybiBQZW5kaW5nSW50ZW50LmdldEJyb2FkY2FzdCh0aGlzLCAwLCBpbnRlbnQsIFBlbmRpbmdJbnRlbnQuRkxBR19VUERBVEVfQ1VSUkVOVCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBDaGVjayBpZiB0aGUgdXNlciByZXZva2VkIHJ1bnRpbWUgcGVybWlzc2lvbnMuCiAgICAgICAgaWYgKCFjaGVja1Blcm1pc3Npb25zKCkpIHsKICAgICAgICAgICAgcmVxdWVzdFBlcm1pc3Npb25zKCk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQogICAgICAgIGpjZW50ZXIoKQo=</text>
@@ -1253,9 +1253,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getPendingIntent</last-search>
+      <last-search>checkP</last-search>
       <last-offset />
-      <last-pattern>getPendingIntent</last-pattern>
+      <last-pattern>checkP</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxDYWNoZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1263,7 +1263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NOTAG</entry>
         <entry>use</entry>
         <entry>getKey</entry>
         <entry>@Ig</entry>
@@ -1283,6 +1282,7 @@
         <entry>sum</entry>
         <entry>ion</entry>
         <entry>getPendingIntent</entry>
+        <entry>checkP</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
