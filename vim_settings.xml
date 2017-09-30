@@ -13,10 +13,10 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/android/doug/AndroidImageCrawler/build.gradle" timestamp="1506731346738">
-        <mark key="[" line="29" column="49" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="29" column="50" />
+      <file name="$USER_HOME$/android/doug/AndroidImageCrawler/build.gradle" timestamp="1506747188612">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="29" column="60" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/extensions/meaurementExtensions.kt" timestamp="1506616887033">
@@ -121,6 +121,13 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/ImageCache.kt" timestamp="1506730321300">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/android/doug/AndroidImageCrawler/gradle/wrapper/gradle-wrapper.properties" timestamp="1506747218803" />
       <file name="$USER_HOME$/android/kotlin/android-coroutines/app/build.gradle" timestamp="1506376505665">
         <mark key="[" line="35" column="14" />
         <mark key="]" line="30" column="53" />
@@ -1007,7 +1014,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PHA+PGltZyBzcmM9ImthLnBuZyI+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQogICAgICAgIGpjZW50ZXIoKQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1193,10 +1200,10 @@
         <text>ion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEZpbGUoZGlyTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQogICAgICAgIGpjZW50ZXIoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHA+PGltZyBzcmM9ImthLnBuZyI+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQogICAgICAgIGpjZW50ZXIoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1204,31 +1211,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHA+PGltZyBzcmM9InVjaS5wbmciPjwvcD4K</text>
+        <text encoding="base64">PHA+PGltZyBzcmM9ImthLnBuZyI+PC9wPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHA+PGltZyBzcmM9ImRvYy5qcGciPjwvcD4K</text>
+        <text encoding="base64">PHA+PGltZyBzcmM9InVjaS5wbmciPjwvcD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHA+PGltZyBzcmM9ImRhcmtfcmlkZXIuanBnIj48L3A+Cg==</text>
+        <text encoding="base64">PHA+PGltZyBzcmM9ImRvYy5qcGciPjwvcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHA+PGltZyBzcmM9Im96LkpQRyI+PC9wPgo=</text>
+        <text encoding="base64">PHA+PGltZyBzcmM9ImRhcmtfcmlkZXIuanBnIj48L3A+Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHA+PGltZyBzcmM9InNjaG1pZHRfY291cnNlcmEuanBnIj48L3A+Cg==</text>
+        <text encoding="base64">PHA+PGltZyBzcmM9Im96LkpQRyI+PC9wPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHA+PGltZyBzcmM9InNjaG1pZHRfY291cnNlcmEuanBnIj48L3A+CjxwPjxpbWcgc3JjPSJTY2htaWR0RC5qcGciPjwvcD4K</text>
+        <text encoding="base64">PHA+PGltZyBzcmM9InNjaG1pZHRfY291cnNlcmEuanBnIj48L3A+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHA+PGltZyBzcmM9ImRvdWduZXcuanBnIj48L3A+Cg==</text>
+        <text encoding="base64">PHA+PGltZyBzcmM9InNjaG1pZHRfY291cnNlcmEuanBnIj48L3A+CjxwPjxpbWcgc3JjPSJTY2htaWR0RC5qcGciPjwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHA+PGltZyBzcmM9ImRvdWdsYXNzLmpwZyI+PC9wPgo=</text>
+        <text encoding="base64">PHA+PGltZyBzcmM9ImRvdWduZXcuanBnIj48L3A+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
