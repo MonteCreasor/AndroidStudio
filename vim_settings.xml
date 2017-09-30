@@ -121,9 +121,11 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" timestamp="1506749888175">
-        <mark key="[" line="75" column="61" />
-        <mark key="]" line="75" column="61" />
+      <file name="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" timestamp="1506752191406">
+        <mark key="a" line="183" column="26" />
+        <mark key="'" line="340" column="16" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="188" column="0" />
         <mark key="." line="75" column="61" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/ImageCache.kt" timestamp="1506730321300">
@@ -184,12 +186,14 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/LocationUpdatesIntentService.java" timestamp="1506751582658" />
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/test/java/edu/vanderbilt/crawler/utils/KotlinTest.kt" timestamp="1506620849485">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/LocationUpdatesBroadcastReceiver.java" timestamp="1506751706184" />
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/crawler/utils/Crawler.java" timestamp="1506617029927">
         <mark key="[" line="32" column="14" />
         <mark key="]" line="32" column="57" />
@@ -453,6 +457,7 @@
         <mark key="." line="14" column="6" />
         <mark key="^" line="14" column="6" />
       </file>
+      <file name="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/AndroidManifest.xml" timestamp="1506751974872" />
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/ui/fragments/WebViewUrlFragment.kt" timestamp="1506616928455">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -786,7 +791,7 @@
         <mark key="^" line="46" column="41" />
         <mark key="." line="46" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506738266606">
+      <file name="/Dummy.txt" timestamp="1506751587676">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/res/layout/webview_url_item.xml" timestamp="1506617726890">
@@ -917,9 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="45" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/test/java/edu/vanderbilt/crawler/utils/ImageCacheTest.kt" />
-      <jump line="63" column="34" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/test/java/edu/vanderbilt/crawler/utils/ImageCacheTest.kt" />
-      <jump line="109" column="27" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/FileCache.kt" />
       <jump line="113" column="35" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/FileCache.kt" />
       <jump line="117" column="32" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/FileCache.kt" />
       <jump line="125" column="30" filename="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/FileCache.kt" />
@@ -1017,10 +1019,13 @@
       <jump line="8" column="0" filename="$USER_HOME$/android/doug/JavaImageCrawler/image-crawler/build.gradle" />
       <jump line="10" column="15" filename="$USER_HOME$/android/doug/JavaImageCrawler/image-crawler/build.gradle" />
       <jump line="11" column="15" filename="$USER_HOME$/android/doug/JavaImageCrawler/image-crawler/build.gradle" />
+      <jump line="321" column="50" filename="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" />
+      <jump line="326" column="56" filename="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" />
+      <jump line="340" column="16" filename="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/src/main/java/com/google/android/gms/location/sample/backgroundlocationupdates/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgUGVuZGluZ0ludGVudCBnZXRQZW5kaW5nSW50ZW50KCkgewogICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KHRoaXMsIExvY2F0aW9uVXBkYXRlc0Jyb2FkY2FzdFJlY2VpdmVyLmNsYXNzKTsKICAgICAgICBpbnRlbnQuc2V0QWN0aW9uKExvY2F0aW9uVXBkYXRlc0Jyb2FkY2FzdFJlY2VpdmVyLkFDVElPTl9QUk9DRVNTX1VQREFURVMpOwogICAgICAgIHJldHVybiBQZW5kaW5nSW50ZW50LmdldEJyb2FkY2FzdCh0aGlzLCAwLCBpbnRlbnQsIFBlbmRpbmdJbnRlbnQuRkxBR19VUERBVEVfQ1VSUkVOVCk7CiAgICB9Cgo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1203,10 +1208,10 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>ion</text>
+        <text>getPendingIntent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQogICAgICAgIGpjZW50ZXIoKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGVuZGluZ0ludGVudCBnZXRQZW5kaW5nSW50ZW50KCkgewogICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KHRoaXMsIExvY2F0aW9uVXBkYXRlc0Jyb2FkY2FzdFJlY2VpdmVyLmNsYXNzKTsKICAgICAgICBpbnRlbnQuc2V0QWN0aW9uKExvY2F0aW9uVXBkYXRlc0Jyb2FkY2FzdFJlY2VpdmVyLkFDVElPTl9QUk9DRVNTX1VQREFURVMpOwogICAgICAgIHJldHVybiBQZW5kaW5nSW50ZW50LmdldEJyb2FkY2FzdCh0aGlzLCAwLCBpbnRlbnQsIFBlbmRpbmdJbnRlbnQuRkxBR19VUERBVEVfQ1VSUkVOVCk7CiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQogICAgICAgIGpjZW50ZXIoKQo=</text>
@@ -1248,9 +1253,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ion</last-search>
+      <last-search>getPendingIntent</last-search>
       <last-offset />
-      <last-pattern>ion</last-pattern>
+      <last-pattern>getPendingIntent</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxDYWNoZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1258,7 +1263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>String?</entry>
         <entry>NOTAG</entry>
         <entry>use</entry>
         <entry>getKey</entry>
@@ -1278,6 +1282,7 @@
         <entry>getCacheP</entry>
         <entry>sum</entry>
         <entry>ion</entry>
+        <entry>getPendingIntent</entry>
       </history-search>
       <history-cmd>
         <entry>setic</entry>
