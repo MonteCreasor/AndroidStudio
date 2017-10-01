@@ -87,6 +87,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/utils/PermissionRequest.java" timestamp="1506758785371">
+        <mark key="'" line="94" column="5" />
+        <mark key="[" line="444" column="22" />
+        <mark key="]" line="444" column="25" />
+        <mark key="." line="444" column="25" />
+        <mark key="^" line="444" column="25" />
+      </file>
       <file name="$USER_HOME$/site/Latest Git Version of IdealLife - June 25 2017/healthtablet/healthTablet/build.gradle" timestamp="1499978799504">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="26" />
@@ -157,12 +164,6 @@
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
-      </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/AndroidManifest.xml" timestamp="1506800365818">
-        <mark key="'" line="96" column="30" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/site/gitproject/healthtablet/healthTablet/src/main/res/values/strings.xml" timestamp="1497391020639">
         <mark key="[" line="53" column="0" />
@@ -255,6 +256,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/Constants.java" timestamp="1506563846773">
+        <mark key="'" line="72" column="4" />
+        <mark key="[" line="66" column="64" />
+        <mark key="]" line="66" column="71" />
+        <mark key="." line="66" column="71" />
+        <mark key="^" line="66" column="71" />
+      </file>
       <file name="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/build.gradle" timestamp="1506747202589">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -294,6 +302,13 @@
         <mark key="]" line="118" column="61" />
         <mark key="^" line="12" column="27" />
         <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/android/samples/kotlin/Kotlin-Android-Permissions-DeviceInfo/kotlinpermissions/build.gradle" timestamp="1506820658305">
+        <mark key="'" line="61" column="7" />
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="24" />
+        <mark key="." line="33" column="24" />
+        <mark key="^" line="61" column="17" />
       </file>
       <file name="$USER_HOME$/android/samples/background-location-updates-android-o/BackgroundLocationUpdates_Finished/app/build.gradle" timestamp="1506747355745">
         <mark key="[" line="29" column="43" />
@@ -354,8 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
-      <jump line="302" column="16" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="113" column="17" filename="$USER_HOME$/tools/Android/sdk/sources/android-25/android/content/SharedPreferences.java" />
       <jump line="258" column="11" filename="$USER_HOME$/tools/Android/sdk/sources/android-25/android/content/SharedPreferences.java" />
       <jump line="277" column="16" filename="$USER_HOME$/tools/Android/sdk/sources/android-25/android/content/SharedPreferences.java" />
@@ -454,10 +467,12 @@
       <jump line="141" column="64" filename="$USER_HOME$/android/samples/urban-airship/android-samples/app/src/main/java/com/urbanairship/sample/LocationFragment.java" />
       <jump line="158" column="12" filename="$USER_HOME$/android/samples/urban-airship/android-samples/app/src/main/java/com/urbanairship/sample/LocationFragment.java" />
       <jump line="187" column="20" filename="$USER_HOME$/android/samples/urban-airship/android-samples/app/src/main/java/com/urbanairship/sample/LocationFragment.java" />
+      <jump line="57" column="50" filename="$USER_HOME$/android/samples/kotlin/Kotlin-Android-Permissions-DeviceInfo/kotlinpermissions/build.gradle" />
+      <jump line="61" column="7" filename="$USER_HOME$/android/samples/kotlin/Kotlin-Android-Permissions-DeviceInfo/kotlinpermissions/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>23</text>
+        <text>compile</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -637,10 +652,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>23</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text>requestLoca</text>
+        <text>compile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS51cmJhbmFpcnNoaXAuYW5kcm9pZDp1cmJhbmFpcnNoaXAtc2RrOjguOC40Jwo=</text>
@@ -679,22 +694,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLnNldFByaW9yaXR5KGdldFByaW9yaXR5KCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>/compile/s//implementation/g</text>
       </register>
     </registers>
     <search>
-      <last-search>requestLoca</last-search>
+      <last-search>compile</last-search>
       <last-offset />
-      <last-pattern>requestLoca</last-pattern>
-      <last-replace>retrofit</last-replace>
-      <last-substitute>Builder</last-substitute>
+      <last-pattern>compile</last-pattern>
+      <last-replace>implementation</last-replace>
+      <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>conne</entry>
-        <entry>onNet</entry>
         <entry>isConn</entry>
         <entry>serviceP</entry>
         <entry>check</entry>
@@ -713,10 +726,10 @@
         <entry>UAir</entry>
         <entry>auto</entry>
         <entry>requestLoca</entry>
+        <entry>r</entry>
+        <entry>compile</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Network/Memory/</entry>
-        <entry>w!@</entry>
         <entry>W</entry>
         <entry>r question1_item.xml</entry>
         <entry>g/size/p</entry>
@@ -735,6 +748,8 @@
         <entry encoding="base64">JzwsJz5zZXQgaWM=</entry>
         <entry>q!</entry>
         <entry>set ic</entry>
+        <entry>s/compile/impementation</entry>
+        <entry>/compile/s//implementation/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
