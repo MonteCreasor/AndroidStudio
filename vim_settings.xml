@@ -376,10 +376,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" timestamp="1506975682778">
-        <mark key="a" line="60" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="62" column="9" />
+      <file name="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" timestamp="1506977914822">
+        <mark key="a" line="118" column="0" />
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="87" />
         <mark key="." line="64" column="28" />
       </file>
       <file name="$USER_HOME$/android/samples/kotlin/RuntimePermissionsExtended/app/build.gradle" timestamp="1506821751813">
@@ -793,12 +794,12 @@
         <mark key="^" line="46" column="41" />
         <mark key="." line="46" column="59" />
       </file>
-      <file name="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyIntentService.kt" timestamp="1506975695090">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyIntentService.kt" timestamp="1506977888910">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="72" column="54" />
+        <mark key="]" line="72" column="54" />
+        <mark key="." line="72" column="54" />
+        <mark key="^" line="72" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1506968618006">
         <mark key="[" line="0" column="0" />
@@ -919,9 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2142" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar!/generated/_Collections.kt" />
-      <jump line="2144" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar!/generated/_Collections.kt" />
-      <jump line="2145" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar!/generated/_Collections.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/android/doug/JavaImageCrawler/image-crawler/build.gradle" />
       <jump line="10" column="15" filename="$USER_HOME$/android/doug/JavaImageCrawler/image-crawler/build.gradle" />
       <jump line="11" column="15" filename="$USER_HOME$/android/doug/JavaImageCrawler/image-crawler/build.gradle" />
@@ -1019,10 +1017,13 @@
       <jump line="38" column="8" filename="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" />
       <jump line="33" column="0" filename="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyIntentService.kt" />
+      <jump line="58" column="0" filename="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyIntentService.kt" />
+      <jump line="30" column="0" filename="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyIntentService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxvY2F0aW9uQ2FsbGJhY2s6IExvY2F0aW9uQ2FsbGJhY2sK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1202,16 +1203,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="/" type="4">
         <text>Request</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWdvb2dsZUFwaUNsaWVudC5pc0Nvbm5lY3RlZCkgewogICAgICAgICAgICBnb29nbGVBcGlDbGllbnQuY29ubmVjdCgpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2coIm9uQ29ubmVjdGlvblN1c3BlbmRlZCgpIGNhbGxlZCB3aXRoIGludCAkcDAgLi4uIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxvY2F0aW9uQ2FsbGJhY2s6IExvY2F0aW9uQ2FsbGJhY2sK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1219,31 +1220,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25Db25uZWN0ZWQocDA6IEJ1bmRsZT8pIHsKICAgICAgICBsb2coIm9uQ29ubmVjdGVkKCkgY2FsbGVkIC4uLiIpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIG9uQ29ubmVjdGlvblN1c3BlbmRlZChwMDogSW50KSB7CiAgICAgICAgbG9nKCJvbkNvbm5lY3Rpb25TdXNwZW5kZWQoKSBjYWxsZWQgd2l0aCBpbnQgJHAwIC4uLiIpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIG9uQ29ubmVjdGlvbkZhaWxlZChwMDogQ29ubmVjdGlvblJlc3VsdCkgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNvbm5lY3Rpb25GYWlsZWQocDA6IENvbm5lY3Rpb25SZXN1bHQpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2coIkNvbm5lY3Rpb24gZmFpbGVkOiBDb25uZWN0aW9uUmVzdWx0LmdldEVycm9yQ29kZSgpID0gIiArIHJlc3VsdC5lcnJvckNvZGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGpqago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGludGVudC5hY3Rpb24gPSApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW50ZW50ICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBFWFRSQV9QQVJBTTIgPSAiZWR1LnZhbmRlcmJpbHQubG9jYXRpb25zYW5kYm94LmV4dHJhLlBBUkFNMiIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGhhbmRsZUFjdGlvbkZvbyhwYXJhbTE6IFN0cmluZywgcGFyYW0yOiBTdHJpbmcpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>s/25.3.1/26.0.1/g</text>
