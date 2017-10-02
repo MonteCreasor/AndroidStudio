@@ -374,12 +374,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" timestamp="1506967436662">
-        <mark key="'" line="16" column="27" />
-        <mark key="[" line="87" column="41" />
-        <mark key="]" line="87" column="58" />
-        <mark key="^" line="87" column="58" />
-        <mark key="." line="87" column="58" />
+      <file name="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" timestamp="1506968275129">
+        <mark key="'" line="67" column="4" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="66" column="42" />
       </file>
       <file name="$USER_HOME$/android/samples/kotlin/RuntimePermissionsExtended/app/build.gradle" timestamp="1506821751813">
         <mark key="'" line="37" column="44" />
@@ -798,7 +798,7 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506967501119">
+      <file name="/Dummy.txt" timestamp="1506968291833">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -917,8 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2124" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar!/generated/_Collections.kt" />
-      <jump line="2132" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar!/generated/_Collections.kt" />
       <jump line="2135" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar!/generated/_Collections.kt" />
       <jump line="2138" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar!/generated/_Collections.kt" />
       <jump line="2142" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar!/generated/_Collections.kt" />
@@ -1017,10 +1015,12 @@
       <jump line="132" column="22" filename="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" />
       <jump line="133" column="30" filename="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" />
       <jump line="16" column="27" filename="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" />
+      <jump line="91" column="8" filename="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" />
+      <jump line="67" column="4" filename="$USER_HOME$/android/sandbox/LocationSandbox/app/src/main/java/edu/vanderbilt/locationsandbox/MyService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aHNfZXJyX3BpZCoK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHByb2Nlc3NMb2NhdGlvblVwZGF0ZShsb2NhdGlvbnM6IExpc3Q8TG9jYXRpb24+KSB7CiAgICAgICAgbG9nKCJHb3QgJHtsb2NhdGlvbnMuc2l6ZX0gbmV3IGxvY2F0aW9uKHMpIikKICAgICAgICBsb2coIkN1cnJlbnQgbG9jYXRpb24gaXM6ICR7bG9jYXRpb25zWzBdfSIpCiAgICB9Cgo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1203,13 +1203,13 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text>Request</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZSgiT24gY29tcGxldGUgbGlzdGVuZXIgY2FsbGVkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHNfZXJyX3BpZCoK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHByb2Nlc3NMb2NhdGlvblVwZGF0ZShsb2NhdGlvbnM6IExpc3Q8TG9jYXRpb24+KSB7CiAgICAgICAgbG9nKCJHb3QgJHtsb2NhdGlvbnMuc2l6ZX0gbmV3IGxvY2F0aW9uKHMpIikKICAgICAgICBsb2coIkN1cnJlbnQgbG9jYXRpb24gaXM6ICR7bG9jYXRpb25zWzBdfSIpCiAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1217,48 +1217,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyB2aXJ0dWFsIG1hY2hpbmUgY3Jhc2ggbG9ncywgc2VlIGh0dHA6Ly93d3cuamF2YS5jb20vZW4vZG93bmxvYWQvaGVscC9lcnJvcl9ob3RzcG90LnhtbAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHN0YXJ0TG9jYXRpb25VcGRhdGVzKCkgewogICAgICAgIGlmIChnb29nbGVBcGlDbGllbnQuaXNDb25uZWN0ZWQpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGZ1c2VkTG9jYXRpb25DbGllbnQ/LnJlcXVlc3RMb2NhdGlvblVwZGF0ZXMoCiAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0aW9uUmVxdWVzdCwgbG9jYXRpb25DYWxsYmFjaywgbnVsbCkKICAgICAgICAgICAgfSBjYXRjaCAoZTogU2VjdXJpdHlFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgIGxvZygiUmVxdWlyZWQgcGVybWlzc2lvbiB0byByZXF1ZXN0IGxvY2F0aW9uIHVwZGF0ZXMgbm90IGdyYW50ZWQ6IiArIGUpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gc3RvcExvY2F0aW9uVXBkYXRlcygpIHsKICAgICAgICBpZiAoZ29vZ2xlQXBpQ2xpZW50LmlzQ29ubmVjdGVkKSB7CiAgICAgICAgICAgIGZ1c2VkTG9jYXRpb25DbGllbnQ/LnJlbW92ZUxvY2F0aW9uVXBkYXRlcyhsb2NhdGlvbkNhbGxiYWNrKQogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki5yYXIK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblN0YXJ0Q29tbWFuZChpbnRlbnQ6IEludGVudD8sIGZsYWdzOiBJbnQsIHN0YXJ0SWQ6IEludCk6IEludCB7CiAgICAgICAgaWYgKCFnb29nbGVBcGlDbGllbnQuaXNDb25uZWN0ZWQpIHsKICAgICAgICAgICAgZ29vZ2xlQXBpQ2xpZW50LmNvbm5lY3QoKQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIFNlcnZpY2UuU1RBUlRfU1RJQ0tZCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIG9uQmluZChpbnRlbnQ6IEludGVudCk6IElCaW5kZXI/IHsKICAgICAgICByZXR1cm4gbnVsbAogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ki50YXIuZ3oK</text>
+        <text encoding="base64">aHNfZXJyX3BpZCoK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ki56aXAK</text>
+        <text encoding="base64">IyB2aXJ0dWFsIG1hY2hpbmUgY3Jhc2ggbG9ncywgc2VlIGh0dHA6Ly93d3cuamF2YS5jb20vZW4vZG93bmxvYWQvaGVscC9lcnJvcl9ob3RzcG90LnhtbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ki5lYXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki53YXIK</text>
+        <text encoding="base64">Ki5yYXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki5qYXIK</text>
+        <text encoding="base64">Ki50YXIuZ3oK</text>
       </register>
       <register name=":" type="4">
         <text>s/25.3.1/26.0.1/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search>Request</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-pattern>Request</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>25.3.1</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
         <entry>log</entry>
         <entry>auto</entry>
         <entry>error</entry>
@@ -1278,6 +1277,7 @@
         <entry>Timber</entry>
         <entry>ex</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry>Request</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
