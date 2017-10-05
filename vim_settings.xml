@@ -422,13 +422,13 @@
         <mark key="^" line="45" column="44" />
         <mark key="." line="46" column="60" />
       </file>
-      <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1507163442843">
-        <mark key="a" line="22" column="47" />
-        <mark key="'" line="24" column="33" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="26" column="5" />
-        <mark key="^" line="22" column="49" />
-        <mark key="." line="22" column="49" />
+      <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1507164468449">
+        <mark key="a" line="95" column="21" />
+        <mark key="'" line="95" column="21" />
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="7" />
+        <mark key="^" line="31" column="69" />
+        <mark key="." line="31" column="7" />
       </file>
       <file name="$USER_HOME$/android/architecture/u2020-mvp-kotlin/app/src/debug/java/ru/ltst/u2020mvp/ui/debug/AnimationSpeedAdapter.kt" timestamp="1506030043800">
         <mark key="[" line="31" column="16" />
@@ -1172,7 +1172,6 @@
       <jump line="61" column="8" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="54" column="47" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
-      <jump line="93" column="48" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="30" column="5" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="115" column="34" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
@@ -1223,10 +1222,11 @@
       <jump line="59" column="25" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
       <jump line="63" column="23" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
       <jump line="24" column="33" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
+      <jump line="93" column="21" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1406,7 +1406,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>items = newItems</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>times</text>
@@ -1415,7 +1415,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGVla0hlaWdodCA9IGRpbWVuKFIuZGltZW4udXJsX2xpc3RfcGVla19oZWlnaHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vdmFsIGNhY2hlZFJlc291cmNlcyA9IE11dGFibGVMaXZlRGF0YTxSZXNvdXJjZT4oKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1426,28 +1426,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50SXRlbXMuYWRkQWxsKGl0ZW1zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50SXRlbXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50SXRlbXMuYWRkQWxsKGl0ZW1zKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50SXRlbXMuCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50SXRlbXMgPSBzZWxlY3RlZEl0ZW1zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudGV4dC5tZXRob2QuVGV4dEtleUxpc3RlbmVyLmNsZWFyCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50SXRlbXMgPSBzZWxlY3RlZEl0ZW1zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2xkLmdldE5hbWUoKS5lcXVhbHMobmV3LmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudGV4dC5tZXRob2QuVGV4dEtleUxpc3RlbmVyLmNsZWFyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
