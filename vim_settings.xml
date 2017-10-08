@@ -125,8 +125,9 @@
         <mark key="." line="23" column="61" />
         <mark key="^" line="23" column="61" />
       </file>
-      <file name="$USER_HOME$/android/samples/recycler-view/recyclerview-multiselect/recyclerview-multiselect/src/main/java/com/bignerdranch/android/multiselector/SwappingHolder.java" timestamp="1507423461505">
+      <file name="$USER_HOME$/android/samples/recycler-view/recyclerview-multiselect/recyclerview-multiselect/src/main/java/com/bignerdranch/android/multiselector/SwappingHolder.java" timestamp="1507427845191">
         <mark key="a" line="91" column="23" />
+        <mark key="'" line="265" column="17" />
         <mark key="[" line="91" column="0" />
         <mark key="]" line="95" column="9" />
         <mark key="." line="92" column="76" />
@@ -432,9 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="649" column="54" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
-      <jump line="106" column="24" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
-      <jump line="248" column="32" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="210" column="27" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="13" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" />
       <jump line="86" column="59" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" />
@@ -532,6 +530,9 @@
       <jump line="791" column="12" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="152" column="21" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="179" column="8" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/utils/Toaster.java" />
+      <jump line="251" column="8" filename="$USER_HOME$/android/samples/recycler-view/recyclerview-multiselect/recyclerview-multiselect/src/main/java/com/bignerdranch/android/multiselector/SwappingHolder.java" />
+      <jump line="261" column="12" filename="$USER_HOME$/android/samples/recycler-view/recyclerview-multiselect/recyclerview-multiselect/src/main/java/com/bignerdranch/android/multiselector/SwappingHolder.java" />
+      <jump line="265" column="17" filename="$USER_HOME$/android/samples/recycler-view/recyclerview-multiselect/recyclerview-multiselect/src/main/java/com/bignerdranch/android/multiselector/SwappingHolder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -718,7 +719,7 @@
         <text>anim</text>
       </register>
       <register name="/" type="4">
-        <text>Message</text>
+        <text>refresh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhbmRyb2lkOmJhY2tncm91bmQ9Ij9hbmRyb2lkOmF0dHIvc2VsZWN0YWJsZUl0ZW1CYWNrZ3JvdW5kIgo=</text>
@@ -761,9 +762,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Message</last-search>
+      <last-search>refresh</last-search>
       <last-offset />
-      <last-pattern>Message</last-pattern>
+      <last-pattern>refresh</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
@@ -771,7 +772,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isCon</entry>
         <entry>network</entry>
         <entry>onNe</entry>
         <entry>email</entry>
@@ -791,6 +791,7 @@
         <entry>Toaster</entry>
         <entry>snack</entry>
         <entry>Message</entry>
+        <entry>refresh</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
