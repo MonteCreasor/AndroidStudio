@@ -34,6 +34,11 @@
         <mark key="]" line="23" column="53" />
         <mark key="." line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/android/samples/recycler-view/recyclerview-multiselect/recyclerview-multiselect/src/main/res/values/dimens.xml" timestamp="1507423118309">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/vandy/java4Android/java4android/assignments/m3-assignment-shapes-complete/app/build.gradle" timestamp="1502592033309">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -119,6 +124,13 @@
         <mark key="]" line="23" column="61" />
         <mark key="." line="23" column="61" />
         <mark key="^" line="23" column="61" />
+      </file>
+      <file name="$USER_HOME$/android/samples/recycler-view/recyclerview-multiselect/recyclerview-multiselect/src/main/java/com/bignerdranch/android/multiselector/SwappingHolder.java" timestamp="1507423461505">
+        <mark key="a" line="91" column="23" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="95" column="9" />
+        <mark key="." line="92" column="76" />
+        <mark key="^" line="92" column="76" />
       </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1507245777177" />
       <file name="$USER_HOME$/vandy/test-assignments/LocationTracker_Asgn_0_1/build.gradle" timestamp="1504486726334">
@@ -519,7 +531,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI2KycK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApIHsKICAgICAgICAgICAgcmV0dXJuIEFuaW1hdG9ySW5mbGF0ZXIubG9hZFN0YXRlTGlzdEFuaW1hdG9yKGNvbnRleHQsIFIuZHJhd2FibGUucmFpc2UpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -699,16 +711,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>22.2.0'</text>
+        <text>anim</text>
       </register>
       <register name="/" type="4">
         <text>Message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI2KycKICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6cmVjeWNsZXJ2aWV3LXY3OjI2KycK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApIHsKICAgICAgICAgICAgcmV0dXJuIEFuaW1hdG9ySW5mbGF0ZXIubG9hZFN0YXRlTGlzdEFuaW1hdG9yKGNvbnRleHQsIFIuZHJhd2FibGUucmFpc2UpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI2KycK</text>
+        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJ0b3VjaF9yYWlzZSI+MTJkcDwvZGltZW4+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -717,28 +729,28 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI2KycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6cmVjeWNsZXJ2aWV3LXY3OjI2KycK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI2KycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5kY2VuZGVudHMuYW5kcm9pZC1tYXZlbicK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6cmVjeWNsZXJ2aWV3LXY3OjI2KycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5kY2VuZGVudHMuYW5kcm9pZC1tYXZlbicK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnZHVtbXlQYXNzd29yZCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRQcm9wZXJ0eSgnb3NzcmhQYXNzd29yZCcpIDoK</text>
+        <text encoding="base64">ICAgICAgICAnZHVtbXlQYXNzd29yZCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIG9zc3JoUGFzc3dvcmQgPSBoYXNQcm9wZXJ0eSgnb3NzcmhQYXNzd29yZCcpID8K</text>
+        <text encoding="base64">ICAgICAgICBnZXRQcm9wZXJ0eSgnb3NzcmhQYXNzd29yZCcpIDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnZHVtbXlVc2VybmFtZScK</text>
+        <text encoding="base64">ZGVmIG9zc3JoUGFzc3dvcmQgPSBoYXNQcm9wZXJ0eSgnb3NzcmhQYXNzd29yZCcpID8K</text>
       </register>
       <register name=":" type="4">
         <text>/compile/s//implementation/g</text>
