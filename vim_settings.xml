@@ -457,13 +457,13 @@
         <mark key="^" line="84" column="67" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1507466625089">
-        <mark key="a" line="89" column="11" />
-        <mark key="'" line="32" column="26" />
-        <mark key="[" line="104" column="4" />
-        <mark key="]" line="104" column="11" />
-        <mark key="." line="104" column="11" />
-        <mark key="^" line="104" column="11" />
+      <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1507470521817">
+        <mark key="a" line="94" column="11" />
+        <mark key="'" line="70" column="4" />
+        <mark key="[" line="50" column="63" />
+        <mark key="]" line="50" column="63" />
+        <mark key="." line="50" column="63" />
+        <mark key="^" line="50" column="64" />
       </file>
       <file name="$USER_HOME$/android/architecture/u2020-mvp-kotlin/app/src/debug/java/ru/ltst/u2020mvp/ui/debug/AnimationSpeedAdapter.kt" timestamp="1506030043800">
         <mark key="[" line="31" column="16" />
@@ -1245,11 +1245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="24" filename="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/FileCache.kt" />
-      <jump line="296" column="37" filename="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/FileCache.kt" />
-      <jump line="163" column="34" filename="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/FileCache.kt" />
-      <jump line="191" column="19" filename="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/FileCache.kt" />
-      <jump line="192" column="27" filename="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/FileCache.kt" />
       <jump line="194" column="8" filename="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/FileCache.kt" />
       <jump line="198" column="48" filename="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/FileCache.kt" />
       <jump line="199" column="19" filename="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/FileCache.kt" />
@@ -1345,10 +1340,15 @@
       <jump line="192" column="8" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="39" column="0" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="147" column="51" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
+      <jump line="45" column="6" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
+      <jump line="54" column="24" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
+      <jump line="90" column="16" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
+      <jump line="65" column="4" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>google_loading_spinners</text>
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1528,16 +1528,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>google_loading_spinners</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>stopC</text>
+        <text>finished</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgdXJpID0gdmlldy5jb250ZXh0LmdldFJlc291cmNlVXJpKGdpZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluaXNoZWQ6IChzdGF0dXM6IEJvb2xlYW4pIC0+IFVuaXQpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwudW5zdWJzY3JpYmUob2JzZXJ2ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZmluaXNoZWQgPSBmaW5pc2hlZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1545,40 +1545,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZmluaXNoZWQgPSBmaW5pc2hlZAogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZygiRVJST1I6IHVuYWJsZSB0byBkZWxldGUgRklMRSB0eXBlICRpdCAuLi4iKQo=</text>
+        <text encoding="base64">ICAgIHZhciBmaW5pc2hlZENhbGxiYWNrID0gV2Vha1JlZmVyZW5jZTw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZygiRGVsZXRlZCBGSUxFICRpdCAuLi4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWcoIkVSUk9SOiB1bmFibGUgdG8gZGVsZXRlIERJUiAkaXQgLi4uIikK</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwudW5zdWJzY3JpYmUob2JzZXJ2ZXIpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWcoIkRlbGV0ZWQgRElSICRpdCAuLi4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZygiRGVsZXRpbmcgRElSIENPTlRFTlRTIG9mICRkaXIgLi4uIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZygiRVJST1I6IHVuYWJsZSB0byBkZWxldGUgRklMRSB0eXBlICRpdCAuLi4iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZygiRGVsZXRlZCBGSUxFICRpdCAuLi4iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyLmNsZWFyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWcoIkVSUk9SOiB1bmFibGUgdG8gZGVsZXRlIERJUiAkaXQgLi4uIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stopC</last-search>
+      <last-search>finished</last-search>
       <last-offset />
-      <last-pattern>stopC</last-pattern>
+      <last-pattern>finished</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>25.3.1</last-substitute>
       <last-dir>1</last-dir>
@@ -1586,8 +1586,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
-        <entry>saveView</entry>
         <entry>resourceList</entry>
         <entry>save</entry>
         <entry>KEY_RESOURCE_LSIT</entry>
@@ -1606,6 +1604,8 @@
         <entry>unsub</entry>
         <entry>updateViewS</entry>
         <entry>stopC</entry>
+        <entry>stopCrawl</entry>
+        <entry>finished</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
