@@ -17,7 +17,7 @@
         <mark key="." line="38" column="43" />
         <mark key="^" line="38" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1507245946091">
+      <file name="/a.dummy" timestamp="1507690411531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -349,8 +349,8 @@
         <mark key="^" line="150" column="32" />
         <mark key="." line="150" column="32" />
       </file>
-      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/build.gradle" timestamp="1507000486274">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/build.gradle" timestamp="1507690811304">
+        <mark key="'" line="92" column="23" />
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="24" />
         <mark key="." line="12" column="24" />
@@ -412,6 +412,11 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="30" column="52" />
       </file>
+      <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerCache.java" timestamp="1507690824587">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="52" />
+      </file>
       <file name="$USER_HOME$/vandy/grader/examples/DemoApp-a2/build.gradle" timestamp="1503221307112">
         <mark key="[" line="8" column="57" />
         <mark key="]" line="8" column="58" />
@@ -439,9 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="27" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" />
-      <jump line="86" column="59" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" />
       <jump line="90" column="30" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" />
       <jump line="96" column="18" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" />
       <jump line="130" column="25" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/res/values/strings.xml" />
@@ -539,10 +541,13 @@
       <jump line="251" column="8" filename="$USER_HOME$/android/samples/recycler-view/recyclerview-multiselect/recyclerview-multiselect/src/main/java/com/bignerdranch/android/multiselector/SwappingHolder.java" />
       <jump line="261" column="12" filename="$USER_HOME$/android/samples/recycler-view/recyclerview-multiselect/recyclerview-multiselect/src/main/java/com/bignerdranch/android/multiselector/SwappingHolder.java" />
       <jump line="265" column="17" filename="$USER_HOME$/android/samples/recycler-view/recyclerview-multiselect/recyclerview-multiselect/src/main/java/com/bignerdranch/android/multiselector/SwappingHolder.java" />
+      <jump line="232" column="6" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerCache.java" />
+      <jump line="8" column="23" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/AnswerCache.java" />
+      <jump line="92" column="23" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.3.0'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnc29uLmZyb21Kc29uKHN0cmluZywgY2xhenopOwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -725,10 +730,10 @@
         <text>.3.0'</text>
       </register>
       <register name="/" type="4">
-        <text>refresh</text>
+        <text>gson</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhbmRyb2lkOmJhY2tncm91bmQ9Ij9hbmRyb2lkOmF0dHIvc2VsZWN0YWJsZUl0ZW1CYWNrZ3JvdW5kIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnc29uLmZyb21Kc29uKHN0cmluZywgY2xhenopOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmpmcm9nLmJpbnRyYXknCg==</text>
@@ -768,9 +773,9 @@
       </register>
     </registers>
     <search>
-      <last-search>refresh</last-search>
+      <last-search>gson</last-search>
       <last-offset />
-      <last-pattern>refresh</last-pattern>
+      <last-pattern>gson</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
@@ -778,8 +783,6 @@
     </search>
     <history>
       <history-search>
-        <entry>network</entry>
-        <entry>onNe</entry>
         <entry>email</entry>
         <entry>if (true</entry>
         <entry>setupUrb</entry>
@@ -798,6 +801,8 @@
         <entry>snack</entry>
         <entry>Message</entry>
         <entry>refresh</entry>
+        <entry>Gson</entry>
+        <entry>gson</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
