@@ -8,4 +8,9 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="EditorDuplicate" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
 </keymap>
