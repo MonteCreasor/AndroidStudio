@@ -197,6 +197,9 @@
         <mark key="^" line="54" column="66" />
         <mark key="." line="54" column="66" />
       </file>
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/BindableAdapter.kt" timestamp="1507916905241">
+        <mark key="'" line="9" column="57" />
+      </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/res/layout/search_view.xml" timestamp="1506617493585">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="21" />
@@ -490,7 +493,7 @@
         <mark key="^" line="46" column="41" />
         <mark key="." line="46" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507872311804">
+      <file name="/Dummy.txt" timestamp="1507916906433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/res/layout/webview_url_item.xml" timestamp="1507424643360">
@@ -1283,8 +1286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="16" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
-      <jump line="204" column="47" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="240" column="6" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="413" column="6" filename="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="562" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/design/26.1.0/c7ac62df01dd0a97d93500ad3da7faebf03ba49/design-26.1.0-sources.jar!/android/support/design/widget/BottomSheetBehavior.java" />
@@ -1383,6 +1384,8 @@
       <jump line="287" column="49" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
       <jump line="134" column="0" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialLoopsCrawler.java" />
       <jump line="20" column="42" filename="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/dependencies.gradle" />
+      <jump line="28" column="13" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/BindableAdapter.kt" />
+      <jump line="9" column="57" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/BindableAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1569,7 +1572,7 @@
         <text>AnimationSpeedAdapter(context)</text>
       </register>
       <register name="/" type="4">
-        <text>WRITE</text>
+        <text>forActivity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gTWFwIGVhY2ggVVJMIHRvIGEgY29tcGxldGFibGUgZnV0dXJlIHRvIGFuIGltYWdlIChpLmUuLAogICAgICAgICAgICAvLyBhc3luY2hyb25vdXNseSBkb3dubG9hZC9zdG9yZSBlYWNoIGltYWdlIHZpYSBpdHMgVVJMKS4KICAgICAgICAgICAgLy8gVE9ETyAtLSB5b3UgZmlsbCBpbiBoZXJlLgogICAgICAgICAgICAubWFwKHRoaXM6OmRvd25sb2FkQW5kU3RvcmVJbWFnZUFzeW5jKQoK</text>
@@ -1614,9 +1617,9 @@
       </register>
     </registers>
     <search>
-      <last-search>WRITE</last-search>
+      <last-search>forActivity</last-search>
       <last-offset />
-      <last-pattern>WRITE</last-pattern>
+      <last-pattern>forActivity</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>notify</last-substitute>
       <last-dir>1</last-dir>
@@ -1624,7 +1627,6 @@
     </search>
     <history>
       <history-search>
-        <entry>makeTransform</entry>
         <entry>testObserv</entry>
         <entry>crawlType</entry>
         <entry>transformTypes</entry>
@@ -1644,6 +1646,7 @@
         <entry>Future</entry>
         <entry>Cached</entry>
         <entry>WRITE</entry>
+        <entry>forActivity</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
