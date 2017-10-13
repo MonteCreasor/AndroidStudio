@@ -427,13 +427,13 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/extensions/DelegatesExt.kt" timestamp="1507926457724">
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/extensions/DelegatesExt.kt" timestamp="1507929201960">
         <mark key="a" line="56" column="16" />
         <mark key="'" line="19" column="40" />
-        <mark key="[" line="57" column="20" />
-        <mark key="]" line="57" column="22" />
-        <mark key="^" line="57" column="22" />
-        <mark key="." line="57" column="22" />
+        <mark key="[" line="62" column="27" />
+        <mark key="]" line="62" column="27" />
+        <mark key="^" line="62" column="21" />
+        <mark key="." line="62" column="27" />
       </file>
       <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" timestamp="1506362056914">
         <mark key="[" line="113" column="69" />
@@ -1080,12 +1080,12 @@
         <mark key="." line="36" column="18" />
         <mark key="^" line="36" column="18" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/app/Prefs.kt" timestamp="1507927615246">
-        <mark key="'" line="12" column="16" />
-        <mark key="[" line="33" column="72" />
-        <mark key="]" line="33" column="72" />
-        <mark key="." line="33" column="72" />
-        <mark key="^" line="29" column="72" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/app/Prefs.kt" timestamp="1507929334224">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="65" column="13" />
+        <mark key="]" line="65" column="20" />
+        <mark key="^" line="65" column="20" />
+        <mark key="." line="65" column="20" />
       </file>
       <file name="$USER_HOME$/android/AndroidSandbox/build.gradle" timestamp="1507070320035">
         <mark key="[" line="19" column="16" />
@@ -1373,7 +1373,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>.apply()</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1553,16 +1553,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>.apply()</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKHByZWZzKSB7CiAgICAgICAgICAgIHJldHVybiB3aGVuIChUOjpjbGFzcykgewogICAgICAgICAgICAgICAgSW50OjpjbGFzcyAtPiBnZXRJbnQoa2V5LCBkZWZhdWx0IGFzPyBJbnQgPzogLTEpIGFzIFQ/CiAgICAgICAgICAgICAgICBMb25nOjpjbGFzcyAtPiBnZXRMb25nKGtleSwgZGVmYXVsdCBhcz8gTG9uZyA/OiAtMSkgYXMgVD8KICAgICAgICAgICAgICAgIEZsb2F0OjpjbGFzcyAtPiBnZXRGbG9hdChrZXksIGRlZmF1bHQgYXM/IEZsb2F0ID86IC0xZikgYXMgVD8KICAgICAgICAgICAgICAgIEJvb2xlYW46OmNsYXNzIC0+IGdldEJvb2xlYW4oa2V5LCBkZWZhdWx0IGFzPyBCb29sZWFuID86IGZhbHNlKSBhcyBUPwogICAgICAgICAgICAgICAgU3RyaW5nOjpjbGFzcyAtPiBnZXRTdHJpbmcoa2V5LCBkZWZhdWx0IGFzPyBTdHJpbmcpIGFzIFQ/CiAgICAgICAgICAgICAgICBlbHNlIC0+IHsKICAgICAgICAgICAgICAgICAgICB2YWwgdmFsdWUgPSBnZXRTdHJpbmcoa2V5LCBudWxsKQogICAgICAgICAgICAgICAgICAgIGlmICh2YWx1ZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAvL2Zyb21Kc29uKHZhbHVlLCBUOjpjbGFzcy5qYXZhKQogICAgICAgICAgICAgICAgICAgICAgICBHc29uKCkuZnJvbUpzb24odmFsdWUpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR3NvbigpLmZyb21Kc29uKHZhbHVlLCBUOjpjbGFzcy5qYXZhKSBhcyBBbnkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1570,31 +1570,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgeDogQW55Pwo=</text>
+        <text encoding="base64">ICAgICAgICBlZGl0b3IuYXBwbHkoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBvcGVyYXRpb24oZWRpdG9yKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZWRpdG9yID0gdGhpcy5lZGl0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3BlcmF0aW9uOiAoU2hhcmVkUHJlZmVyZW5jZXMuRWRpdG9yKSAtPiBVbml0KSB7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGlubGluZSBmdW4gU2hhcmVkUHJlZmVyZW5jZXMuZWRpdCgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygiTWVtYmVyVmlzaWJpbGl0eUNhblByaXZhdGUiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR3NvbigpLmZyb21Kc29uKHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9mcm9tSnNvbih2YWx1ZSwgVDo6Y2xhc3MuamF2YSkK</text>
+        <text encoding="base64">ICAgICAqIGZ1bmN0aW9uLgo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
