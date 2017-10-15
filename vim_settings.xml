@@ -194,12 +194,12 @@
         <mark key="^" line="54" column="66" />
         <mark key="." line="54" column="66" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/BindableAdapter.kt" timestamp="1507941110402">
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/BindableAdapter.kt" timestamp="1508107872448">
         <mark key="'" line="9" column="57" />
-        <mark key="[" line="22" column="93" />
-        <mark key="]" line="22" column="93" />
-        <mark key="^" line="61" column="4" />
-        <mark key="." line="22" column="93" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="42" column="24" />
+        <mark key="." line="11" column="19" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/res/layout/search_view.xml" timestamp="1506617493585">
         <mark key="[" line="7" column="19" />
@@ -365,6 +365,9 @@
       </file>
       <file name="$USER_HOME$/tools/Android/sdk/sources/android-26/android/preference/PreferenceManager.java" timestamp="1507936360721">
         <mark key="'" line="652" column="43" />
+      </file>
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivityMenu.kt" timestamp="1508108040612">
+        <mark key="." line="215" column="61" />
       </file>
       <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/res/values/styles.xml" timestamp="1506214604154">
         <mark key="[" line="0" column="1" />
@@ -582,11 +585,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" timestamp="1508107034048">
-        <mark key="[" line="98" column="36" />
-        <mark key="]" line="98" column="36" />
-        <mark key="^" line="98" column="40" />
-        <mark key="." line="98" column="36" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" timestamp="1508107288036">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="96" column="40" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateAndroidAssignmentDirectories.java" timestamp="1505876173463">
         <mark key="[" line="10" column="8" />
@@ -881,8 +884,8 @@
         <mark key="^" line="18" column="71" />
         <mark key="." line="18" column="71" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/EnumAdapter.kt" timestamp="1507940765545">
-        <mark key="'" line="21" column="40" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/EnumAdapter.kt" timestamp="1508107783009">
+        <mark key="'" line="26" column="17" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="14" column="28" />
@@ -1285,7 +1288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="68" filename="$USER_HOME$/android/doug/ImageCrawler1/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="276" column="28" filename="$USER_HOME$/android/doug/ImageCrawler1/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="323" column="39" filename="$USER_HOME$/android/doug/ImageCrawler1/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="152" column="30" filename="$USER_HOME$/android/doug/ImageCrawler1/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivityMenu.kt" />
@@ -1385,10 +1387,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/app/Prefs.kt" />
       <jump line="105" column="0" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/app/Prefs.kt" />
       <jump line="130" column="0" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/app/Prefs.kt" />
+      <jump line="27" column="17" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/EnumAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGF6eSA=</text>
+        <text>e</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1568,16 +1571,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGF6eSA=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>getString</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBTaGFyZWRQcmVmZXJlbmNlcyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0VmlldyA9IHZpZXcgPzogbmV3VmlldyhpbmZsYXRlciwgcG9zaXRpb24sIGNvbnRhaW5lcikKICAgICAgICBiaW5kVmlldyhnZXRJdGVtKHBvc2l0aW9uKSwgcG9zaXRpb24sIHJlc3VsdFZpZXcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kVmlldyhnZXRJdGVtKHBvc2l0aW9uKSwgcG9zaXRpb24sIHJlc3VsdFZpZXcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1585,31 +1588,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gZ2V0TGF5b3V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludGVyZmFjZSBTZXR0aW5nc0l0ZW1zIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigibmV3RHJvcERvd25WaWV3IHJlc3VsdCBtdXN0IG5vdCBiZSBudWxsLiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZpZXcgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlldyA9IG5ld0Ryb3BEb3duVmlldyhpbmZsYXRlciwgcG9zaXRpb24sIGNvbnRhaW5lcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodmlldyA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdmlldyA9IHZpZXcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
