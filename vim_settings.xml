@@ -19,12 +19,12 @@
         <mark key="^" line="65" column="7" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/androidTest/java/edu/vanderbilt/crawler/app/PrefsTest.kt" timestamp="1508124446280">
+      <file name="$USER_HOME$/android/doug/A3a/app/src/androidTest/java/edu/vanderbilt/crawler/app/PrefsTest.kt" timestamp="1508126477043">
+        <mark key="a" line="30" column="27" />
         <mark key="'" line="22" column="5" />
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="30" />
-        <mark key="^" line="19" column="30" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/res/layout/image_list_item.xml" timestamp="1507425559118">
         <mark key="[" line="22" column="62" />
@@ -712,13 +712,12 @@
         <mark key="^" line="31" column="27" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/Prefs.kt" timestamp="1508124203910">
-        <mark key="a" line="75" column="13" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/Prefs.kt" timestamp="1508126338898">
+        <mark key="a" line="80" column="13" />
         <mark key="'" line="33" column="2" />
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="27" />
-        <mark key="^" line="35" column="27" />
-        <mark key="." line="35" column="27" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/test/java/edu/vanderbilt/crawler/utils/KotlinTest.kt" timestamp="1506620849485">
         <mark key="[" line="4" column="0" />
@@ -1109,7 +1108,7 @@
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="25" />
       </file>
-      <file name="/fragment.kt" timestamp="1507787297809">
+      <file name="/fragment.kt" timestamp="1508126434017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/extensions/fabExt.kt" timestamp="1507676792061">
@@ -1433,8 +1432,8 @@
       <jump line="372" column="13" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1614,16 +1613,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMEwsIGludFByZWYpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMSwgaW50UHJlZikKICAgICAgICBhc3NlcnRFcXVhbHMoMUwsIGxvbmdQcmVmKQogICAgICAgIGFzc2VydEVxdWFscygxZiwgZmxvYXRQcmVmKQogICAgICAgIGFzc2VydEVxdWFscyh0cnVlLCBib29sZWFuUHJlZikKICAgICAgICBhc3NlcnRFcXVhbHMoImZvb0JhciIsIHN0cmluZ1ByZWYpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsIHZhciB0cmFuc2Zvcm1UeXBlczogTXV0YWJsZUxpc3Q8VHJhbnNmb3JtLlR5cGU+ID0gbXV0YWJsZUxpc3RPZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1631,31 +1630,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsIHZhciB3ZWJVcmw6IFN0cmluZz8gYnkgUHJlZmVyZW5jZSgid2ViX3VybCIsICIiKQogICAgaW50ZXJuYWwgdmFyIGNyYXdsU3RyYXRlZ3k6IEltYWdlQ3Jhd2xlci5UeXBlID0gSW1hZ2VDcmF3bGVyLlR5cGUuU0VRVUVOVElBTF9MT09QUwogICAgaW50ZXJuYWwgdmFyIHRyYW5zZm9ybVR5cGVzOiBNdXRhYmxlTGlzdDxUcmFuc2Zvcm0uVHlwZT4gPSBtdXRhYmxlTGlzdE9mKCkKICAgIGludGVybmFsIHZhciBsb2NhbENyYXdsID0gREVGQVVMVF9MT0NBTF9DUkFXTAogICAgaW50ZXJuYWwgdmFyIGNyYXdsRGVwdGg6IEludCA9IERFRkFVTFRfQ1JBV0xfREVQVEgK</text>
+        <text encoding="base64">ICAgICAgICBpbnRQcmVmW10gPSBudWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmNyYXdsZXIucHJlZmVyZW5jZXMuUHJlZnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biA8VD4gcHJlZmVyZW5jZShkZWZhdWx0OiBUKSA9IFByZWZlcmVuY2UoZGVmYXVsdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoMEwsIGludFByZWYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzZXRWYWx1ZSh0aGlzUmVmOiBTdHJpbmcsIHByb3BlcnR5OiBLUHJvcGVydHk8Kj4sIHZhbHVlOiBUKSB7Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBjbGVhcigpIHsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBjbGVhcigpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
