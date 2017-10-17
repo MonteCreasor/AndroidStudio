@@ -172,11 +172,11 @@
         <mark key="^" line="14" column="9" />
         <mark key="." line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" timestamp="1508270600273">
-        <mark key="[" line="164" column="54" />
-        <mark key="]" line="164" column="54" />
-        <mark key="^" line="173" column="53" />
-        <mark key="." line="164" column="54" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" timestamp="1508271959123">
+        <mark key="[" line="126" column="56" />
+        <mark key="]" line="126" column="58" />
+        <mark key="^" line="126" column="58" />
+        <mark key="." line="126" column="58" />
       </file>
       <file name="$USER_HOME$/A3a-test/ImageCrawler/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialLoopsCrawler.java" timestamp="1507771648161">
         <mark key="[" line="153" column="11" />
@@ -252,11 +252,12 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/FileCache.kt" timestamp="1508223039321">
-        <mark key="[" line="546" column="51" />
-        <mark key="]" line="546" column="52" />
-        <mark key="." line="546" column="52" />
-        <mark key="^" line="549" column="61" />
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/FileCache.kt" timestamp="1508271602754">
+        <mark key="'" line="31" column="28" />
+        <mark key="[" line="368" column="42" />
+        <mark key="]" line="368" column="43" />
+        <mark key="." line="368" column="43" />
+        <mark key="^" line="368" column="42" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/build.gradle" timestamp="1507783475292">
         <mark key="[" line="66" column="0" />
@@ -1359,7 +1360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="17" filename="$USER_HOME$/tools/Android/sdk/sources/android-26/android/content/SharedPreferences.java" />
       <jump line="36" column="0" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/app/Prefs.kt" />
       <jump line="117" column="3" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/app/Prefs.kt" />
       <jump line="33" column="5" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/app/Prefs.kt" />
@@ -1459,10 +1459,11 @@
       <jump line="165" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.1.1/a3ccb166581ff951d4e82ee8e7346356d0714a/glide-4.1.1-sources.jar!/com/bumptech/glide/RequestBuilder.java" />
       <jump line="369" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.1.1/a3ccb166581ff951d4e82ee8e7346356d0714a/glide-4.1.1-sources.jar!/com/bumptech/glide/RequestBuilder.java" />
       <jump line="13" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.1.1/a3ccb166581ff951d4e82ee8e7346356d0714a/glide-4.1.1-sources.jar!/com/bumptech/glide/RequestBuilder.java" />
+      <jump line="31" column="28" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/FileCache.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Post delay showing FAB 300 ms</text>
+        <text>read</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1642,13 +1643,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Post delay showing FAB 300 ms</text>
+        <text>read</text>
       </register>
       <register name="/" type="4">
-        <text>RequestListener</text>
+        <text>delay</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkZXIubGlzdGVuZXIob2JqZWN0IDogUmVxdWVzdExpc3RlbmVyPERyYXdhYmxlPiB7CiAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uUmVzb3VyY2VSZWFkeShyZXNvdXJjZTogRHJhd2FibGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlbDogQW55LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0OiBUYXJnZXQ8RHJhd2FibGU+LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YVNvdXJjZTogRGF0YVNvdXJjZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzRmlyc3RSZXNvdXJjZTogQm9vbGVhbik6IEJvb2xlYW4gewogICAgICAgICAgICAgICAgICAgICAgICBibG9jayh0cnVlKQogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2UgLy8gTGV0IEdsaWRlIHVwZGF0ZSB0aGUgdGFyZ2V0LgogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uTG9hZEZhaWxlZChlOiBHbGlkZUV4Y2VwdGlvbj8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlbDogQW55LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0OiBUYXJnZXQ8RHJhd2FibGU+LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNGaXJzdFJlc291cmNlOiBCb29sZWFuKTogQm9vbGVhbiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJsb2NrKGZhbHNlKQogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2UgLy8gTGV0IEdsaWRlIHVwZGF0ZSB0aGUgdGFyZ2V0LgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pLmludG8odGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc291cmNlLlN0YXRlLlJFQUQgLT4gInJlYWQiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
@@ -1690,9 +1691,9 @@
       </register>
     </registers>
     <search>
-      <last-search>RequestListener</last-search>
+      <last-search>delay</last-search>
       <last-offset />
-      <last-pattern>RequestListener</last-pattern>
+      <last-pattern>delay</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>RequestListener</last-substitute>
       <last-dir>1</last-dir>
@@ -1700,7 +1701,6 @@
     </search>
     <history>
       <history-search>
-        <entry>default</entry>
         <entry>observe</entry>
         <entry>progress</entry>
         <entry>bottom</entry>
@@ -1720,6 +1720,7 @@
         <entry>postDelayed</entry>
         <entry>listener</entry>
         <entry>RequestListener</entry>
+        <entry>delay</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
