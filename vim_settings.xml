@@ -210,6 +210,9 @@
         <mark key="^" line="42" column="24" />
         <mark key="." line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-26/android/view/View.java" timestamp="1508213662375">
+        <mark key="'" line="15705" column="13" />
+      </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/res/layout/search_view.xml" timestamp="1506617493585">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="21" />
@@ -624,13 +627,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" timestamp="1508212614964">
-        <mark key="a" line="412" column="17" />
-        <mark key="'" line="94" column="17" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="^" line="243" column="57" />
-        <mark key="." line="244" column="0" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" timestamp="1508214308448">
+        <mark key="a" line="399" column="17" />
+        <mark key="'" line="96" column="17" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateAndroidAssignmentDirectories.java" timestamp="1505876173463">
         <mark key="[" line="10" column="8" />
@@ -1069,6 +1071,14 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/extensions/ViewExt.kt" timestamp="1508213925504">
+        <mark key="a" line="40" column="0" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="29" />
+        <mark key="]" line="45" column="29" />
+        <mark key="^" line="53" column="41" />
+        <mark key="." line="45" column="29" />
+      </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Controller.java" timestamp="1506001074792">
         <mark key="[" line="149" column="65" />
         <mark key="]" line="150" column="27" />
@@ -1364,9 +1374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="42" filename="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/dependencies.gradle" />
-      <jump line="28" column="13" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/BindableAdapter.kt" />
-      <jump line="9" column="57" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/BindableAdapter.kt" />
       <jump line="30" column="0" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/EnumAdapter.kt" />
       <jump line="9" column="74" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/EnumAdapter.kt" />
       <jump line="24" column="12" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/EnumAdapter.kt" />
@@ -1464,10 +1471,13 @@
       <jump line="92" column="17" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="8" column="19" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/EnumAdapter.kt" />
       <jump line="81" column="16" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/Prefs.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/extensions/ViewExt.kt" />
+      <jump line="15629" column="8" filename="$USER_HOME$/tools/android/sdk/sources/android-26/android/view/View.java" />
+      <jump line="15705" column="13" filename="$USER_HOME$/tools/android/sdk/sources/android-26/android/view/View.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHRoYXQgd2lsbCBwcmV2ZW50IHRoZSBGQUIgZnJvbSBiZWluZyBzaG93biBpZiBhCg==</text>
+        <text encoding="base64">ICAgIGludGVybmFsIHZhciAK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1647,16 +1657,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Don't check visibility state because there's a timing issue</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>toString</text>
+        <text>postDel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJlaGF2aW9yLmlzQXV0b0hpZGVFbmFibGVkID0gZmFsc2UK</text>
+        <text encoding="base64">LyoqCiAqIFNhbWUgYXMgVmlldy5wb3N0RGVsYXllZCwgYnV0IHdpdGggcmV2ZXJzZWQgcGFyYW1ldGVycyBzbwogKiB0aGF0IHRoZSBjYWxsIGNhbiBiZSBwb3N0RGVsYXkoMTAwMCkgeyAuLi4uIH0KICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHRoYXQgd2lsbCBwcmV2ZW50IHRoZSBGQUIgZnJvbSBiZWluZyBzaG93biBpZiBhCg==</text>
+        <text encoding="base64">ICAgIGludGVybmFsIHZhciAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1664,40 +1674,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghYWN0aW9uRmFiLmlzU2hvd24pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhY3Rpb25GYWIuaXNTaG93bikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiZWhhdmlvdXIoKS5pc0F1dG9IaWRlRW5hYmxlZCA9IHRydWUK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghYWN0aW9uRmFiLmlzU2hvd24pIHsK</text>
+        <text encoding="base64">ZnVuIEFjdGl2aXR5LnBvc3REZWxheWVkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJlaGF2aW9yLmlzQXV0b0hpZGVFbmFibGVkID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJlaGF2aW9yLmlzQXV0b0hpZGVFbmFibGVkID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGlvbkZhYi5zaG93KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnIHsgIkRSQUdHSU5HIC4uLiIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG9jY2FzaW9uYWxseSByZW1haW4gaGlkZGVuIChzb21lIHNvcnQgb2YgdGltaW5nIGlzc3VlKS4K</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>toString</last-search>
+      <last-search>postDel</last-search>
       <last-offset />
-      <last-pattern>toString</last-pattern>
+      <last-pattern>postDel</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>notify</last-substitute>
       <last-dir>1</last-dir>
@@ -1705,7 +1715,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nullOffset</entry>
         <entry>seenDebugDrawer</entry>
         <entry>get</entry>
         <entry>put</entry>
@@ -1725,6 +1734,7 @@
         <entry>bottomSheetState</entry>
         <entry>Bindin</entry>
         <entry>toString</entry>
+        <entry>postDel</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
