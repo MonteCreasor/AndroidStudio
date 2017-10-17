@@ -19,12 +19,12 @@
         <mark key="^" line="65" column="7" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/androidTest/java/edu/vanderbilt/crawler/app/PrefsTest.kt" timestamp="1508198222532">
-        <mark key="a" line="205" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="44" column="36" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/androidTest/java/edu/vanderbilt/crawler/app/PrefsTest.kt" timestamp="1508201851422">
+        <mark key="a" line="211" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="46" column="48" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/res/layout/image_list_item.xml" timestamp="1507425559118">
         <mark key="[" line="22" column="62" />
@@ -739,13 +739,13 @@
         <mark key="^" line="31" column="27" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/Prefs.kt" timestamp="1508188717665">
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/Prefs.kt" timestamp="1508199757188">
         <mark key="a" line="31" column="23" />
         <mark key="'" line="49" column="2" />
-        <mark key="[" line="60" column="11" />
-        <mark key="]" line="60" column="11" />
-        <mark key="." line="60" column="11" />
-        <mark key="^" line="60" column="17" />
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="12" />
+        <mark key="." line="54" column="12" />
+        <mark key="^" line="54" column="12" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/test/java/edu/vanderbilt/crawler/utils/KotlinTest.kt" timestamp="1506620849485">
         <mark key="[" line="4" column="0" />
@@ -1461,7 +1461,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgeHh4ID0gaW50UHJlZiBhcyBLUHJvcGVydHkxPEFueSwgQW55Pgo=</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5qYXZhQ2xhc3MuZ2V0RGVjbAo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1641,7 +1641,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>if (instance.javaClass.getDeclaredField())</text>
+        <text>//val key = name ?: &quot;${this.name}.${property.name}&quot;, value)</text>
       </register>
       <register name="/" type="4">
         <text>Bindin</text>
@@ -1650,7 +1650,7 @@
         <text encoding="base64">ICAgICAgICB2YWwgaW50UHJlZjogSW50IGJ5IFByZWZlcmVuY2UoMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgeHh4ID0gaW50UHJlZiBhcyBLUHJvcGVydHkxPEFueSwgQW55Pgo=</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5qYXZhQ2xhc3MuZ2V0RGVjbAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1658,31 +1658,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeHh4ID0gaW50UHJlZiBhcyBLUHJvcGVydHkxPEFueSwgQW55Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRQcmVmLmphdmFDbGFzcy4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRQcmVmLmNsYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRQcmVmLmphdmFDbGFzcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJuYW1lID0gJG5hbWUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRQcmVmLmNsYXNzCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbmFtZSA9IGRlbGVnYXRlZC5qYXZhQ2xhc3MuCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKCJuYW1lID0gJG5hbWUiKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbmFtZSA9IGRlbGVnYXRlZC5qYXZhQ2xhc3MuCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJuYW1lID0gJG5hbWUiKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbmFtZSA9IGRlbGVnYXRlZC5qYXZhQ2xhc3MuCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
