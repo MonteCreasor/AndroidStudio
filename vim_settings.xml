@@ -1043,13 +1043,13 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" timestamp="1508383445906">
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" timestamp="1508384388514">
         <mark key="a" line="288" column="6" />
-        <mark key="'" line="248" column="56" />
-        <mark key="[" line="313" column="61" />
-        <mark key="]" line="313" column="64" />
-        <mark key="." line="313" column="64" />
-        <mark key="^" line="313" column="64" />
+        <mark key="'" line="295" column="12" />
+        <mark key="[" line="382" column="0" />
+        <mark key="]" line="382" column="14" />
+        <mark key="." line="382" column="14" />
+        <mark key="^" line="382" column="14" />
       </file>
       <file name="$USER_HOME$/android/doug/A3a/app/src/main/res/layout/search_view.xml" timestamp="1508222561026">
         <mark key="[" line="8" column="0" />
@@ -1467,10 +1467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="20" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
-      <jump line="356" column="20" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
-      <jump line="129" column="6" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
-      <jump line="243" column="4" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="666" column="15" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="34" column="22" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="5" column="0" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
@@ -1503,7 +1499,6 @@
       <jump line="43" column="4" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/KFileCache.kt" />
       <jump line="312" column="8" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/KFileCache.kt" />
       <jump line="344" column="17" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/KFileCache.kt" />
-      <jump line="293" column="53" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="411" column="16" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="705" column="22" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="350" column="44" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
@@ -1567,6 +1562,11 @@
       <jump line="74" column="48" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="19" column="11" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/KFileCache.kt" />
       <jump line="248" column="56" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="170" column="8" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="291" column="51" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="293" column="50" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="294" column="12" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="295" column="12" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1753,7 +1753,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>${</text>
+        <text>tag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9IHdoaWxlICgrK2kgJSAxMCAhPSAwKQo=</text>
@@ -1798,9 +1798,9 @@
       </register>
     </registers>
     <search>
-      <last-search>${</last-search>
+      <last-search>tag</last-search>
       <last-offset />
-      <last-pattern>${</last-pattern>
+      <last-pattern>tag</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>NOT</last-substitute>
       <last-dir>1</last-dir>
@@ -1808,7 +1808,6 @@
     </search>
     <history>
       <history-search>
-        <entry>error</entry>
         <entry>notifyOb</entry>
         <entry>@link String</entry>
         <entry>clear(</entry>
@@ -1826,8 +1825,9 @@
         <entry>getCachePath</entry>
         <entry>get(</entry>
         <entry>putIfA</entry>
-        <entry>getKey</entry>
         <entry>${</entry>
+        <entry>getKey</entry>
+        <entry>tag</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
