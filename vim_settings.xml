@@ -1029,13 +1029,13 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" timestamp="1508439258981">
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" timestamp="1508442353914">
         <mark key="a" line="487" column="18" />
-        <mark key="'" line="342" column="16" />
-        <mark key="[" line="105" column="45" />
-        <mark key="]" line="105" column="50" />
-        <mark key="." line="105" column="50" />
-        <mark key="^" line="105" column="50" />
+        <mark key="'" line="276" column="4" />
+        <mark key="[" line="409" column="31" />
+        <mark key="]" line="410" column="44" />
+        <mark key="." line="410" column="44" />
+        <mark key="^" line="410" column="44" />
       </file>
       <file name="$USER_HOME$/android/doug/A3a/app/src/main/res/layout/search_view.xml" timestamp="1508222561026">
         <mark key="[" line="8" column="0" />
@@ -1449,7 +1449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="41" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/CacheTest.kt" />
       <jump line="115" column="41" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/CacheTest.kt" />
       <jump line="138" column="40" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/CacheTest.kt" />
       <jump line="187" column="19" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/CacheTest.kt" />
@@ -1506,7 +1505,6 @@
       <jump line="489" column="19" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="564" column="26" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="620" column="20" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
-      <jump line="488" column="15" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="487" column="0" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="385" column="16" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="470" column="31" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
@@ -1549,10 +1547,12 @@
       <jump line="475" column="35" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="247" column="20" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="342" column="16" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="488" column="43" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="276" column="4" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1732,10 +1732,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>newItem</text>
+        <text>getKey</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgICAgICJodHRwOi8vPHBhdGg+IiwK</text>
@@ -1780,9 +1780,9 @@
       </register>
     </registers>
     <search>
-      <last-search>newItem</last-search>
+      <last-search>getKey</last-search>
       <last-offset />
-      <last-pattern>newItem</last-pattern>
+      <last-pattern>getKey</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>NOT</last-substitute>
       <last-dir>1</last-dir>
@@ -1806,10 +1806,10 @@
         <entry>new Item</entry>
         <entry>newItemFromFile</entry>
         <entry>putIfAbsent</entry>
-        <entry>getKey</entry>
         <entry>stripAu</entry>
         <entry>key</entry>
         <entry>newItem</entry>
+        <entry>getKey</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
