@@ -671,12 +671,12 @@
         <mark key="." line="438" column="41" />
         <mark key="^" line="438" column="41" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1508487965926">
-        <mark key="'" line="136" column="28" />
-        <mark key="[" line="136" column="12" />
-        <mark key="]" line="136" column="12" />
-        <mark key="." line="136" column="14" />
-        <mark key="^" line="92" column="32" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1508654554646">
+        <mark key="'" line="129" column="28" />
+        <mark key="[" line="78" column="41" />
+        <mark key="]" line="78" column="65" />
+        <mark key="^" line="78" column="65" />
+        <mark key="." line="78" column="65" />
       </file>
       <file name="$USER_HOME$/android/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/AdminHelpers.java" timestamp="1506737989303">
         <mark key="[" line="229" column="0" />
@@ -696,12 +696,13 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" timestamp="1508490745767">
-        <mark key="'" line="317" column="16" />
-        <mark key="[" line="293" column="56" />
-        <mark key="]" line="294" column="46" />
-        <mark key="^" line="294" column="46" />
-        <mark key="." line="294" column="46" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" timestamp="1508656256518">
+        <mark key="a" line="352" column="8" />
+        <mark key="'" line="352" column="8" />
+        <mark key="[" line="326" column="41" />
+        <mark key="]" line="330" column="24" />
+        <mark key="." line="330" column="24" />
+        <mark key="^" line="326" column="23" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateAndroidAssignmentDirectories.java" timestamp="1505876173463">
         <mark key="[" line="10" column="8" />
@@ -1528,9 +1529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="29" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
-      <jump line="443" column="8" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
-      <jump line="262" column="16" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="441" column="0" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="203" column="5" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="202" column="14" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialStreamsCrawler.java" />
@@ -1628,10 +1626,13 @@
       <jump line="363" column="47" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
       <jump line="362" column="44" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
       <jump line="343" column="69" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
+      <jump line="43" column="28" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
+      <jump line="320" column="12" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
+      <jump line="330" column="8" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1811,16 +1812,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>item</text>
+        <text>crawlFinished</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQXR0ZW1wdCB0byBjcmVhdGUgYSBuZXcgY2FjaGUgaXRlbSBmb3IgdGhpcyB0cmFuc2Zvcm0gYW5kIAogICAgICAgICAgICAvLyBhbmQgdXNlIGZpbHRlcigpIHRvIG9ubHkgcGFzcyBhbG9uZyB0aGUgaW1hZ2UgaWYgYSBuZXcgY2FjaGUKICAgICAgICAgICAgLy8gaXRlbSB3YXMgYWN0dWFsbHkgY3JlYXRlZCAoaS5lLiB3YXMgbm90IGFscmVhZHkgaW4gdGhlIGNhY2hlKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGltZVVuaXQuTUlMTElTRUNPTkRTLnRvU2Vjb25kcyhlbGFwc2VkVGltZSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaGFkIGFuIGV4aXN0aW5nIGNhY2hlIGVudHJ5ICh3YXMgbm90IGNyZWF0ZWQpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1828,40 +1829,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYW5kIGFuZCB1c2UgZmlsdGVyKCkgdG8gaWdub3JlIHRoaXMgdHJhbnNmb3JtIGlmIGFscmVhZHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQXR0ZW1wdCB0byBjcmVhdGUgYSBuZXcgY2FjaGUgaXRlbSBmb3IgdGhpcyB0cmFuc2Zvcm0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaXRlbSB3YXMgYWN0dWFsbHkgY3JlYXRlZCAoaS5lLiB3YXMgbm90IGFscmVhZHkgaW4gdGhlIGNhY2hlKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYW5kIHVzZSBmaWx0ZXIoKSB0byBvbmx5IHBhc3MgYWxvbmcgdGhlIGltYWdlIGlmIGEgbmV3IGNhY2hlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQXR0ZW1wdCB0byBjcmVhdGUgYSBuZXcgY2FjaGUgaXRlbSBmb3IgdGhpcyB0cmFuc2Zvcm0gYW5kIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYW5kIGFuZCBpZ25vcmUgdGhpcyB0cmFuc2Zvcm0gaWYgaXQgYWxyZWFkeSBoYWQgYW4gZXhpc3RpbmcgY2FjaGUgZW50cnkgKHdhcyBub3QgY3JlYXRlZCkuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQXR0ZW1wdCB0byBjcmVhdGUgYSBuZXcgY2FjaGUgaXRlbSBmb3IgdGhpcyB0cmFuc2Zvcm0K</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY2FjaGUgZW50cnkgKHdhcyBub3QgY3JlYXRlZCkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>item</last-search>
+      <last-search>crawlFinished</last-search>
       <last-offset />
-      <last-pattern>item</last-pattern>
+      <last-pattern>crawlFinished</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>buildLocal</last-substitute>
       <last-dir>1</last-dir>
@@ -1869,8 +1870,6 @@
     </search>
     <history>
       <history-search>
-        <entry>imte</entry>
-        <entry>getObjects</entry>
         <entry>processImge</entry>
         <entry>processImage</entry>
         <entry>collect</entry>
@@ -1889,6 +1888,8 @@
         <entry>getItem</entry>
         <entry>newItem</entry>
         <entry>item</entry>
+        <entry>onCrawlC</entry>
+        <entry>crawlFinished</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
