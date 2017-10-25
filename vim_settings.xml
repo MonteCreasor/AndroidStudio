@@ -193,12 +193,12 @@
         <mark key="^" line="14" column="9" />
         <mark key="." line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" timestamp="1508849551620">
-        <mark key="'" line="141" column="32" />
-        <mark key="[" line="130" column="64" />
-        <mark key="]" line="130" column="65" />
-        <mark key="." line="130" column="65" />
-        <mark key="^" line="130" column="65" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" timestamp="1508890902914">
+        <mark key="'" line="63" column="31" />
+        <mark key="[" line="171" column="27" />
+        <mark key="]" line="172" column="32" />
+        <mark key="." line="172" column="32" />
+        <mark key="^" line="172" column="32" />
       </file>
       <file name="$USER_HOME$/A3a-test/ImageCrawler/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/SequentialLoopsCrawler.java" timestamp="1507771648161">
         <mark key="[" line="153" column="11" />
@@ -1514,7 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="8" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/SynchronizedCacheMap.java" />
       <jump line="8" column="8" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/SynchronizedCacheMap.java" />
       <jump line="133" column="0" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/SynchronizedCacheMap.java" />
       <jump line="32" column="5" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/SynchronizedCacheMap.java" />
@@ -1614,10 +1613,11 @@
       <jump line="506" column="0" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
       <jump line="494" column="22" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
       <jump line="213" column="34" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
+      <jump line="66" column="31" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGlvbkZhYi5jbGVhcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1800,13 +1800,13 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>fun update</text>
+        <text>crawlStopped</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGlvbkZhYi5jbGVhcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGlvbkZhYi5zZXRJbWFnZURyYXdhYmxlKG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1814,40 +1814,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGlvbkZhYi5zZXRJbWFnZURyYXdhYmxlKG51bGwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyBDbGVhciB0aGUgY2FuY2VsbGVkIGZsYWcgZnJvbSBhIHByZXZpb3VzIHJ1bgogICAgICAgIG1DYW5jZWxsZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNhbmNlbGxlZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyBDbGVhciB0aGUgY2FuY2VsbGVkIGZsYWcgZnJvbSBhIHByZXZpb3VzIHJ1bgogICAgICAgIG1DYW5jZWxsZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUNhbmNlbGxlZCA9IGZhbHNlOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFpblZpZXdNb2RlbC5DcmF3bFN0YXRlLkZBSUxFRCAtPiBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFpblZpZXdNb2RlbC5DcmF3bFN0YXRlLkNPTVBMRVRFRCAtPiBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFpblZpZXdNb2RlbC5DcmF3bFN0YXRlLkZBSUxFRCAtPiBUT0RPKCkK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>fun update</last-search>
+      <last-search>crawlStopped</last-search>
       <last-offset />
-      <last-pattern>fun update</last-pattern>
+      <last-pattern>crawlStopped</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>buildLocal</last-substitute>
       <last-dir>1</last-dir>
@@ -1855,7 +1855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Obser</entry>
         <entry>update</entry>
         <entry>showFab</entry>
         <entry>updateViewS</entry>
@@ -1875,6 +1874,7 @@
         <entry>this</entry>
         <entry>isC</entry>
         <entry>fun update</entry>
+        <entry>crawlStopped</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
