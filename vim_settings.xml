@@ -682,6 +682,14 @@
         <mark key="^" line="84" column="41" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" timestamp="1509047693868">
+        <mark key="a" line="429" column="0" />
+        <mark key="'" line="486" column="20" />
+        <mark key="[" line="405" column="4" />
+        <mark key="]" line="405" column="12" />
+        <mark key="." line="405" column="12" />
+        <mark key="^" line="405" column="12" />
+      </file>
       <file name="$USER_HOME$/android/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/AdminHelpers.java" timestamp="1506737989303">
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="0" />
@@ -1057,10 +1065,12 @@
         <mark key="^" line="192" column="1" />
         <mark key="." line="192" column="1" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KCoroutineCrawler.kt" timestamp="1509046258394">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KCoroutineCrawler.kt" timestamp="1509048060352">
+        <mark key="a" line="74" column="34" />
+        <mark key="[" line="74" column="54" />
+        <mark key="]" line="75" column="19" />
+        <mark key="^" line="75" column="19" />
+        <mark key="." line="75" column="19" />
       </file>
       <file name="$USER_HOME$/android/samples/permissions/best/async-permissions/build.gradle" timestamp="1506879893587">
         <mark key="[" line="4" column="33" />
@@ -1556,9 +1566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="4" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
-      <jump line="475" column="25" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
-      <jump line="75" column="37" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="230" column="51" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="274" column="63" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="283" column="12" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
@@ -1656,10 +1663,13 @@
       <jump line="62" column="61" filename="$USER_HOME$/android/doug/A3a/app/build.gradle" />
       <jump line="63" column="57" filename="$USER_HOME$/android/doug/A3a/app/build.gradle" />
       <jump line="80" column="38" filename="$USER_HOME$/android/doug/A3a/app/build.gradle" />
+      <jump line="74" column="12" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
+      <jump line="150" column="33" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
+      <jump line="486" column="20" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>coroutines_version = '0.18'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3luYyhDb21tb25Qb29sKSB7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1839,16 +1849,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>coroutines_version = '0.18'</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>kotlin</text>
+        <text>getCache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpyZTg6JGtvdGxpbl92ZXJzaW9uIgogICAgaW1wbGVtZW50YXRpb24gIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1yZWZsZWN0OiRrb3RsaW5fdmVyc2lvbiIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluJwoK</text>
+        <text encoding="base64">ICAgICAgICBhc3luYyhDb21tb25Qb29sKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1856,40 +1866,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicK</text>
+        <text encoding="base64">ICAgICAgICByZXR1bnIgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpbWFnZSB0aGUgZG93bmxvYWQgYW5kIHJldHVybiB0aGUgaW1hZ2UuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjcmF3bFAK</text>
+        <text encoding="base64">ICAgICAgICAvLyB3YXMgY3JlYXRlZCAoaS5lLiB3YXNuJ3QgYWxyZWFkeSBpbiB0aGUgY2FjaGUpLCB0aGVuIGRvd25sb2FkIHRoZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBBdHRlbXB0IHRvIGNyZWF0ZSBhIG5ldyBjYWNoZSBpdGVtIGZvciB0aGlzIGltYWdlLiBJZiBhIGNhY2hlIGl0ZW0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHJldmlzaXQgaXQgYWdhaW4gdW5uZWNlc3NhcmlseS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGFuZCBhZGQgdGhlIG5ldyB1cmkgdG8gdGhlIGhhc2hzZXQgc28gd2UgZG9uJ3QgdHJ5IHRvCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2coIkdldHRpbmcgaW1hZ2U6ICVzIiwgdXJsLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIENoZWNrIHRvIHNlZSBpZiB3ZSd2ZSBhbHJlYWR5IHZpc2l0ZWQgdGhpcyBVcmkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGFjY2Vzc2libGUgdmlhIHRoaXMgcGFnZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>kotlin</last-search>
+      <last-search>getCache</last-search>
       <last-offset />
-      <last-pattern>kotlin</last-pattern>
+      <last-pattern>getCache</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>buildLocal</last-substitute>
       <last-dir>1</last-dir>
@@ -1897,8 +1907,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apply</entry>
-        <entry>@NotNull</entry>
         <entry>Lock\.lock</entry>
         <entry>Lock.unlock</entry>
         <entry>\.unlock</entry>
@@ -1917,6 +1925,8 @@
         <entry>Items:</entry>
         <entry>updateTool</entry>
         <entry>kotlin</entry>
+        <entry>getImageCache</entry>
+        <entry>getCache</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
