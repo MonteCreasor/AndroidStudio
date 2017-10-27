@@ -208,11 +208,10 @@
         <mark key="^" line="24" column="34" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" timestamp="1509061663183">
-        <mark key="[" line="52" column="17" />
-        <mark key="]" line="52" column="21" />
-        <mark key="." line="52" column="21" />
-        <mark key="^" line="52" column="21" />
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" timestamp="1509062754474">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/android/samples/kotlin/KotlinTestDemo/app/src/test/kotlin/org/sergiiz/thermometer/ThermoConverterTestKotlin.kt" timestamp="1507061609086">
         <mark key="[" line="14" column="8" />
@@ -1570,7 +1569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="63" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="283" column="12" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="349" column="52" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="478" column="37" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
@@ -1670,10 +1668,11 @@
       <jump line="150" column="33" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
       <jump line="486" column="20" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
       <jump line="345" column="20" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
+      <jump line="52" column="25" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1853,16 +1852,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>getCache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdCA9IG1ldGhvZC5pbnZva2UoY3Jhd2xlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXkuYWRkQWxsKGIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5wbHVzQXNzaWduKCppbWFnZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1870,31 +1869,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5wbHVzQXNzaWduKGltYWdlcy50bykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2UuYXdhaXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aERlZmVycyB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKGl0KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkQWxsKGltYWdlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQoaW1hZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXkuYWRkQWxsKGMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3MoIlVOQ0hFQ0tFRF9DQVNUIikKICAgICAgICBsaXN0IGFzIExpc3Q8VHJhbnNmb3JtLlR5cGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXkuYWRkQWxsKGIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbGlzdDogTGlzdDxUcmFuc2Zvcm0uVHlwZT4/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXkuYWRkQWxsKGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGMgPSBBcnJheUxpc3Q8U3RyaW5nPigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
