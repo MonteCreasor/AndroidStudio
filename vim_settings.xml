@@ -137,13 +137,13 @@
         <mark key="." line="72" column="64" />
         <mark key="^" line="72" column="64" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler2.kt" timestamp="1509154711146">
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler2.kt" timestamp="1509156177686">
         <mark key="a" line="30" column="20" />
-        <mark key="'" line="68" column="40" />
-        <mark key="[" line="122" column="47" />
-        <mark key="]" line="122" column="62" />
-        <mark key="." line="122" column="62" />
-        <mark key="^" line="122" column="62" />
+        <mark key="'" line="64" column="45" />
+        <mark key="[" line="74" column="15" />
+        <mark key="]" line="74" column="25" />
+        <mark key="." line="74" column="25" />
+        <mark key="^" line="74" column="25" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateFilesLocalCrawlDirectory.java" timestamp="1505858225169">
         <mark key="[" line="27" column="29" />
@@ -1594,7 +1594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="492" column="29" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="260" column="30" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="286" column="0" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="379" column="8" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
@@ -1693,11 +1692,12 @@
       <jump line="52" column="28" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler2.kt" />
       <jump line="53" column="28" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler2.kt" />
       <jump line="67" column="39" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler2.kt" />
-      <jump line="68" column="40" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler2.kt" />
+      <jump line="68" column="16" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler2.kt" />
+      <jump line="64" column="45" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler2.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?.coerceAtLeast(1)</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1877,16 +1877,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?.coerceAtLeast(1)</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>CommonPool</text>
+        <text>getOrDown</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGRlZmF1bHRQYXJhbGxlbGlzbSgpID0gcG9vbFNpemUvLyhSdW50aW1lLmdldFJ1bnRpbWUoKS5hdmFpbGFibGVQcm9jZXNzb3JzKCkgLSAxKS5jb2VyY2VBdExlYXN0KDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBmdW4gZGVmYXVsdFBhcmFsbGVsaXNtKCkgPSAoUnVudGltZS5nZXRSdW50aW1lKCkuYXZhaWxhYmxlUHJvY2Vzc29ycygpIC0gMSkuY29lcmNlQXRMZWFzdCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1894,40 +1894,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBleGVjdXRvclNlcnZpY2U6IEV4ZWN1dG9yU2VydmljZT8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGltYWdlIGluIGltYWdlcykgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2UgPSBFeGVjdXRvcnMubmV3Rml4ZWRUaHJlYWRQb29sKGltYWdlVXJscy5zaXplKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDdXN0b21Qb29sLnBvb2xTaXplID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBFeGVjdHUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC4K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFeGVjdXRvcnMubmV3Rml4ZWRUaHJlYWRQb29sKGltYWdlVXJscy5zaXplKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldE9yRG93bmxvYWRJbWFnZShpdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb25Qb29sLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnQgKz0gaW1hZ2VzLmF3YWl0KCkuY291bnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zZnJtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGltYWdlcyA9IGFzeW5jKEN1c3RvbVBvb2wpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>CommonPool</last-search>
+      <last-search>getOrDown</last-search>
       <last-offset />
-      <last-pattern>CommonPool</last-pattern>
+      <last-pattern>getOrDown</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>buildLocal</last-substitute>
       <last-dir>1</last-dir>
@@ -1935,7 +1935,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\.lock</entry>
         <entry>tools</entry>
         <entry>updateTitle</entry>
         <entry>Tracker</entry>
@@ -1955,6 +1954,7 @@
         <entry>clearA</entry>
         <entry>createPool</entry>
         <entry>CommonPool</entry>
+        <entry>getOrDown</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
