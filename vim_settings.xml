@@ -64,11 +64,11 @@
         <mark key="^" line="53" column="81" />
         <mark key="." line="53" column="81" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxConcurrentCrawler.java" timestamp="1509319029910">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="27" column="24" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxConcurrentCrawler.java" timestamp="1509319640659">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="7" />
+        <mark key="^" line="36" column="7" />
+        <mark key="." line="36" column="7" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/future_assignments/Assignment2cLocalCrawlerTest.java" timestamp="1505880227531">
         <mark key="[" line="23" column="48" />
@@ -638,7 +638,7 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509318751451">
+      <file name="/Dummy.txt" timestamp="1509319039987">
         <mark key="e" line="0" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
@@ -710,12 +710,12 @@
         <mark key="^" line="84" column="41" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" timestamp="1509315943289">
-        <mark key="'" line="349" column="20" />
-        <mark key="[" line="577" column="11" />
-        <mark key="]" line="577" column="20" />
-        <mark key="." line="577" column="20" />
-        <mark key="^" line="577" column="20" />
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" timestamp="1509319729284">
+        <mark key="'" line="165" column="48" />
+        <mark key="[" line="202" column="79" />
+        <mark key="]" line="203" column="19" />
+        <mark key="." line="203" column="19" />
+        <mark key="^" line="203" column="19" />
       </file>
       <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1509067604778">
         <mark key="'" line="152" column="8" />
@@ -1592,8 +1592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="49" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
-      <jump line="530" column="29" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
       <jump line="14" column="44" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
       <jump line="15" column="44" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
       <jump line="529" column="29" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
@@ -1692,10 +1690,12 @@
       <jump line="137" column="17" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler2.kt" />
       <jump line="139" column="8" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler2.kt" />
       <jump line="83" column="0" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxCrawler1.java" />
+      <jump line="577" column="30" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
+      <jump line="165" column="48" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogdGhlIG90aGVyIGltcGxlbWVudGF0aW9uIHN0cmF0ZWdpZXMuCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJvY2Vzc2VkIA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1875,16 +1875,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OnRx Java parallel</text>
+        <text encoding="base64">cHJvY2Vzc2VkIA==</text>
       </register>
       <register name="/" type="4">
-        <text>usePrivatePool</text>
+        <text>performCrawl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIFRoaXMgdXNlcyBSeEphdmEgT2JzZXJ2YWJsZXMgdG8gcGVyZm9ybSBhIHNlcXVlbnRpYWwgImltYWdlCiAqIGNyYXdsIiBzdGFydGluZyBmcm9tIGEgcm9vdCBVcmkuICBJbWFnZXMgZnJvbSBIVE1MIHBhZ2UgcmVhY2hhYmxlCiAqIGZyb20gdGhlIHJvb3QgVXJpIGFyZSBkb3dubG9hZGVkIGZyb20gYSByZW1vdGUgd2ViIHNlcnZlciBvciB0aGUKICogbG9jYWwgZmlsZSBzeXN0ZW0gYW5kIHN0b3JlZCBpbiBmaWxlcyB0aGF0IGNhbiBiZSBkaXNwbGF5ZWQgdG8gdGhlCiAqIHVzZXIuCiAqIDxwPgogKiBUaGlzIGltcGxlbWVudGF0aW9uIGlzIGVudGlyZWx5IHNlcXVlbnRpYWwgYW5kIHVzZXMgUnggSmF2YSBwYXJhbGxlbAogKiBmZWF0dXJlcyBhdCBhbGwuICBJdCB0aGVyZWZvcmUgc2VydmVzIGFzIGEgYmFzZWxpbmUgdG8gY29tcGFyZSBhbGwKICogdGhlIG90aGVyIGltcGxlbWVudGF0aW9uIHN0cmF0ZWdpZXMuCiAqIDxwPgogKiBTZWUgaHR0cHM6Ly93d3cubWt5b25nLmNvbS9qYXZhL2pzb3VwLWJhc2ljLXdlYi1jcmF3bGVyLWV4YW1wbGUgZm9yCiAqIGFuIG92ZXJ2aWV3IG9mIGhvdyB0byB3cml0ZSBhIHdlYiBjcmF3bGVyIHVzaW5nIGpzb3VwLgogKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogdGhlIG90aGVyIGltcGxlbWVudGF0aW9uIHN0cmF0ZWdpZXMuCg==</text>
+        <text encoding="base64">ICAgICAqIGltYWdlLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1892,40 +1892,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogZmVhdHVyZXMgYXQgYWxsLiAgSXQgdGhlcmVmb3JlIHNlcnZlcyBhcyBhIGJhc2VsaW5lIHRvIGNvbXBhcmUgYWxsCg==</text>
+        <text encoding="base64">ICogdGhyZWFkcyBpcyBjb250cm9sbGVkIGJ5IGVhY2ggbWV0aG9kIHRoYXQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogYW4gb3ZlcnZpZXcgb2YgaG93IHRvIHdyaXRlIGEgd2ViIGNyYXdsZXIgdXNpbmcganNvdXAuCg==</text>
+        <text encoding="base64">ICogdGhlIG90aGVyIGltcGxlbWVudGF0aW9uIHN0cmF0ZWdpZXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogU2VlIGh0dHBzOi8vd3d3Lm1reW9uZy5jb20vamF2YS9qc291cC1iYXNpYy13ZWItY3Jhd2xlci1leGFtcGxlIGZvcgo=</text>
+        <text encoding="base64">ICogZmVhdHVyZXMgYXQgYWxsLiAgSXQgdGhlcmVmb3JlIHNlcnZlcyBhcyBhIGJhc2VsaW5lIHRvIGNvbXBhcmUgYWxsCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogPHA+Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogdGhlIG90aGVyIGltcGxlbWVudGF0aW9uIHN0cmF0ZWdpZXMuCg==</text>
+        <text encoding="base64">ICogYW4gb3ZlcnZpZXcgb2YgaG93IHRvIHdyaXRlIGEgd2ViIGNyYXdsZXIgdXNpbmcganNvdXAuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogZmVhdHVyZXMgYXQgYWxsLiAgSXQgdGhlcmVmb3JlIHNlcnZlcyBhcyBhIGJhc2VsaW5lIHRvIGNvbXBhcmUgYWxsCg==</text>
+        <text encoding="base64">ICogU2VlIGh0dHBzOi8vd3d3Lm1reW9uZy5jb20vamF2YS9qc291cC1iYXNpYy13ZWItY3Jhd2xlci1leGFtcGxlIGZvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogVGhpcyBpbXBsZW1lbnRhdGlvbiBpcyBlbnRpcmVseSBzZXF1ZW50aWFsIGFuZCB1c2VzIG5vIEphdmEgOAo=</text>
+        <text encoding="base64">ICogPHA+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>usePrivatePool</last-search>
+      <last-search>performCrawl</last-search>
       <last-offset />
-      <last-pattern>usePrivatePool</last-pattern>
+      <last-pattern>performCrawl</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>buildLocal</last-substitute>
       <last-dir>1</last-dir>
@@ -1933,7 +1933,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Tracker</entry>
         <entry>onSav</entry>
         <entry>fun update</entry>
         <entry>handle</entry>
@@ -1953,6 +1952,7 @@
         <entry>getOrDown</entry>
         <entry>userPrivatePool</entry>
         <entry>usePrivatePool</entry>
+        <entry>performCrawl</entry>
       </history-search>
       <history-cmd>
         <entry>set i</entry>
