@@ -43,7 +43,7 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1509321253929">
+      <file name="/a.dummy" timestamp="1509332906879">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/android/doug/TestApp/imageLib/src/test/kotlin/edu/vanderbilt/imagelib/SomeClassTest.kt" timestamp="1507059984370">
@@ -141,13 +141,6 @@
         <mark key="]" line="72" column="65" />
         <mark key="." line="72" column="64" />
         <mark key="^" line="72" column="64" />
-      </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler2.kt" timestamp="1509160197115">
-        <mark key="a" line="30" column="20" />
-        <mark key="'" line="139" column="8" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="94" />
-        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateFilesLocalCrawlDirectory.java" timestamp="1505858225169">
         <mark key="[" line="27" column="29" />
@@ -516,8 +509,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxSequentialCrawler.java" timestamp="1509328323341">
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxSequentialCrawler.java" timestamp="1509333403249">
         <mark key="a" line="22" column="2" />
+        <mark key="[" line="56" column="53" />
+        <mark key="]" line="57" column="31" />
+        <mark key="." line="57" column="31" />
+        <mark key="^" line="57" column="31" />
       </file>
       <file name="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/app/src/main/java/ru/ltst/u2020mvp/base/mvp/BasePresenter.kt" timestamp="1507844975339">
         <mark key="[" line="51" column="27" />
@@ -548,6 +545,11 @@
         <mark key="]" line="3" column="49" />
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
+      </file>
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxSequentialCrawlerExceptionHandling.java" timestamp="1509332673163">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" timestamp="1506362056914">
         <mark key="[" line="113" column="69" />
@@ -705,12 +707,12 @@
         <mark key="^" line="84" column="41" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" timestamp="1509332580058">
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" timestamp="1509332789338">
         <mark key="'" line="357" column="52" />
-        <mark key="[" line="341" column="14" />
-        <mark key="]" line="341" column="23" />
-        <mark key="." line="341" column="23" />
-        <mark key="^" line="341" column="23" />
+        <mark key="[" line="582" column="69" />
+        <mark key="]" line="582" column="70" />
+        <mark key="." line="582" column="70" />
+        <mark key="^" line="583" column="34" />
       </file>
       <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1509322273793">
         <mark key="'" line="152" column="8" />
@@ -1595,6 +1597,12 @@
         <mark key="." line="7" column="62" />
         <mark key="^" line="7" column="62" />
       </file>
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxSequentialCrawler2.java" timestamp="1509333372088">
+        <mark key="[" line="49" column="64" />
+        <mark key="]" line="49" column="84" />
+        <mark key="." line="49" column="84" />
+        <mark key="^" line="49" column="84" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="43" column="6" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
@@ -1699,8 +1707,8 @@
       <jump line="164" column="37" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxConcurrentCrawler2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbWFnZSBpbWFnZSA9IGltYWdlU2luZ2xlLmJsb2NraW5nR2V0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>imagesOnPageObservable</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1880,16 +1888,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>imageSingle</text>
+        <text>imagesOnPageObservable</text>
       </register>
       <register name="/" type="4">
         <text>empty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFNpbmdsZS5uZXZlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBSWF9DT05DVVJSRU5UX0NSQVdMRVIyKFJ4Q29uY3VycmVudENyYXdsZXJXaXRoVHJ5Q2F0Y2guY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbWFnZSBpbWFnZSA9IGltYWdlU2luZ2xlLmJsb2NraW5nR2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHBhZ2VPYnNlcnZhYmxlLm1lcmdlV2l0aChpbWFnZU9ic2VydmFibGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1897,31 +1905,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFnZU9ic2VydmFibGUgPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW1hZ2UgaSA9IGltYWdlLmJsb2NraW5nR2V0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW1hZ2UgaSA9IGltYWdlLmJsb2NraW5nR2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGltYWdlLkJsKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICB9LCBCYWNrcHJlc3N1cmVTdHJhdGVneS5CVUZGRVIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gU2luZ2xlLm5ldmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ4VHJhbnNmb3JtT2JzZXJ2YWJsZSh1cmwsIG1UcmFuc2Zvcm1zKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT2JzZXJ2YWJsZS5lcnJvcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
