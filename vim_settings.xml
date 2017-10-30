@@ -528,6 +528,14 @@
         <mark key="." line="57" column="31" />
         <mark key="^" line="57" column="31" />
       </file>
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler.java" timestamp="1509139070445">
+        <mark key="a" line="134" column="8" />
+        <mark key="'" line="54" column="23" />
+        <mark key="[" line="128" column="37" />
+        <mark key="]" line="128" column="37" />
+        <mark key="^" line="128" column="39" />
+        <mark key="." line="128" column="37" />
+      </file>
       <file name="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/app/src/main/java/ru/ltst/u2020mvp/base/mvp/BasePresenter.kt" timestamp="1507844975339">
         <mark key="[" line="51" column="27" />
         <mark key="]" line="51" column="28" />
@@ -922,6 +930,7 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="21" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.6/bc9c98d51bade8ad2f03ac8c44d219c1818c40f5/rxjava-2.1.6-sources.jar!/io/reactivex/Observable.java" timestamp="1509341907009" />
       <file name="$USER_HOME$/android/doug/ImageCrawler1/A3a/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/Assignment3aLocalCrawlerTest.java" timestamp="1507714835018">
         <mark key="[" line="28" column="65" />
         <mark key="]" line="28" column="65" />
@@ -1427,11 +1436,13 @@
         <mark key="^" line="23" column="51" />
         <mark key="." line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxParallelCrawler.java" timestamp="1509341285498">
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxParallelCrawler.java" timestamp="1509341884099">
+        <mark key="a" line="113" column="41" />
         <mark key="'" line="42" column="42" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
+        <mark key="[" line="122" column="34" />
+        <mark key="]" line="122" column="33" />
+        <mark key="." line="122" column="33" />
+        <mark key="^" line="122" column="33" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateJavaAssignment2bDirectories.java" timestamp="1505876309083">
         <mark key="[" line="18" column="21" />
@@ -1731,8 +1742,8 @@
       <jump line="42" column="42" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxParallelCrawler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnBhcmFsbGVsKCkK</text>
+      <register name="&quot;" type="4">
+        <text>applySchedulers</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1912,7 +1923,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>applySchedulers</text>
       </register>
       <register name="/" type="4">
         <text>blocking</text>
