@@ -700,7 +700,7 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509511825638">
+      <file name="/Dummy.txt" timestamp="1509581148433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/res/layout/webview_url_item.xml" timestamp="1507424643360">
@@ -1439,12 +1439,11 @@
         <mark key="^" line="76" column="11" />
         <mark key="." line="70" column="54" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxJava/RxConcurrentCrawler.java" timestamp="1509576459584">
-        <mark key="'" line="65" column="64" />
-        <mark key="[" line="62" column="73" />
-        <mark key="]" line="63" column="21" />
-        <mark key="^" line="63" column="21" />
-        <mark key="." line="63" column="21" />
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxJava/RxConcurrentCrawler.java" timestamp="1509583064736">
+        <mark key="[" line="80" column="37" />
+        <mark key="]" line="80" column="41" />
+        <mark key="^" line="80" column="41" />
+        <mark key="." line="80" column="41" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/extensions/ViewExt.kt" timestamp="1507681042474">
         <mark key="[" line="36" column="18" />
@@ -1805,8 +1804,8 @@
       <jump line="66" column="64" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxJava/RxConcurrentCrawler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpbHRlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>optionalImage</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1986,16 +1985,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>optionalImage</text>
       </register>
       <register name="/" type="4">
         <text>Observable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5mcm9tSXRlcmFibGUocGFnZS5nZXRQYWdlRWxlbWVudHNBc1VybHMoSU1BR0UpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIEFwcGx5IHRocmVhZCBzY2hlZHVsZXIgc3RyYXRlZ3kgZm9yIGZsYXRNYXAgY2FsbC4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpbHRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJbWFnZSBpbWFnZSA9IG9wdGlvbmFsSW1hZ2UuZ2V0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2003,31 +2002,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBHZXQgdGhlIGltYWdlIGZyb20gdGhlIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZsdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG5leHQgZmxhdE1hcCBjYWxsLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIEFwcGx5IHRocmVhZCBzY2hlZHVsZXIgc3RyYXRlZ3kgdG8gYmUgdXNlZCBpbiB0aGUK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gb3B0aW9uYWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG5leHQgZmxhdE1hcCBjYWxsLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIEFwcGx5IHRocmVhZCBzY2hlZHVsZXIgc3RyYXRlZ3kgZm9yIGZsYXRNYXAgY2FsbC50byBiZSB1c2VkIGluIHRoZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbmV4dCBmbGF0TWFwIGNhbGwuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoeCAtPiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGVhY2ggZWxlbWVudCBvZiB0aGUgZmxhdCBtYXBwZWQgc3RyZWFtLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHNvIHRoYXQgc2NoZWR1bGVyIHdpbGwgYWxsb2NhdGUgdGhyZWFkcyBmb3IK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
