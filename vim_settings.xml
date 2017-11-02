@@ -1209,6 +1209,13 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/app/src/debug/java/ru/ltst/u2020mvp/ui/debug/DebugView.kt" timestamp="1509645615334">
+        <mark key="'" line="322" column="15" />
+        <mark key="[" line="318" column="21" />
+        <mark key="]" line="319" column="15" />
+        <mark key="^" line="319" column="15" />
+        <mark key="." line="319" column="15" />
+      </file>
       <file name="$USER_HOME$/android/samples/live-data/android-liveData-viewModel/build.gradle" timestamp="1507088541949">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="17" column="31" />
@@ -1758,7 +1765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="49" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxParallelCrawler.java" />
       <jump line="62" column="22" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxParallelCrawler.java" />
       <jump line="63" column="58" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxParallelCrawler.java" />
       <jump line="69" column="22" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxParallelCrawler.java" />
@@ -1858,10 +1864,11 @@
       <jump line="28" column="0" filename="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/dependencies.gradle" />
       <jump line="31" column="8" filename="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/dependencies.gradle" />
       <jump line="68" column="0" filename="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/dependencies.gradle" />
+      <jump line="322" column="15" filename="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/app/src/debug/java/ru/ltst/u2020mvp/ui/debug/DebugView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggZ3JhZGxlUGx1Z2lucy5rb3RsaW4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2041,7 +2048,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGFzayA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>retro</text>
@@ -2050,7 +2057,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogU2V0cyB0aGUgY3Jhd2wgc3BlZWQuCiAgICAgKiBAcGFyYW0gc3BlZWQgVmFsdWUgZnJvbSAwIHRvIDEwMCUKICAgICAqLwogICAgcHVibGljIHZvaWQgc2V0Q3Jhd2xTcGVlZChpbnQgc3BlZWQpIHsKICAgICAgICBjcmF3bFNwZWVkID0gc3BlZWQ7CiAgICB9CiAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggZ3JhZGxlUGx1Z2lucy5rb3RsaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2058,28 +2065,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAib3JnLmpldGJyYWlucy5rb3RsaW4ua2FwdCIgdmVyc2lvbiAiMS4xLjUxIgogICAgaWQgIm9yZy5qZXRicmFpbnMua290bGluLmp2bSIgdmVyc2lvbiAiMS4xLjUxIgp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggZ3JhZGxlUGx1Z2lucy5rb3RsaW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXRyb2xhbWJkYSAgICAgICAgICAgICA6ICJtZS50YXRhcmthOmdyYWRsZS1yZXRyb2xhbWJkYTokdmVyc2lvbnMucmV0cm9sYW1iZGFHcmFkbGVQbHVnaW4iLAo=</text>
+        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAib3JnLmpldGJyYWlucy5rb3RsaW4ua2FwdCIgdmVyc2lvbiAiMS4xLjUxIgogICAgaWQgIm9yZy5qZXRicmFpbnMua290bGluLmp2bSIgdmVyc2lvbiAiMS4xLjUxIgp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9hcHBseSBwbHVnaW46ICdtZS50YXRhcmthLnJldHJvbGFtYmRhJwo=</text>
+        <text encoding="base64">ICAgICAgICByZXRyb2xhbWJkYSAgICAgICAgICAgICA6ICJtZS50YXRhcmthOmdyYWRsZS1yZXRyb2xhbWJkYTokdmVyc2lvbnMucmV0cm9sYW1iZGFHcmFkbGVQbHVnaW4iLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWFuZHJvaWQnCg==</text>
+        <text encoding="base64">Ly9hcHBseSBwbHVnaW46ICdtZS50YXRhcmthLnJldHJvbGFtYmRhJwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSByb290UHJvamVjdC5idWlsZERpcgo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWFuZHJvaWQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGFzayBjbGVhbih0eXBlOiBEZWxldGUpIHsK</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSByb290UHJvamVjdC5idWlsZERpcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTWFwIHRoZSBvcGVyYXRpb24gYW5kIGl0ZW0gdG8gYW4gYXBwbGljYXRpb24gcmVzb3VyY2UuCg==</text>
+        <text encoding="base64">dGFzayBjbGVhbih0eXBlOiBEZWxldGUpIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gTWFwIHRoZSBvcGVyYXRpb24gYW5kIGl0ZW0gdG8gYW4gYXBwbGljYXRpb24gcmVzb3VyY2UuCg==</text>
