@@ -816,12 +816,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" timestamp="1509980256677">
-        <mark key="a" line="56" column="20" />
-        <mark key="'" line="198" column="19" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" timestamp="1509981580154">
+        <mark key="'" line="338" column="64" />
+        <mark key="[" line="197" column="12" />
+        <mark key="]" line="197" column="40" />
+        <mark key="." line="197" column="40" />
+        <mark key="^" line="197" column="40" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateAndroidAssignmentDirectories.java" timestamp="1505876173463">
         <mark key="[" line="10" column="8" />
@@ -1715,7 +1715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="15" filename="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/app/src/debug/java/ru/ltst/u2020mvp/ui/debug/DebugView.kt" />
       <jump line="212" column="70" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxJava/RxObservableCrawler.java" />
       <jump line="64" column="0" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxJava/RxParallelFlowableCrawler.java" />
       <jump line="8" column="41" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxJava/RxParallelFlowableCrawler.java" />
@@ -1815,10 +1814,11 @@
       <jump line="209" column="31" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
       <jump line="233" column="20" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
       <jump line="197" column="19" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
+      <jump line="338" column="64" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY3Jhd2xDYW5jZWxsZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1998,16 +1998,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>crawl</text>
       </register>
       <register name="/" type="4">
-        <text>Click</text>
+        <text>startCrawl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJ0aHJlYWQ6ICR7cmVzb3VyY2UudGhyZWFkfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY3Jhd2xDYW5jZWxsZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2015,40 +2015,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNyYXdsQ2FuY2VsbGVkOiBCb29sZWFuID0gZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNyYXdsQ2FuY2VsbGVkOiBCb29sZWFuCgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3Jhd2xDYW5jZWxsZWQpIHsKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNyYXdsQ2FuY2VsbGVkOiBCb29sZWFuID0gZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNyYXdsQ2FuY2VsbGVkOiBCb29sZWFuCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzdGF0ZSA9IGlmIChjYW5jZWxsZWQpIENBTkNFTCBlbHNlIENMT1NFCiAgICAgICAgICAgICAgICBzdXBlci5yZXBsYWNlSXRlbShwb3MsIGl0ZW0uY29weShzdGF0ZSA9IHN0YXRlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0ZW0uc3RhdGUgIT0gUmVzb3VyY2UuU3RhdGUuQ0xPU0UpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>Click</last-search>
+      <last-search>startCrawl</last-search>
       <last-offset />
-      <last-pattern>Click</last-pattern>
+      <last-pattern>startCrawl</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>buildLocal</last-substitute>
       <last-dir>1</last-dir>
@@ -2056,7 +2056,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s  in</entry>
         <entry>parellel()</entry>
         <entry>parallel</entry>
         <entry>0</entry>
@@ -2076,6 +2075,7 @@
         <entry>println</entry>
         <entry>CANCEL</entry>
         <entry>Click</entry>
+        <entry>startCrawl</entry>
       </history-search>
       <history-cmd>
         <entry>set icc</entry>
