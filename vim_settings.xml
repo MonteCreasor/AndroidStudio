@@ -116,13 +116,13 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxJava/RxObservableCrawler.java" timestamp="1510270363745">
-        <mark key="a" line="61" column="35" />
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="75" column="64" />
-        <mark key="]" line="75" column="64" />
-        <mark key="." line="75" column="64" />
-        <mark key="^" line="75" column="64" />
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxJava/RxObservableCrawler.java" timestamp="1510285126442">
+        <mark key="a" line="96" column="31" />
+        <mark key="'" line="79" column="6" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="16" />
+        <mark key="." line="116" column="16" />
+        <mark key="^" line="113" column="15" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/platform/AndroidPlatform.kt" timestamp="1505848873174">
         <mark key="[" line="51" column="28" />
@@ -319,6 +319,12 @@
         <mark key="]" line="20" column="15" />
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/Android/sandbox/RxSandbox/app/src/test/java/monte/apps/rxsandbox/ExampleUnitTest.kt" timestamp="1510286174975">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="29" />
       </file>
       <file name="$USER_HOME$/android/samples/fab/circular-with-floating-action-button/progress-fab/build.gradle" timestamp="1508737529965">
         <mark key="[" line="13" column="0" />
@@ -1811,7 +1817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="557" column="20" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="560" column="16" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="562" column="16" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="266" column="8" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
@@ -1911,10 +1916,11 @@
       <jump line="64" column="40" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxJava/RxObservableCrawler.java" />
       <jump line="581" column="35" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
       <jump line="82" column="0" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxJava/RxObservableCrawler.java" />
+      <jump line="79" column="6" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxJava/RxObservableCrawler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>map{maybe(it)}</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2094,16 +2100,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>map{maybe(it)}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSeE9ic2VydmFibGVQYXJhbGxlbFw+</text>
+        <text>compose</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEFwcGx5IHNjaGVkdWxlciB0byB1cHN0cmVhbSBPYnNlcnZhYmxlIHNvIHRoYXQKICAgICAgICAgICAgICAgIC8vIGVhY2ggcmVjdXJzaXZlIGNhbGwgY2FuIGJlIHJ1biBvbiBhIG5ldyBpbyB0aHJlYWQuCiAgICAgICAgICAgICAgICAuY29tcG9zZShhcHBseVNjaGVkdWxlcnMoKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBTZXF1ZW50aWFsOiBubyBzY2hlZHVsZXJzIGFwcGxpZWQuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gUGFyYWxsZWw6IHJ1bnMgdGhpcyBPYnNlcnZhYmxlIG9uIGEgbmV3IHRocmVhZC4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY29tcG9zZShhcHBseVNjaGVkdWxlcnMoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcHBseVNjaGVkdWxlcnMoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2111,40 +2117,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGFwcGx5U2NoZWR1bGVycygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGVhY2ggcmVjdXJzaXZlIGNhbGwgY2FuIGJlIHJ1biBvbiBhIG5ldyBpbyB0aHJlYWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGFwcGx5U2NoZWR1bGVycygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEFwcGx5IHNjaGVkdWxlciB0byB1cHN0cmVhbSBPYnNlcnZhYmxlIHNvIHRoYXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEFwcGx5IHRocmVhZCBzY2hlZHVsZXIgc3RyYXRlZ3kgZm9yIGZsYXRNYXAgY2FsbC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG1heGltdW0gZGVwdGggYW5kIGhhcyBub3QgeWV0IGJlZW4gcHJvY2Vzc2VkLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSeE9ic2VydmFibGVQYXJhbGxlbFw+</last-search>
+      <last-search>compose</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSeE9ic2VydmFibGVQYXJhbGxlbFw+</last-pattern>
+      <last-pattern>compose</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>buildLocal</last-substitute>
       <last-dir>1</last-dir>
@@ -2152,7 +2158,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mPadding</entry>
         <entry>ringSize</entry>
         <entry>circle</entry>
         <entry>round</entry>
@@ -2172,6 +2177,7 @@
         <entry>flatMap</entry>
         <entry>rxImagesOnP</entry>
         <entry encoding="base64">XDxSeE9ic2VydmFibGVQYXJhbGxlbFw+</entry>
+        <entry>compose</entry>
       </history-search>
       <history-cmd>
         <entry>e asdf</entry>
