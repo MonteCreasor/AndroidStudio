@@ -840,7 +840,7 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1510453209723">
+      <file name="/fragment.java" timestamp="1510498951852">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -972,6 +972,7 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" timestamp="1510499240631" />
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/test/java/edu/vanderbilt/crawler/utils/KotlinTest.kt" timestamp="1506620849485">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1014,6 +1015,10 @@
         <mark key="]" line="28" column="65" />
         <mark key="." line="28" column="65" />
         <mark key="^" line="28" column="63" />
+      </file>
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/Settings.kt" timestamp="1510499207193">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="75" />
       </file>
       <file name="$USER_HOME$/android/KotlinTests/app/src/main/java/edu/vanderbilt/kotlintests/Foo.kt" timestamp="1507076167041">
         <mark key="[" line="6" column="0" />
@@ -1431,10 +1436,6 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/fragments/WebViewUrlFragment.kt" timestamp="1510432453403">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="31" />
-      </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/extensions/GlideExt.kt" timestamp="1506617959941">
         <mark key="[" line="10" column="3" />
         <mark key="]" line="10" column="25" />
@@ -1740,6 +1741,12 @@
         <mark key="^" line="38" column="58" />
         <mark key="." line="40" column="63" />
       </file>
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/SettingsDialogFragment.kt" timestamp="1510499150988">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="15" />
+        <mark key="." line="46" column="15" />
+        <mark key="^" line="46" column="15" />
+      </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/res/values/strings.xml" timestamp="1507361134806">
         <mark key="[" line="28" column="46" />
         <mark key="]" line="28" column="46" />
@@ -1802,7 +1809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="36" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="341" column="25" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="516" column="16" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
       <jump line="519" column="16" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/activities/MainActivity.kt" />
@@ -1902,10 +1908,11 @@
       <jump line="137" column="9" filename="$USER_HOME$/android/doug/A3a/app/src/main/res-screen/settings/layout/settings_dialog_fragment.xml" />
       <jump line="34" column="71" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/fragments/SettingsDialogFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/fragments/SettingsDialogFragment.kt" />
+      <jump line="44" column="26" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/SettingsDialogFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>text1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2085,16 +2092,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>text1</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>Header</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW4gZ2V0TmFtZShpdGVtOiBUPyk6IFN0cmluZyA9IGl0ZW0udG9TdHJpbmcoKQp9Cg==</text>
+        <text encoding="base64">ICAgIHZhciB0cmFuc2Zvcm1UeXBlc1NldHRpbmc6IExpc3Q8VHJhbnNmb3JtLlR5cGU+IGJ5IFByZWZlcmVuY2UobGlzdE9mKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2102,31 +2109,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3ZGQK</text>
+        <text encoding="base64">ICAgIHZhciB0cmFuc2Zvcm1UeXBlc1NldHRpbmc6IExpc3Q8VHJhbnNmb3JtLlR5cGU+IGJ5IFByZWZlcmVuY2UobGlzdE9mKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR0aW5nc1RyYW5zZm9ybXNHcm91cAo=</text>
+        <text encoding="base64">ICAgIHZhciB0cmFuc2Zvcm1UeXBlc1NldHRpbmc6IExpc3Q8VHJhbnNmb3JtLlR5cGU+IGJ5IFByZWZlcmVuY2UobGlzdE9mKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdHJhbnNmb3JtVHlwZXNTZXR0aW5nOiBMaXN0PFRyYW5zZm9ybS5UeXBlPiBieSBQcmVmZXJlbmNlKGxpc3RPZigpKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGl0ZW1JZCA9IEZJTFRFUl9TVUJNRU5VX0dST1VQX0lEICsgdHJhbnNmb3JtLm9yZGluYWwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZEl0ZW0oaXRlbUlkKT8uaXNDaGVja2VkID0gdHJhbnNmb3JtVHlwZXMuY29udGFpbnModHJhbnNmb3JtKQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3ZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZEl0ZW0oaXRlbUlkKT8uaXNDaGVja2VkID0gdHJhbnNmb3JtVHlwZXMuY29udGFpbnModHJhbnNmb3JtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!!</text>
