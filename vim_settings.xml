@@ -230,7 +230,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/actions/ActionTimeDialog.java" timestamp="1510675917446" />
       <file name="$USER_HOME$/vandy/grader/client/src/main/java/edu/vanderbilt/grader/client/TestResults.java" timestamp="1500688517370">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -241,13 +240,13 @@
         <mark key="]" line="23" column="27" />
         <mark key="." line="23" column="27" />
       </file>
-      <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" timestamp="1510335037221">
+      <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" timestamp="1510708541938">
         <mark key="a" line="253" column="24" />
-        <mark key="'" line="454" column="68" />
-        <mark key="[" line="254" column="8" />
-        <mark key="]" line="253" column="9" />
-        <mark key="." line="254" column="9" />
-        <mark key="^" line="253" column="9" />
+        <mark key="'" line="289" column="16" />
+        <mark key="[" line="265" column="67" />
+        <mark key="]" line="265" column="67" />
+        <mark key="." line="265" column="74" />
+        <mark key="^" line="265" column="28" />
       </file>
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/default.properties" timestamp="1501787205110">
         <mark key="[" line="0" column="0" />
@@ -302,7 +301,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/views/actions/Action.java" timestamp="1510675973620" />
       <file name="$USER_HOME$/android/samples/urban-airship/android-samples/build.gradle" timestamp="1506820334741">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="15" />
@@ -433,8 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="10" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/BaseApp.java" />
-      <jump line="78" column="6" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="158" column="20" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="234" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="146" column="5" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
@@ -533,10 +529,12 @@
       <jump line="51" column="61" filename="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="53" column="58" filename="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="447" column="68" filename="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
+      <jump line="265" column="21" filename="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
+      <jump line="289" column="16" filename="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">MTEtMTAgMTI6MzA6MzYuNTIwIDk4NjAtOTg2MC9lZHUudmFuZGVyYmlsdC5lbWEubXlkYXkuZGVidWcg</text>
+        <text>theUrl</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -716,10 +714,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MTEtMTAgMTI6MzA6MzYuNTIwIDk4NjAtOTg2MC9lZHUudmFuZGVyYmlsdC5lbWEubXlkYXkuZGVidWcg</text>
+        <text>theUrl</text>
       </register>
       <register name="/" type="4">
-        <text>onFailure</text>
+        <text>snippet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCg==</text>
@@ -762,9 +760,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onFailure</last-search>
+      <last-search>snippet</last-search>
       <last-offset />
-      <last-pattern>onFailure</last-pattern>
+      <last-pattern>snippet</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
@@ -772,7 +770,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onPer</entry>
         <entry>onR</entry>
         <entry>onRequest</entry>
         <entry>onRe</entry>
@@ -792,6 +789,7 @@
         <entry>imageView</entry>
         <entry>may</entry>
         <entry>onFailure</entry>
+        <entry>snippet</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
