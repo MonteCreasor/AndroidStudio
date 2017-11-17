@@ -113,6 +113,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/utils/NetworkUtils.java" timestamp="1510947938565" />
       <file name="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/http/data/ShareInfo.java" timestamp="1506564178426">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -129,6 +130,12 @@
         <mark key="]" line="23" column="61" />
         <mark key="." line="23" column="61" />
         <mark key="^" line="23" column="61" />
+      </file>
+      <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/utils/RxUtils.java" timestamp="1510947951122">
+        <mark key="a" line="25" column="48" />
+        <mark key="'" line="25" column="48" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="63" column="5" />
       </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1510329240332" />
       <file name="$USER_HOME$/vandy/test-assignments/LocationTracker_Asgn_0_1/build.gradle" timestamp="1504486726334">
@@ -438,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/build.gradle" />
       <jump line="76" column="55" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/TodayActivity.java" />
       <jump line="80" column="38" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/receivers/LocationUpdatesBroadcastReceiver.java" />
       <jump line="69" column="5" filename="$USER_HOME$/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/receivers/LocationUpdatesBroadcastReceiver.java" />
@@ -538,10 +544,11 @@
       <jump line="418" column="34" filename="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="424" column="25" filename="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
       <jump line="410" column="35" filename="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/ui/activities/WebViewActivity.java" />
+      <jump line="25" column="48" filename="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay/app/src/main/java/edu/vanderbilt/ema/myday/utils/RxUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgUnhCcm9hZGNhc3RSZWNlaXZlciBpbXBsZW1lbnRzIE9ic2VydmFibGVPblN1YnNjcmliZTxJbnRlbnQ+IHsKICAgICAgICBATm9uTnVsbAogICAgICAgIHByaXZhdGUgZmluYWwgV2Vha1JlZmVyZW5jZTxDb250ZXh0PiB3ZWFrQ29udGV4dDsKICAgICAgICBATm9uTnVsbAogICAgICAgIHByaXZhdGUgZmluYWwgSW50ZW50RmlsdGVyIGludGVudEZpbHRlcjsKCiAgICAgICAgcHJpdmF0ZSBSeEJyb2FkY2FzdFJlY2VpdmVyKEBOb25OdWxsIENvbnRleHQgY29udGV4dCwgQE5vbk51bGwgSW50ZW50RmlsdGVyIGludGVudEZpbHRlcikgewogICAgICAgICAgICB3ZWFrQ29udGV4dCA9IG5ldyBXZWFrUmVmZXJlbmNlPD4oY29udGV4dC5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7CiAgICAgICAgICAgIHRoaXMuaW50ZW50RmlsdGVyID0gaW50ZW50RmlsdGVyOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBPYnNlcnZhYmxlPEludGVudD4gY3JlYXRlKENvbnRleHQgY29udGV4dCwgSW50ZW50RmlsdGVyIGludGVudEZpbHRlcikgewogICAgICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5kZWZlcigKICAgICAgICAgICAgICAgICAgICAoKSAtPiBPYnNlcnZhYmxlLmNyZWF0ZShuZXcgUnhCcm9hZGNhc3RSZWNlaXZlcihjb250ZXh0LCBpbnRlbnRGaWx0ZXIpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkKICAgICAgICAgICAgKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIHN1YnNjcmliZShPYnNlcnZhYmxlRW1pdHRlcjxJbnRlbnQ+IGVtaXR0ZXIpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgICAgICBCcm9hZGNhc3RSZWNlaXZlciBicm9hZGNhc3RSZWNlaXZlciA9IG5ldyBCcm9hZGNhc3RSZWNlaXZlcigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25SZWNlaXZlKENvbnRleHQgY29udGV4dCwgSW50ZW50IGludGVudCkgewogICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KGludGVudCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGVtaXR0ZXIuc2V0RGlzcG9zYWJsZShEaXNwb3NhYmxlcy5mcm9tUnVubmFibGUoKCkgLT4gewogICAgICAgICAgICAgICAgQ29udGV4dCBjb250ZXh0ID0gd2Vha0NvbnRleHQuZ2V0KCk7CiAgICAgICAgICAgICAgICBpZiAoY29udGV4dCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgY29udGV4dC51bnJlZ2lzdGVyUmVjZWl2ZXIoYnJvYWRjYXN0UmVjZWl2ZXIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KSk7CgogICAgICAgICAgICBDb250ZXh0IGNvbnRleHQgPSB3ZWFrQ29udGV4dC5nZXQoKTsKICAgICAgICAgICAgaWYgKGNvbnRleHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgY29udGV4dC5yZWdpc3RlclJlY2VpdmVyKGJyb2FkY2FzdFJlY2VpdmVyLCBpbnRlbnRGaWx0ZXIpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -727,7 +734,7 @@
         <text>shouldInter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5pKCJzaG91bGRJbnRlcmNlcHRSZXF1ZXN0OiB1cmwgPSAlcyIsIHVybCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgUnhCcm9hZGNhc3RSZWNlaXZlciBpbXBsZW1lbnRzIE9ic2VydmFibGVPblN1YnNjcmliZTxJbnRlbnQ+IHsKICAgICAgICBATm9uTnVsbAogICAgICAgIHByaXZhdGUgZmluYWwgV2Vha1JlZmVyZW5jZTxDb250ZXh0PiB3ZWFrQ29udGV4dDsKICAgICAgICBATm9uTnVsbAogICAgICAgIHByaXZhdGUgZmluYWwgSW50ZW50RmlsdGVyIGludGVudEZpbHRlcjsKCiAgICAgICAgcHJpdmF0ZSBSeEJyb2FkY2FzdFJlY2VpdmVyKEBOb25OdWxsIENvbnRleHQgY29udGV4dCwgQE5vbk51bGwgSW50ZW50RmlsdGVyIGludGVudEZpbHRlcikgewogICAgICAgICAgICB3ZWFrQ29udGV4dCA9IG5ldyBXZWFrUmVmZXJlbmNlPD4oY29udGV4dC5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7CiAgICAgICAgICAgIHRoaXMuaW50ZW50RmlsdGVyID0gaW50ZW50RmlsdGVyOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBPYnNlcnZhYmxlPEludGVudD4gY3JlYXRlKENvbnRleHQgY29udGV4dCwgSW50ZW50RmlsdGVyIGludGVudEZpbHRlcikgewogICAgICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5kZWZlcigKICAgICAgICAgICAgICAgICAgICAoKSAtPiBPYnNlcnZhYmxlLmNyZWF0ZShuZXcgUnhCcm9hZGNhc3RSZWNlaXZlcihjb250ZXh0LCBpbnRlbnRGaWx0ZXIpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkKICAgICAgICAgICAgKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIHN1YnNjcmliZShPYnNlcnZhYmxlRW1pdHRlcjxJbnRlbnQ+IGVtaXR0ZXIpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgICAgICBCcm9hZGNhc3RSZWNlaXZlciBicm9hZGNhc3RSZWNlaXZlciA9IG5ldyBCcm9hZGNhc3RSZWNlaXZlcigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25SZWNlaXZlKENvbnRleHQgY29udGV4dCwgSW50ZW50IGludGVudCkgewogICAgICAgICAgICAgICAgICAgIGVtaXR0ZXIub25OZXh0KGludGVudCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGVtaXR0ZXIuc2V0RGlzcG9zYWJsZShEaXNwb3NhYmxlcy5mcm9tUnVubmFibGUoKCkgLT4gewogICAgICAgICAgICAgICAgQ29udGV4dCBjb250ZXh0ID0gd2Vha0NvbnRleHQuZ2V0KCk7CiAgICAgICAgICAgICAgICBpZiAoY29udGV4dCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgY29udGV4dC51bnJlZ2lzdGVyUmVjZWl2ZXIoYnJvYWRjYXN0UmVjZWl2ZXIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KSk7CgogICAgICAgICAgICBDb250ZXh0IGNvbnRleHQgPSB3ZWFrQ29udGV4dC5nZXQoKTsKICAgICAgICAgICAgaWYgKGNvbnRleHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgY29udGV4dC5yZWdpc3RlclJlY2VpdmVyKGJyb2FkY2FzdFJlY2VpdmVyLCBpbnRlbnRGaWx0ZXIpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIGV4cG9ydGVkPSIiIHNjb3BlPSJURVNUIiBuYW1lPSJqdW5pdC00LjEyIiBsZXZlbD0icHJvamVjdCIgLz4K</text>
