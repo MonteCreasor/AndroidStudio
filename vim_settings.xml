@@ -655,11 +655,12 @@
         <mark key="." line="51" column="28" />
         <mark key="^" line="51" column="28" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/PrefObservable.kt" timestamp="1510948490315">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="31" column="3" />
-        <mark key="." line="31" column="3" />
-        <mark key="^" line="31" column="3" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/PrefObservable.kt" timestamp="1510950049051">
+        <mark key="'" line="29" column="44" />
+        <mark key="[" line="29" column="55" />
+        <mark key="]" line="29" column="55" />
+        <mark key="." line="29" column="55" />
+        <mark key="^" line="29" column="55" />
       </file>
       <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/maindrawer/MainDrawerActivity.kt" timestamp="1510549913321">
         <mark key="'" line="17" column="0" />
@@ -1958,7 +1959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="670" column="29" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="148" column="7" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="157" column="39" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="164" column="57" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
@@ -2058,10 +2058,11 @@
       <jump line="90" column="45" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/Prefs.kt" />
       <jump line="93" column="65" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/Prefs.kt" />
       <jump line="99" column="28" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/Prefs.kt" />
+      <jump line="29" column="44" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/preferences/PrefObservable.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>intent</text>
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2241,10 +2242,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>intent</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>getSharedPre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgb25TaGFyZWRQcmVmZXJlbmNlQ2hhbmdlTGlzdGVuZXIgPQo=</text>
@@ -2289,9 +2290,9 @@
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>getSharedPre</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>getSharedPre</last-pattern>
       <last-replace>26.0.1</last-replace>
       <last-substitute>buildLocal</last-substitute>
       <last-dir>1</last-dir>
@@ -2299,7 +2300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toolbar</entry>
         <entry>layer</entry>
         <entry>onClick</entry>
         <entry>initToo</entry>
@@ -2319,6 +2319,7 @@
         <entry>style</entry>
         <entry>color</entry>
         <entry>default</entry>
+        <entry>getSharedPre</entry>
       </history-search>
       <history-cmd>
         <entry>g/,/s//,\r/g</entry>
