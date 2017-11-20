@@ -1569,6 +1569,11 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/PalantiriModel.kt" timestamp="1511150454573">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+      </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Controller.java" timestamp="1506001074792">
         <mark key="[" line="149" column="65" />
         <mark key="]" line="150" column="27" />
@@ -1766,6 +1771,7 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/android/doug/A3a/build.gradle" timestamp="1511150516290" />
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/JavaImageCache.kt" timestamp="1507713551449">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="16" />
@@ -1944,6 +1950,13 @@
         <mark key="." line="9" column="61" />
         <mark key="^" line="9" column="61" />
       </file>
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/dependencies.gradle" timestamp="1511150578346">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="20" column="1" />
+      </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Cache.kt" timestamp="1507082349503">
         <mark key="[" line="27" column="39" />
         <mark key="]" line="22" column="36" />
@@ -2000,7 +2013,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="14" filename="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/app/src/debug/res/layout/debug_view_content.xml" />
       <jump line="138" column="14" filename="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/app/src/debug/res/layout/debug_view_content.xml" />
       <jump line="149" column="14" filename="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/app/src/debug/res/layout/debug_view_content.xml" />
       <jump line="164" column="14" filename="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/app/src/debug/res/layout/debug_view_content.xml" />
@@ -2100,10 +2112,11 @@
       <jump line="21" column="3" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/presenter/BeingRunnable.java" />
       <jump line="177" column="32" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/presenter/BeingRunnable.java" />
       <jump line="216" column="0" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/presenter/BeingRunnable.java" />
+      <jump line="1" column="12" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>ergotron1</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2283,10 +2296,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>ergotron1</text>
       </register>
       <register name="/" type="4">
-        <text>mState</text>
+        <text>=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRTdGF0ZShTdGF0ZS5SRUxFQVNJTkcpOwo=</text>
@@ -2327,15 +2340,15 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2trCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>s/=/:/g</text>
       </register>
     </registers>
     <search>
-      <last-search>mState</last-search>
+      <last-search>=</last-search>
       <last-offset />
-      <last-pattern>mState</last-pattern>
-      <last-replace>26.0.1</last-replace>
-      <last-substitute>buildLocal</last-substitute>
+      <last-pattern>=</last-pattern>
+      <last-replace>:</last-replace>
+      <last-substitute>=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -2355,17 +2368,14 @@
         <entry>onDes</entry>
         <entry>Strategy</entry>
         <entry encoding="base64">XDxjb21cPg==</entry>
-        <entry>=</entry>
         <entry>const</entry>
         <entry>expre</entry>
         <entry>espre</entry>
         <entry>Options</entry>
         <entry>mState</entry>
+        <entry>=</entry>
       </history-search>
       <history-cmd>
-        <entry>g/,/s//,\r/g</entry>
-        <entry>r</entry>
-        <entry>st ic</entry>
         <entry>:w</entry>
         <entry>q!1</entry>
         <entry>s/@Nonnull //g</entry>
@@ -2383,6 +2393,9 @@
         <entry>w!</entry>
         <entry>w</entry>
         <entry>set ic</entry>
+        <entry>s/=/:/g</entry>
+        <entry>gs/=/:/</entry>
+        <entry>g/=/s//:/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
