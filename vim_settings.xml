@@ -1056,13 +1056,12 @@
         <mark key="." line="167" column="14" />
         <mark key="^" line="167" column="14" />
       </file>
-      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" timestamp="1511245560707">
-        <mark key="a" line="39" column="0" />
-        <mark key="'" line="44" column="17" />
-        <mark key="[" line="41" column="52" />
-        <mark key="]" line="65" column="61" />
-        <mark key="." line="41" column="55" />
-        <mark key="^" line="65" column="61" />
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" timestamp="1511246858186">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="47" />
+        <mark key="." line="72" column="45" />
+        <mark key="^" line="72" column="45" />
       </file>
       <file name="$USER_HOME$/android/doug/A3a/app/src/test/java/edu/vanderbilt/crawler/admin/AssignmentBuilder.java" timestamp="1508477843056">
         <mark key="[" line="46" column="8" />
@@ -2203,7 +2202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/res-screen/settings/layout/settings_dialog_fragment.xml" />
       <jump line="46" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/27.0.1/6151785902da520bd0b31a9b943623721f9ff203/support-fragment-27.0.1-sources.jar!/android/support/v4/app/DialogFragment.java" />
       <jump line="289" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/27.0.1/6151785902da520bd0b31a9b943623721f9ff203/support-fragment-27.0.1-sources.jar!/android/support/v4/app/DialogFragment.java" />
       <jump line="290" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/27.0.1/6151785902da520bd0b31a9b943623721f9ff203/support-fragment-27.0.1-sources.jar!/android/support/v4/app/DialogFragment.java" />
@@ -2299,14 +2297,15 @@
       <jump line="84" column="18" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/MainActivity.kt" />
       <jump line="119" column="12" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/MainActivity.kt" />
       <jump line="44" column="51" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/MainActivity.kt" />
-      <jump line="45" column="19" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="34" column="5" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="35" column="31" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="44" column="17" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" />
+      <jump line="45" column="8" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" />
+      <jump line="43" column="0" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>I</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRDdXN0b21TZWVrQmFyTGlzdGVuZXIoZ2F6aW5nU2Vla0JhcikK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2486,16 +2485,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>speedSeekBar</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiZWluZ3NTZWVrQmFyLm1heCA9IFNldHRpbmdzLk1BWF9CRUlOR1MK</text>
+        <text encoding="base64">ICAgICAgICBzZXRDdXN0b21TZWVrQmFyTGlzdGVuZXIoZ2F6aW5nU2Vla0JhcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYWxhbnRpclNlZWtCYXIubWF4KDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2503,13 +2502,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi50b29sYmFyLioK</text>
+        <text encoding="base64">ICAgICAgICBzZWVrYmFyLnNldE9uVG91Y2hMaXN0ZW5lcihvYmplY3QgOiBMaXN0Vmlldy5PblRvdWNoTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIGZ1biBvblRvdWNoKHY6IFZpZXcsIGV2ZW50OiBNb3Rpb25FdmVudCk6IEJvb2xlYW4gewogICAgICAgICAgICAgICAgdmFsIGFjdGlvbiA9IGV2ZW50LmFjdGlvbgogICAgICAgICAgICAgICAgd2hlbiAoYWN0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX0RPV04gLT4KICAgICAgICAgICAgICAgICAgICAgICAgLy8gRGlzYWxsb3cgRHJhd2VyIHRvIGludGVyY2VwdCB0b3VjaCBldmVudHMuCiAgICAgICAgICAgICAgICAgICAgICAgIHYucGFyZW50LnJlcXVlc3REaXNhbGxvd0ludGVyY2VwdFRvdWNoRXZlbnQodHJ1ZSkKCiAgICAgICAgICAgICAgICAgICAgTW90aW9uRXZlbnQuQUNUSU9OX1VQIC0+CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIEFsbG93IERyYXdlciB0byBpbnRlcmNlcHQgdG91Y2ggZXZlbnRzLgogICAgICAgICAgICAgICAgICAgICAgICB2LnBhcmVudC5yZXF1ZXN0RGlzYWxsb3dJbnRlcmNlcHRUb3VjaEV2ZW50KGZhbHNlKQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIC8vIEhhbmRsZSBzZWVrYmFyIHRvdWNoIGV2ZW50cy4KICAgICAgICAgICAgICAgIHYub25Ub3VjaEV2ZW50KGV2ZW50KQogICAgICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBwYWxhbnRpclNlZWtCYXIubWF4KDIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi50b29sYmFyLioK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICovCg==</text>
@@ -2518,16 +2517,16 @@
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaW11bC50ZXh0ID0gKGl0ICsgMSkudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaW11bC50ZXh0ID0gKGl0ICsgMSkudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50VmlldyEhLmRpc3BhdGNoVG91Y2hFdmVudChtb3Rpb25VcEV2ZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
