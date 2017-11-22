@@ -48,12 +48,13 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511339078064">
-        <mark key="a" line="90" column="43" />
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511341597040">
+        <mark key="a" line="143" column="43" />
+        <mark key="'" line="123" column="49" />
+        <mark key="[" line="62" column="76" />
+        <mark key="]" line="62" column="77" />
+        <mark key="^" line="137" column="48" />
+        <mark key="." line="62" column="77" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/test/java/edu/vanderbilt/crawler/utils/DummyTest.java" timestamp="1506620288143">
         <mark key="[" line="0" column="30" />
@@ -2222,7 +2223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="8" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/PalantiriSimulator.java" />
       <jump line="79" column="10" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/Being.java" />
       <jump line="127" column="26" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/Being.java" />
       <jump line="155" column="25" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/Being.java" />
@@ -2322,10 +2322,11 @@
       <jump line="311" column="39" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/PalantiriSimulator.java" />
       <jump line="324" column="33" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/PalantiriSimulator.java" />
       <jump line="102" column="0" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="112" column="49" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>path</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2505,16 +2506,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>State</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text>getThreadId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmV0dXJuIHRoZSBiZWluZyBJZCwgd2hpY2ggaXMgdHJhbnNmb3JtZWQgdG8gZml0IHdpdGhpbiB0aGUKICAgICAqIHRvdGFsIG51bWJlciBvZiBCZWluZ3MuCiAgICAgKi8KICAgIHN0YXRpYyBsb25nIGdldEJlaW5nSWQoKSB7CiAgICAgICAgcmV0dXJuIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0SWQoKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHBhbGFudGlyUmVjdHMgPSBtdXRhYmxlTGlzdE9mPFJlY3Q+KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MK</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0b3JQYXRoID0gUGF0aCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2522,31 +2523,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0b3JQYWludC5zZXRQYXRoRWZmZWN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0b3JQYWludC5zdHJva2VKb2luID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFsYW50aXJpLmFkZChQYWxhbnRpci5TdGF0ZS5BVkFJTEFCTEUpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoMC4uNCkuZm9yRWFjaCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGFsYW50aXJpID0gbXV0YWJsZUxpc3RPZjxQYWxhbnRpci5TdGF0ZT4oKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYmVpbmcuc3RhdGUgPT0pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
