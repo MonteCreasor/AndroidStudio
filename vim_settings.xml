@@ -1236,12 +1236,12 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511505261433">
-        <mark key="'" line="472" column="13" />
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="16" />
-        <mark key="^" line="36" column="42" />
-        <mark key="." line="38" column="16" />
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511505776722">
+        <mark key="'" line="277" column="12" />
+        <mark key="[" line="500" column="14" />
+        <mark key="]" line="500" column="15" />
+        <mark key="^" line="500" column="6" />
+        <mark key="." line="500" column="15" />
       </file>
       <file name="$USER_HOME$/android/doug/TestApp/imageLib/src/test/kotlin/edu/vanderbilt/imagelib/SomeClassTest.kt" timestamp="1507059984370">
         <mark key="[" line="8" column="43" />
@@ -2242,10 +2242,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="16" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="221" column="16" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="230" column="12" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
-      <jump line="247" column="12" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="29" column="17" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="341" column="12" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="348" column="29" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
@@ -2342,10 +2340,12 @@
       <jump line="27" column="16" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="536" column="21" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="461" column="13" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="247" column="54" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="277" column="12" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ym9vbGVhbiA=</text>
+        <text>size, then .</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2525,10 +2525,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym9vbGVhbiA=</text>
+        <text>size, then .</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYWxhbnRpck1hcmdpblw+</text>
+        <text>calcBeing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGJlaW5nTWFyZ2luID0gNDAK</text>
@@ -2573,9 +2573,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYWxhbnRpck1hcmdpblw+</last-search>
+      <last-search>calcBeing</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYWxhbnRpck1hcmdpblw+</last-pattern>
+      <last-pattern>calcBeing</last-pattern>
       <last-replace />
       <last-substitute>STATES</last-substitute>
       <last-dir>1</last-dir>
@@ -2583,9 +2583,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onDraw</entry>
-        <entry>drawArea</entry>
-        <entry>rotate</entry>
         <entry>rotateBy</entry>
         <entry>reset</entry>
         <entry>stopSi</entry>
@@ -2603,6 +2600,9 @@
         <entry>margin =</entry>
         <entry>drawRect</entry>
         <entry encoding="base64">XDxwYWxhbnRpck1hcmdpblw+</entry>
+        <entry>calcRecutes</entry>
+        <entry>calcRects</entry>
+        <entry>calcBeing</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">IG51bGw=</entry>
