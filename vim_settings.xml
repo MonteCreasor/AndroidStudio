@@ -1259,13 +1259,13 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511599290367">
-        <mark key="a" line="316" column="71" />
-        <mark key="'" line="481" column="60" />
-        <mark key="[" line="534" column="31" />
-        <mark key="]" line="535" column="15" />
-        <mark key="^" line="535" column="15" />
-        <mark key="." line="535" column="15" />
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511600606409">
+        <mark key="a" line="319" column="71" />
+        <mark key="'" line="484" column="60" />
+        <mark key="[" line="216" column="56" />
+        <mark key="]" line="217" column="37" />
+        <mark key="." line="217" column="37" />
+        <mark key="^" line="217" column="37" />
       </file>
       <file name="$USER_HOME$/android/doug/TestApp/imageLib/src/test/kotlin/edu/vanderbilt/imagelib/SomeClassTest.kt" timestamp="1507059984370">
         <mark key="[" line="8" column="43" />
@@ -1384,7 +1384,7 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/res-screen/main/values/colors.xml" timestamp="1511599184863">
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/res-screen/main/values/colors.xml" timestamp="1511600194583">
         <mark key="[" line="8" column="41" />
         <mark key="]" line="8" column="57" />
         <mark key="." line="8" column="57" />
@@ -2412,7 +2412,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>palantir_in_use_color</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2592,7 +2592,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>palantir_in_use_color</text>
       </register>
       <register name="/" type="4">
         <text>drawCon</text>
@@ -2601,7 +2601,7 @@
         <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJiZWluZ19nYXppbmdfY29sb3IiPkBjb2xvci9zZWNvbmRhcnlMaWdodENvbG9yPC9jb2xvcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IEludCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRMYXllclR5cGUoTEFZRVJfVFlQRV9TT0ZUV0FSRSwgcGFsYW50aXJpUGFpbnQpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2609,31 +2609,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc2hvd0Nvbm5lY3RvcnMpIHsK</text>
+        <text encoding="base64">ICAgICAgICBzZXRMYXllclR5cGUoTEFZRVJfVFlQRV9TT0ZUV0FSRSwgcGFsYW50aXJpUGFpbnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgZnJhY3Rpb24gPSBhbmltYXRvcnNbaW5kZXhdLmFuaW1hdGVkRnJhY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICBibHVlLnNldEFSR0IoMjU1LCA1MSwgMTUzLCAyNTUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICBibHVlID0gUGFpbnQoKSAvL1RoaXMgaXMgaW4gbXkgdmlldydzIGNvbnN0cnVjdG9yLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJiZWluZ19nYXppbmdfY29sb3IiPkBjb2xvci9zZWNvbmRhcnlMaWdodENvbG9yPC9jb2xvcj4KICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmx1ZSA9IFBhaW50KCkgLy9UaGlzIGlzIGluIG15IHZpZXcncyBjb25zdHJ1Y3Rvci4KICAgICAgICAgICAgYmx1ZS5zZXRBUkdCKDI1NSwgNTEsIDE1MywgMjU1KQogICAgICAgICAgICBibHVlLnNldFNoYWRvd0xheWVyKDEwMCwgMCwgMCwgQ29sb3IuQkxVRSkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJiZWluZ19nYXppbmdfY29sb3IiPkBjb2xvci9zZWNvbmRhcnlMaWdodENvbG9yPC9jb2xvcj4KICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IEludCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDptYXg9IjEwIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc2hvd0Nvbm5lY3RvcnMpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgZnJhY3Rpb24gPSBhbmltYXRvcnNbaW5kZXhdLmFuaW1hdGVkRnJhY3Rpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgo=</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name=":" type="4">
         <text>s/</text>
