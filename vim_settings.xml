@@ -1154,11 +1154,13 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511682764284">
-        <mark key="'" line="70" column="37" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511683891679">
+        <mark key="a" line="514" column="12" />
+        <mark key="'" line="446" column="8" />
+        <mark key="[" line="540" column="58" />
+        <mark key="]" line="540" column="81" />
+        <mark key="." line="540" column="81" />
+        <mark key="^" line="540" column="81" />
       </file>
       <file name="$USER_HOME$/android/doug/TestApp/imageLib/src/test/kotlin/edu/vanderbilt/imagelib/SomeClassTest.kt" timestamp="1507059984370">
         <mark key="[" line="8" column="43" />
@@ -2106,13 +2108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="592" column="38" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
-      <jump line="106" column="6" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
-      <jump line="107" column="25" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
-      <jump line="218" column="27" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
-      <jump line="219" column="8" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
-      <jump line="593" column="12" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
-      <jump line="629" column="34" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="423" column="0" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="896" column="3" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="583" column="7" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
@@ -2206,10 +2201,17 @@
       <jump line="25" column="23" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="290" column="20" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="70" column="37" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="682" column="8" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="541" column="60" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="604" column="8" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="646" column="20" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="663" column="16" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="674" column="19" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="446" column="8" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmlwcGxlCg==</text>
+      <register name="&quot;" type="4">
+        <text>drawRect.right.toFloat())</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2389,16 +2391,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>drawRect.right.toFloat())</text>
       </register>
       <register name="/" type="4">
-        <text>palantirAl</text>
+        <text>drawPa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8oKHBhbGFudGlyQWxwaGEgKwogICAgICAgICAgICAgLy8gKCgxIC0gcGFsYW50aXJBbHBoYSkgKiBhbmltYXRvci5hbmltYXRlZEZyYWN0aW9uKSkgKiAyNTUpLnRvSW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0cml4LnBvc3RSb3RhdGUoYW5pbWF0ZWRWYWx1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmlwcGxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0cml4LnBvc3RSb3RhdGUoYW5pbWF0ZWRWYWx1ZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2406,40 +2408,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGN1cnJlbnRseSBpbiBsYW5kc2NhcGUgbW9kZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFsYW50aXJEcmF3YWJsZS5iaXRtYXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGdldFJvdGF0ZWRSZWN0KCkgdG8gcm90YXRlIHRoZSByZWN0YW5nbGUgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcm90YXRlIGFyb3VuZCAoMCwwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIE9ubHkgaW52YWxpZGF0ZSB0aGUgcGFsYW50aXIgcmVjdGFuZ2xlLiBDYWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm90YXRvci5wb3N0VHJhbnNsYXRlKHhUcmFuc2xhdGUsIHlUcmFuc2xhdGUpOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3dGYoIlRoaXMgc2hvdWxkbid0IGhhcHBlbiEhISIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHlUcmFuc2xhdGUgPSAuLi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpbmRleCA9PSA0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHhUcmFuc2xhdGUgPSAuLi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFsYW50aXJEcmF3YWJsZS5hbHBoYSA9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yKCJXVEY/Pz8gVGhpcyBzaG91bGRuJ3QgaGFwcGVuIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFsYW50aXJEcmF3YWJsZS5hbHBoYSA9IGFscGhhCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/</text>
       </register>
     </registers>
     <search>
-      <last-search>palantirAl</last-search>
+      <last-search>drawPa</last-search>
       <last-offset />
-      <last-pattern>palantirAl</last-pattern>
+      <last-pattern>drawPa</last-pattern>
       <last-replace />
       <last-substitute>STATES</last-substitute>
       <last-dir>1</last-dir>
@@ -2447,7 +2449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reverse</entry>
         <entry>GAZING</entry>
         <entry>REL</entry>
         <entry>setState</entry>
@@ -2463,10 +2464,11 @@
         <entry>invalidate</entry>
         <entry>Log</entry>
         <entry>TAG</entry>
-        <entry>fun drawP</entry>
         <entry>wtf</entry>
         <entry>fun drawPath</entry>
         <entry>palantirAl</entry>
+        <entry>fun drawP</entry>
+        <entry>drawPa</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">IG51bGw=</entry>
