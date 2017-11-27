@@ -1278,13 +1278,13 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511747155387">
-        <mark key="a" line="563" column="16" />
-        <mark key="'" line="56" column="23" />
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="59" column="18" />
-        <mark key="^" line="59" column="17" />
-        <mark key="." line="59" column="18" />
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511747884784">
+        <mark key="a" line="51" column="24" />
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="922" column="29" />
+        <mark key="]" line="922" column="29" />
+        <mark key="^" line="51" column="35" />
+        <mark key="." line="922" column="29" />
       </file>
       <file name="$USER_HOME$/android/doug/TestApp/imageLib/src/test/kotlin/edu/vanderbilt/imagelib/SomeClassTest.kt" timestamp="1507059984370">
         <mark key="[" line="8" column="43" />
@@ -2343,11 +2343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="23" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
-      <jump line="290" column="20" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
-      <jump line="70" column="37" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
-      <jump line="682" column="8" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
-      <jump line="541" column="60" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="604" column="8" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="646" column="20" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="663" column="16" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
@@ -2443,10 +2438,15 @@
       <jump line="172" column="5" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/MainActivity.kt" />
       <jump line="48" column="15" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="55" column="23" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="56" column="26" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="53" column="0" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="1039" column="0" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="47" column="16" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="52" column="0" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>BitmapDrawable</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2626,16 +2626,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>BitmapDrawable</text>
       </register>
       <register name="/" type="4">
-        <text>getSpriteSize</text>
+        <text>getBeingSize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNoYXBlQmVpbmdIZWlnaHQgPSAxMDAK</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGdldEJlaW5nU2l6ZSgpLmhlaWdodAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2643,41 +2643,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hhcGVCZWluZ1dpZHRoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBtb250ZSBvbiAyNi8xMS8xNy4K</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGlmIChzaG93U3ByaXRlcykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8qKgogKiBTaW11bGF0aW9uIHNwZWVkIHNoYXJlZCBwcmVmZXJlbmNlIG9ic2VydmVyLgogKi8KcHJpdmF0ZSB2YXIgTWFpbkFjdGl2aXR5LnNpbXVsYXRpb25TcGVlZDogSW50CiAgICBnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICBzZXQodmFsdWUpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBpbml0aWFsaXplciBvZiBjcmVhdGVkIHByb3BlcnRpZXMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfSBieSBPYnNlcnZhYmxlUHJlZmVyZW5jZSgKICAgICAgICBkZWZhdWx0ID0gU2V0dGluZ3MuREVGQVVMVF9TUEVFRCwKICAgICAgICBuYW1lID0gU2V0dGluZ3MuU0lNVUxBVElPTl9TUEVFRF9QUkVGLAogICAgICAgIHN1YnNjcmliZXIgPSBvYmplY3QgOiBTdWJzY3JpYmVyPEludD4gewogICAgICAgICAgICBvdmVycmlkZSB2YWwgc3Vic2NyaWJlcjogKEludCkgLT4gVW5pdAogICAgICAgICAgICAgICAgZ2V0KCkgPSB7IHZpZXdNb2RlbC5zaW11bGF0aW9uU3BlZWQgPSBpdCB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gdW5zdWJzY3JpYmUoY2FsbGJhY2s6ICgpIC0+IFVuaXQpIHsKICAgICAgICAgICAgICAgIGNvbXBvc2l0ZVVuc3Vic2NyaWJlci5hZGQoY2FsbGJhY2spCiAgICAgICAgICAgIH0KICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpemUoc2hhcGVCZWluZ1dpZHRoLCBzaGFwZUJlaW5nSGVpZ2h0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RhdHVzU2l6ZSA9IGNhbGNNYXhTdGF0ZVRleHRTaXplKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
-      <register name="8" type="4">
-        <text>palantirRect.exactCenterX() -
-                 (palantirRect.width() / 2f)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpemUoZHJhd2FibGUuYml0bWFwLndpZHRoLCBkcmF3YWJsZS5iaXRtYXAuaGVpZ2h0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgd2lkdGggPSBNYXRoLm1heChiZWluZ1dpZHRoLCBzdGF0dXNTaXplLndpZHRoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNob3dTcHJpdGVzKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>getSpriteSize</last-search>
+      <last-search>getBeingSize</last-search>
       <last-offset />
-      <last-pattern>getSpriteSize</last-pattern>
+      <last-pattern>getBeingSize</last-pattern>
       <last-replace />
       <last-substitute>STATES</last-substitute>
       <last-dir>1</last-dir>
@@ -2685,7 +2684,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Padding</entry>
         <entry>palantirSize</entry>
         <entry>info</entry>
         <entry>println</entry>
@@ -2705,6 +2703,7 @@
         <entry>getBeingH</entry>
         <entry>getBeingSi</entry>
         <entry>getSpriteSize</entry>
+        <entry>getBeingSize</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">IG51bGw=</entry>
