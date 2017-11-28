@@ -1278,12 +1278,12 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511833447824">
-        <mark key="'" line="565" column="16" />
-        <mark key="[" line="495" column="71" />
-        <mark key="]" line="520" column="111" />
-        <mark key="." line="520" column="111" />
-        <mark key="^" line="520" column="111" />
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1511834459044">
+        <mark key="'" line="281" column="12" />
+        <mark key="[" line="753" column="20" />
+        <mark key="]" line="753" column="21" />
+        <mark key="." line="753" column="21" />
+        <mark key="^" line="753" column="21" />
       </file>
       <file name="$USER_HOME$/android/doug/TestApp/imageLib/src/test/kotlin/edu/vanderbilt/imagelib/SomeClassTest.kt" timestamp="1507059984370">
         <mark key="[" line="8" column="43" />
@@ -2340,7 +2340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="886" column="29" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="359" column="45" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="271" column="16" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="285" column="0" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
@@ -2440,10 +2439,11 @@
       <jump line="756" column="16" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="521" column="61" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="565" column="16" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="281" column="12" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>())</text>
+        <text>ACQUIRING</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2623,16 +2623,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>())</text>
+        <text>ACQUIRING</text>
       </register>
       <register name="/" type="4">
-        <text>drawPath</text>
+        <text>\.start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChfQXNzZXJ0aW9ucy5FTkFCTEVEKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJhd1JlY3Qub2Zmc2V0KG9mZnNldC53aWR0aCwgb2Zmc2V0LmhlaWdodCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2640,40 +2640,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoX0Fzc2VydGlvbnMuRU5BQkxFRCkgewo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBfQXNzZXJ0aW9ucy5lbmFibGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJhd1JlY3Qub2Zmc2V0KG9mZnNldC53aWR0aCwgb2Zmc2V0LmhlaWdodCkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCZWluZy5TdGF0ZS5DQU5DRUxMSU5HIC0+IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3IoIk5vIHN0YXRlIGJlZm9yZSBJRExFISIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoX0Fzc2VydGlvbnMuRU5BQkxFRCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXNzZXJ0KHMxID09IG51bGwpIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHMxID09IEJlaW5nLlN0YXRlLlJFTEVBU0lORykgewo=</text>
+        <text encoding="base64">ICAgICAgICBfQXNzZXJ0aW9ucy5lbmFibGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>'a,.s/Logging/wireFrames</text>
       </register>
     </registers>
     <search>
-      <last-search>drawPath</last-search>
+      <last-search>\.start</last-search>
       <last-offset />
-      <last-pattern>drawPath</last-pattern>
+      <last-pattern>\.start</last-pattern>
       <last-replace>wireFrames</last-replace>
       <last-substitute>Logging</last-substitute>
       <last-dir>1</last-dir>
@@ -2681,7 +2681,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rect.set</entry>
         <entry>\.set</entry>
         <entry>Rect()</entry>
         <entry>drawBeing</entry>
@@ -2701,6 +2700,7 @@
         <entry>assert(</entry>
         <entry>assert(s</entry>
         <entry>drawPath</entry>
+        <entry>\.start</entry>
       </history-search>
       <history-cmd>
         <entry>s/25.3.1/26.0.1/g</entry>
