@@ -127,6 +127,12 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/android/sandbox/SimulationApp/app/src/main/res/drawable/states_selector.xml" timestamp="1511930654122">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/transforms/NullTransform.java" timestamp="1507582674047">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="18" />
@@ -839,6 +845,11 @@
         <mark key="^" line="0" column="45" />
         <mark key="." line="0" column="45" />
       </file>
+      <file name="$USER_HOME$/android/sandbox/SimulationApp/app/src/main/res/values/states_selector.xml" timestamp="1511930520873">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/SynchonizedCacheMap.java" timestamp="1508827335060">
         <mark key="[" line="9" column="64" />
         <mark key="]" line="9" column="64" />
@@ -888,7 +899,7 @@
         <mark key="." line="33" column="69" />
         <mark key="^" line="33" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511928752470">
+      <file name="/Dummy.txt" timestamp="1511930495427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/android/doug/TestApp/imageLib/build.gradle" timestamp="1507060535592">
@@ -922,6 +933,11 @@
         <mark key="]" line="196" column="38" />
         <mark key="." line="196" column="38" />
         <mark key="^" line="196" column="38" />
+      </file>
+      <file name="$USER_HOME$/android/sandbox/SimulationApp/app/src/main/res/layout/sample_simulation_view.xml" timestamp="1511930078403">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="64" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/main/java/edu/vanderbilt/webcrawler/repository/DirectoryDataSource.kt" timestamp="1506187562574">
         <mark key="[" line="5" column="0" />
@@ -1002,7 +1018,7 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1511928888177">
+      <file name="/fragment.java" timestamp="1511930138406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/previous_assignment_tests/Assignment2aWebCrawlerTest.java" timestamp="1505878163995">
@@ -1174,6 +1190,11 @@
         <mark key="]" line="61" column="0" />
         <mark key="^" line="11" column="16" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/android/sandbox/SimulationApp/app/src/main/res/layout/activity_main.xml" timestamp="1511929976105">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/test/java/edu/vanderbilt/crawler/utils/KotlinTest.kt" timestamp="1506620849485">
         <mark key="[" line="4" column="0" />
@@ -1646,6 +1667,12 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
+      <file name="$USER_HOME$/android/sandbox/SimulationApp/app/src/main/res/layout/content_main.xml" timestamp="1511930074852">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="64" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Controller.java" timestamp="1506001074792">
         <mark key="[" line="149" column="65" />
         <mark key="]" line="150" column="27" />
@@ -2074,6 +2101,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="24" />
       </file>
+      <file name="$USER_HOME$/android/sandbox/SimulationApp/app/src/main/res/values/attrs_simulation_view.xml" timestamp="1511930776735">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="28" />
+      </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/transforms/GrayScaleTransform.java" timestamp="1507582904723">
         <mark key="[" line="40" column="63" />
         <mark key="]" line="40" column="63" />
@@ -2267,7 +2300,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>boolean</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2447,16 +2480,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text>calcRect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNhbGNSZWN0cyhib3VuZGluZ1JlY3Q6IFJlY3QpIHsKICAgICAgICAvLyBJZiB3aXJlIGZyYW1lcyBhcmUgdG8gYmUgc2hvd24sIGFkanVzdCBzb21lIGRlZmF1bHQKICAgICAgICAvLyBzaXplcyBzbyB0aGF0IHZpc3VhbCBpbnNwZWN0aW9uIGlzIGVhc2llci4KICAgICAgICBpZiAoc2hvd1dpcmVGcmFtZXMpIHsKICAgICAgICAgICAgc2V0RGVidWdTaXplcygpCiAgICAgICAgfQoKICAgICAgICAvLyBQcmUtY2FsY3VsYXRlIGFsbCBkcmF3aW5nIGJvdW5kaW5nIHJlY3RhbmdsZXMgc28gdGhhdAogICAgICAgIC8vIG9uRHJhdyBpcyBhcyBmYXN0IGFzIHBvc3NpYmxlLgoKICAgICAgICAvLyBUaGlzIGNhbGwgd2lsbCByZXR1cm4gdGhlIHJlY3RhbmdsZSByb3RhdGVkCiAgICAgICAgLy8gYnkgOTAgZGVncmVlcyBpZiBjdXJyZW50bHkgbW9kZSBpcyBsYW5kc2NhcGUuCgogICAgICAgIHZhbCByZWN0ID0gUmVjdChib3VuZGluZ1JlY3QpCiAgICAgICAgaWYgKHBvcnRyYWl0KCkpIHsKICAgICAgICAgICAgcmVjdC5yaWdodCAvPSAyCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmVjdC5ib3R0b20gLz0gMgogICAgICAgIH0KCiAgICAgICAgYmVpbmdSZWN0cyA9IGNhbGNTcHJpdGVSZWN0cyhyZWN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmVpbmdEcmF3YWJsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pbkJlaW5nTWFyZ2luLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWwuYmVpbmdTdGF0ZXMpLnRvTXV0YWJsZUxpc3QoKQoKICAgICAgICB2YWwgYmVpbmdPbmUgPSBnZXRCZWluZ1JlY3QoMCkKICAgICAgICBpZiAocG9ydHJhaXQoKSkgewogICAgICAgICAgICByZWN0Lm9mZnNldFRvKHJlY3QucmlnaHQsIDApCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmVjdC5vZmZzZXRUbygwLCByZWN0LmJvdHRvbSkKICAgICAgICB9CgogICAgICAgIHBhbGFudGlyUmVjdHMgPSBjYWxjU3ByaXRlUmVjdHMocmVjdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhbGFudGlyRHJhd2FibGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW5QYWxhbnRpck1hcmdpbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsLnBhbGFudGlyU3RhdGVzKS50b011dGFibGVMaXN0KCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIGFwcDpsYXlvdXRfYmVoYXZpb3I9IkBzdHJpbmcvYXBwYmFyX3Njcm9sbGluZ192aWV3X2JlaGF2aW9yIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5yZXMuQ29sb3JTdGF0ZUxpc3QK</text>
+        <text encoding="base64">ICAgIDwvcmVzb3VyY2VzPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2464,31 +2497,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJldkNvbG9yID0gbUN1ckNvbG9yCg==</text>
+        <text encoding="base64">ICAgIDxyZXNvdXJjZXM+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtUGF0aC5maWxsVHlwZSA9IFBhdGguRmlsbFR5cGUuRVZFTl9PREQK</text>
+        <text encoding="base64">ICAgIHhtbG5zOmV4YW1wbGU9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvY29tLmNoYXJsZXNoYXJsZXkuZXhhbXBsZS5hbmRyb2lkLmN1c3RvbWRyYXdhYmxlc3RhdGVzIj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtUGF0aCA9IFBhdGgoKQo=</text>
+        <text encoding="base64">PHJlc291cmNlcz48L3Jlc291cmNlcz4K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvL21vbnRlLmFwcHMuc2ltdWxhdGlvbmFwcCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9tb250ZS5hcHBzLnNpbXVsYXRpb25hcHAiCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIG1QYXRoOiBQYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\.upper/.max/g</text>
