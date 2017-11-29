@@ -144,6 +144,9 @@
         <mark key="^" line="13" column="60" />
         <mark key="." line="13" column="60" />
       </file>
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-26/android/content/res/ColorStateList.java" timestamp="1511932636796">
+        <mark key="'" line="533" column="35" />
+      </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/app/src/main/java/edu/vanderbilt/crawler/utils/ImageCache.kt" timestamp="1507137359692">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="56" />
@@ -875,6 +878,9 @@
         <mark key="^" line="129" column="11" />
         <mark key="." line="129" column="11" />
       </file>
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-26/android/graphics/drawable/RippleComponent.java" timestamp="1511936289814">
+        <mark key="'" line="127" column="6" />
+      </file>
       <file name="$USER_HOME$/android/architecture/u2020-mvp-kotlin/app/src/debug/java/ru/ltst/u2020mvp/ui/debug/AnimationSpeedAdapter.kt" timestamp="1506030043800">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="31" column="26" />
@@ -988,6 +994,9 @@
         <mark key="]" line="149" column="9" />
         <mark key="." line="149" column="9" />
         <mark key="^" line="149" column="9" />
+      </file>
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" timestamp="1511992999618">
+        <mark key="'" line="46" column="22" />
       </file>
       <file name="$USER_HOME$/android/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/AdminHelpers.java" timestamp="1506737989303">
         <mark key="[" line="229" column="0" />
@@ -2208,7 +2217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="395" column="28" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/PalantiriSimulator.java" />
       <jump line="371" column="0" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/PalantiriSimulator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/PalantiriSimulator.java" />
       <jump line="104" column="4" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/ModelState.java" />
@@ -2308,10 +2316,11 @@
       <jump line="729" column="58" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="721" column="50" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="32" column="13" filename="$USER_HOME$/android/doug/A4a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="46" column="22" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CACHED_IMAGE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2491,10 +2500,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CACHED_IMAGE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\.start</text>
+        <text>getOrDownload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghaXRlbS5nZXRGaWxlKCkuZXhpc3RzKCkpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCJrYS5wbmcgZmlsZSBkb2VzIG5vdCBleGlzdCIpOwogICAgICAgICAgICAgICAgfQo=</text>
@@ -2539,9 +2548,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\.start</last-search>
+      <last-search>getOrDownload</last-search>
       <last-offset />
-      <last-pattern>\.start</last-pattern>
+      <last-pattern>getOrDownload</last-pattern>
       <last-replace>Model.State</last-replace>
       <last-substitute>PalantiriSimulator.State</last-substitute>
       <last-dir>1</last-dir>
@@ -2549,7 +2558,6 @@
     </search>
     <history>
       <history-search>
-        <entry>palantirStates</entry>
         <entry>beingStates</entry>
         <entry>plantirId</entry>
         <entry>palantiriId</entry>
@@ -2569,6 +2577,7 @@
         <entry>mSimulator</entry>
         <entry>duration</entry>
         <entry>\.start</entry>
+        <entry>getOrDownload</entry>
       </history-search>
       <history-cmd>
         <entry>%s/=/:/g</entry>
