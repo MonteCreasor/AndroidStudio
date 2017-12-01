@@ -425,10 +425,12 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/res-screen/main/layout/image_grid_item.xml" timestamp="1512156580087">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/res-screen/main/layout/image_grid_item.xml" timestamp="1512157292672">
+        <mark key="'" line="64" column="37" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="18" column="34" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/android/AndroidSandbox/app/src/main/java/edu/vanderbilt/androidsandbox/ImageCache.kt" timestamp="1507066485175">
         <mark key="[" line="9" column="15" />
@@ -2117,10 +2119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="20" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
-      <jump line="360" column="42" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
-      <jump line="365" column="33" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
-      <jump line="153" column="0" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="68" column="0" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="366" column="28" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="367" column="28" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
@@ -2217,10 +2215,14 @@
       <jump line="217" column="29" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="219" column="58" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="231" column="21" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
+      <jump line="1" column="13" filename="$USER_HOME$/android/doug/A3a/app/src/main/res-screen/main/layout/image_grid_item.xml" />
+      <jump line="101" column="14" filename="$USER_HOME$/android/doug/A3a/app/src/main/res-screen/main/layout/image_grid_item.xml" />
+      <jump line="79" column="0" filename="$USER_HOME$/android/doug/A3a/app/src/main/res-screen/main/layout/image_grid_item.xml" />
+      <jump line="66" column="37" filename="$USER_HOME$/android/doug/A3a/app/src/main/res-screen/main/layout/image_grid_item.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm1heEhlaWdkZGh0PSI0MGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IjhkcCIK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2400,7 +2402,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fitXY</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
         <text>adapter</text>
@@ -2409,7 +2411,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbU1vdmllQWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm1heEhlaWdkZGh0PSI0MGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IjhkcCIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2417,31 +2419,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iOGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQCtpZC90aHJlYWQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkLm5vdGlmeURhdGFTZXRDaGFuZ2VkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQCtpZC9pbWFnZVNpemUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
