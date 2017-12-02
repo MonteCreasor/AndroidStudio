@@ -334,6 +334,9 @@
         <mark key="^" line="54" column="66" />
         <mark key="." line="54" column="66" />
       </file>
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-26/android/view/View.java" timestamp="1512186491925">
+        <mark key="'" line="440" column="8" />
+      </file>
       <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/RxConcurrentCrawlerNewThread.java" timestamp="1509340738516">
         <mark key="[" line="8" column="61" />
         <mark key="]" line="8" column="71" />
@@ -423,12 +426,12 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/res-screen/main/layout/image_grid_item.xml" timestamp="1512183957256">
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/res-screen/main/layout/image_grid_item.xml" timestamp="1512186118832">
         <mark key="'" line="21" column="8" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
+        <mark key="[" line="58" column="38" />
+        <mark key="]" line="58" column="38" />
         <mark key="^" line="64" column="30" />
-        <mark key="." line="90" column="0" />
+        <mark key="." line="58" column="38" />
       </file>
       <file name="$USER_HOME$/android/AndroidSandbox/app/src/main/java/edu/vanderbilt/androidsandbox/ImageCache.kt" timestamp="1507066485175">
         <mark key="[" line="9" column="15" />
@@ -580,12 +583,13 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/views/AspectImageView.kt" timestamp="1512181234112">
-        <mark key="a" line="47" column="56" />
-        <mark key="[" line="65" column="33" />
-        <mark key="]" line="65" column="34" />
-        <mark key="." line="65" column="34" />
-        <mark key="^" line="65" column="39" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/views/AspectImageView.kt" timestamp="1512187371847">
+        <mark key="a" line="45" column="33" />
+        <mark key="'" line="53" column="16" />
+        <mark key="[" line="54" column="71" />
+        <mark key="]" line="54" column="71" />
+        <mark key="." line="54" column="78" />
+        <mark key="^" line="55" column="84" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/JavaImage.java" timestamp="1505957675118">
         <mark key="[" line="78" column="12" />
@@ -2132,10 +2136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="653" column="0" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
-      <jump line="161" column="24" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/SettingsDialogFragment.kt" />
-      <jump line="108" column="38" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
-      <jump line="131" column="45" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="158" column="16" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="201" column="5" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="132" column="16" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
@@ -2232,10 +2232,14 @@
       <jump line="278" column="16" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="177" column="42" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
       <jump line="170" column="22" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
+      <jump line="1569" column="0" filename="$USER_HOME$/tools/android/sdk/sources/android-26/android/view/View.java" />
+      <jump line="438" column="7" filename="$USER_HOME$/tools/android/sdk/sources/android-26/android/view/View.java" />
+      <jump line="440" column="8" filename="$USER_HOME$/tools/android/sdk/sources/android-26/android/view/View.java" />
+      <jump line="40" column="16" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/views/AspectImageView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>primary_text_light</text>
+        <text>widthSpecSize</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2415,16 +2419,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>primary_text_light</text>
+        <text>widthSpecSize</text>
       </register>
       <register name="/" type="4">
-        <text>setTextC</text>
+        <text>Measure</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iI2ZmMDAwMCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAod2lkdGhTcGVjTW9kZSkgewogICAgICAgICAgICAgICAgVU5TUEVDSUZJRUQgLT4gcHJpbnRsbigiTWVhc3VyZSBzdGF0ZSA9IFVOU1BFQ0lGSUVEIikKICAgICAgICAgICAgICAgIEFUX01PU1QgLT4gcHJpbnRsbigiTWVhc3VyZSBzdGF0ZSA9IEFUX01PU1QgJHdpZHRoU3BlY1NpemUiKQogICAgICAgICAgICAgICAgRVhBQ1RMWSAtPiBwcmludGxuKCJNZWFzdXJlIHN0YXRlID0gRVhBQ1RMWSAkd2lkdGhTcGVjU2l6ZSIpCiAgICAgICAgICAgICAgICBlbHNlIC0+IHByaW50bG4oIk1lYXN1cmUgc3RhdGUgPSBOTyBTUEVDIE1PREUgKCR3aWR0aE1lYXN1cmVTcGVjKSIpCiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3IvcHJpbWFyeV90ZXh0X2xpZ2h0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2432,40 +2436,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3IvcHJpbWFyeV90ZXh0X2xpZ2h0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVhc3VyZWRTdGF0ZSA9PSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5za2lwSW5pdGlhbFZhbHVlKCkK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3IvcHJpbWFyeV90ZXh0X2xpZ2h0Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3Py5hbHBoYSA9ICAxIC0gKFNldHRpbmdzLnZpZXdUcmFuc3BhcmVuY3kgKiAoMSAvIDEwMGYpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3IvcHJpbWFyeV90ZXh0X2xpZ2h0Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3Py5hbHBoYSA9ICAxIC0gKFNldHRpbmdzLnZpZXdUcmFuc3BhcmVuY3kgKiAoMSAvIDEwMGYpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5za2lwSW5pdGlhbFZhbHVlKCkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmF1dG9TaXplU3RlcEdyYW51bGFyaXR5PSIyc3AiCg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3Py5hbHBoYSA9ICAxIC0gKFNldHRpbmdzLnZpZXdUcmFuc3BhcmVuY3kgKiAoMSAvIDEwMGYpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmF1dG9TaXplU3RlcEdyYW51bGFyaXR5PSIyc3AiCg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3Py5hbHBoYSA9ICAxIC0gKFNldHRpbmdzLnZpZXdUcmFuc3BhcmVuY3kgKiAoMSAvIDEwMGYpKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmF1dG9TaXplU3RlcEdyYW51bGFyaXR5PSIyc3AiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmF1dG9TaXplU3RlcEdyYW51bGFyaXR5PSIyc3AiCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>setTextC</last-search>
+      <last-search>Measure</last-search>
       <last-offset />
-      <last-pattern>setTextC</last-pattern>
+      <last-pattern>Measure</last-pattern>
       <last-replace>Model.State</last-replace>
       <last-substitute>PalantiriSimulator.State</last-substitute>
       <last-dir>1</last-dir>
@@ -2473,9 +2477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>text=</entry>
-        <entry>VIEW</entry>
-        <entry>gridView</entry>
         <entry>layoutM</entry>
         <entry>layoutMan</entry>
         <entry>spanCount</entry>
@@ -2493,6 +2494,9 @@
         <entry>app:</entry>
         <entry>initi</entry>
         <entry>setTextC</entry>
+        <entry>MATCH</entry>
+        <entry>WRAP</entry>
+        <entry>Measure</entry>
       </history-search>
       <history-cmd>
         <entry>%s/=/:/g</entry>
