@@ -938,8 +938,8 @@
         <mark key="." line="149" column="9" />
         <mark key="^" line="149" column="9" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1512249445234">
-        <mark key="'" line="210" column="12" />
+      <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1512254274961">
+        <mark key="'" line="70" column="34" />
       </file>
       <file name="$USER_HOME$/android/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/AdminHelpers.java" timestamp="1506737989303">
         <mark key="[" line="229" column="0" />
@@ -1461,12 +1461,13 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" timestamp="1512250440849">
+      <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" timestamp="1512254386418">
         <mark key="a" line="573" column="59" />
         <mark key="'" line="107" column="6" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="98" column="43" />
+        <mark key="]" line="98" column="46" />
+        <mark key="." line="98" column="46" />
+        <mark key="^" line="98" column="46" />
       </file>
       <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/res/values/styles.xml" timestamp="1511587799550">
         <mark key="[" line="13" column="37" />
@@ -2100,9 +2101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="12" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
-      <jump line="98" column="24" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/SettingsDialogFragment.kt" />
-      <jump line="100" column="37" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/views/AspectImageView.kt" />
       <jump line="103" column="35" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/views/AspectImageView.kt" />
       <jump line="104" column="28" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/views/AspectImageView.kt" />
       <jump line="105" column="36" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/views/AspectImageView.kt" />
@@ -2200,10 +2198,13 @@
       <jump line="56" column="16" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="94" column="32" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="106" column="6" filename="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="47" column="4" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
+      <jump line="68" column="60" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
+      <jump line="70" column="34" filename="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ29uY3VycmVudEhhc1NldDw+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ReentrantReadWriteLock</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2383,10 +2384,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>ReentrantReadWriteLock</text>
       </register>
       <register name="/" type="4">
-        <text>mOb</text>
+        <text>observers</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiT0JTRVJWRVI6IEVOREVEIFNVQlNDUklCSU5HIFRPIFZJRVcgTU9ERUwuIikK</text>
@@ -2431,9 +2432,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mOb</last-search>
+      <last-search>observers</last-search>
       <last-offset />
-      <last-pattern>mOb</last-pattern>
+      <last-pattern>observers</last-pattern>
       <last-replace>Model.State</last-replace>
       <last-substitute>PalantiriSimulator.State</last-substitute>
       <last-dir>1</last-dir>
@@ -2441,8 +2442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isC</entry>
-        <entry>isCrawlRunning</entry>
         <entry>when</entry>
         <entry>Action</entry>
         <entry>updateViewS</entry>
@@ -2461,6 +2460,8 @@
         <entry>Zoom</entry>
         <entry>mObserversLock</entry>
         <entry>mOb</entry>
+        <entry>observer</entry>
+        <entry>observers</entry>
       </history-search>
       <history-cmd>
         <entry>%s/=/:/g</entry>
