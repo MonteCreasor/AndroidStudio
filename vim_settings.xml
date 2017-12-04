@@ -935,13 +935,13 @@
         <mark key="^" line="31" column="28" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedActivityClient.kt" timestamp="1512362144937">
-        <mark key="a" line="198" column="28" />
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="206" column="22" />
+      <file name="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedActivityClient.kt" timestamp="1512364942901">
+        <mark key="a" line="203" column="28" />
+        <mark key="'" line="220" column="0" />
+        <mark key="[" line="164" column="69" />
+        <mark key="]" line="165" column="36" />
+        <mark key="^" line="165" column="36" />
+        <mark key="." line="165" column="36" />
       </file>
       <file name="$USER_HOME$/android/monte/movies/build.gradle" timestamp="1511573867835">
         <mark key="[" line="3" column="18" />
@@ -2180,7 +2180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="8" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedFragment.kt" />
       <jump line="153" column="8" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedFragment.kt" />
       <jump line="189" column="39" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedFragment.kt" />
       <jump line="37" column="36" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedFragment.kt" />
@@ -2280,10 +2279,11 @@
       <jump line="212" column="15" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedActivity.kt" />
       <jump line="20" column="38" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedActivity.kt" />
       <jump line="34" column="10" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedActivity.kt" />
+      <jump line="220" column="0" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedActivityClient.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">aXMg</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2463,7 +2463,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">aXMg</text>
       </register>
       <register name="/" type="4">
         <text>Log</text>
@@ -2472,7 +2472,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAgeyBnZXRDaGlsZEF0KGl0KSB9CiAgICAgICAgICAgICAgICAuZm9yRWFjaCB7CiAgICAgICAgICAgICAgICAgICAgdmFsIHZpZXcgPSBpdC5maW5kVmlldyhwcmVkaWNhdGUpCiAgICAgICAgICAgICAgICAgICAgaWYgKHZpZXcgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdmlldwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2cK</text>
+        <text encoding="base64">ICAgICAqIHZpZXcgbWFwLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2480,31 +2480,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcm5hbCB2YWwgRVhUUkFfUE9TSVRJT04gPSAiUG9zaXRpb24iCg==</text>
+        <text encoding="base64">ICAgICAqIG5ldyBzb3VyY2UgaW1hZ2UgdmlldyB0aGF0IHdlIGFkZCB0byB0aGUgc2hhcmVkIGVsZW1lbnQgbmFtZSBsaXN0IGFuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAqIGl0IHRvIHJldHJpZXZlIHRoZSBWaWV3SG9sZGVyIGZyb20gdGhlIFJlY3ljbGVyVmlldyB3aGljaCBjb250YWlucyB0aGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogaWYgaXQncyBhbiBJbWFnZVZpZXcgd2l0aCBhIG1hdGNoaW5nIHRyYW5zaXRpb24gbmFtZSkK</text>
+        <text encoding="base64">ICAgICAqIGNhbiBiZSByZXRyaWV2ZWQgYnkgc2ltcGx5IHVzaW5nIHRoZSBJbnQgdmFsdWUgb2YgdGhlIHRyYW5zaXRpb24gbmFtZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogdGhhdCBoYXMgYSBtYXRjaGluZyB0cmFuc2l0aW9uIG5hbWUuCg==</text>
+        <text encoding="base64">ICAgICAqIHZhbHVlIG9mIGl0J3MgdHJhbnNpdGlvbiBuYW1lIHRoZSBSZWN5Y2xlclZpZXcgaG9sZGVyIGZvciBhbnkgaXRlbQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogdGhhdCBoYXMgYSBtYXRjaGluZyB0cmFuc2l0aW9uIG5hbWUuCg==</text>
+        <text encoding="base64">ICAgICAqIHNvdXJjZSBpbWFnZSBmb3IgdGhlIGN1cnJlbnRseSB2aXNpYmxlIGFkYXB0ZXIgaXRlbSBieSB1c2luZyB0aGUgSW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHJvb3QgICAgICAgICAgIFRoZSByb290IHZpZXcgd2hvc2UgZGVzY2VuZGFudHMgYXJlIHRvIGJlIHNlYXJjaGVkLgo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogV29ya3MgaWYgdGhlIHBhc3NlZCB2aWV3IGlzIHRoZSBtYXRjaC4K</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHJvb3QgVGhlIHJvb3QgdmlldyB3aG9zZSBkZXNjZW5kYW50cyBhcmUgdG8gYmUgc2VhcmNoZWQuCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2cK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
