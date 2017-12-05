@@ -1232,6 +1232,13 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1512517491534">
+        <mark key="'" line="571" column="26" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="1243" column="44" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/android/doug/TestApp/imageLib/src/test/kotlin/edu/vanderbilt/imagelib/SomeClassTest.kt" timestamp="1507059984370">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="44" />
@@ -2244,8 +2251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="23" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" />
-      <jump line="222" column="38" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" />
       <jump line="228" column="44" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" />
       <jump line="234" column="37" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" />
       <jump line="247" column="38" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" />
@@ -2344,10 +2349,12 @@
       <jump line="671" column="37" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="530" column="62" filename="$USER_HOME$/android/doug/crawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" />
+      <jump line="324" column="8" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="572" column="26" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5TZXF1ZW50aWFsU3RyZWFtc0NyYXdsZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVkdS52YW5keS5leHRlbnNpb25zLmxhbmRzY2FwZQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2536,7 +2543,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkcmF3ZXJMYXlvdXQuaXNEcmF3ZXJPcGVuKEdyYXZpdHlDb21wYXQuRU5EKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5TZXF1ZW50aWFsU3RyZWFtc0NyYXdsZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVkdS52YW5keS5leHRlbnNpb25zLmxhbmRzY2FwZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2544,31 +2551,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5SeEphdmEuUnhGbG93YWJsZVBhcmFsbGVsQ3Jhd2xlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5SeEphdmEuUnhPYnNlcnZhYmxlUGFyYWxsZWxDcmF3bGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5TZXF1ZW50aWFsU3RyZWFtc0NyYXdsZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5SeEphdmEuUnhPYnNlcnZhYmxlU2VxdWVudGlhbENyYXdsZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5SeEphdmEuUnhGbG93YWJsZVBhcmFsbGVsQ3Jhd2xlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5QYXJhbGxlbFN0cmVhbXNDcmF3bGVyMjsK</text>
+        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5SeEphdmEuUnhPYnNlcnZhYmxlUGFyYWxsZWxDcmF3bGVyOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5QYXJhbGxlbFN0cmVhbXNDcmF3bGVyMTsK</text>
+        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5SeEphdmEuUnhPYnNlcnZhYmxlU2VxdWVudGlhbENyYXdsZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5Lb3RsaW5Db3JvdXRpbmVDcmF3bGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5QYXJhbGxlbFN0cmVhbXNDcmF3bGVyMjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5Gb3JrSm9pbkNyYXdsZXIyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5QYXJhbGxlbFN0cmVhbXNDcmF3bGVyMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5Db21wbGV0YWJsZUZ1dHVyZXNDcmF3bGVyMjsK</text>
+        <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmltYWdlY3Jhd2xlci5jcmF3bGVycy5Lb3RsaW5Db3JvdXRpbmVDcmF3bGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
