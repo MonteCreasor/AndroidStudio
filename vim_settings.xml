@@ -114,6 +114,14 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/SettingsDialogFragment.kt" timestamp="1512594260992">
+        <mark key="a" line="248" column="8" />
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="38" />
+        <mark key="." line="255" column="13" />
+        <mark key="^" line="255" column="20" />
+      </file>
       <file name="$USER_HOME$/doug/AndroidImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/BuildAssignment2b.java" timestamp="1506211769261">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -450,12 +458,13 @@
         <mark key="^" line="101" column="33" />
         <mark key="." line="101" column="59" />
       </file>
-      <file name="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/Settings.kt" timestamp="1512427160957">
+      <file name="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/Settings.kt" timestamp="1512594441028">
+        <mark key="a" line="54" column="7" />
         <mark key="'" line="15" column="16" />
-        <mark key="[" line="41" column="40" />
-        <mark key="]" line="41" column="43" />
-        <mark key="." line="41" column="43" />
-        <mark key="^" line="41" column="43" />
+        <mark key="[" line="83" column="8" />
+        <mark key="]" line="83" column="8" />
+        <mark key="." line="83" column="8" />
+        <mark key="^" line="70" column="7" />
       </file>
       <file name="$USER_HOME$/android/AndroidSandbox/app/src/main/java/edu/vanderbilt/androidsandbox/ImageCache.kt" timestamp="1507066485175">
         <mark key="[" line="9" column="15" />
@@ -501,6 +510,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/26.1.0/8279b00f5194701ff18363fa2958c5a26670b0ef/support-fragment-26.1.0-sources.jar!/android/support/v4/app/FragmentStatePagerAdapter.java" timestamp="1512378805034">
         <mark key="'" line="63" column="56" />
+      </file>
+      <file name="$USER_HOME$/android/doug/crawler/app/src/main/res-screen/settings/layout/settings_dialog_fragment.xml" timestamp="1512594034781">
+        <mark key="[" line="262" column="22" />
+        <mark key="]" line="262" column="26" />
+        <mark key="^" line="262" column="26" />
+        <mark key="." line="262" column="26" />
       </file>
       <file name="$USER_HOME$/android/samples/kotlin/KotlinTestDemo/build.gradle" timestamp="1507061553741">
         <mark key="[" line="17" column="0" />
@@ -2265,7 +2280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/extensions/fabExt.kt" />
       <jump line="120" column="30" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/extensions/fabExt.kt" />
       <jump line="78" column="16" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/extensions/fabExt.kt" />
       <jump line="121" column="12" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" />
@@ -2365,10 +2379,11 @@
       <jump line="76" column="4" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/extensions/ImageExt.kt" />
       <jump line="89" column="0" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/extensions/ImageExt.kt" />
       <jump line="139" column="30" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/extensions/ImageExt.kt" />
+      <jump line="109" column="0" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/SettingsDialogFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2548,16 +2563,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CREATE</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>\.placeholder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNoZWNrUGxhY2hvbGRlcihwbGFjZWhvbGRlcikK</text>
+        <text encoding="base64">ICAgIHZhciBjcmF3bFN0cmF0ZWd5OiBJbWFnZUNyYXdsZXIuVHlwZSBieSBQcmVmZXJlbmNlKERFRkFVTFRfQ1JBV0xfU1RSQVRFR1ksIENSQVdMX1NUUkFURUdZX1BSRUYpCiAgICB2YXIgbG9jYWxDcmF3bDogQm9vbGVhbiBieSBQcmVmZXJlbmNlKERFRkFVTFRfTE9DQUxfQ1JBV0wsIExPQ0FMX0NSQVdMX1BSRUYpCiAgICB2YXIgY3Jhd2xEZXB0aDogSW50IGJ5IFByZWZlcmVuY2UoREVGQVVMVF9DUkFXTF9ERVBUSCwgQ1JBV0xfREVQVEhfUFJFRikKICAgIHZhciB0cmFuc2Zvcm1UeXBlczogTGlzdDxUcmFuc2Zvcm0uVHlwZT4gYnkgUHJlZmVyZW5jZShERUZBVUxUX1RSQU5TRk9STV9UWVBFUywgVFJBTlNGT1JNX1RZUEVTX1BSRUYpCiAgICB2YXIgY3Jhd2xTcGVlZDogSW50IGJ5IFByZWZlcmVuY2UoREVGQVVMVF9DUkFXTF9TUEVFRCwgQ1JBV0xfU1BFRURfUFJFRikKICAgIHZhciBkZWJ1Z0xvZ2dpbmc6IEJvb2xlYW4gYnkgUHJlZmVyZW5jZShERUZBVUxUX0RFQlVHX0xPR0dJTkcsIERFQlVHX0xPR0dJTkdfUFJFRikKICAgIHZhciBzcGVlZEJhclN0YXRlOiBJbnQgYnkgUHJlZmVyZW5jZShERUZBVUxUX1NQRUVEX0JBUl9TVEFURSwgU1BFRURfQkFSX1NUQVRFX1BSRUYpCiAgICB2YXIgd2ViVXJsOiBTdHJpbmcgYnkgUHJlZmVyZW5jZShERUZBVUxUX1dFQl9VUkwsIFdFQl9VUkxfUFJFRikKICAgIHZhciB2aWV3VHJhbnNwYXJlbmN5OiBJbnQgYnkgUHJlZmVyZW5jZShERUZBVUxUX1RSQVNQQVJBTkNFWSwgVFJBTlNQQVJFTkNZX1BSRUYpCiAgICB2YXIgdmlld1NjYWxlOiBJbnQgYnkgUHJlZmVyZW5jZShERUZBVUxUX0dSSURfU0NBTEUsIEdSSURfU0NBTEVfUFJFRikKICAgIHZhciBzaG93UHJvZ3Jlc3M6IEJvb2xlYW4gYnkgUHJlZmVyZW5jZShERUZBVUxUX1NIT1dfUFJPR1JFU1MsIFNIT1dfUFJPR1JFU1NfUFJFRikKICAgIHZhciBzaG93U3RhdGU6IEJvb2xlYW4gYnkgUHJlZmVyZW5jZShERUZBVUxUX1NIT1dfU1RBVEUsIFNIT1dfU1RBVEVfUFJFRikKICAgIHZhciBzaG93U2l6ZTogQm9vbGVhbiBieSBQcmVmZXJlbmNlKERFRkFVTFRfU0hPV19TSVpFLCBTSE9XX1NJWkVfUFJFRikKICAgIHZhciBzaG93VGhyZWFkOiBCb29sZWFuIGJ5IFByZWZlcmVuY2UoREVGQVVMVF9TSE9XX1RIUkVBRCwgU0hPV19USFJFQURfUFJFRikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2565,31 +2580,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgQXNzZXJ0aW9uRXJyb3IoIkRvd25sb2FkaW5nIikK</text>
+        <text encoding="base64">ICAgIGZ1biByZXNldFRvRGVmYXVsdHMoKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXRlbS5zdGF0ZSA9PSBSZXNvdXJjZS5TdGF0ZS5ET1dOTE9BRCkgewo=</text>
+        <text encoding="base64">ICAgIH0gQm9vbGVhbiBieSBQcmVmZXJlbmNlKERFRkFVTFRfUkVTRVRfVE9fREVGQVVMVFMsIFJFU0VUX1RPX0RFRkFVTFRTKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBBc3NlcnRpb25FcnJvcigic2hvdWxkIG5vdCBoYXBwZW4iKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBERUZBVUxUX1JFU0VUX1RPX0RFRkFVTFRTID0gZmFsc2UK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChwbGFjZWhvbGRlciA9PSBSLmRyYXdhYmxlLnBsYWNlaG9sZGVyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoY29udGV4dCwgUi5zdHJpbmcuc2V0dGluZ3NfcmVzZXRfKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBBc3NlcnRpb25FcnJvcigic2hvdWxkIG5vdCBoYXBwZW4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUgeyBTZXR0aW5ncy5zaG93U2l6ZSA9IGl0IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChwbGFjZWhvbGRlciA9PSBSLmRyYXdhYmxlLnBsYWNlaG9sZGVyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5za2lwSW5pdGlhbFZhbHVlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
