@@ -362,7 +362,8 @@
         <mark key="." line="50" column="55" />
         <mark key="^" line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/android/doug/crawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" timestamp="1512593358622">
+      <file name="$USER_HOME$/android/doug/crawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" timestamp="1512602618466">
+        <mark key="'" line="589" column="0" />
         <mark key="[" line="458" column="44" />
         <mark key="]" line="458" column="51" />
         <mark key="." line="458" column="51" />
@@ -2285,8 +2286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="12" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/Model.java" />
-      <jump line="178" column="12" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/Model.java" />
       <jump line="275" column="9" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="277" column="14" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="511" column="28" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
@@ -2385,6 +2384,8 @@
       <jump line="16" column="34" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/adapters/TransformsAdapter.kt" />
       <jump line="17" column="57" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/adapters/TransformsAdapter.kt" />
       <jump line="257" column="18" filename="$USER_HOME$/android/doug/crawler/app/src/main/res-screen/settings/layout/settings_dialog_fragment.xml" />
+      <jump line="458" column="44" filename="$USER_HOME$/android/doug/crawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="589" column="0" filename="$USER_HOME$/android/doug/crawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2571,7 +2572,7 @@
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>onBack</text>
+        <text>DOWNLOAD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmVmcy51bnJlZ2lzdGVyT25TaGFyZWRQcmVmZXJlbmNlQ2hhbmdlTGlzdGVuZXIodGhpcykK</text>
@@ -2616,9 +2617,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onBack</last-search>
+      <last-search>DOWNLOAD</last-search>
       <last-offset />
-      <last-pattern>onBack</last-pattern>
+      <last-pattern>DOWNLOAD</last-pattern>
       <last-replace>Model.State</last-replace>
       <last-substitute>this\.</last-substitute>
       <last-dir>1</last-dir>
@@ -2626,8 +2627,6 @@
     </search>
     <history>
       <history-search>
-        <entry>response</entry>
-        <entry>calcPlan</entry>
         <entry>calcPa</entry>
         <entry>async</entry>
         <entry>placholder</entry>
@@ -2646,6 +2645,8 @@
         <entry>Transfo</entry>
         <entry>checked</entry>
         <entry>onBack</entry>
+        <entry>load</entry>
+        <entry>DOWNLOAD</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$/,/g</entry>
