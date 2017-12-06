@@ -281,11 +281,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/Model.java" timestamp="1512537152585">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="202" column="54" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/Model.java" timestamp="1512539815058">
+        <mark key="'" line="193" column="4" />
+        <mark key="[" line="338" column="55" />
+        <mark key="]" line="339" column="15" />
+        <mark key="^" line="339" column="15" />
+        <mark key="." line="339" column="15" />
       </file>
       <file name="$USER_HOME$/android/doug/A3a/app/src/main/java/edu/vanderbilt/crawler/ui/views/ImageView.kt" timestamp="1512157573538">
         <mark key="[" line="5" column="6" />
@@ -1258,8 +1259,8 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1512538519313">
-        <mark key="'" line="44" column="4" />
+      <file name="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1512539727637">
+        <mark key="'" line="619" column="6" />
         <mark key="[" line="209" column="64" />
         <mark key="]" line="210" column="6" />
         <mark key="^" line="210" column="6" />
@@ -2268,8 +2269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="48" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/views/ProgressFab.kt" />
-      <jump line="213" column="43" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/views/ProgressFab.kt" />
       <jump line="214" column="24" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/views/ProgressFab.kt" />
       <jump line="224" column="0" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/views/ProgressFab.kt" />
       <jump line="43" column="16" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/views/ProgressFab.kt" />
@@ -2368,10 +2367,12 @@
       <jump line="45" column="4" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="1237" column="44" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="51" column="4" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="619" column="6" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="193" column="4" filename="$USER_HOME$/android/doug/CS891/A5-ParallelStreams/app/src/main/java/edu/vandy/model/Model.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUHVzaCBhIG1vZGVsIHNuYXBzaG90IHRvIHRoZSBwcmVzZW50YXRpb24gbGF5ZXIuCiAgICAgICAgICAgIG1Nb2RlbC5pbnRlcm5hbFVwZGF0ZVN0YXRlKG51bGwsIG51bGwpOwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2554,13 +2555,13 @@
         <text>or they won't * be initialized.</text>
       </register>
       <register name="/" type="4">
-        <text>palant</text>
+        <text>internal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgZHJhd2FibGUgPSBDb250ZXh0Q29tcGF0LmdldERyYXdhYmxlKGNvbnRleHQsIHBhbGFudGlyU3ByaXRlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUHVzaCBhIG1vZGVsIHNuYXBzaG90IHRvIHRoZSBwcmVzZW50YXRpb24gbGF5ZXIuCiAgICAgICAgICAgIG1Nb2RlbC5pbnRlcm5hbFVwZGF0ZVN0YXRlKG51bGwsIG51bGwpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2568,40 +2569,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEFsbG9jYXRlIGFsbCBkcmF3IG9iamVjdHMgZm9yIGZhc3RlciBkcmF3cy4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIE5vdGUgdGhhdCB0aGUgaW5pdAogICAgICogYmxvY2sgbXVzdCBiZSBkZWNsYXJlZCBhZnRlciBhbGwgY2xhc3MgcHJvcGVydGllcyBvciB0aGV5IHdvbid0CiAgICAgKiBiZSBpbml0aWFsaXplZC4K</text>
+        <text encoding="base64">ICAgICAqIEFsbG9jYXRlIGFsbCBkcmF3IG9iamVjdHMgZm9yIGZhc3RlciBkcmF3cy4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIE5vdGUgdGhhdCB0aGUgaW5pdAogICAgICogYmxvY2sgbXVzdCBiZSBkZWNsYXJlZCBhZnRlciBhbGwgY2xhc3MgcHJvcGVydGllcyBvciB0aGV5IHdvbid0Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBBbGxvY2F0ZSBhbmQgaW5pdGlhbGl6ZSBhbGwgbWVtb3J5IG9iamVjdHMgdXNlIGJ5IG9uRHJhdy4KICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAqIE5vdGUgdGhhdCB0aGUgaW5pdAogICAgICogYmxvY2sgbXVzdCBiZSBkZWNsYXJlZCBhZnRlciBhbGwgY2xhc3MgcHJvcGVydGllcyBvciB0aGV5IHdvbid0CiAgICAgKiBiZSBpbml0aWFsaXplZC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGluaXQoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAqIE5vdGUgdGhhdCB0aGUgaW5pdAogICAgICogYmxvY2sgbXVzdCBiZSBkZWNsYXJlZCBhZnRlciBhbGwgY2xhc3MgcHJvcGVydGllcyBvciB0aGV5IHdvbid0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBBbGxvY2F0ZSBhbmQgaW5pdGlhbGl6ZSBhbGwgbWVtb3J5IG9iamVjdHMgdXNlIGJ5IG9uRHJhdy4KICAgICAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGluaXQoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>palant</last-search>
+      <last-search>internal</last-search>
       <last-offset />
-      <last-pattern>palant</last-pattern>
+      <last-pattern>internal</last-pattern>
       <last-replace>Model.State</last-replace>
       <last-substitute>this\.</last-substitute>
       <last-dir>1</last-dir>
@@ -2609,9 +2610,6 @@
     </search>
     <history>
       <history-search>
-        <entry>speedBar</entry>
-        <entry>SettingsDial</entry>
-        <entry>startActivity</entry>
         <entry>fore</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>menu</entry>
@@ -2629,6 +2627,9 @@
         <entry>beingcount</entry>
         <entry>beingCount</entry>
         <entry>palant</entry>
+        <entry>updateState</entry>
+        <entry>drawState</entry>
+        <entry>internal</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$/,/g</entry>
