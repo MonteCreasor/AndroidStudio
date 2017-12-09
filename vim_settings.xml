@@ -132,12 +132,13 @@
         <mark key="^" line="360" column="58" />
         <mark key="." line="360" column="58" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1512851986221">
-        <mark key="a" line="1051" column="19" />
-        <mark key="'" line="188" column="8" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1512853010053">
+        <mark key="a" line="1055" column="19" />
+        <mark key="'" line="894" column="37" />
+        <mark key="[" line="895" column="47" />
+        <mark key="]" line="895" column="71" />
+        <mark key="." line="895" column="71" />
+        <mark key="^" line="895" column="71" />
       </file>
       <file name="/fragment.java" timestamp="1512847478673">
         <mark key="[" line="0" column="0" />
@@ -172,9 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/res-screen/settings/layout/settings_dialog_fragment.xml" />
-      <jump line="43" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" />
-      <jump line="237" column="28" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="312" column="57" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="313" column="57" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="229" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" />
@@ -272,10 +270,13 @@
       <jump line="1051" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="1339" column="39" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="188" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="63" column="14" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="90" column="31" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="894" column="37" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFsYW50aXJXaWR0aCA9IGNhbGNXaWR0aEFzUmF0aW9Ub0hlaWdodCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Drawable</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -455,16 +456,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2lkdGgg</text>
+        <text>Drawable</text>
       </register>
       <register name="/" type="4">
-        <text>onMeasure</text>
+        <text>calcRects</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXaWR0aCBpcyBiYXNlZCBvbiBoZWlnaHQgbWFpbnRhaW5pbmcgZHJhd2FibGUgYXNwZWN0IHJhdGlvbi4KICAgICAgICBiZWluZ1dpZHRoID0gY2FsY1dpZHRoQXNSYXRpb1RvSGVpZ2h0KGJlaW5nSGVpZ2h0LCBiZWluZ0RyYXdhYmxlKQo=</text>
+        <text encoding="base64">ICAgICAgICBiZWluZ1dpZHRoID0gY2FsY1dpZHRoQXNSYXRpb1RvSGVpZ2h0KGJlaW5nSGVpZ2h0LCBiZWluZ0RyYXdhYmxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFsYW50aXJXaWR0aCA9IGNhbGNXaWR0aEFzUmF0aW9Ub0hlaWdodCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxjUmVjdHMoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -472,40 +473,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBiZWluZ0hlaWdodDogSW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFsYW50aXJXaWR0aCA9IGNhbGNXaWR0aEFzUmF0aW9Ub0hlaWdodCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogTGF6eSBiZWluZyBoZWlnaHQgKi8K</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBiZWluZ0hlaWdodDogSW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogTGF6eSBiZWluZyBoZWlnaHQgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCkgPSBnZXRCZWluZ1NpemUoKS5oZWlnaHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogTGF6eSBiZWluZyB3aWR0aCAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCkgPSBnZXRCZWluZ1NpemUoKS5oZWlnaHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogTGF6eSBiZWluZyB3aWR0aCAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSB7ZmllbGQgPSBjYWxjQmVpbmdTaXplKCkud2lkdGh9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSB7ZmllbGQgPSBjYWxjQmVpbmdTaXplKCkud2lkdGh9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bs/Palantiri/Being/g</text>
       </register>
     </registers>
     <search>
-      <last-search>onMeasure</last-search>
+      <last-search>calcRects</last-search>
       <last-offset />
-      <last-pattern>onMeasure</last-pattern>
+      <last-pattern>calcRects</last-pattern>
       <last-replace>Being</last-replace>
       <last-substitute>Palantiri</last-substitute>
       <last-dir>1</last-dir>
@@ -513,8 +514,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calcMaxTextSize</entry>
-        <entry>apshot</entry>
         <entry encoding="base64">XDxnYXppbmdEdXJhdGlvblNlZWtCYXJcPg==</entry>
         <entry>id=</entry>
         <entry>Size</entry>
@@ -532,7 +531,9 @@
         <entry>BeingSi</entry>
         <entry>calcBeingSize</entry>
         <entry>calcWidthAs</entry>
+        <entry>layout</entry>
         <entry>onMeasure</entry>
+        <entry>calcRects</entry>
       </history-search>
       <history-cmd>
         <entry>s/STATES/CONNECTORS/</entry>
