@@ -662,7 +662,7 @@
         <mark key="." line="33" column="69" />
         <mark key="^" line="33" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512975089655">
+      <file name="/Dummy.txt" timestamp="1512978196877">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/android/doug/TestApp/imageLib/build.gradle" timestamp="1507060535592">
@@ -890,10 +890,13 @@
         <mark key="^" line="28" column="63" />
         <mark key="." line="28" column="63" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/PalantiriManager.java" timestamp="1512977605857">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/PalantiriManager.java" timestamp="1512978317195">
+        <mark key="a" line="137" column="56" />
+        <mark key="'" line="127" column="62" />
+        <mark key="[" line="143" column="26" />
+        <mark key="]" line="144" column="7" />
+        <mark key="^" line="144" column="7" />
+        <mark key="." line="144" column="7" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/res-screen/main/layout/sprite_item.xml" timestamp="1512855156822">
         <mark key="[" line="3" column="29" />
@@ -2705,8 +2708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/android/doug/crawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
-      <jump line="14" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/simulationmodel/BeingSnapshot.java" />
       <jump line="911" column="31" filename="$USER_HOME$/android/doug/crawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="82" column="38" filename="$USER_HOME$/android/doug/crawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
       <jump line="88" column="32" filename="$USER_HOME$/android/doug/crawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
@@ -2805,10 +2806,12 @@
       <jump line="128" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/beings/ParallelStreamsBeingManager.java" />
       <jump line="44" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/simulationmodel/SimulatorComponent.java" />
       <jump line="88" column="15" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/BeingManager.java" />
+      <jump line="137" column="56" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/PalantiriManager.java" />
+      <jump line="127" column="62" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/PalantiriManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIFRPRE8K</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlKHBhbGFudGlyKTsK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2988,55 +2991,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QSA=</text>
+        <text>uses state information.</text>
       </register>
       <register name="/" type="4">
-        <text>mModelProvider</text>
+        <text>BUSY</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBwYWxhbnRpcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIFRPRE8K</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlKHBhbGFudGlyKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAvKioK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqIG1hbmFnZXIgc2V0cyB0aGUgUGFsYW50aXIgc3RhdGUgdG8gQVZBSUxBQkxFLCBhbmQgCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLyoK</text>
+        <text encoding="base64">ICAgICAqIEdBWklORywgb3IgUkVMRUFTSU5HCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIFRPRE8K</text>
+        <text encoding="base64">ICAgICAqIGNvbXBvbmVudHMuLi4uIChpdCB3aWxsIGFsc28gcmVkdWNlIHRoZSBjb2RlIGJ5IGEgZmV3IG1ldGhvZHMuCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIG1hbmFnaW5nIGFuZCBzeW5jaHJvbml6aW5nIHRoZSB2aXN1YWwgc3RhdGVzIG9mIDIgaW5kZXBlbmRlbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5keS5wYWxhbnRpcmkuc2ltdWxhdGlvbm1vZGVsLlNpbXVsYXRpb25Nb2RlbDsK</text>
+        <text encoding="base64">ICAgICAqIHRoZSBiZWluZyBzdGF0ZSBhbmQgcGFsYW50aXIgaWQgd2hpY2ggaXMgc2ltcGxlciBhbmQgY2xlYW5lciB0aGFuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBvYnNlcnZlcj8K</text>
+        <text encoding="base64">ICAgICAqIGFuZCBvbmx5IHVzZSBiZWluZyBzdGF0ZXMsIHRoZSBwYWxhbnRpciBzdGF0ZSBjYW4gYmUgaW5mZXJyZWQgZnJvbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1TaW11bGF0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/^...//</text>
       </register>
     </registers>
     <search>
-      <last-search>mModelProvider</last-search>
+      <last-search>BUSY</last-search>
       <last-offset />
-      <last-pattern>mModelProvider</last-pattern>
+      <last-pattern>BUSY</last-pattern>
       <last-replace />
       <last-substitute>^...</last-substitute>
       <last-dir>1</last-dir>
@@ -3044,7 +3047,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NO_OB</entry>
         <entry>NoOb</entry>
         <entry>stopSim</entry>
         <entry>updateState</entry>
@@ -3064,6 +3066,7 @@
         <entry>mModel</entry>
         <entry>reset</entry>
         <entry>mModelProvider</entry>
+        <entry>BUSY</entry>
       </history-search>
       <history-cmd>
         <entry>s/</entry>
