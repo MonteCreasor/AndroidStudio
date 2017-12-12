@@ -1081,6 +1081,13 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/palantiri/StampedLockPalantiriManager.java" timestamp="1512980105507">
+        <mark key="a" line="52" column="6" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="60" column="7" />
+        <mark key="^" line="53" column="51" />
+        <mark key="." line="53" column="51" />
+      </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/app/src/test/java/edu/vanderbilt/imagecrawler/admin/LocalCacheBuilders.java" timestamp="1505778420764">
         <mark key="[" line="40" column="45" />
         <mark key="]" line="20" column="57" />
@@ -1478,6 +1485,13 @@
         <mark key="]" line="15" column="22" />
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/settings/Settings.kt" timestamp="1513053236943">
+        <mark key="a" line="135" column="21" />
+        <mark key="[" line="72" column="63" />
+        <mark key="]" line="72" column="63" />
+        <mark key="." line="72" column="63" />
+        <mark key="^" line="92" column="33" />
       </file>
       <file name="$USER_HOME$/android/doug/A3a/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/JavaImage.java" timestamp="1512278601331">
         <mark key="[" line="15" column="33" />
@@ -1981,12 +1995,12 @@
         <mark key="." line="138" column="0" />
         <mark key="^" line="132" column="29" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1513076455675">
-        <mark key="a" line="999" column="67" />
-        <mark key="[" line="1037" column="15" />
-        <mark key="]" line="1037" column="15" />
-        <mark key="^" line="1022" column="44" />
-        <mark key="." line="1037" column="15" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1513077167670">
+        <mark key="a" line="995" column="67" />
+        <mark key="[" line="1008" column="10" />
+        <mark key="]" line="1008" column="11" />
+        <mark key="." line="1008" column="11" />
+        <mark key="^" line="1027" column="33" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateAndroidAssignmentDirectories.java" timestamp="1505876173463">
         <mark key="[" line="10" column="8" />
@@ -2776,7 +2790,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>minPalantirMargin</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2956,7 +2970,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>minPalantirMargin</text>
       </register>
       <register name="/" type="4">
         <text>sprites</text>
@@ -2965,19 +2979,19 @@
         <text encoding="base64">ICAgICAgICBpZiAoc25hcHNob3QuYmVpbmdzICE9IG51bGwgJiYgIXNuYXBzaG90LmJlaW5ncy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgc25hcHNob3QuYmVpbmdzLnNpemUKICAgICAgICAgICAgcmVjdC5oZWlnaHQoKQogICAgICAgICAgICByZWN0LmhlaWdodCgpCgogICAgICAgICAgICAvLyBXaWRlc3QgYmVpbmcKICAgICAgICAgICAgdmFsIG1heEJlaW5nV2lkdGggPSBnZXRCZWluZ1dpZHRoKC0xKQogICAgICAgICAgICAvLyBBbGwgYmVpbmdzIGhhdmUgdGhlIHNhbWUgaGVpZ2h0LgogICAgICAgICAgICB2YWwgYmVpbmdIZWlnaHQgPSBnZXRCZWluZ0hlaWdodCgpCgogICAgICAgICAgICAvLyBCaWdnZXN0IGJlaW5nIGlzIHRoZSBib3VuZGluZyBib3ggc2l6ZSBmb3IgYWxsIGJlaW5ncy4KICAgICAgICAgICAgdmFsIHJlY3RTcHJpdGUgPSBSZWN0KDAsIDAsIG1heEJlaW5nV2lkdGgsIGJlaW5nSGVpZ2h0KQoKICAgICAgICAgICAgYmVpbmdSZWN0cyA9IGNhbGNTcHJpdGVSZWN0cyhyZWN0LCByZWN0U3ByaXRlLCBtaW5CZWluZ01hcmdpbiwgc25hcHNob3QuYmVpbmdzLnNpemUpCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNuYXBzaG90LnBhbGFudGlyaSkudG9NdXRhYmxlTGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pblBhbGFudGlyTWFyZ2luLAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWluUGFsYW50aXJIZWlnaHQgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYWxhbnRpclJlY3RzID0gY2FsY1Nwcml0ZVJlY3RzKHJlY3QsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBVc2UgcHJlLWFsbG9jYXRlZCByZWN0YW5nbGUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYm91bmRpbmdSZWN0KQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2986,16 +3000,16 @@
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQmlnZ2VzdCBiZWluZyBpcyB0aGUgYm91bmRpbmcgYm94IHNpemUgZm9yIGFsbCBiZWluZ3MuCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNhbGNSZWN0c1JlY3QgPSBSZWN0KCkgLy8gTG9jYWwgdG8gdGhpcyBtZXRob2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNuYXBzaG90LnBhbGFudGlyaSkudG9NdXRhYmxlTGlzdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjdC5oZWlnaHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pblBhbGFudGlyTWFyZ2luLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Being/Palantir/g</text>
