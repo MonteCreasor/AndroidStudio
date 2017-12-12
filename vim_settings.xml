@@ -1981,13 +1981,12 @@
         <mark key="." line="138" column="0" />
         <mark key="^" line="132" column="29" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1513074780687">
-        <mark key="a" line="1025" column="0" />
-        <mark key="'" line="1568" column="8" />
-        <mark key="[" line="1096" column="46" />
-        <mark key="]" line="1095" column="16" />
-        <mark key="." line="1095" column="16" />
-        <mark key="^" line="1095" column="16" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1513076455675">
+        <mark key="a" line="999" column="67" />
+        <mark key="[" line="1037" column="15" />
+        <mark key="]" line="1037" column="15" />
+        <mark key="^" line="1022" column="44" />
+        <mark key="." line="1037" column="15" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateAndroidAssignmentDirectories.java" timestamp="1505876173463">
         <mark key="[" line="10" column="8" />
@@ -2674,7 +2673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="347" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="683" column="17" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="827" column="33" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
@@ -2774,10 +2772,11 @@
       <jump line="1002" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="742" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
       <jump line="1561" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="1046" column="37" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>m</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2957,55 +2956,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>calcSprit</text>
+        <text>sprites</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9jYWxjU3ByaXRlUmVjdCA9IFJlY3QoKQogICAgcHJpdmF0ZSBmdW4gY2FsY1Nwcml0ZVJlY3RzKGJvdW5kaW5nQm94OiBSZWN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiBJbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiBJbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWluTWFyZ2luOiBJbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3ByaXRlczogTGlzdDxBbnk+PykKICAgICAgICAgICAgOiBMaXN0PEltbXV0YWJsZVJlY3Q+IHsKICAgICAgICB2YWwgcmVjdCA9IF9jYWxjU3ByaXRlUmVjdAogICAgICAgIAogICAgICAgIGlmIChzcHJpdGVzID09IG51bGwgfHwgc3ByaXRlcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIGVtcHR5TGlzdCgpCiAgICAgICAgfQoKICAgICAgICB2YWwgY291bnQgPSBzcHJpdGVzLnNpemUKICAgICAgICB2YWwgYXZhaWxhYmxlV2lkdGggPSBib3VuZGluZ0JveC53aWR0aCgpCiAgICAgICAgdmFsIGF2YWlsYWJsZUhlaWdodCA9IGJvdW5kaW5nQm94LmhlaWdodCgpCiAgICAgICAgLy8gVW5mb3J0dW5hdGVseSwgaGF2ZSB0byBjYWxsIG5vbi1nZW5lcmljIG1ldGhvZCBoZXJlLgogICAgICAgIHZhbCBzcHJpdGVSZWN0ID0gcmVjdC5zZXQoMCwgMCwgd2lkdGgsIGhlaWdodCkKICAgICAgICB2YXIgbGVmdDogRmxvYXQKICAgICAgICB2YXIgdG9wOiBGbG9hdAogICAgICAgIHZhciBnYXAgPSAwZgoKICAgICAgICBpZiAocG9ydHJhaXQoKSkgewogICAgICAgICAgICAvLyBEZXRlcm1pbmUgdGhlIGxlZnQgc2lkZSBvZiB0aGUgc3ByaXRlIGNvbHVtbiB0aGF0IGlzIGNlbnRlcmVkCiAgICAgICAgICAgIC8vIGhvcml6b250YWxseSBpbiB0aGUgcHJvdmlkZWQgdmVydGljYWwgYm91bmRzIHJlY3QuCiAgICAgICAgICAgIGxlZnQgPSBib3VuZGluZ0JveC5sZWZ0ICsgKGJvdW5kaW5nQm94LndpZHRoKCkgLSByZWN0LndpZHRoKCkpIC8gMmYKCiAgICAgICAgICAgIHRvcCA9IChib3VuZGluZ0JveC50b3AgKyBtaW5NYXJnaW4pLnRvRmxvYXQoKQoKICAgICAgICAgICAgLy8gRGV0ZXJtaW5lIGlmIGVhY2ggYmVpbmcgd2l0aCBtYXJnaW5zIHdpbGwgZml0IGluIHRoZSBhdmFpbGFibGUKICAgICAgICAgICAgLy8gaGVpZ2h0LiBJZiBzbywgc3ByZWFkIGJlaW5ncyB0byBmaWxsIHRoZSBhdmFpbGFibGUgaGVpZ2h0IGJ5CiAgICAgICAgICAgIC8vIGluY3JlYXNpbmcgdGhlaXIgc3ByaXRlUmVjdCB0byBldmVubHkgY29uc3VtZSB0aGUgaGVpZ2h0LgogICAgICAgICAgICB2YWwgZXh0cmEgPSBhdmFpbGFibGVIZWlnaHQgLSAoMiAqIG1pbk1hcmdpbiArIHJlY3QuaGVpZ2h0KCkgKiBjb3VudCkKCiAgICAgICAgICAgIC8vIEJvdW5kcyBpcyBoaWdoZXIgdGhhbiBhbW91bnQgcmVxdWlyZWQgZm9yIGFsbCBzcHJpbnRzLCBzbwogICAgICAgICAgICAvLyBjYWxjdWxhdGUgdGhlIGV2ZW5seSBkaXN0cmlidXRlZCBnYXAgdGhhdCB3aWxsIGFsbG93IHRoZW0KICAgICAgICAgICAgLy8gdG8gYmVzdCBmaWxsIHRoZSBlbnRpcmUgdmVydGljYWwgYXJlYS4KICAgICAgICAgICAgaWYgKGV4dHJhID4gMCkgewogICAgICAgICAgICAgICAgZ2FwID0gZXh0cmEgLyAoY291bnQgKyAxKS50b0Zsb2F0KCkKICAgICAgICAgICAgICAgIHRvcCArPSBnYXAKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIGxlZnQgPSAoYm91bmRpbmdCb3gubGVmdCArIG1pbk1hcmdpbikudG9GbG9hdCgpCgogICAgICAgICAgICAvLyBEZXRlcm1pbmUgdGhlIHRvcCBzaWRlIG9mIHRoZSBzcHJpdGUgcm93IHRoYXQgaXMgY2VudGVyZWQKICAgICAgICAgICAgLy8gdmVydGljYWxseSBpbiB0aGUgcHJvdmlkZWQgaG9yaXpvbnRhbCBib3VuZHMgcmVjdC4KICAgICAgICAgICAgdG9wID0gYm91bmRpbmdCb3gucmlnaHQgKyAoYm91bmRpbmdCb3guaGVpZ2h0KCkgLSByZWN0LmhlaWdodCgpKSAvIDJmCgogICAgICAgICAgICAvLyBEZXRlcm1pbmUgaWYgZWFjaCBiZWluZyB3aXRoIG1hcmdpbnMgd2lsbCBmaXQgaW4gdGhlIGF2YWlsYWJsZQogICAgICAgICAgICAvLyBoZWlnaHQuIElmIHNvLCBzcHJlYWQgYmVpbmdzIHRvIGZpbGwgdGhlIGF2YWlsYWJsZSBoZWlnaHQgYnkKICAgICAgICAgICAgLy8gaW5jcmVhc2luZyB0aGVpciBzcHJpdGVSZWN0IHRvIGV2ZW5seSBjb25zdW1lIHRoZSBoZWlnaHQuCiAgICAgICAgICAgIHZhbCBleHRyYSA9IGF2YWlsYWJsZVdpZHRoIC0gKDIgKiBtaW5NYXJnaW4pICsgKHJlY3Qud2lkdGgoKSAqIGNvdW50KQoKICAgICAgICAgICAgLy8gQm91bmRzIGlzIGhpZ2hlciB0aGFuIGFtb3VudCByZXF1aXJlZCBmb3IgYWxsIHNwcmludHMsIHNvCiAgICAgICAgICAgIC8vIGNhbGN1bGF0ZSB0aGUgZXZlbmx5IGRpc3RyaWJ1dGVkIGdhcCB0aGF0IHdpbGwgYWxsb3cgdGhlbQogICAgICAgICAgICAvLyB0byBiZXN0IGZpbGwgdGhlIGVudGlyZSB2ZXJ0aWNhbCBhcmVhLgogICAgICAgICAgICBpZiAoZXh0cmEgPiAwKSB7CiAgICAgICAgICAgICAgICBnYXAgPSBleHRyYSAvIChjb3VudCArIDEpLnRvRmxvYXQoKQogICAgICAgICAgICAgICAgbGVmdCArPSBnYXAKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgLy8gUG9zaXRpb24gb2YgZmlyc3QgYmVpbmcuCiAgICAgICAgdmFsIGZpcnN0UmVjdCA9IFJlY3QobGVmdC50b0ludCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvcC50b0ludCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxlZnQudG9JbnQoKSArIHJlY3Qud2lkdGgoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3AudG9JbnQoKSArIHJlY3QuaGVpZ2h0KCkpCgogICAgICAgIC8vIENhbGN1bGF0ZSByZW1haW5pbmcgYmVpbmdzIGFzIHZlcnRpY2FsIG9mZnNldHMKICAgICAgICAvLyBmcm9tIHRoZSBmaXJzdCBiZWluZy4KICAgICAgICByZXR1cm4gc3ByaXRlcy5tYXBJbmRleGVkIHsgaW5kZXgsIF8gLT4KICAgICAgICAgICAgdmFsIHJlY3QgPSBSZWN0KGZpcnN0UmVjdCkKICAgICAgICAgICAgaWYgKHBvcnRyYWl0KCkpIHsKICAgICAgICAgICAgICAgIHZhbCBvZmZzZXQgPSBpbmRleCAqIChzcHJpdGVSZWN0LmhlaWdodCgpICsgZ2FwLnRvSW50KCkpCiAgICAgICAgICAgICAgICByZWN0Lm9mZnNldCgwLCBvZmZzZXQpCiAgICAgICAgICAgICAgICAvL1RPRE8gcmVjdC5vZmZzZXQoMCwgaW5kZXggKiAoc3ByaXRlUmVjdC5oZWlnaHQoKSArIGdhcC50b0ludCgpKSkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHZhbCBvZmZzZXQgPSBpbmRleCAqIChzcHJpdGVSZWN0LndpZHRoKCkgKyBnYXAudG9JbnQoKSkKICAgICAgICAgICAgICAgIHJlY3Qub2Zmc2V0KG9mZnNldCwgMCkKICAgICAgICAgICAgICAgIC8vVE9ETyByZWN0Lm9mZnNldChpbmRleCAqIChzcHJpdGVSZWN0LndpZHRoKCkgKyBnYXAudG9JbnQoKSksIDApCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVjdC5pbW11dGFibGUoKQogICAgICAgIH0udG9NdXRhYmxlTGlzdCgpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc25hcHNob3QuYmVpbmdzICE9IG51bGwgJiYgIXNuYXBzaG90LmJlaW5ncy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgc25hcHNob3QuYmVpbmdzLnNpemUKICAgICAgICAgICAgcmVjdC5oZWlnaHQoKQogICAgICAgICAgICByZWN0LmhlaWdodCgpCgogICAgICAgICAgICAvLyBXaWRlc3QgYmVpbmcKICAgICAgICAgICAgdmFsIG1heEJlaW5nV2lkdGggPSBnZXRCZWluZ1dpZHRoKC0xKQogICAgICAgICAgICAvLyBBbGwgYmVpbmdzIGhhdmUgdGhlIHNhbWUgaGVpZ2h0LgogICAgICAgICAgICB2YWwgYmVpbmdIZWlnaHQgPSBnZXRCZWluZ0hlaWdodCgpCgogICAgICAgICAgICAvLyBCaWdnZXN0IGJlaW5nIGlzIHRoZSBib3VuZGluZyBib3ggc2l6ZSBmb3IgYWxsIGJlaW5ncy4KICAgICAgICAgICAgdmFsIHJlY3RTcHJpdGUgPSBSZWN0KDAsIDAsIG1heEJlaW5nV2lkdGgsIGJlaW5nSGVpZ2h0KQoKICAgICAgICAgICAgYmVpbmdSZWN0cyA9IGNhbGNTcHJpdGVSZWN0cyhyZWN0LCByZWN0U3ByaXRlLCBtaW5CZWluZ01hcmdpbiwgc25hcHNob3QuYmVpbmdzLnNpemUpCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3ByaXRlUmVjdCA9IG1heEJlaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNuYXBzaG90LnBhbGFudGlyaSkudG9NdXRhYmxlTGlzdCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pblBhbGFudGlyTWFyZ2luLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVbmZvcnR1bmF0ZWx5LCBoYXZlIHRvIGNhbGwgbm9uLWdlbmVyaWMgbWV0aG9kIGhlcmUuCg==</text>
+        <text encoding="base64">ICAgICAgICBwYWxhbnRpclJlY3RzID0gY2FsY1Nwcml0ZVJlY3RzKHJlY3QsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW1hZ2VXaWR0aCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWN0LnJpZ2h0IC09IGRpZmYudG9JbnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWN0LmxlZnQgKz0gZGlmZi50b0ludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQmlnZ2VzdCBiZWluZyBpcyB0aGUgYm91bmRpbmcgYm94IHNpemUgZm9yIGFsbCBiZWluZ3MuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWN0LnNldChiZWluZ1JlY3RzW2luZGV4XSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjdC5oZWlnaHQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Being/Palantir/g</text>
       </register>
     </registers>
     <search>
-      <last-search>calcSprit</last-search>
+      <last-search>sprites</last-search>
       <last-offset />
-      <last-pattern>calcSprit</last-pattern>
+      <last-pattern>sprites</last-pattern>
       <last-replace>Palantir</last-replace>
       <last-substitute>Being</last-substitute>
       <last-dir>1</last-dir>
@@ -3013,7 +3012,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateMod</entry>
         <entry>isSh</entry>
         <entry>BeingCom</entry>
         <entry>BeingState</entry>
@@ -3033,6 +3031,7 @@
         <entry>updateModel</entry>
         <entry>calcSpriteRect</entry>
         <entry>calcSprit</entry>
+        <entry>sprites</entry>
       </history-search>
       <history-cmd>
         <entry>'a,.s/Logging/wireFrames</entry>
