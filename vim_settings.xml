@@ -2137,12 +2137,12 @@
         <mark key="." line="138" column="0" />
         <mark key="^" line="132" column="29" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1513058644790">
-        <mark key="'" line="326" column="0" />
-        <mark key="[" line="296" column="48" />
-        <mark key="]" line="296" column="48" />
-        <mark key="." line="296" column="48" />
-        <mark key="^" line="296" column="46" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" timestamp="1513059406139">
+        <mark key="'" line="509" column="4" />
+        <mark key="[" line="699" column="32" />
+        <mark key="]" line="699" column="32" />
+        <mark key="." line="699" column="32" />
+        <mark key="^" line="699" column="13" />
       </file>
       <file name="$USER_HOME$/doug/JavaImageCrawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/GenerateAndroidAssignmentDirectories.java" timestamp="1505876173463">
         <mark key="[" line="10" column="8" />
@@ -2856,9 +2856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="19" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/beings/Futures/BeingCallable.java" />
-      <jump line="45" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/beings/Futures/BeingCallable.java" />
-      <jump line="65" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/beings/Futures/BeingCallable.java" />
       <jump line="132" column="53" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/PalantiriManager.java" />
       <jump line="69" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/beings/Threads/ThreadBeingManager.java" />
       <jump line="139" column="14" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/BeingManager.java" />
@@ -2956,10 +2953,13 @@
       <jump line="104" column="22" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/palantiri/managers/palantiri/stampedLock/StampedLockMgr.java" />
       <jump line="252" column="20" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/MainActivity.kt" />
       <jump line="288" column="55" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/MainActivity.kt" />
+      <jump line="287" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="677" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
+      <jump line="509" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>//</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -3139,55 +3139,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>//</text>
       </register>
       <register name="/" type="4">
-        <text>fun update</text>
+        <text>Rect()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBiZWluZ1NuYXBzaG90cyAgICBBIGxpc3Qgb2YgYmVpbmcgc25hcHNob3RzIChvciBlbXB0eSBsaXN0KS4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIF9kcmF3QmVpbmdSZWN0ID0gUmVjdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0QmVpbmdEcmF3UmVjdChpbmRleCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUaHJvd2FibGUgZ2V0VGhyb3dhYmxlKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBEcmF3IGVhY2ggcGFsYW50aXIuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5idWlsZE1vZGVsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxjUmVjdHMoZHJhd0FyZWEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5keS5wYWxhbnRpcmkubWFuYWdlcnMuYmVpbmdzLmNvbXBsZXRhYmxlRnV0dXJlcy5TaW1wbGVCZWluZ1J1bm5hYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIHZhbCBkcmF3QXJlYSA9IFJlY3QoKQogICAgICAgIGRyYXdBcmVhLmxlZnQgPSBwYWRkaW5nTGVmdAogICAgICAgIGRyYXdBcmVhLnRvcCA9IHBhZGRpbmdUb3AKICAgICAgICBkcmF3QXJlYS5yaWdodCA9IHdpZHRoIC0gcGFkZGluZ1JpZ2h0CiAgICAgICAgZHJhd0FyZWEuYm90dG9tID0gaGVpZ2h0IC0gcGFkZGluZ0JvdHRvbQoKICAgICAgICAvLyBDYWxjdWxhdGUgYWxsIGRyYXdhYmxlIG9iamVjdCBib3VuZHMgcmVjdGFuZ2xlcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRTdGF0ZShFUlJPUiwgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigiVW5hYmxlIHRvIGNyZWF0ZSBQYWxhbnRpciBNYW5hZ2VyLiIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkcmF3QXJlYS5yaWdodCA9IHdpZHRoIC0gcGFkZGluZ1JpZ2h0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0U3RhdGUoRVJST1IsIG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIlVuYWJsZSB0byBjcmVhdGUgUGFsYW50aXIgTWFuYWdlci4iKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkcmF3QXJlYS50b3AgPSBwYWRkaW5nVG9wCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/^...//</text>
       </register>
     </registers>
     <search>
-      <last-search>fun update</last-search>
+      <last-search>Rect()</last-search>
       <last-offset />
-      <last-pattern>fun update</last-pattern>
+      <last-pattern>Rect()</last-pattern>
       <last-replace />
       <last-substitute>^...</last-substitute>
       <last-dir>1</last-dir>
@@ -3195,8 +3195,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Throw</entry>
-        <entry>pre</entry>
         <entry>build</entry>
         <entry>mManager</entry>
         <entry>mMan</entry>
@@ -3215,6 +3213,8 @@
         <entry>acquire</entry>
         <entry>update</entry>
         <entry>fun update</entry>
+        <entry>drawBeing</entry>
+        <entry>Rect()</entry>
       </history-search>
       <history-cmd>
         <entry>s/</entry>
