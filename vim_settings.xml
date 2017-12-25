@@ -2667,13 +2667,13 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514234058812">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514234954564">
         <mark key="a" line="855" column="10" />
         <mark key="'" line="425" column="14" />
-        <mark key="[" line="870" column="36" />
-        <mark key="]" line="870" column="50" />
-        <mark key="^" line="870" column="50" />
-        <mark key="." line="870" column="50" />
+        <mark key="[" line="885" column="28" />
+        <mark key="]" line="885" column="28" />
+        <mark key="^" line="885" column="27" />
+        <mark key="." line="885" column="28" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/implementation/BeingComponent.java" timestamp="1513150797180">
         <mark key="'" line="125" column="0" />
@@ -3100,7 +3100,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>oHeight</text>
+        <text>p</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -3280,46 +3280,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>oHeight</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>validate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKHNpemUgPCBsYXlvdXRSZWN0Lm9IZWlnaHQpIHsKICAgICAgICAgICAgInNpemUgJHNpemUgPCAkbGF5b3V0UmVjdC5vSGVpZ2h0IgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwYWxhbnRpclNpemUgPSBsYXlvdXRSZWN0Lm9IZWlnaHQgLSAoKHBhbGFudGlyaS5jb3VudCgpICsgMSkgKiBtaW5QYWxhbnRpck1hcmdpbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNpemUgJHNpemUgPCAkbGF5b3V0UmVjdC5vSGVpZ2h0Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKG1pblBhbGFudGlyTWFyZ2luIDwgbWluU3ByaXRlTWFyZ2luKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWxhbnRpclNpemUgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biB2YWxpZGF0ZUJvdW5kcyhiZWluZ0NvdW50LCBtYXhCZWluZ1NpemUsIG1heEJlaW5nTWFyZ2luKTogQm9vbGVhbiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWxhbnRpclNpemUgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsY01pbkxheW91dFNpemUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0OiBQYWlyPEludCxJbnQ+KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBhbGFudGlyUmVzdWx0ID0gUGFpcjxJbnQsIEludD4oKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/Being/Palantir/g</text>
