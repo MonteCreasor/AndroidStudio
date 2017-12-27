@@ -2698,12 +2698,12 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514408608201">
-        <mark key="a" line="232" column="28" />
-        <mark key="'" line="232" column="28" />
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514409573673">
+        <mark key="'" line="522" column="66" />
+        <mark key="[" line="514" column="46" />
+        <mark key="]" line="514" column="53" />
+        <mark key="." line="514" column="53" />
+        <mark key="^" line="514" column="53" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/implementation/BeingComponent.java" timestamp="1513150797180">
         <mark key="'" line="125" column="0" />
@@ -3027,9 +3027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1206" column="17" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1428" column="19" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1403" column="33" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1404" column="18" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1398" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1437" column="71" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
@@ -3127,10 +3124,13 @@
       <jump line="63" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="473" column="6" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="232" column="28" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="489" column="72" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="491" column="76" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="532" column="66" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>being</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -3310,46 +3310,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>being</text>
       </register>
       <register name="/" type="4">
         <text>updateModel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb1dpZHRoICogTUFYX0JFSU5HX1NDQUxFLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImJvdW5kcy53aWR0aCA+IDAgJiYgYm91bmRzLmhlaWdodCA+IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWluQmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb1dpZHRoICogTUFYX19TQ0FMRSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImJvdW5kcy53aWR0aCA+IDAgJiYgYm91bmRzLmhlaWdodCA+IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb1dpZHRoICogTUFYX0JFSU5HX1NDQUxFLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2l6ZShvV2lkdGgsIG9IZWlnaHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdGFudCBmb3IgZWFjaCBzZXNzaW9uLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBJdCdzIGFzc3VtZWQgdGhhdCB0aGUgYWN0dWFsIFN0YXRlIGVudW1lcmF0ZWQgdHlwZXMgcmVtYWluCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbk1hcmdpbgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBvZiB0aGUgc3ByaXRlcyB0byBmaXQgdGhlbSBpbiB0aGUgdmlldydzIGRyYXdhYmxlIGFyZWEuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChtaW5QYWxhbnRpclNpemUgKyBtaW5NYXJnaW4gKyBtaW5TdGF0ZVNpemUpLnRvRmxvYXQoKSArCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwYWxhbnRpciBjb3VudHMgbWF5IGhhdmUgY2hhbmdlZCB3aGljaCB3aWxsIGFmZmVjdCB0aGUgc2l6aW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bs/being/palantir/g</text>
@@ -3366,7 +3366,6 @@
     </search>
     <history>
       <history-search>
-        <entry>20</entry>
         <entry>width:</entry>
         <entry>val width</entry>
         <entry>bounds</entry>
@@ -3385,6 +3384,7 @@
         <entry>setSiz</entry>
         <entry>maxStateSize</entry>
         <entry>minStateS</entry>
+        <entry>updateMO</entry>
         <entry>updateModel</entry>
       </history-search>
       <history-cmd>
