@@ -1386,7 +1386,7 @@
         <mark key="^" line="16" column="49" />
         <mark key="." line="16" column="49" />
       </file>
-      <file name="/fragment.kt" timestamp="1514346642020">
+      <file name="/fragment.kt" timestamp="1514346708583">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/android/doug/AndroidImageCrawler/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/JavaImage.java" timestamp="1507605796535">
@@ -2698,13 +2698,13 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514346652818">
-        <mark key="a" line="726" column="15" />
-        <mark key="'" line="525" column="64" />
-        <mark key="[" line="728" column="39" />
-        <mark key="]" line="728" column="47" />
-        <mark key="^" line="728" column="47" />
-        <mark key="." line="728" column="47" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514347700855">
+        <mark key="a" line="1744" column="31" />
+        <mark key="'" line="1320" column="54" />
+        <mark key="[" line="1744" column="52" />
+        <mark key="]" line="1745" column="16" />
+        <mark key="^" line="1745" column="16" />
+        <mark key="." line="1745" column="16" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/implementation/BeingComponent.java" timestamp="1513150797180">
         <mark key="'" line="125" column="0" />
@@ -3028,9 +3028,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="964" column="42" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="974" column="10" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1964" column="27" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="254" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="518" column="24" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="519" column="40" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
@@ -3128,10 +3125,13 @@
       <jump line="724" column="34" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="869" column="32" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="526" column="64" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="513" column="57" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1317" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1320" column="54" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stateBounds</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyYXdGcmFtZShjYW52YXMsIGJvdW5kc1JlY3QsIENvbG9yLkNZQU4pCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -3311,55 +3311,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stateBounds</text>
+        <text>CYAN</text>
       </register>
       <register name="/" type="4">
-        <text>Maximum palantir size</text>
+        <text>CYAN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1heEdhemluZ1NpemUgPSBzaXplIC0gc3RhdGVCb3VuZHMuaGVpZ2h0IC0gbWluTWFyZ2luCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyYXdGcmFtZShjYW52YXMsIHJlY3QsIENvbG9yLkNZQU4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyYXdGcmFtZShjYW52YXMsIGJvdW5kc1JlY3QsIENvbG9yLkNZQU4pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY3QuYm90dG9tID0gcmVjdC50b3AgKyB2aWV3Lm1pblNwcml0ZU1hcmdpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWF4UGFsYW50aXJTaXplID0gcGFsYW50aXJTaXplUmFuZ2UubWF4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY3Quc2V0KGJvdW5kcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWF4QmVpbmdTaXplID0gYmVpbmdTaXplUmFuZ2UubWF4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY3QudG9wID0gcmVjdC5ib3R0b20K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBbGwgc2V0dGluZ3Mgc2hhcmVkIHByZWYgdmFsdWVzIGFyZSBpbiBkcC5Db252ZXJ0IGZyb20gcHggdG8gZHAgZm9yIHNldHRpbmdzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY3Quc2V0KGJvdW5kcykKICAgICAgICAgICAgICAgIHJlY3QudG9wID0gcmVjdC5ib3R0b20KICAgICAgICAgICAgICAgIHJlY3QuYm90dG9tID0gcmVjdC50b3AgKyB2aWV3Lm1pblNwcml0ZU1hcmdpbgo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJiZWluZ1NpemUgJGJlaW5nU2l6ZSA8PSAkYm91bmRzLm9IZWlnaHQiCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2V0dGluZ3MucGFsYW50aXJTaXplUmFuZ2Uuc2V0VXBwZXIobWF4UGFsYW50aXJTaXplRHApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWlyZShiZWluZ1NpemUgPD0gYm91bmRzLm9IZWlnaHQpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNldHRpbmdzLnBhbGFudGlyU2l6ZVJhbmdlID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bs/being/palantir/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Maximum palantir size</last-search>
+      <last-search>CYAN</last-search>
       <last-offset />
-      <last-pattern>Maximum palantir size</last-pattern>
+      <last-pattern>CYAN</last-pattern>
       <last-replace>palantir</last-replace>
       <last-substitute>being</last-substitute>
       <last-dir>1</last-dir>
@@ -3378,7 +3378,6 @@
         <entry>BLUE</entry>
         <entry>draw(</entry>
         <entry>fun calc</entry>
-        <entry>CYAN</entry>
         <entry>onPref</entry>
         <entry>onShared</entry>
         <entry>calcM</entry>
@@ -3387,6 +3386,7 @@
         <entry>bounds.set(</entry>
         <entry>margin</entry>
         <entry>Maximum palantir size</entry>
+        <entry>CYAN</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.lower/.min/g</entry>
