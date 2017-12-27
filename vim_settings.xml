@@ -2698,14 +2698,13 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514411831298">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514412393555">
         <mark key="a" line="213" column="18" />
-        <mark key="'" line="244" column="18" />
-        <mark key="[" line="214" column="50" />
+        <mark key="'" line="215" column="0" />
+        <mark key="[" line="540" column="0" />
         <mark key="m" line="213" column="18" />
-        <mark key="]" line="215" column="15" />
-        <mark key="." line="215" column="15" />
-        <mark key="^" line="215" column="15" />
+        <mark key="]" line="540" column="0" />
+        <mark key="." line="540" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/implementation/BeingComponent.java" timestamp="1513150797180">
         <mark key="'" line="125" column="0" />
@@ -3029,7 +3028,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1763" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1793" column="46" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1315" column="54" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1587" column="48" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
@@ -3129,10 +3127,11 @@
       <jump line="507" column="73" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="207" column="46" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="235" column="18" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="215" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Being</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobWF4KQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -3312,55 +3311,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Being</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>inflate</text>
+        <text>&quot;Current</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChTZXR0aW5ncy5iZWluZ0NvdW50ID4gbWF4QmVpbmdDb3VudCkgewogICAgICAgICAgICAgICAgICAgIFNldHRpbmdzLmJlaW5nQ291bnQgPSBtYXhCZWluZ0NvdW50CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAid2lsbCBub3Qgc3VwcG9ydCAke3NuYXBzaG90LmJlaW5ncy5jb3VudCgpfSAiICsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWF4KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGN1bGF0ZU1heFNwcml0ZUNvdW50cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAid2lsbCBub3Qgc3VwcG9ydCAkc25hcHNob3QucGFsYW50aXJpLmNvdW50KCkgIiArCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAobWluQmVpbmdTaXplICsgbWluTWFyZ2luICsgbWluU3RhdGVTaXplKS50b0Zsb2F0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW5NYXJnaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGN1bGF0ZU1heFNwcml0ZUNvdW50cygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3VuZHMub0hlaWdodCAvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAobWluQmVpbmdTaXplICsgbWluTWFyZ2luICsgbWluU3RhdGVTaXplKS50b0Zsb2F0KCkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbk1hcmdpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW5NYXJnaW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3VuZHMub0hlaWdodCAvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbk1hcmdpbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWF4QmVpbmdDb3VudCA8PSBzbmFwc2hvdC5iZWluZ3MuY291bnQoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>inflate</last-search>
+      <last-search>&quot;Current</last-search>
       <last-offset />
-      <last-pattern>inflate</last-pattern>
+      <last-pattern>&quot;Current</last-pattern>
       <last-replace>palantir</last-replace>
       <last-substitute>being</last-substitute>
       <last-dir>1</last-dir>
@@ -3368,7 +3367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bounds</entry>
         <entry>doSprites</entry>
         <entry>SHOW_STATES</entry>
         <entry>stateBounds</entry>
@@ -3388,6 +3386,7 @@
         <entry>maxBeing</entry>
         <entry>setSize</entry>
         <entry>inflate</entry>
+        <entry>&quot;Current</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.lower/.min/g</entry>
