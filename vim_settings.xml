@@ -727,6 +727,9 @@
         <mark key="." line="33" column="69" />
         <mark key="^" line="33" column="69" />
       </file>
+      <file name="/Dummy.txt" timestamp="1514435999468">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/android/doug/TestApp/imageLib/build.gradle" timestamp="1507060535592">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="55" />
@@ -2699,15 +2702,6 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514429530119">
-        <mark key="a" line="211" column="18" />
-        <mark key="'" line="1576" column="17" />
-        <mark key="[" line="1836" column="0" />
-        <mark key="m" line="211" column="18" />
-        <mark key="]" line="1836" column="12" />
-        <mark key="^" line="899" column="15" />
-        <mark key="." line="1836" column="12" />
-      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/implementation/BeingComponent.java" timestamp="1513150797180">
         <mark key="'" line="125" column="0" />
         <mark key="[" line="30" column="0" />
@@ -3133,7 +3127,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -3313,55 +3307,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>fun draw(</text>
+        <text>calculateMax</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZWN0RnJhbWVQYWludCA9IFBhaW50KFBhaW50LkFOVElfQUxJQVNfRkxBRykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGN1bGF0ZU1heFNwcml0ZUNvdW50cygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHkyID0gYm91bmRzLmJvdHRvbSAtIChmcm9tUmVjdC5oZWlnaHQoKSAvIDJmKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgKG1heEJlaW5nQ291bnQsIG1heFBhbGFudGlyQ291bnQpID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdmlldy5iZWluZ1BhbGFudGlyTWFyZ2luIC0gKGZyb21SZWN0LndpZHRoKCkgLyAyZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImJlIGNhbGxlZCBvbmNlIHZpZXcgaGFzIGJlZW4gcmVhbGl6ZWQuIgo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHgyID0gYm91bmRzLmV4YWN0Q2VudGVyWCgpIC0gKGJvdW5kcy53aWR0aCgpIC8gMmYpIC0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNhbGN1bGF0ZU1heFNwcml0ZUNvdW50cygpIHNob3VsZCBvbmx5ICIgKwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBvcnRyYWl0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjYWxjCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>fun draw(</last-search>
+      <last-search>calculateMax</last-search>
       <last-offset />
-      <last-pattern>fun draw(</last-pattern>
+      <last-pattern>calculateMax</last-pattern>
       <last-replace>palantir</last-replace>
       <last-substitute>being</last-substitute>
       <last-dir>1</last-dir>
@@ -3369,7 +3363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>println</entry>
         <entry>setSiz</entry>
         <entry>maxStateSize</entry>
         <entry>minStateS</entry>
@@ -3389,6 +3382,7 @@
         <entry>state</entry>
         <entry>drawFrame(</entry>
         <entry>fun draw(</entry>
+        <entry>calculateMax</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.lower/.min/g</entry>
