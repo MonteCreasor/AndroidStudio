@@ -2718,14 +2718,14 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514512928614">
-        <mark key="a" line="209" column="23" />
-        <mark key="'" line="1613" column="17" />
-        <mark key="[" line="1876" column="46" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514518087348">
+        <mark key="a" line="1876" column="29" />
+        <mark key="'" line="1860" column="12" />
+        <mark key="[" line="1876" column="42" />
         <mark key="m" line="923" column="8" />
-        <mark key="]" line="1876" column="50" />
-        <mark key="." line="1876" column="50" />
-        <mark key="^" line="1876" column="50" />
+        <mark key="]" line="1876" column="42" />
+        <mark key="." line="1876" column="42" />
+        <mark key="^" line="1876" column="46" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/implementation/BeingComponent.java" timestamp="1513150797180">
         <mark key="'" line="125" column="0" />
@@ -3049,12 +3049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="914" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1223" column="24" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="209" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="269" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="588" column="28" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="488" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="490" column="47" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="125" column="29" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="124" column="20" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
@@ -3149,10 +3143,16 @@
       <jump line="1097" column="14" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1394" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1613" column="17" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1876" column="29" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1640" column="27" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1719" column="27" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1835" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1862" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1860" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>height</text>
+        <text encoding="base64">IC0geDE=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -3332,10 +3332,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>height</text>
+        <text encoding="base64">IC0geDE=</text>
       </register>
       <register name="/" type="4">
-        <text>fun draw(</text>
+        <text>calcGazeO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHgyID0gYm91bmRzLmV4YWN0Q2VudGVyWCgpIC0gKGJvdW5kcy53aWR0aCgpIC8gMmYpIC0KICAgICAgICAgICAgICAgICAgICAgdmlldy5iZWluZ1BhbGFudGlyTWFyZ2luIC0gKGZyb21SZWN0LndpZHRoKCkgLyAyZikKICAgICAgICAgICAgICAgIHkyID0gYm91bmRzLmJvdHRvbSAtIChmcm9tUmVjdC5oZWlnaHQoKSAvIDJmKQo=</text>
@@ -3378,17 +3378,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fun draw(</last-search>
+      <last-search>calcGazeO</last-search>
       <last-offset />
-      <last-pattern>fun draw(</last-pattern>
+      <last-pattern>calcGazeO</last-pattern>
       <last-replace>palantir</last-replace>
       <last-substitute>being</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>maxScale</entry>
         <entry>\.map</entry>
         <entry>\.forEach</entry>
         <entry>aspect</entry>
@@ -3408,6 +3407,7 @@
         <entry>Inflate</entry>
         <entry>onMeasure</entry>
         <entry>fun draw(</entry>
+        <entry>calcGazeO</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.lower/.min/g</entry>
