@@ -2405,12 +2405,12 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514589390534">
-        <mark key="'" line="789" column="43" />
-        <mark key="[" line="1916" column="50" />
-        <mark key="]" line="1916" column="55" />
-        <mark key="^" line="1916" column="55" />
-        <mark key="." line="1916" column="55" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514590070054">
+        <mark key="'" line="747" column="12" />
+        <mark key="[" line="797" column="36" />
+        <mark key="]" line="797" column="41" />
+        <mark key="^" line="797" column="41" />
+        <mark key="." line="797" column="41" />
       </file>
       <file name="$USER_HOME$/android/KotlinTests/testlib/build.gradle" timestamp="1507079908300">
         <mark key="[" line="19" column="12" />
@@ -2692,8 +2692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1862" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1860" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1864" column="29" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="229" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="277" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
@@ -2792,10 +2790,12 @@
       <jump line="187" column="32" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1472" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="789" column="43" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="745" column="50" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="746" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bounds</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2975,10 +2975,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>toInt()</text>
+        <text>bounds</text>
       </register>
       <register name="/" type="4">
-        <text>maxSize</text>
+        <text>bounds</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKiAKICAgICAqIFRvIGF2b2lkIGFjY3VtdWxhdGluZyByb3VuZGluZyBlcnJvcnMgYnkgY29udmVydGluZwogICAgICogYmV0d2VlbiBkcCBhbmQgcHggdmFsdWVzLCBhbGwgc2l6ZXMgYXJlIHNhdmVkIGluIHB4CiAgICAgKiB2YWx1ZXMuCiAgICAgKi8K</text>
@@ -3021,9 +3021,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maxSize</last-search>
+      <last-search>bounds</last-search>
       <last-offset />
-      <last-pattern>maxSize</last-pattern>
+      <last-pattern>bounds</last-pattern>
       <last-replace>being</last-replace>
       <last-substitute>palantir</last-substitute>
       <last-dir>1</last-dir>
@@ -3040,7 +3040,6 @@
         <entry encoding="base64">cGFsYW50aXJTaXplUmFuZ2UgPSA=</entry>
         <entry>toINt</entry>
         <entry>toInt</entry>
-        <entry>bounds</entry>
         <entry>dp</entry>
         <entry>stateText</entry>
         <entry>Dp</entry>
@@ -3051,6 +3050,7 @@
         <entry>GREEN</entry>
         <entry>BLUE</entry>
         <entry>maxSize</entry>
+        <entry>bounds</entry>
       </history-search>
       <history-cmd>
         <entry>g/palantirStates/palantiri/g</entry>
