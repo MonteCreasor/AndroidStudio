@@ -2718,9 +2718,9 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514518087348">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514518697866">
         <mark key="a" line="1876" column="29" />
-        <mark key="'" line="1860" column="12" />
+        <mark key="'" line="277" column="12" />
         <mark key="[" line="1876" column="42" />
         <mark key="m" line="923" column="8" />
         <mark key="]" line="1876" column="42" />
@@ -3049,9 +3049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="490" column="47" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="125" column="29" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="124" column="20" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="63" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="473" column="6" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="489" column="72" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
@@ -3149,6 +3146,9 @@
       <jump line="1835" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1862" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1860" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1864" column="29" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="229" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="277" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3335,7 +3335,7 @@
         <text encoding="base64">IC0geDE=</text>
       </register>
       <register name="/" type="4">
-        <text>calcGazeO</text>
+        <text>setSi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHgyID0gYm91bmRzLmV4YWN0Q2VudGVyWCgpIC0gKGJvdW5kcy53aWR0aCgpIC8gMmYpIC0KICAgICAgICAgICAgICAgICAgICAgdmlldy5iZWluZ1BhbGFudGlyTWFyZ2luIC0gKGZyb21SZWN0LndpZHRoKCkgLyAyZikKICAgICAgICAgICAgICAgIHkyID0gYm91bmRzLmJvdHRvbSAtIChmcm9tUmVjdC5oZWlnaHQoKSAvIDJmKQo=</text>
@@ -3378,17 +3378,16 @@
       </register>
     </registers>
     <search>
-      <last-search>calcGazeO</last-search>
+      <last-search>setSi</last-search>
       <last-offset />
-      <last-pattern>calcGazeO</last-pattern>
+      <last-pattern>setSi</last-pattern>
       <last-replace>palantir</last-replace>
       <last-substitute>being</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\.map</entry>
         <entry>\.forEach</entry>
         <entry>aspect</entry>
         <entry>class Spri</entry>
@@ -3408,6 +3407,7 @@
         <entry>onMeasure</entry>
         <entry>fun draw(</entry>
         <entry>calcGazeO</entry>
+        <entry>setSi</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.lower/.min/g</entry>
