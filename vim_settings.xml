@@ -2421,11 +2421,12 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514618591220">
-        <mark key="'" line="624" column="12" />
-        <mark key="[" line="712" column="89" />
-        <mark key="]" line="712" column="89" />
-        <mark key="." line="712" column="89" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514655222975">
+        <mark key="a" line="1115" column="21" />
+        <mark key="'" line="614" column="8" />
+        <mark key="[" line="1146" column="54" />
+        <mark key="]" line="1146" column="54" />
+        <mark key="." line="1146" column="54" />
         <mark key="^" line="712" column="69" />
       </file>
       <file name="$USER_HOME$/android/KotlinTests/testlib/build.gradle" timestamp="1507079908300">
@@ -2711,13 +2712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1127" column="32" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1106" column="13" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1105" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1102" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1098" column="26" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1091" column="35" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1077" column="19" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1083" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1539" column="45" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1546" column="42" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
@@ -2811,10 +2805,17 @@
       <jump line="321" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="341" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="624" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="768" column="43" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1116" column="21" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1123" column="28" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1125" column="40" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1179" column="36" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="420" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="614" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICs=</text>
+        <text>.toInt()</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2994,13 +2995,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICs=</text>
+        <text>.toInt()</text>
       </register>
       <register name="/" type="4">
-        <text>fun valida</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJTZXR0aW5ncy5wYWxhbnRpclNpemUgPD0gU2V0dGluZ3MuYmVpbmdTaXplICogTUFYX1BBTEFOVElSX1NDQUxFICIgKwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z1ByaW50U2l6ZXNBbmRSYW5nZXMoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
@@ -3040,9 +3041,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fun valida</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>fun valida</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>Being</last-replace>
       <last-substitute>Palantir</last-substitute>
       <last-dir>1</last-dir>
@@ -3050,11 +3051,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validateS</entry>
-        <entry>fun draw</entry>
-        <entry>fun drawF</entry>
-        <entry>fun calc</entry>
-        <entry>doSprite</entry>
         <entry>drawSprite</entry>
         <entry>setSi</entry>
         <entry>layout</entry>
@@ -3070,6 +3066,11 @@
         <entry>Palantir</entry>
         <entry>doLayout</entry>
         <entry>fun valida</entry>
+        <entry>debugPrint</entry>
+        <entry>size</entry>
+        <entry>debuP</entry>
+        <entry>printD</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>%s/beingStates/beings/g</entry>
