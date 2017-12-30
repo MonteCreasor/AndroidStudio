@@ -2405,13 +2405,13 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514594860226">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514596386257">
         <mark key="a" line="1169" column="47" />
-        <mark key="'" line="1706" column="17" />
-        <mark key="[" line="1467" column="29" />
-        <mark key="]" line="1467" column="29" />
-        <mark key="^" line="1467" column="28" />
-        <mark key="." line="1467" column="29" />
+        <mark key="'" line="879" column="33" />
+        <mark key="[" line="1583" column="64" />
+        <mark key="]" line="1583" column="64" />
+        <mark key="^" line="1578" column="75" />
+        <mark key="." line="1583" column="71" />
       </file>
       <file name="$USER_HOME$/android/KotlinTests/testlib/build.gradle" timestamp="1507079908300">
         <mark key="[" line="19" column="12" />
@@ -2693,9 +2693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="920" column="25" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="1373" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
-      <jump line="921" column="41" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="922" column="74" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="943" column="3" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="757" column="34" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
@@ -2793,10 +2790,13 @@
       <jump line="1550" column="18" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1566" column="18" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1706" column="17" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1479" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1579" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="879" column="33" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>color</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2976,10 +2976,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>color</text>
       </register>
       <register name="/" type="4">
-        <text>fun draw</text>
+        <text>doLayout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFsYW50aXJTaXplID0gCiAgICAgICAgICAgICAgICAgICAgY2FsY01heFNwcml0ZVNpemUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWxhbnRpcmksIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFsYW50aXJTaXplLnRvRmxvYXQoKSkud2lkdGgudG9JbnQoKQo=</text>
@@ -3022,9 +3022,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fun draw</last-search>
+      <last-search>doLayout</last-search>
       <last-offset />
-      <last-pattern>fun draw</last-pattern>
+      <last-pattern>doLayout</last-pattern>
       <last-replace>being</last-replace>
       <last-substitute>palantir</last-substitute>
       <last-dir>1</last-dir>
@@ -3032,9 +3032,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">cGFsYW50aXJpU2l6ZVJhbmdlID0g</entry>
-        <entry encoding="base64">cGFsYW50aXJTaXplUmFuZ2UgPSA=</entry>
-        <entry>toINt</entry>
         <entry>toInt</entry>
         <entry>dp</entry>
         <entry>stateText</entry>
@@ -3052,6 +3049,9 @@
         <entry>validateS</entry>
         <entry>doSprites</entry>
         <entry>fun draw</entry>
+        <entry>fun drawF</entry>
+        <entry>fun calc</entry>
+        <entry>doLayout</entry>
       </history-search>
       <history-cmd>
         <entry>g/palantirStates/palantiri/g</entry>
