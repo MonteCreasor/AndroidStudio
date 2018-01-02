@@ -2437,9 +2437,9 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514870228527">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1514873030167">
         <mark key="a" line="774" column="0" />
-        <mark key="'" line="53" column="44" />
+        <mark key="'" line="719" column="55" />
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="0" />
         <mark key="." line="222" column="0" />
@@ -2724,11 +2724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="13" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
-      <jump line="51" column="59" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
-      <jump line="54" column="65" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
-      <jump line="56" column="59" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
-      <jump line="1259" column="42" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="377" column="25" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="1445" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="125" column="45" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
@@ -2824,6 +2819,11 @@
       <jump line="770" column="46" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="1012" column="36" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
       <jump line="53" column="44" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1495" column="19" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="523" column="42" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="595" column="32" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="718" column="49" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="719" column="55" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3010,7 +3010,7 @@
         <text encoding="base64">LT4gcG9zdCB7IHJlcXVlc3RMYXlvdXQoKSB9</text>
       </register>
       <register name="/" type="4">
-        <text>doLayout</text>
+        <text>1\.\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTSU1VTEFUSU9OX1NQUklURV9QUkVGIC0+IHBvc3QgeyByZXF1ZXN0TGF5b3V0KCkgfQo=</text>
@@ -3053,9 +3053,9 @@
       </register>
     </registers>
     <search>
-      <last-search>doLayout</last-search>
+      <last-search>1\.\.</last-search>
       <last-offset />
-      <last-pattern>doLayout</last-pattern>
+      <last-pattern>1\.\.</last-pattern>
       <last-replace>Palantir</last-replace>
       <last-substitute>Being</last-substitute>
       <last-dir>1</last-dir>
@@ -3063,14 +3063,10 @@
     </search>
     <history>
       <history-search>
-        <entry>width</entry>
-        <entry>init {</entry>
-        <entry>50</entry>
         <entry>drawRu</entry>
         <entry>rectFrame</entry>
         <entry>stateMar</entry>
         <entry>setSizes</entry>
-        <entry>Counts</entry>
         <entry>calcSiz</entry>
         <entry>Sizes</entry>
         <entry>class sprite</entry>
@@ -3083,6 +3079,10 @@
         <entry>drawFrame</entry>
         <entry>onShar</entry>
         <entry>doLayout</entry>
+        <entry>Counts</entry>
+        <entry>0..</entry>
+        <entry>1..</entry>
+        <entry>1\.\.</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
