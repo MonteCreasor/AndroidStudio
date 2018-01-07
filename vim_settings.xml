@@ -232,13 +232,13 @@
         <mark key="^" line="87" column="19" />
         <mark key="." line="87" column="19" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" timestamp="1515358265773">
-        <mark key="a" line="643" column="6" />
-        <mark key="'" line="487" column="16" />
-        <mark key="[" line="683" column="36" />
-        <mark key="]" line="683" column="36" />
-        <mark key="^" line="683" column="36" />
-        <mark key="." line="683" column="36" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" timestamp="1515359049322">
+        <mark key="a" line="639" column="6" />
+        <mark key="'" line="207" column="0" />
+        <mark key="[" line="221" column="22" />
+        <mark key="]" line="221" column="22" />
+        <mark key="." line="221" column="22" />
+        <mark key="^" line="221" column="10" />
       </file>
       <file name="$USER_HOME$/tools/android/sdk/sources/android-26/android/os/MessageQueue.java" timestamp="1515315309583">
         <mark key="[" line="50" column="6" />
@@ -395,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="91" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
       <jump line="164" column="23" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationViewModel.kt" />
       <jump line="159" column="20" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
       <jump line="278" column="54" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
@@ -495,10 +494,11 @@
       <jump line="121" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
       <jump line="684" column="13" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
       <jump line="487" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
+      <jump line="206" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -678,58 +678,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25pZHRpb25cPg==</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIGFsbCBjb21wb25lbnQgZXJyb3IgY2FsbHMuIFdoZW4gYW55IG1vZGVsIGNvbXBvbmVudAogICAgICogZW5jb3VudGVycyBhIG5vbi1yZWNvdmVyYWJsZSBlcnJvciwgaXQgc2hvdWxkIGNhbGwgb25lIG9mIGl0J3MKICAgICAqIGJhc2UgY2xhc3Mgb3ZlcmxvYWRlZCB7QGxpbmsgI2Vycm9yfSBtZXRob2RzIHdoaWNoIHdpbGwgcm91dGUKICAgICAqIGFsbCBjYWxscyB1cCB0byB0aGlzIHNpbXVsYXRvciBpbnN0YW5jZS4KICAgICAqIDxwPgogICAgICogVGhlIGVycm9yIGlzIHJlY29yZGVkIGFuZCB0aGVuIHJlZmxlY3RlZCBiYWNrIGRvd24gdG8gYWxsCiAgICAgKiBjb21wb25lbnRzIGFzIGEgc2h1dGRvd24gcmVxdWVzdCB2aWEgdGhlIHtAbGluayAjc2h1dGRvd259CiAgICAgKiBtZXRob2QuIFNpbmNlIGFueSBjYWxsIHRvIGVycm9yIHNpZ25hbHMgYW4gdW5yZWNvdmVyYWJsZSBlcnJvciwKICAgICAqIHRoaXMgbWV0aG9kIHdpbGwgdGhyb3cgYW4gSWxsZWdhbFN0YXRlRXhjZXB0aW9uIGluIHRoZSBjYWxsaW5nCiAgICAgKiB0aHJlYWQgc28gdGhhdCBjYWxsZXJzIGRvbid0IG5lZWQgdG8gd29ycnkgYWJvdXQgaGFuZGxpbmcgZXJyb3IKICAgICAqIHJldHVybiBjb2RlcyBvciBkZWFsaW5nIHdpdGggYW4gaW5jb25zaXN0ZW50IG1vZGVsIHN0YXRlLgogICAgICoKICAgICAqIEBwYXJhbSBtc2cgQSBtZXNzYWdlIGRlc2NyaWJpbmcgdGhlIGVycm9yLgogICAgICovCiAgICBwdWJsaWMgdm9pZCBlcnJvcihATm90TnVsbCBTdHJpbmcgbXNnKSB7CiAgICAgICAgLy8gU2V0IG1vZGVsIGVycm9yIHN0YXRlIHdoaWNoIHdpbGwgdHJpZ2dlciBhIHNuYXBzaG90IHRoYXQKICAgICAgICAvLyB3aWxsIGJlIHNlbnQgdG8gdGhlIHByZXNlbnRhdGlvbiBsYXllci4KICAgICAgICBzZXRTdGF0ZShFUlJPUiwgbXNnKTsKCiAgICAgICAgLy8gQ2FsbCBzaHV0ZG93biBoZWxwZXIgdGhhdCB3aWxsIHByb3BhZ2F0ZSB0aGUgc2h1dGRvd24KICAgICAgICAvLyBjb21tYW5kIHRvIGFsbCBtb2RlbCBjb21wb25lbnRzLgogICAgICAgIGlmICghaXNTaHV0ZG93bigpKSB7CiAgICAgICAgICAgIExvZy53KFRBRywgImVycm9yKCkgY2FsbGluZyBzaHV0ZG93bi4uLiIpOwogICAgICAgICAgICBzaHV0ZG93bigpOwogICAgICAgIH0KCiAgICAgICAgLy8gTm93IHRocm93IGFuIGV4Y2VwdGlvbiBpbiB0aGUgY2FsbGluZyB0aHJlYWQgc28gdGhhdCB0aGUKICAgICAgICAvLyBjYWxsZXIgZG9lcyBub3QgZXhlY3V0ZSBhbnkgbW9yZSBjb2RlIGluIHRoaXMgaW5jb25zaXN0ZW50CiAgICAgICAgLy8gbW9kZWwgc3RhdGUuIFRoaXMgd2lsbCBhbHNvIHByb3ZpZGUgYSBzdGFjayB0cmFjZSBmb3IKICAgICAgICAvLyBkZWJ1Z2dpbmcgdGhlIHByb2JsZW0uCiAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbihtc2cpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2V0U3RhdGUoKSA9PSBFUlJPUiwgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWJ1Z2dpbmcgdGhlIHByb2JsZW0uCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtb2RlbCBzdGF0ZS4gVGhpcyB3aWxsIGFsc28gcHJvdmlkZSBhIHN0YWNrIHRyYWNlIGZvcgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1N0YXJ0U3RhdGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjYWxsZXIgZG9lcyBub3QgZXhlY3V0ZSBhbnkgbW9yZSBjb2RlIGluIHRoaXMgaW5jb25zaXN0ZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOb3cgdGhyb3cgYW4gZXhjZXB0aW9uIGluIHRoZSBjYWxsaW5nIHRocmVhZCBzbyB0aGF0IHRoZQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAid2hlbiBhIHNpbXVsYXRpb24gaXMgYWxyZWFkeSBydW5uaW5nLiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2h1dGRvd24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLncoVEFHLCAiZXJyb3IoKSBjYWxsaW5nIHNodXRkb3duLi4uIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlIChpc1J1bm5pbmcoKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzU2h1dGRvd24oKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25pZHRpb25cPg==</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25pZHRpb25cPg==</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace>Palantir</last-replace>
       <last-substitute>\.stop</last-substitute>
       <last-dir>1</last-dir>
@@ -737,7 +737,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shutdown()</entry>
         <entry>isRunn</entry>
         <entry>setRunning(false</entry>
         <entry>Controller</entry>
@@ -757,6 +756,7 @@
         <entry>mRunning</entry>
         <entry>start</entry>
         <entry encoding="base64">XDxjb25pZHRpb25cPg==</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
