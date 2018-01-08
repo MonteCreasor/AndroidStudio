@@ -200,6 +200,12 @@
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/implementation/components/BeingComponent.java" timestamp="1515442571276">
         <mark key="'" line="359" column="8" />
       </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/Being.java" timestamp="1515445973272">
+        <mark key="[" line="105" column="57" />
+        <mark key="]" line="105" column="57" />
+        <mark key="^" line="105" column="56" />
+        <mark key="." line="105" column="57" />
+      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/res-screen/settings/layout/settings_dialog_fragment.xml" timestamp="1515433805768">
         <mark key="[" line="221" column="11" />
         <mark key="]" line="221" column="13" />
@@ -256,12 +262,6 @@
         <mark key="]" line="133" column="18" />
         <mark key="^" line="133" column="18" />
         <mark key="." line="133" column="18" />
-      </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/implementation/components/PalantirComponent.java" timestamp="1515383904163">
-        <mark key="'" line="66" column="31" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/implementation/snapshots/PalantirSnapshot.java" timestamp="1515216735540">
         <mark key="a" line="63" column="0" />
@@ -494,7 +494,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>, );</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -674,7 +674,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>, );</text>
       </register>
       <register name="/" type="4">
         <text>should have</text>
