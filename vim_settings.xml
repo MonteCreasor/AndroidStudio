@@ -37,7 +37,7 @@
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Controller.java" timestamp="1515457506097">
         <mark key="'" line="51" column="38" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1515454158701">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1515458129593">
         <mark key="a" line="545" column="16" />
         <mark key="'" line="456" column="17" />
         <mark key="[" line="545" column="0" />
@@ -233,12 +233,13 @@
         <mark key="^" line="93" column="54" />
         <mark key="." line="93" column="54" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/SimulatorTest.kt" timestamp="1515457956923">
-        <mark key="'" line="37" column="77" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="106" column="11" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/SimulatorTest.kt" timestamp="1515459498259">
+        <mark key="a" line="137" column="26" />
+        <mark key="'" line="270" column="31" />
+        <mark key="[" line="130" column="5" />
+        <mark key="]" line="131" column="3" />
+        <mark key="^" line="131" column="3" />
+        <mark key="." line="131" column="3" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/res-screen/settings/layout/settings_dialog_fragment.xml" timestamp="1515433805768">
         <mark key="[" line="221" column="11" />
@@ -286,7 +287,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515457969254">
+      <file name="/Dummy.txt" timestamp="1515459506717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/implementation/BaseComponent.java" timestamp="1513130490937">
@@ -305,11 +306,11 @@
         <mark key="^" line="64" column="69" />
         <mark key="." line="64" column="69" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" timestamp="1515386093291">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" timestamp="1515459093967">
         <mark key="a" line="453" column="0" />
         <mark key="'" line="407" column="0" />
-        <mark key="[" line="191" column="48" />
-        <mark key="]" line="191" column="48" />
+        <mark key="[" line="436" column="0" />
+        <mark key="]" line="436" column="69" />
         <mark key="^" line="191" column="48" />
         <mark key="." line="191" column="48" />
       </file>
@@ -431,15 +432,13 @@
         <mark key="]" line="199" column="61" />
         <mark key="." line="199" column="61" />
       </file>
-      <file name="/fragment.java" timestamp="1515457969273">
+      <file name="/fragment.java" timestamp="1515459506738">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="7" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
-      <jump line="296" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
       <jump line="322" column="73" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
       <jump line="597" column="48" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
       <jump line="671" column="43" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" />
@@ -538,10 +537,12 @@
       <jump line="50" column="24" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Controller.java" />
       <jump line="51" column="38" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Controller.java" />
       <jump line="37" column="77" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/SimulatorTest.kt" />
+      <jump line="148" column="24" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/SimulatorTest.kt" />
+      <jump line="247" column="31" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/SimulatorTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -721,58 +722,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICs=</text>
+        <text>NO_MANAGER</text>
       </register>
       <register name="/" type="4">
-        <text>animation</text>
+        <text>gazingRan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJcdGl0ZXJhdGlvbnM9JGl0ZXJhdGlvbnNcbiIgKwo=</text>
+        <text encoding="base64">ICAgICAgICBCZWluZ01hbmFnZXIuRmFjdG9yeS5UeXBlLnZhbHVlcygpCiAgICAgICAgICAgICAgICAuZmlsdGVyIHsgaXQgIT0gQmVpbmdNYW5hZ2VyLkZhY3RvcnkuVHlwZS5OT19NQU5BR0VSIH0KICAgICAgICAgICAgICAgIC5maWx0ZXIgeyBpdC5jbGF6eiAhPSBCZWluZ01hbmFnZXIuRmFjdG9yeS5Ob01hbmFnZXI6OmNsYXNzfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja05vdE51bGwocmFuZ2UsICJ2YWx1ZSBtdXN0IG5vdCBiZSBudWxsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIgeyBpdC5jbGF6eiAhPSBCZWluZ01hbmFnZXIuRmFjdG9yeS5Ob01hbmFnZXI6OmNsYXNzfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVCBtTG93ZXI7CiAgICBwcml2YXRlIGZpbmFsIFQgbVVwcGVyOwoK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYW5nZS5tTG93ZXIgPSAyOwo=</text>
+        <text encoding="base64">ICAgICAgICBCZWluZ01hbmFnZXIuRmFjdG9yeS5UeXBlLnZhbHVlcygpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVCBtTG93ZXI7CiAgICBwcml2YXRlIGZpbmFsIFQgbVVwcGVyOwo=</text>
+        <text encoding="base64">ICAgIGZ1biB0ZXN0KCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JFYWNoIHsgcFR5cGUgLT4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVCBtTG93ZXI7CiAgICBwcml2YXRlIGZpbmFsIFQgbVVwcGVyOwogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIgeyBpdCAhPSBCZWluZ01hbmFnZXIuRmFjdG9yeS5UeXBlLk5PX01BTkFHRVJ9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYW5kcm9pZC5pbnRlcm5hbC51dGlsLlByZWNvbmRpdGlvbnMuKjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIge2l0ICE9IEJlaW5nTWFuYWdlci5GYWN0b3J5Lk5vTWFuYWdlcjo6Y2xhc3MuamF2YX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>animation</last-search>
+      <last-search>gazingRan</last-search>
       <last-offset />
-      <last-pattern>animation</last-pattern>
+      <last-pattern>gazingRan</last-pattern>
       <last-replace>Palantir</last-replace>
       <last-substitute>\.stop</last-substitute>
       <last-dir>1</last-dir>
@@ -780,8 +781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validateEndSt</entry>
-        <entry>validateEndS</entry>
         <entry>should have</entry>
         <entry>mCompl</entry>
         <entry>ceil</entry>
@@ -800,6 +799,8 @@
         <entry>mLo</entry>
         <entry>mSimulationS</entry>
         <entry>animation</entry>
+        <entry>require</entry>
+        <entry>gazingRan</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
