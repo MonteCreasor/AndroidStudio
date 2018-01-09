@@ -142,12 +142,12 @@
         <mark key="^" line="91" column="32" />
         <mark key="." line="91" column="32" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/view/PalantiriActivityTest.java" timestamp="1515531377824">
-        <mark key="a" line="133" column="16" />
-        <mark key="[" line="152" column="46" />
-        <mark key="]" line="153" column="30" />
-        <mark key="." line="153" column="30" />
-        <mark key="^" line="153" column="30" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/view/PalantiriActivityTest.java" timestamp="1515532444718">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="^" line="215" column="7" />
+        <mark key="." line="230" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/res-screen/main/layout/app_bar_main.xml" timestamp="1514845222499">
         <mark key="[" line="6" column="0" />
@@ -545,7 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="27" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestHelperJava.java" />
       <jump line="19" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestHelperJava.java" />
       <jump line="190" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestHelperJava.java" />
       <jump line="55" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestHelperJava.java" />
@@ -645,10 +644,11 @@
       <jump line="78" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="104" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="200" column="51" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/SettingsDialogFragment.kt" />
+      <jump line="134" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/view/PalantiriActivityTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GAZING</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -828,49 +828,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>GAZING</text>
+        <text>Portrait</text>
       </register>
       <register name="/" type="4">
         <text>configureG</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTZXR0aW5ncy5zZXRCZWluZ0NvdW50KEJFSU5HUyk7CiAgICAgICAgU2V0dGluZ3Muc2V0UGFsYW50aXJDb3VudChQQUxBTlRJUkkpOwogICAgICAgIFNldHRpbmdzLnNldEdhemluZ0l0ZXJhdGlvbnMoSVRFUkFUSU9OUyk7CiAgICAgICAgU2V0dGluZ3Muc2V0QW5pbWF0aW9uU3BlZWQoU1BFRUQpOwogICAgICAgIFNldHRpbmdzLnNldEdhemluZ0R1cmF0aW9uKEdBWklORyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldE9yaWVudGF0aW9uUG9ydHJhaXQoQ09ORklHX1RJTUVPVVQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDIwMDAwKTsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgyMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBGb3JjZSBjb25maWcgY2hhbmdlLgogICAgICAgIGFjdGlvbkJ1dHRvbi5wZXJmb3JtKGNsaWNrKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoZ2F6aW5nRHVyYXRpb24sIGVxdWFsVG8ocmFuZ2UpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJhbmdlPEludGVnZXI+IGdhemluZ0R1cmF0aW9uID0gU2V0dGluZ3MuZ2V0R2F6aW5nRHVyYXRpb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w JavaTestHelper.java</text>
