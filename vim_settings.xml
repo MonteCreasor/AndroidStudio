@@ -281,6 +281,13 @@
         <mark key="]" line="316" column="26" />
         <mark key="." line="316" column="26" />
       </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/AUTOGRADER_SUBMISSION/SUBMISSION_INSTRUCTIONS.txt" timestamp="1515617816033">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="32" column="74" />
+        <mark key="]" line="33" column="3" />
+        <mark key="." line="33" column="14" />
+        <mark key="^" line="33" column="3" />
+      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/ui/screens/settings/SettingsDialogFragment.kt" timestamp="1512850736007">
         <mark key="a" line="383" column="4" />
         <mark key="'" line="203" column="56" />
@@ -591,8 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="11" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestHelper.kt" />
-      <jump line="131" column="11" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestHelper.kt" />
       <jump line="127" column="72" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestHelperJava.java" />
       <jump line="132" column="24" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestHelperJava.java" />
       <jump line="137" column="24" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestHelperJava.java" />
@@ -691,10 +696,12 @@
       <jump line="81" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/build.gradle" />
       <jump line="208" column="6" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/A1InstrumentedTest.java" />
       <jump line="30" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestAllStrategies.kt" />
+      <jump line="26" column="17" filename="$USER_HOME$/cur/PalantiriSimulator/AUTOGRADER_SUBMISSION/SUBMISSION_INSTRUCTIONS.txt" />
+      <jump line="32" column="13" filename="$USER_HOME$/cur/PalantiriSimulator/AUTOGRADER_SUBMISSION/SUBMISSION_INSTRUCTIONS.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcGx5IGZyb206ICdkZXBlbmRlbmNpZXMuZ3JhZGxlJwo=</text>
+      <register name="&quot;" type="4">
+        <text>Coursera</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -874,10 +881,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Coursera</text>
       </register>
       <register name="/" type="4">
-        <text>@Ignore</text>
+        <text>Coursera</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGVkdS52YW5kZXJiaWx0LmdyYWRlci5ydWJyaWMK</text>
@@ -923,9 +930,9 @@
       </register>
     </registers>
     <search>
-      <last-search>@Ignore</last-search>
+      <last-search>Coursera</last-search>
       <last-offset />
-      <last-pattern>@Ignore</last-pattern>
+      <last-pattern>Coursera</last-pattern>
       <last-replace>Palantir</last-replace>
       <last-substitute>\.stop</last-substitute>
       <last-dir>1</last-dir>
@@ -933,7 +940,6 @@
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
         <entry>tr</entry>
         <entry>Error</entry>
         <entry>class Erro</entry>
@@ -953,6 +959,7 @@
         <entry>setOrientT</entry>
         <entry>setOrient</entry>
         <entry>@Ignore</entry>
+        <entry>Coursera</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Settings\..*= it/updatePreference { \0 }/g</entry>
