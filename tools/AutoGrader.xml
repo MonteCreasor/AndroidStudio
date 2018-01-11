@@ -1,14 +1,14 @@
 <toolSet name="AutoGrader">
-  <tool name="Run Vanderbilt Autograder" description="Runs the Vanderbilt autograder" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+  <tool name="Run Vanderbilt Autograder (iOS or Linux)" description="Runs the Vanderbilt autograder on iOS or Linux" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="C:/gradle/gradle-4.0/bin/gradle.bat" />
+      <option name="COMMAND" value="./gradlew" />
       <option name="PARAMETERS" value="runAutograder" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="Run Vanderbilt Autograder 2" description="Runs the Vanderbilt autograder" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+  <tool name="Run Vanderbilt Autograder (Windows)" description="Runs the Vanderbilt autograder (Windows)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="cmd" />
+      <option name="COMMAND" value="gradlew.bat" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
