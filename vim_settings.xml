@@ -56,12 +56,13 @@
         <mark key="." line="51" column="47" />
         <mark key="^" line="51" column="47" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/A1UnitTest.java" timestamp="1515580414485">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/A1UnitTest.java" timestamp="1515833123502">
         <mark key="a" line="16" column="6" />
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
         <mark key="^" line="3" column="35" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/interfaces/ModelController.java" timestamp="1515442347094">
         <mark key="[" line="59" column="56" />
@@ -245,6 +246,17 @@
         <mark key="." line="770" column="13" />
         <mark key="^" line="761" column="25" />
       </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestAllStrategies.kt" timestamp="1515833130352">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/test.kt" timestamp="1515833167200">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+      </file>
       <file name="$USER_HOME$/tools/android/sdk/sources/android-26/android/os/MessageQueue.java" timestamp="1515315309583">
         <mark key="[" line="50" column="6" />
         <mark key="]" line="50" column="6" />
@@ -372,15 +384,13 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="22" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1515653050808">
+      <file name="/fragment.java" timestamp="1515832948280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
-      <jump line="199" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
       <jump line="202" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
       <jump line="203" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
       <jump line="206" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
@@ -479,10 +489,12 @@
       <jump line="149" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/3f998a26355e4138e3e7a880a5dac57fc4370339/picasso-2.5.2-sources.jar!/com/squareup/picasso/Picasso.java" />
       <jump line="163" column="10" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/3f998a26355e4138e3e7a880a5dac57fc4370339/picasso-2.5.2-sources.jar!/com/squareup/picasso/Picasso.java" />
       <jump line="53" column="39" filename="$USER_HOME$/udacity/Flix/extensions/src/main/kotlin/monte/apps/extensions/ImageExt.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/A1UnitTest.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestAllStrategies.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyOnJ1YnJpYzoxLjEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzID0gMTAsCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -662,31 +674,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Settings.DEFAULT_IMAGE_DOWNLOADER,</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>context = null</text>
+        <text>points</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgdmFyIHR5cGU6IFR5cGUgYnkgT2JzZXJ2YWJsZVByZWZlcmVuY2UoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyOnJ1YnJpYzoxLjEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzID0gMTAsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzID0gMTAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogYSBkaXJlY3RvcnksIGl0IGFsc28gZGVsZXRlcyBhbGwgb2YgaXQncyBjb250ZW50cy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzID0gMTAuMCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHJldHVybiBBIFtGaWxlXSBjcmVhdGVkIGZyb20gdGhlIHJlY2VpdmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzID0gMTAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyOnJ1YnJpYzoxLjEnCg==</text>
       </register>
       <register name="u" type="4">
         <text />
@@ -695,25 +707,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICogYSBkaXJlY3RvcnksIGl0IGFsc28gZGVsZXRlcyBhbGwgb2YgaXQncyBjb250ZW50cy4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJJbWFnZURvd25sb2FkZXI6IEluaXQgY2FsbGVkLCB0eXBlID0gJHR5cGUiKQo=</text>
+        <text encoding="base64">ICogQHJldHVybiBBIFtGaWxlXSBjcmVhdGVkIGZyb20gdGhlIHJlY2VpdmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluaXQgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/versions\./ver./g</text>
       </register>
     </registers>
     <search>
-      <last-search>context = null</last-search>
+      <last-search>points</last-search>
       <last-offset />
-      <last-pattern>context = null</last-pattern>
+      <last-pattern>points</last-pattern>
       <last-replace>ver.</last-replace>
       <last-substitute>versions\.</last-substitute>
       <last-dir>1</last-dir>
@@ -721,7 +733,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ArrayMap</entry>
         <entry>var</entry>
         <entry>updateG</entry>
         <entry>configureG</entry>
@@ -741,6 +752,7 @@
         <entry>context</entry>
         <entry>shutdown</entry>
         <entry>context = null</entry>
+        <entry>points</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/Palantiri/Being/g</entry>
