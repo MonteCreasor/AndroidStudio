@@ -45,7 +45,8 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/android/jules/grader/examples/DemoApp-Android-Studio-v3/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" timestamp="1516066098453">
+      <file name="$USER_HOME$/android/jules/grader/examples/DemoApp-Android-Studio-v3/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" timestamp="1516071339846">
+        <mark key="'" line="67" column="10" />
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="23" />
         <mark key="^" line="30" column="23" />
@@ -407,7 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
       <jump line="210" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
       <jump line="211" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
       <jump line="215" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
@@ -507,6 +507,7 @@
       <jump line="7" column="7" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/TestAllStrategies.kt" />
       <jump line="232" column="41" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/A1InstrumentedTest.java" />
       <jump line="82" column="19" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/A1InstrumentedTest.java" />
+      <jump line="67" column="10" filename="$USER_HOME$/android/jules/grader/examples/DemoApp-Android-Studio-v3/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -693,7 +694,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Pass thresh</text>
+        <text>value</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0KHRpbWVvdXQgPSA2MDAwMCkK</text>
@@ -739,9 +740,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Pass thresh</last-search>
+      <last-search>value</last-search>
       <last-offset />
-      <last-pattern>Pass thresh</last-pattern>
+      <last-pattern>value</last-pattern>
       <last-replace>ver.</last-replace>
       <last-substitute>versions\.</last-substitute>
       <last-dir>1</last-dir>
@@ -749,7 +750,6 @@
     </search>
     <history>
       <history-search>
-        <entry>configureG</entry>
         <entry>viewModel</entry>
         <entry>simula</entry>
         <entry>state</entry>
@@ -769,6 +769,7 @@
         <entry>points</entry>
         <entry>Pass Thresh</entry>
         <entry>Pass thresh</entry>
+        <entry>value</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/Palantiri/Being/g</entry>
