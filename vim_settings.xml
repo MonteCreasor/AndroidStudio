@@ -112,11 +112,12 @@
         <mark key="^" line="73" column="87" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgr.java" timestamp="1516673115431">
-        <mark key="'" line="198" column="11" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgr.java" timestamp="1516673446966">
+        <mark key="'" line="188" column="11" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="159" column="50" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/A1InstrumentedTest.java" timestamp="1516007147206">
         <mark key="'" line="82" column="19" />
@@ -305,14 +306,14 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" timestamp="1516673235164">
-        <mark key="a" line="126" column="89" />
-        <mark key="'" line="104" column="8" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" timestamp="1516674214590">
+        <mark key="a" line="178" column="0" />
+        <mark key="'" line="76" column="4" />
         <mark key="j" line="188" column="24" />
-        <mark key="[" line="181" column="42" />
-        <mark key="]" line="181" column="42" />
-        <mark key="^" line="179" column="51" />
-        <mark key="." line="181" column="53" />
+        <mark key="[" line="134" column="20" />
+        <mark key="]" line="134" column="21" />
+        <mark key="^" line="178" column="1" />
+        <mark key="." line="134" column="21" />
       </file>
       <file name="$USER_HOME$/cur/a1/CS-891-spring-2018/assignments/assignment1a/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantirManager.java" timestamp="1516168867472">
         <mark key="'" line="70" column="18" />
@@ -401,7 +402,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516669894889">
+      <file name="/Dummy.txt" timestamp="1516674239238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/udacity/Flix/dependencies.gradle" timestamp="1515648816582">
@@ -542,8 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="15" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
-      <jump line="133" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
       <jump line="98" column="35" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
       <jump line="103" column="23" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
       <jump line="28" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
@@ -642,10 +641,12 @@
       <jump line="105" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
       <jump line="168" column="33" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgr.java" />
       <jump line="198" column="11" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgr.java" />
+      <jump line="178" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
+      <jump line="76" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>createAndStartWaiterForBeingThreads</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBAUnVicmljKHZhbHVlID0gIlJ1bm5hYmxlVGhyZWFkc01nciBiZWluZ1RocmVhZHMgbWV0aG9kIHRlc3QuIiwKICAgICAgICAgICAgZ29hbCA9ICJUaGlzIHRlc3QgY2hlY2tzIGZvciB0aGUgcHJvcGVyIGltcGxlbWVudGF0aW9uIG9mIHRoZSAiICsKICAgICAgICAgICAgICAgICAgICAiUnVubmFibGVUaHJlYWRzTWdyJ3MgYmVpbmdUaHJlYWRzIG1ldGhvZC4gIiArCiAgICAgICAgICAgICAgICAgICAgIkl0IGNoZWNrcyB0aGF0IGFsbCB0aGUgZXhwZWN0ZWQgbWV0aG9kIGNhbGxzIGFyZSBtYWRlICIgKwogICAgICAgICAgICAgICAgICAgICJ3aXRoIHRoZSBjb3JyZWN0IHBhcmFtZXRlcnMsIHRoZSBjb3JyZWN0IG51bWJlciBvZiB0aW1lcywiICsKICAgICAgICAgICAgICAgICAgICAiYW5kIGluIHRoZSBjb3JyZWN0IG9yZGVyLiIsCiAgICAgICAgICAgIHBvaW50cyA9IDEsCiAgICAgICAgICAgIHJlZmVyZW5jZSA9IHsiQEBEb3VnIn0KICAgICkKICAgIEBUZXN0KHRpbWVvdXQgPSAxMDAwKQogICAgcHVibGljIHZvaWQgYmVnaW5CZWluZ1RocmVhZHNUZXN0KCkgewogICAgICAgIC8vIFNldHVwIG1vY2tzLgogICAgICAgIFJ1bm5hYmxlVGhyZWFkc01nciBiZWluZ01hbmFnZXIgPSBtb2NrKFJ1bm5hYmxlVGhyZWFkc01nci5jbGFzcyk7CgogICAgICAgIC8vIFNldHVwIGEgbW9jayBsaXN0IHdpdGggZWFjaCBlbGVtZW50IHNldCB0byBhIG1vY2sgYmVpbmcuCiAgICAgICAgTGlzdDxTaW1wbGVCZWluZ1J1bm5hYmxlPiBiZWluZ3MgPQogICAgICAgICAgICAgICAgSW50U3RyZWFtLnJhbmdlQ2xvc2VkKDEsIEJFSU5HX0NPVU5UKQogICAgICAgICAgICAgICAgICAgICAgICAubWFwVG9PYmoodW51c2VkIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIENyZWF0ZSBhIG5ldyBtb2NrIGJlaW5nLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgU2ltcGxlQmVpbmdSdW5uYWJsZSBiZWluZyA9IG1vY2soU2ltcGxlQmVpbmdSdW5uYWJsZS5jbGFzcyk7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gVHJhcCB0aGUgYmVpbmcncyB0aHJlYWQgc3RhcnQgbWV0aG9kIHRvIG1ha2Ugc3VyZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gaXQgZ2V0cyBjYWxsZWQgZXhhY3RseSBvbmNlIGZvciBlYWNoIGJlaW5nLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZG9Ob3RoaW5nKCkud2hlbihiZWluZykucnVuKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gYmVpbmc7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgICAgICAvLyBUcmFwIGNhbGwgdG8gZ2V0QmVpbmdzIHRvIHJldHVybiB0aGUgbW9jayBiZWluZyBsaXN0LgogICAgICAgIHdoZW4oYmVpbmdNYW5hZ2VyLmdldEJlaW5ncygpKS50aGVuUmV0dXJuKGJlaW5ncyk7CgogICAgICAgIC8vIFRyYXAgdGhlIGNhbGwgdG8gYmVpbmdCZWluZ1RocmVhZHMgdG8gY2FsbCB0aGUKICAgICAgICAvLyByZWFsIG1ldGhvZCBhbmQgbm90IHRoZSBtb2NrIG9uZS4KICAgICAgICBkb0NhbGxSZWFsTWV0aG9kKCkud2hlbihiZWluZ01hbmFnZXIpLmJlZ2luQmVpbmdUaHJlYWRzKCk7CgogICAgICAgIC8vIE1ha2UgdGhlIGNhbGwuCiAgICAgICAgYmVpbmdNYW5hZ2VyLmJlZ2luQmVpbmdUaHJlYWRzKCk7CgogICAgICAgIC8vIEVuc3VyZSB0aGF0IGdldEJlaW5ncygpIHdhcyBjYWxsZWQgZXhhY3RseSBvbmNlLgogICAgICAgIHZlcmlmeShiZWluZ01hbmFnZXIsIHRpbWVzKDEpKS5nZXRCZWluZ3MoKTsKCiAgICAgICAgLy8gTm93IGNoZWNrIHRoYXQgdGhlIGNvcnJlY3QgbnVtYmVyIG9mIGJlaW5nIHRocmVhZHMgd2VyZQogICAgICAgIC8vIGNyZWF0ZWQgYW5kIHdlcmUgcnVuIHZpYSBjYWxscyB0byBUaHJlYWQuc3RhcnQoKS4KICAgICAgICBiZWluZ3MuZm9yRWFjaChiZWluZyAtPiB7CiAgICAgICAgICAgIC8vIEVuc3VyZSB0aGF0IHRoZSBiZWluZydzIHJ1biBtZXRob2Qgd2FzIGNhbGxlZCBleGFjdGx5IG9uY2UuCiAgICAgICAgICAgIHZlcmlmeShiZWluZywgdGltZXMoMSkpLnJ1bigpOwogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -825,28 +826,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>createAndStartWaiterForBeingThreads</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>begin</text>
+        <text>1000</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBSdWJyaWModmFsdWUgPSAiUnVubmFibGVUaHJlYWRzTWdyIGNyZWF0ZUFuZFN0YXJ0V2FpdGVyRm9yQmVpbmdUaHJlYWRzIG1ldGhvZCB0ZXN0LiIsCiAgICAgICAgICAgIGdvYWwgPSAiVGhpcyB0ZXN0IGNoZWNrcyBmb3IgdGhlIHByb3BlciBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgIiArCiAgICAgICAgICAgICAgICAgICAgIlJ1bm5hYmxlVGhyZWFkc01ncidzIGNyZWF0ZUFuZFN0YXJ0V2FpdGVyRm9yQmVpbmdUaHJlYWRzIG1ldGhvZC4gIiArCiAgICAgICAgICAgICAgICAgICAgIkl0IGNoZWNrcyB0aGF0IGFsbCB0aGUgZXhwZWN0ZWQgbWV0aG9kIGNhbGxzIGFyZSBtYWRlICIgKwogICAgICAgICAgICAgICAgICAgICJ3aXRoIHRoZSBjb3JyZWN0IHBhcmFtZXRlcnMsIHRoZSBjb3JyZWN0IG51bWJlciBvZiB0aW1lcywiICsKICAgICAgICAgICAgICAgICAgICAiYW5kIGluIHRoZSBjb3JyZWN0IG9yZGVyLiIsCiAgICAgICAgICAgIHBvaW50cyA9IDEsCiAgICAgICAgICAgIHJlZmVyZW5jZSA9IHsiQEBEb3VnIn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmZXJlbmNlID0geyJAQERvdWciLCAiQEBEb3VnIn0K</text>
+        <text encoding="base64">CiAgICBAUnVicmljKHZhbHVlID0gIlJ1bm5hYmxlVGhyZWFkc01nciBiZWluZ1RocmVhZHMgbWV0aG9kIHRlc3QuIiwKICAgICAgICAgICAgZ29hbCA9ICJUaGlzIHRlc3QgY2hlY2tzIGZvciB0aGUgcHJvcGVyIGltcGxlbWVudGF0aW9uIG9mIHRoZSAiICsKICAgICAgICAgICAgICAgICAgICAiUnVubmFibGVUaHJlYWRzTWdyJ3MgYmVpbmdUaHJlYWRzIG1ldGhvZC4gIiArCiAgICAgICAgICAgICAgICAgICAgIkl0IGNoZWNrcyB0aGF0IGFsbCB0aGUgZXhwZWN0ZWQgbWV0aG9kIGNhbGxzIGFyZSBtYWRlICIgKwogICAgICAgICAgICAgICAgICAgICJ3aXRoIHRoZSBjb3JyZWN0IHBhcmFtZXRlcnMsIHRoZSBjb3JyZWN0IG51bWJlciBvZiB0aW1lcywiICsKICAgICAgICAgICAgICAgICAgICAiYW5kIGluIHRoZSBjb3JyZWN0IG9yZGVyLiIsCiAgICAgICAgICAgIHBvaW50cyA9IDEsCiAgICAgICAgICAgIHJlZmVyZW5jZSA9IHsiQEBEb3VnIn0KICAgICkKICAgIEBUZXN0KHRpbWVvdXQgPSAxMDAwKQogICAgcHVibGljIHZvaWQgYmVnaW5CZWluZ1RocmVhZHNUZXN0KCkgewogICAgICAgIC8vIFNldHVwIG1vY2tzLgogICAgICAgIFJ1bm5hYmxlVGhyZWFkc01nciBiZWluZ01hbmFnZXIgPSBtb2NrKFJ1bm5hYmxlVGhyZWFkc01nci5jbGFzcyk7CgogICAgICAgIC8vIFNldHVwIGEgbW9jayBsaXN0IHdpdGggZWFjaCBlbGVtZW50IHNldCB0byBhIG1vY2sgYmVpbmcuCiAgICAgICAgTGlzdDxTaW1wbGVCZWluZ1J1bm5hYmxlPiBiZWluZ3MgPQogICAgICAgICAgICAgICAgSW50U3RyZWFtLnJhbmdlQ2xvc2VkKDEsIEJFSU5HX0NPVU5UKQogICAgICAgICAgICAgICAgICAgICAgICAubWFwVG9PYmoodW51c2VkIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIENyZWF0ZSBhIG5ldyBtb2NrIGJlaW5nLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgU2ltcGxlQmVpbmdSdW5uYWJsZSBiZWluZyA9IG1vY2soU2ltcGxlQmVpbmdSdW5uYWJsZS5jbGFzcyk7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gVHJhcCB0aGUgYmVpbmcncyB0aHJlYWQgc3RhcnQgbWV0aG9kIHRvIG1ha2Ugc3VyZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gaXQgZ2V0cyBjYWxsZWQgZXhhY3RseSBvbmNlIGZvciBlYWNoIGJlaW5nLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZG9Ob3RoaW5nKCkud2hlbihiZWluZykucnVuKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gYmVpbmc7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgICAgICAvLyBUcmFwIGNhbGwgdG8gZ2V0QmVpbmdzIHRvIHJldHVybiB0aGUgbW9jayBiZWluZyBsaXN0LgogICAgICAgIHdoZW4oYmVpbmdNYW5hZ2VyLmdldEJlaW5ncygpKS50aGVuUmV0dXJuKGJlaW5ncyk7CgogICAgICAgIC8vIFRyYXAgdGhlIGNhbGwgdG8gYmVpbmdCZWluZ1RocmVhZHMgdG8gY2FsbCB0aGUKICAgICAgICAvLyByZWFsIG1ldGhvZCBhbmQgbm90IHRoZSBtb2NrIG9uZS4KICAgICAgICBkb0NhbGxSZWFsTWV0aG9kKCkud2hlbihiZWluZ01hbmFnZXIpLmJlZ2luQmVpbmdUaHJlYWRzKCk7CgogICAgICAgIC8vIE1ha2UgdGhlIGNhbGwuCiAgICAgICAgYmVpbmdNYW5hZ2VyLmJlZ2luQmVpbmdUaHJlYWRzKCk7CgogICAgICAgIC8vIEVuc3VyZSB0aGF0IGdldEJlaW5ncygpIHdhcyBjYWxsZWQgZXhhY3RseSBvbmNlLgogICAgICAgIHZlcmlmeShiZWluZ01hbmFnZXIsIHRpbWVzKDEpKS5nZXRCZWluZ3MoKTsKCiAgICAgICAgLy8gTm93IGNoZWNrIHRoYXQgdGhlIGNvcnJlY3QgbnVtYmVyIG9mIGJlaW5nIHRocmVhZHMgd2VyZQogICAgICAgIC8vIGNyZWF0ZWQgYW5kIHdlcmUgcnVuIHZpYSBjYWxscyB0byBUaHJlYWQuc3RhcnQoKS4KICAgICAgICBiZWluZ3MuZm9yRWFjaChiZWluZyAtPiB7CiAgICAgICAgICAgIC8vIEVuc3VyZSB0aGF0IHRoZSBiZWluZydzIHJ1biBtZXRob2Qgd2FzIGNhbGxlZCBleGFjdGx5IG9uY2UuCiAgICAgICAgICAgIHZlcmlmeShiZWluZywgdGltZXMoMSkpLnJ1bigpOwogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzID0gMSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUcmFwIGNhbGwgdG8gZ2V0QmVpbmdUaHJlYWRzIGFjY2Vzc29yIHRvIHJldHVybiBhIG1vY2sgdGhyZWFkIGxpc3QuCiAgICAgICAgd2hlbihiZWluZ01hbmFnZXIuZ2V0QmVpbmdUaHJlYWRzKCkpLnRoZW5SZXR1cm4obGlzdE9mTW9ja1RocmVhZHMpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ29hbCA9ICJAQERvdWciLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUcmFwIGNhbGwgdG8gZ2V0QmVpbmdUaHJlYWRzIGFjY2Vzc29yIHRvIHJldHVybiBhIG1vY2sgdGhyZWFkIGxpc3QuCiAgICAgICAgd2hlbihiZWluZ01hbmFnZXIuZ2V0QmVpbmdUaHJlYWRzKCkpLnRoZW5SZXR1cm4obGlzdE9mTW9ja1RocmVhZHMpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBSdWJyaWModmFsdWUgPSAiQEBEb3VnIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaSsrOwo=</text>
@@ -858,25 +859,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGkgPT0gNCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaSsrOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaSsrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyLmpvaW4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbk9yZGVyLnZlcmlmeSh3YWl0ZXJUaHJlYWQpLmpvaW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGkgPT0gNCkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>begin</last-search>
+      <last-search>1000</last-search>
       <last-offset />
-      <last-pattern>begin</last-pattern>
+      <last-pattern>1000</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>valid</last-substitute>
       <last-dir>1</last-dir>
@@ -884,7 +885,6 @@
     </search>
     <history>
       <history-search>
-        <entry>when</entry>
         <entry>unlock</entry>
         <entry>compare</entry>
         <entry>spinLock\.</entry>
@@ -904,6 +904,7 @@
         <entry>beingManager</entry>
         <entry>being</entry>
         <entry>begin</entry>
+        <entry>1000</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/being/palantir/g</entry>
