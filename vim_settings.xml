@@ -97,11 +97,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" timestamp="1516829410245">
-        <mark key="[" line="75" column="88" />
-        <mark key="]" line="76" column="7" />
-        <mark key="." line="76" column="7" />
-        <mark key="^" line="76" column="7" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" timestamp="1516830495656">
+        <mark key="a" line="87" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="89" column="71" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1516817869283" />
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/synchronizedHashMap/SynchronizedHashMapMgr.java" timestamp="1514966049679">
@@ -307,13 +308,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" timestamp="1516826362357">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" timestamp="1516830283927">
         <mark key="a" line="42" column="6" />
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="162" column="27" />
-        <mark key="]" line="162" column="27" />
-        <mark key="." line="162" column="27" />
-        <mark key="^" line="162" column="35" />
+        <mark key="'" line="88" column="35" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/model/implementation/snapshots/SimulatorSnapshot.java" timestamp="1515437526154">
         <mark key="'" line="27" column="0" />
@@ -351,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="36" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockTest.java" />
       <jump line="177" column="47" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockTest.java" />
       <jump line="180" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockTest.java" />
       <jump line="43" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockTest.java" />
@@ -451,10 +450,11 @@
       <jump line="335" column="76" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" />
       <jump line="151" column="43" filename="$USER_HOME$/tmp/cs-891-spring-2018/assignments/assignment1b/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationViewModel.kt" />
       <jump line="57" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
+      <jump line="89" column="35" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hbmFnZXIuZ2V0UGFsYW50aXJpTWFwKCkpOwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -634,58 +634,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>isCanc</text>
+        <text>getAvailableP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJnZXRBdmFpbGFibGVQYWxhbnRpcmkgc2hvdWxkIG5vdCByZXR1cm4gbnVsbC4iLAo=</text>
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0Tm90TnVsbCgKICAgICAgICAgICAgICAgICJnZXRQYWxhbnRpcmlNYXAoKSBzaG91bGQgY29udGFpbiAiICsgUEFMQU5USVJJX0NPVU5UICsgIiBlbnRyaWVzLiIsCiAgICAgICAgICAgICAgICBtYW5hZ2VyLmdldFBhbGFudGlyaU1hcCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKCJQYWxhbnRpcmkgbGlzdCBzaG91bGQgbm90IGJlIG51bGwiLCBtYW5hZ2VyLmdldFBhbGFudGlyaSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hbmFnZXIuZ2V0UGFsYW50aXJpTWFwKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoUEFMQU5USVJJX0NPVU5ULCBtYW5hZ2VyLmdldFBhbGFudGlyaSgpLnNpemUoKSApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJnZXRQYWxhbnRpcmlNYXAoKSBzaG91bGQgY29udGFpbiAiICsgUEFMQU5USVJJX0NPVU5UICsgIiBlbnRyaWVzLiIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1hbmFnZXIuZ2V0UGFsYW50aXJDb3VudCgpKS50aGVuUmV0dXJuKFBBTEFOVElSSV9DT1VOVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJUaGUgIEF0b21pY0Jvb2xlYW4gc2hvdWxkIG5vdCBiZSBudWxsLiIsCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUcmFwIGdldFBhbGFudGlyaUNvdW50KCkgdG8gcmV0dXJuIHRoZSBsaXN0IG9mIG1vY2tzLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZXQgdXAgYSBsaXN0IG9mIG1vY2sgUGFsYW50aXJpLgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm1BUCA9ICIgKyBtQXZhaWxhYmxlUGFsYW50aXJpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdldEF2YWlsYWJsZGRlUGFsYW50aXIgcmV0dXJuaW5nICIgKyBtQXZhaWxhYmxlUGFsYW50aXJpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>isCanc</last-search>
+      <last-search>getAvailableP</last-search>
       <last-offset />
-      <last-pattern>isCanc</last-pattern>
+      <last-pattern>getAvailableP</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>valid</last-substitute>
       <last-dir>1</last-dir>
@@ -693,7 +693,6 @@
     </search>
     <history>
       <history-search>
-        <entry>be 1</entry>
         <entry>returns</entry>
         <entry>\.get</entry>
         <entry>0&quot;</entry>
@@ -713,6 +712,7 @@
         <entry>isCan</entry>
         <entry>cancelled</entry>
         <entry>isCanc</entry>
+        <entry>getAvailableP</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/being/palantir/g</entry>
