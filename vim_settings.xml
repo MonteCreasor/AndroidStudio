@@ -105,11 +105,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" timestamp="1517178546209">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="55" column="37" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" timestamp="1517182583601">
+        <mark key="a" line="237" column="8" />
+        <mark key="[" line="252" column="46" />
+        <mark key="]" line="252" column="46" />
+        <mark key="." line="252" column="46" />
+        <mark key="^" line="252" column="46" />
       </file>
       <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1516912655394" />
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/synchronizedHashMap/SynchronizedHashMapMgr.java" timestamp="1514966049679">
@@ -135,12 +136,12 @@
         <mark key="]" line="135" column="4" />
         <mark key="." line="135" column="4" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantiriManager.java" timestamp="1516829060441">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantiriManager.java" timestamp="1517180324897">
         <mark key="'" line="238" column="19" />
-        <mark key="[" line="121" column="19" />
-        <mark key="]" line="121" column="28" />
-        <mark key="." line="121" column="28" />
-        <mark key="^" line="121" column="28" />
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="9" />
+        <mark key="." line="53" column="9" />
+        <mark key="^" line="53" column="9" />
       </file>
       <file name="$USER_HOME$/android/jules/grader/examples/DemoApp-Android-Studio-v3/app/build.gradle" timestamp="1515817242314">
         <mark key="[" line="40" column="0" />
@@ -327,9 +328,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" timestamp="1517177264213">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" timestamp="1517180946311">
         <mark key="a" line="50" column="6" />
-        <mark key="'" line="79" column="26" />
+        <mark key="'" line="72" column="4" />
         <mark key="[" line="71" column="9" />
         <mark key="]" line="71" column="26" />
         <mark key="." line="71" column="26" />
@@ -371,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="23" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLockTest.java" />
       <jump line="65" column="23" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLockTest.java" />
       <jump line="96" column="23" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLockTest.java" />
       <jump line="128" column="23" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLockTest.java" />
@@ -471,10 +471,11 @@
       <jump line="134" column="75" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
       <jump line="47" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
       <jump line="79" column="26" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" />
+      <jump line="72" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -654,13 +655,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>mAvail</text>
+        <text>release(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTcGluTG9jayBzcGluTG9ja01vY2sgPSBtb2NrKFNwaW5Mb2NrLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0UmVsZWFzZU9uZUFjcXVpcmVkUGFsYW50aXIoKSB7CiAgICAgICAgUGFsYW50aXIgbG9ja2VkUGFsYW50aXIgPQogICAgICAgICAgICAgICAgbU1hbmFnZXIuZ2V0UGFsYW50aXJpKCkuZ2V0KFBBTEFOVElSSV9DT1VOVCAtIDEpOwogICAgICAgIG1NYW5hZ2VyLmdldFBhbGFudGlyaU1hcCgpLnB1dChsb2NrZWRQYWxhbnRpciwgZmFsc2UpOwoKICAgICAgICBtTWFuYWdlci5yZWxlYXNlKGxvY2tlZFBhbGFudGlyKTsKCiAgICAgICAgdmVyaWZ5KG1NYW5hZ2VyLmdldFNwaW5Mb2NrKCkpLmxvY2soYW55KCkpOwogICAgICAgIGFzc2VydFRydWUoCiAgICAgICAgICAgICAgICAiUmVsZWFzZWQgUGFsYW50aXIgc2hvdWxkIG5vdCBiZSBsb2NrZWQgaW4gSGFzaE1hcC4iLAogICAgICAgICAgICAgICAgbU1hbmFnZXIuZ2V0UGFsYW50aXJpTWFwKCkuZ2V0KGxvY2tlZFBhbGFudGlyKSk7CiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -669,43 +670,43 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb05vdGhpbmcoKS53aGVuKG1NYW5hZ2VyLmdldEF2YWlsYWJsZVBhbGFudGlyaSgpKS5hY3F1aXJlVW5pbnRlcnJ1cHRpYmx5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb05vdGhpbmcoKS53aGVuKG1NYW5hZ2VyLmdldFNwaW5Mb2NrKCkpLmxvY2soYW55KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBuZWNlc3NhcmlseSBjYWxsIHRoZSBhY2Nlc3NvciB0byBpdGVyYXRlIG92ZXIgdGhlIG1hcC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibnVsbCBQYWxhbnRpciBpcyBwYXNzZWQgYXMgYSBwYXJhbWV0ZXIuIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtTWFuYWdlci5tUGFsYW50aXJpTWFwID0gcGFsYW50aXJpTWFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgiUmVsZWFzZSBzaG91bGQgbm90IHRocm93IGFuIGV4Y2VwdGlvbiBpZiBhICIgKwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWxhbnRpcmlNYXAucHV0KHBhbGFudGlyLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYWxhbnRpciBwYWxhbnRpciA9IG5ldyBQYWxhbnRpcihtTWFuYWdlcik7Cg==</text>
+        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKHVudXNlZCAtPiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhbGFudGlyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>mAvail</last-search>
+      <last-search>release(</last-search>
       <last-offset />
-      <last-pattern>mAvail</last-pattern>
+      <last-pattern>release(</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>valid</last-substitute>
       <last-dir>1</last-dir>
@@ -713,7 +714,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1&quot;</entry>
         <entry>@Test</entry>
         <entry>COUNT</entry>
         <entry>valid</entry>
@@ -733,6 +733,7 @@
         <entry>mPlanantir</entry>
         <entry>Map</entry>
         <entry>mAvail</entry>
+        <entry>release(</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/being/palantir/g</entry>
