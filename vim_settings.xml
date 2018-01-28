@@ -70,10 +70,10 @@
         <mark key="^" line="31" column="8" />
         <mark key="." line="66" column="21" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgr.java" timestamp="1516890300762">
-        <mark key="'" line="61" column="12" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgr.java" timestamp="1517171726165">
+        <mark key="a" line="157" column="0" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="168" column="13" />
         <mark key="^" line="159" column="50" />
         <mark key="." line="159" column="0" />
       </file>
@@ -205,11 +205,11 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" timestamp="1517168431819">
-        <mark key="[" line="99" column="47" />
-        <mark key="]" line="99" column="47" />
-        <mark key="^" line="99" column="47" />
-        <mark key="." line="99" column="47" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" timestamp="1517171972820">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="100" column="65" />
+        <mark key="^" line="100" column="65" />
+        <mark key="." line="100" column="65" />
       </file>
       <file name="$USER_HOME$/cur/a1/CS-891-spring-2018/assignments/assignment1a/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantirManager.java" timestamp="1516817158878">
         <mark key="'" line="70" column="18" />
@@ -270,7 +270,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516940977014">
+      <file name="/Dummy.txt" timestamp="1517171993284">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/udacity/Flix/dependencies.gradle" timestamp="1515648816582">
@@ -473,8 +473,8 @@
       <jump line="141" column="33" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSm9pbiB3aXRoIGFsbCB0aGUgYmVpbmcgVGhyZWFkcy4K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -654,49 +654,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>mBeingThreads</text>
       </register>
       <register name="/" type="4">
         <text>getAvailableP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrQmVpbmdzLmZvckVhY2goYmVpbmcgLT4gdmVyaWZ5KGJlaW5nLCB0aW1lcygxKSkucnVuKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIC8vIEpvaW4gd2l0aCBhbGwgdGhlIFRocmVhZHMuCiAgICAgICAgICAgICAgICBmb3IgKFRocmVhZCB0aHIgOiBtQmVpbmdUaHJlYWRzKSB7CiAgICAgICAgICAgICAgICAgICAgdGhyLmpvaW4oKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIC8vIElmIHdlIGdldCBpbnRlcnJ1cHRlZCB3aGlsZSB3YWl0aW5nLCBjYWxsIHRoZQogICAgICAgICAgICAgICAgLy8gZXJyb3IoKSBtZXRob2Qgd2l0aCB0aGUgZXhjZXB0aW9uIGluIHRoZSBjYXRjaAogICAgICAgICAgICAgICAgLy8gY2xhdXNlLCB3aGljaCB0cmlnZ2VyIHRoZSBzaW11bGF0b3IgdG8gZ2VuZXJhdGUKICAgICAgICAgICAgICAgIC8vIGEgc2h1dGRvd25Ob3coKSByZXF1ZXN0LgogICAgICAgICAgICAgICAgZXJyb3IoZSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOb3cgY2hlY2sgYWN0dWFsIHBhcmFtZXRlcnMgZGVwZW5kaW5nIG9uIHRoZSBtZXRob2QgY2FsbGVkLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSm9pbiB3aXRoIGFsbCB0aGUgYmVpbmcgVGhyZWFkcy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFbnN1cmUgdGhhdCBlaXRoZXIgc2V0IG9yIGNvbXBhcmVBbmRTZXQgd2VyZSBjYWxsZWQuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1vY2tCZWluZ3MuZm9yRWFjaChiZWluZyAtPiBiZWluZy5ydW4oKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFbnN1cmUgdGhhdCBjb21wYXJlQW5kU2V0IGlzIGNhbGxlZCBhdCBtb3N0IG9uY2UgKGFuZCBjYXB0dXJlIHRoZSBwYXJhbWV0ZXJzKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYSBzaHV0ZG93bk5vdygpIHJlcXVlc3QuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDYXB0dXJlIEF0b21pY0Jvb2xlYW4gY29tcGFyZUFuZFNldCgpIGFyZ3VtZW50cy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY2xhdXNlLCB3aGljaCB0cmlnZ2VyIHRoZSBzaW11bGF0b3IgdG8gZ2VuZXJhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFbnN1cmUgdGhhdCBzZXQgaXMgY2FsbGVkIGF0IG1vc3Qgb25jZSAoYW5kIGNhcHR1cmUgdGhlIHBhcmFtZXRlcikuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZXJyb3IoKSBtZXRob2Qgd2l0aCB0aGUgZXhjZXB0aW9uIGluIHRoZSBjYXRjaAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDYXB0dXJlIEF0b21pY0Jvb2xlYW4gc2V0KCkgYXJndW1lbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgd2UgZ2V0IGludGVycnVwdGVkIHdoaWxlIHdhaXRpbmcsIGNhbGwgdGhlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDYXB0dXJlIEF0b21pY0Jvb2xlYW4gc2V0KCkgYXJndW1lbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3IoZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzaW5jZSBib3RoIGFyZSBhY2NlcHRhYmxlIHNvbHV0aW9ucy4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBOb3cgY2hlY2sgYWN0dWFsIHBhcmFtZXRlcnMgZGVwZW5kaW5nIG9uIHRoZSBtZXRob2QgY2FsbGVkLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUcmFwIGNhbGwgdG8gYXRvbWljIGJvb2xlYW4gc2V0IGFuZCBjb21wYXJlQW5kU2V0IG1ldGhvZHMK</text>
+        <text encoding="base64">ICAgICAgICAvLyBFbnN1cmUgdGhhdCBlaXRoZXIgc2V0IG9yIGNvbXBhcmVBbmRTZXQgd2VyZSBjYWxsZWQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
