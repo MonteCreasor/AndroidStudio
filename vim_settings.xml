@@ -169,8 +169,8 @@
         <mark key="]" line="135" column="4" />
         <mark key="." line="135" column="4" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantiriManager.java" timestamp="1517180324897">
-        <mark key="'" line="238" column="19" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantiriManager.java" timestamp="1517273234444">
+        <mark key="'" line="184" column="8" />
         <mark key="[" line="53" column="4" />
         <mark key="]" line="53" column="9" />
         <mark key="." line="53" column="9" />
@@ -340,13 +340,12 @@
         <mark key="^" line="64" column="17" />
         <mark key="." line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreWithLockTest.java" timestamp="1517271718879">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreWithLockTest.java" timestamp="1517273135290">
         <mark key="a" line="216" column="0" />
         <mark key="'" line="216" column="0" />
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="318" column="53" />
-        <mark key="^" line="278" column="7" />
-        <mark key="." line="278" column="0" />
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
       </file>
       <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1517256309708" />
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/InstrumentedTest1B.java" timestamp="1516327587486">
@@ -419,7 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" />
       <jump line="134" column="10" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
       <jump line="54" column="58" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
       <jump line="58" column="7" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
@@ -519,10 +517,11 @@
       <jump line="64" column="7" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" />
       <jump line="20" column="21" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/Helpers.java" />
       <jump line="216" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreWithLockTest.java" />
+      <jump line="184" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantiriManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoSGVscGVycy5pc1JlZW50cmFudExvY2tTb2x1dGlvbihtU2ltcGxlU2VtYXBob3JlKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlJlZW50cmFudExvY2sgc29sdXRpb24gaWdub3JlZCBieSBMb2NrIHNvbHV0aW9uIHRlc3RzLiIpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBtU2ltcGxlU2VtYXBob3JlLm1QZXJtaXRzID0gMDsKCiAgICAgICAgZG9Ob3RoaW5nKCkud2hlbihtTG9ja01vY2spLmxvY2soKTsKICAgICAgICBkb05vdGhpbmcoKS53aGVuKG1Mb2NrTW9jaykudW5sb2NrKCk7CiAgICAgICAgZG9UaHJvdyhuZXcgSW50ZXJydXB0ZWRFeGNlcHRpb24oIk1vY2sgaW50ZXJydXB0IikpLndoZW4obU5vdFplcm9Nb2NrKS5hd2FpdCgpOwogICAgICAgIGRvQW5zd2VyKChBbnN3ZXI8Vm9pZD4pIGludm9jYXRpb24gLT4gewogICAgICAgICAgICBpZiAobVNpbXBsZVNlbWFwaG9yZS5tUGVybWl0cyA9PSAwKSB7CiAgICAgICAgICAgICAgICBtU2ltcGxlU2VtYXBob3JlLm1QZXJtaXRzID0gMTsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnRlcnJ1cHRlZEV4Y2VwdGlvbigiTW9jayBleGNlcHRpb24uIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfSkud2hlbihtTm90WmVyb01vY2spLmF3YWl0KCk7CgogICAgICAgIEluT3JkZXIgaW5PcmRlciA9IGluT3JkZXIobUxvY2tNb2NrLCBtTm90WmVyb01vY2spOwoKICAgICAgICB0cnkgewogICAgICAgICAgICBtU2ltcGxlU2VtYXBob3JlLmFjcXVpcmVVbmludGVycnVwdGlibHkoKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgIH0KICAgICAgICBhc3NlcnRUcnVlKAogICAgICAgICAgICAgICAgIlRocmVhZCBpbnRlcnJ1cHQgd2FzIG5vdCByZS1pc3N1ZWQvcHJvcGFnYXRlZC4iLAogICAgICAgICAgICAgICAgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pc0ludGVycnVwdGVkKCkpOwoKICAgICAgICB2ZXJpZnkobUxvY2tNb2NrKS5sb2NrKCk7CiAgICAgICAgdmVyaWZ5KG1Ob3RaZXJvTW9jaykuYXdhaXQoKTsKICAgICAgICB2ZXJpZnkobUxvY2tNb2NrKS51bmxvY2soKTsKCiAgICAgICAgaW5PcmRlci52ZXJpZnkobUxvY2tNb2NrKS5sb2NrKCk7CiAgICAgICAgaW5PcmRlci52ZXJpZnkobU5vdFplcm9Nb2NrKS5hd2FpdCgpOwogICAgICAgIGluT3JkZXIudmVyaWZ5KG1Mb2NrTW9jaykudW5sb2NrKCk7CgogICAgICAgIGludCBleHBlY3RlZEF2YWlsYWJsZVBlcm1pdHMgPSAwOwogICAgICAgIGFzc2VydEVxdWFscygKICAgICAgICAgICAgICAgICJBdmFpbGFibGUgcGVybWl0cyBzaG91bGQgYmUgIiArIGV4cGVjdGVkQXZhaWxhYmxlUGVybWl0cywKICAgICAgICAgICAgICAgIGV4cGVjdGVkQXZhaWxhYmxlUGVybWl0cywKICAgICAgICAgICAgICAgIG1TaW1wbGVTZW1hcGhvcmUuYXZhaWxhYmxlUGVybWl0cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2NrLmMK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -705,34 +704,34 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>shutdown</text>
+        <text>shutdownNow</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoSGVscGVycy5pc1JlZW50cmFudExvY2tTb2x1dGlvbihtU2ltcGxlU2VtYXBob3JlKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlJlZW50cmFudExvY2sgc29sdXRpb24gaWdub3JlZCBieSBMb2NrIHNvbHV0aW9uIHRlc3RzLiIpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBtU2ltcGxlU2VtYXBob3JlLm1QZXJtaXRzID0gMDsKCiAgICAgICAgZG9Ob3RoaW5nKCkud2hlbihtTG9ja01vY2spLmxvY2soKTsKICAgICAgICBkb05vdGhpbmcoKS53aGVuKG1Mb2NrTW9jaykudW5sb2NrKCk7CiAgICAgICAgZG9UaHJvdyhuZXcgSW50ZXJydXB0ZWRFeGNlcHRpb24oIk1vY2sgaW50ZXJydXB0IikpLndoZW4obU5vdFplcm9Nb2NrKS5hd2FpdCgpOwogICAgICAgIGRvQW5zd2VyKChBbnN3ZXI8Vm9pZD4pIGludm9jYXRpb24gLT4gewogICAgICAgICAgICBpZiAobVNpbXBsZVNlbWFwaG9yZS5tUGVybWl0cyA9PSAwKSB7CiAgICAgICAgICAgICAgICBtU2ltcGxlU2VtYXBob3JlLm1QZXJtaXRzID0gMTsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnRlcnJ1cHRlZEV4Y2VwdGlvbigiTW9jayBleGNlcHRpb24uIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfSkud2hlbihtTm90WmVyb01vY2spLmF3YWl0KCk7CgogICAgICAgIEluT3JkZXIgaW5PcmRlciA9IGluT3JkZXIobUxvY2tNb2NrLCBtTm90WmVyb01vY2spOwoKICAgICAgICB0cnkgewogICAgICAgICAgICBtU2ltcGxlU2VtYXBob3JlLmFjcXVpcmVVbmludGVycnVwdGlibHkoKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgIH0KICAgICAgICBhc3NlcnRUcnVlKAogICAgICAgICAgICAgICAgIlRocmVhZCBpbnRlcnJ1cHQgd2FzIG5vdCByZS1pc3N1ZWQvcHJvcGFnYXRlZC4iLAogICAgICAgICAgICAgICAgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pc0ludGVycnVwdGVkKCkpOwoKICAgICAgICB2ZXJpZnkobUxvY2tNb2NrKS5sb2NrKCk7CiAgICAgICAgdmVyaWZ5KG1Ob3RaZXJvTW9jaykuYXdhaXQoKTsKICAgICAgICB2ZXJpZnkobUxvY2tNb2NrKS51bmxvY2soKTsKCiAgICAgICAgaW5PcmRlci52ZXJpZnkobUxvY2tNb2NrKS5sb2NrKCk7CiAgICAgICAgaW5PcmRlci52ZXJpZnkobU5vdFplcm9Nb2NrKS5hd2FpdCgpOwogICAgICAgIGluT3JkZXIudmVyaWZ5KG1Mb2NrTW9jaykudW5sb2NrKCk7CgogICAgICAgIGludCBleHBlY3RlZEF2YWlsYWJsZVBlcm1pdHMgPSAwOwogICAgICAgIGFzc2VydEVxdWFscygKICAgICAgICAgICAgICAgICJBdmFpbGFibGUgcGVybWl0cyBzaG91bGQgYmUgIiArIGV4cGVjdGVkQXZhaWxhYmxlUGVybWl0cywKICAgICAgICAgICAgICAgIGV4cGVjdGVkQXZhaWxhYmxlUGVybWl0cywKICAgICAgICAgICAgICAgIG1TaW1wbGVTZW1hcGhvcmUuYXZhaWxhYmxlUGVybWl0cygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb1Rocm93KG5ldyBJbnRlcnJ1cHRlZEV4Y2VwdGlvbigiTW9jayBpbnRlcnJ1cHQiKSkud2hlbihtTm90WmVyb01vY2spLmF3YWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NrLmMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VHJ1ZSgKICAgICAgICAgICAgICAgICAgICAiVGhyZWFkIGludGVycnVwdCB3YXMgbm90IHJlLWlzc3VlZC9wcm9wYWdhdGVkLiIsCiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pc0ludGVycnVwdGVkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2NrIGxvY2sgPSBuZXcgTG9jaygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgiSW50ZXJydXB0IHNob3VsZCBub3QgYmUgc3dhbGxvd2VkIGJ5IGNhbGwgdG8gYWNxdWlyZVVuaW50ZXJydXB0aWJseSgpLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkb1Rocm93KG5ldyBJbnRlcnJ1cHRlZEV4Y2VwdGlvbigiTW9jayBpbnRlcnJ1cHQiKSkud2hlbihtTm90WmVyb01vY2spLmF3YWl0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1TaW1wbGVTZW1hcGhvcmUubVBlcm1pdHMgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VHJ1ZSgKICAgICAgICAgICAgICAgICAgICAiVGhyZWFkIGludGVycnVwdCB3YXMgbm90IHJlLWlzc3VlZC9wcm9wYWdhdGVkLiIsCiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pc0ludGVycnVwdGVkKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1TaW1wbGVTZW1hcGhvcmUubVBlcm1pdHMgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgiSW50ZXJydXB0IHNob3VsZCBub3QgYmUgc3dhbGxvd2VkIGJ5IGNhbGwgdG8gYWNxdWlyZVVuaW50ZXJydXB0aWJseSgpLiIpOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1TaW1wbGVTZW1hcGhvcmUubVBlcm1pdHMgPSAxOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1TaW1wbGVTZW1hcGhvcmUubVBlcm1pdHMgPSAxOwo=</text>
@@ -741,19 +740,19 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb1Rocm93KG5ldyBJbnRlcnJ1cHRlZEV4Y2VwdGlvbigiTW9jayBpbnRlcnJ1cHQiKSkud2hlbihtTm90WmVyb01vY2spLmF3YWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuY3VycmVudFRocmVhZCgpLmlzSW50ZXJydXB0ZWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1TaW1wbGVTZW1hcGhvcmUubVBlcm1pdHMgPSAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>shutdown</last-search>
+      <last-search>shutdownNow</last-search>
       <last-offset />
-      <last-pattern>shutdown</last-pattern>
+      <last-pattern>shutdownNow</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>valid</last-substitute>
       <last-dir>1</last-dir>
@@ -761,7 +760,6 @@
     </search>
     <history>
       <history-search>
-        <entry>InOrder</entry>
         <entry>beingManager</entry>
         <entry>being</entry>
         <entry>begin</entry>
@@ -781,6 +779,7 @@
         <entry>inOrder</entry>
         <entry>InOr</entry>
         <entry>shutdown</entry>
+        <entry>shutdownNow</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/being/palantir/g</entry>
