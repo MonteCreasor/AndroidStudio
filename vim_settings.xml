@@ -79,7 +79,6 @@
         <mark key="^" line="97" column="22" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1517517873783" />
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/build.gradle" timestamp="1517521781470">
         <mark key="'" line="77" column="50" />
         <mark key="[" line="88" column="0" />
@@ -223,8 +222,8 @@
         <mark key="." line="573" column="74" />
         <mark key="^" line="573" column="74" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/log/unitTestRunner.log" timestamp="1516314735379">
-        <mark key="'" line="0" column="29" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/log/unitTestRunner.log" timestamp="1517543147550">
+        <mark key="'" line="37" column="88" />
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -340,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="45" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
       <jump line="160" column="62" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
       <jump line="179" column="66" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
       <jump line="212" column="58" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
@@ -440,6 +438,7 @@
       <jump line="50" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgrTest.java" />
       <jump line="40" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgrTest.java" />
       <jump line="135" column="19" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgr.java" />
+      <jump line="37" column="88" filename="$USER_HOME$/cur/PalantiriSimulator/log/unitTestRunner.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -626,7 +625,7 @@
         <text>(precision = 0)</text>
       </register>
       <register name="/" type="4">
-        <text>mExecutor</text>
+        <text>resources</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QElnbm9yZQo=</text>
@@ -672,9 +671,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mExecutor</last-search>
+      <last-search>resources</last-search>
       <last-offset />
-      <last-pattern>mExecutor</last-pattern>
+      <last-pattern>resources</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>valid</last-substitute>
       <last-dir>1</last-dir>
@@ -695,13 +694,13 @@
         <entry>arch</entry>
         <entry>Sta</entry>
         <entry>Start</entry>
-        <entry>resources</entry>
         <entry>resour</entry>
         <entry>Resour</entry>
         <entry>resource</entry>
         <entry>resourc</entry>
         <entry>@Ig</entry>
         <entry>mExecutor</entry>
+        <entry>resources</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/being/palantir/g</entry>
