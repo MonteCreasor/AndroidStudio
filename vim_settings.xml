@@ -30,6 +30,12 @@
         <mark key="^" line="30" column="23" />
         <mark key="." line="30" column="23" />
       </file>
+      <file name="$USER_HOME$/cur/dropbox/PalantiriSimulator/build.gradle" timestamp="1518219813096">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="20" column="43" />
+        <mark key="." line="20" column="43" />
+        <mark key="^" line="20" column="46" />
+      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLockTest.java" timestamp="1517542086136">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -78,7 +84,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1517543282065" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.widget/multislider/1.3/783ba5d8cd73e829ff38c9b35d35f4599f8938a5/multislider-1.3-sources.jar!/io/apptik/widget/MultiSlider.java" timestamp="1517543282065" />
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/UnitTest1A.java" timestamp="1517542117273">
         <mark key="[" line="17" column="7" />
@@ -277,10 +282,11 @@
         <mark key="^" line="24" column="62" />
         <mark key="." line="24" column="62" />
       </file>
-      <file name="$USER_HOME$/cur/dropbox/PalantiriSimulator/dependencies.gradle" timestamp="1518217790872">
-        <mark key="[" line="24" column="33" />
-        <mark key="]" line="24" column="34" />
-        <mark key="." line="24" column="34" />
+      <file name="$USER_HOME$/cur/dropbox/PalantiriSimulator/dependencies.gradle" timestamp="1518219394900">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" timestamp="1517359643888">
         <mark key="'" line="111" column="33" />
@@ -406,7 +412,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Compile</text>
+        <text>ext.kotlin_version</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -586,7 +592,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Compile</text>
+        <text>ext.kotlin_version</text>
       </register>
       <register name="/" type="4">
         <text>Compile</text>
@@ -595,40 +601,40 @@
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTozLjIuMC1hbHBoYTAxJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGRlZiBrb3RsaW5fdmVyc2lvbiA9IHZlcnNpb25zLmtvdGxpbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsK</text>
+        <text encoding="base64">ZGVmIGtvdGxpbl92ZXJzaW9uID0gdmVyc2lvbnMua290bGluCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldElkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8qKgogKiBSZXR1cm5zIHRoZSBBbmRyb2lkIGV4dGVuc2lvbiBpZiBpdCBleGlzdHMuIFRoaXMgcmVhc29uIGZvciBkb2luZwogKiB0aGlzIHJhdGhlciB0aGFuIGRpcmVjdGx5IHVzaW5nICdhbmRyb2lkLndoYXRldmVyJyBpcyBzbyB0aGF0CiAqIHRoaXMgc2NyaXB0IGNhbiBiZSBydW4gb24gYW55IEdyYWRsZSBwcm9qZWN0IChldmVuIHB1cmUgSmF2YSkuCiAqIFRoYXQgd2F5IGl0IGNhbiBjaGVjayBpZiB0aGUgcHJvamVjdCBpcyBhbiBBbmRyb2lkIHByb2plY3QgYW5kCiAqIHRocm93IGFuZCBleGNlcHRpb24gaWYgbm90LgogKgogKiBAcmV0dXJuIFRoZSBhbmRyb2lkIGV4dGVuc2lvbiBvciBudWxsIGlmIHRoaXMgaXNuJ3QgYW4gYW5kcm9pZCBwcm9qZWN0LgogKi8KZGVmIGdldEFuZHJvaWRFeHRlbnNpb24oKSB7CiAgICByZXR1cm4gcHJvamVjdC5nZXRFeHRlbnNpb25zKCkuZmluZEJ5TmFtZSgnYW5kcm9pZCcpCn0KCi8qKgogKiBTaW5jZSB0aGlzIHNjcmlwdCBuZWVkcyB0byBydW4gb24gQW5kcm9pZCBhbmQgSmF2YSBwcm9qZWN0cywKICogdXNlIGZ1bmN0aW9ucyB0byBnZXQgYXQgdGhlIGNvbXBpbGUgdGFzay4KICoKICogQHJldHVybiBUaGUgdGVzdCBjb21waWxlIHRhc2sgcmVxdWlyZWQgdG8gYnVpbGQgdW5pdCB0ZXN0cy4KICovCmRlZiBnZXRBc3NlbWJsZVRhc2soKSB7CiAgICByZXR1cm4gdGFza3MuZmluZEJ5TmFtZSgnYXNzZW1ibGVEZWJ1Z0FuZHJvaWRUZXN0JykKfQoKLyoqCiAqIFRvIHByb3ZpZGUgYSBsb2dnaW5nIGFwcGVhcmFuY2UgY29uc2lzdGVudCB3aXRoIHRoZSBpbnN0YWxsZXIuCiAqLwpkZWYgTE9HKFN0cmluZyBtc2cpIHsKICAgIGlmICghbXNnIHx8IG1zZy50cmltKCkuaXNFbXB0eSgpKSB7CiAgICAgICAgbG9nZ2VyLmxpZmVjeWNsZSgiIikKICAgIH0gZWxzZSB7CiAgICAgICAgbG9nZ2VyLmxpZmVjeWNsZSgiJHtHUkFERVJfTE9HX1RBR306ICRtc2ciKQogICAgfQp9CgovKioKICogVmFsaWRhdGVzIHRoYXQgdGhpcyBpcyBhbmQgQW5kcm9pZCBwcm9qZWN0IGFuZCBoYXMgc29tZQogKiBpbnN0cnVtZW50ZWQgdGVzdHMuIGlmIG5vdCwgYSBHcmFkbGVFeGNlcHRpb24gaXMgdGhyb3duLgogKi8KZGVmIHZhbGlkYXRlUHJvamVjdCgpIHsKICAgIExPRygiVmFsaWRhdGluZyB0YXJnZXQgcHJvamVjdCBmb3IgdmFsaWQgaW5zdHJ1bWVudGVkIHRlc3RzIC4uLiIpCgogICAgLy8gQ2hlY2sgaWYgdGhpcyBhbiBhbmRyb2lkIGFwcGxpY2F0aW9uIHdpdGggdGhlIHJlcXVpcmVkIGNvbXBpbGUgdGFzay4KICAgIGlmICghcHJvamVjdC5wbHVnaW5zLmhhc1BsdWdpbignY29tLmFuZHJvaWQuYXBwbGljYXRpb24nKSkgewogICAgICAgIGluc3RhbGxGYWlsZWQoInRhcmdldCBwcm9qZWN0IGlzIG5vdCBhbiBBbmRyb2lkIGdyYWRsZSBwcm9qZWN0IikKICAgIH0gZWxzZSBpZiAoIWdldEFzc2VtYmxlVGFzaygpKSB7CiAgICAgICAgaW5zdGFsbEZhaWxlZCgicHJvamVjdCBkb2VzIG5vdCBoYXZlIHRoZSByZXF1aXJlZCBhc3NlbWJsZSB0ZXN0IHRhc2suIikKICAgIH0KCiAgICAvLyBDaGVjayB0byBzZWUgaWYgdGhlcmUgYXJlIGFueSB1bml0IHRlc3QgZmlsZXMKICAgIC8vIGluIHRoaXMgQW5kcm9pZCBvciBKYXZhL0tvdGxpbiBwcm9qZWN0LgogICAgZGVmIHRlc3RGaWxlcyA9IG51bGwKICAgIGRlZiBhbnJvaWRFeHRlbnNpb24gPSBnZXRBbmRyb2lkRXh0ZW5zaW9uKCkKICAgIGlmIChhbmRyb2lkRXh0ZW5zaW9uKSB7CiAgICAgICAgZGVmIGFuZHJvaWRUZXN0ID0gYW5kcm9pZEV4dGVuc2lvbi5zb3VyY2VTZXRzLmZpbmRCeU5hbWUoJ2FuZHJvaWRUZXN0JykKICAgICAgICBpZiAoYW5kcm9pZFRlc3QgJiYgYW5kcm9pZFRlc3QuamF2YSAmJiBhbmRyb2lkVGVzdC5qYXZhLnNvdXJjZUZpbGVzKSB7CiAgICAgICAgICAgIHRlc3RGaWxlcyA9IGFuZHJvaWRUZXN0LmphdmEuc291cmNlRmlsZXMKICAgICAgICB9CiAgICAgICAgZGVmIGtvdGxpblRlc3QgPSBhbmRyb2lkRXh0ZW5zaW9uLnNvdXJjZVNldHMuZmluZEJ5TmFtZSgna290bGluVGVzdCcpCiAgICAgICAgaWYgKGtvdGxpblRlc3QgJiYgYW5kcm9pZFRlc3QuamF2YSAmJiBhbmRyb2lkVGVzdC5qYXZhLnNvdXJjZUZpbGVzKSB7CiAgICAgICAgICAgIHRlc3RGaWxlcyA9IGFuZHJvaWRUZXN0LmphdmEuc291cmNlRmlsZXMKICAgICAgICB9CiAgICB9CgogICAgaWYgKCF0ZXN0RmlsZXMgfHwgdGVzdEZpbGVzLnNpemUoKSA9PSAwKSB7CiAgICAgICAgaW5zdGFsbEZhaWxlZCgidGFyZ2V0IHByb2plY3QgaGFzIG5vIGluc3RydW1lbnRlZCB0ZXN0cy4iKQogICAgfQoKICAgIExPRygiRm91bmQgJHt0ZXN0RmlsZXMuc2l6ZSgpfSBpbnN0cnVtZW50ZWQgdGVzdCBjbGFzc2VzLiIpCn0KCnRhc2sgX3h4eCgpIHsKICAgIGRvRmlyc3QgewogICAgICAgIGRlZiB0ZXN0RmlsZXMgPSBudWxsCiAgICAgICAgZGVmIGphdmFGaWxlcyA9IG51bGwKICAgICAgICBkZWYga290bGluRmlsZXMgPSBudWxsCiAgICAgICAgZGVmIGFucm9pZEV4dGVuc2lvbiA9IGdldEFuZHJvaWRFeHRlbnNpb24oKQogICAgICAgIGlmIChhbmRyb2lkRXh0ZW5zaW9uKSB7CiAgICAgICAgICAgIGRlZiBhbmRyb2lkVGVzdCA9IGFuZHJvaWRFeHRlbnNpb24uc291cmNlU2V0cy5maW5kQnlOYW1lKCdhbmRyb2lkVGVzdCcpCiAgICAgICAgICAgIHByaW50bG4oImFuZHJvaWRUZXN0LmphdmEgPSAke2FuZHJvaWRUZXN0LmphdmF9IikKICAgICAgICAgICAgaWYgKGFuZHJvaWRUZXN0KSB7CiAgICAgICAgICAgICAgICBpZiAoYW5kcm9pZFRlc3QuamF2YSAmJiBhbmRyb2lkVGVzdC5qYXZhLnNvdXJjZUZpbGVzKSB7CiAgICAgICAgICAgICAgICAgICAgamF2YUZpbGVzID0gYW5kcm9pZFRlc3QuamF2YS5zb3VyY2VGaWxlcwogICAgICAgICAgICAgICAgICAgIHByaW50bG4oIkFuZHJvaWQgVGVzdEZpbGVzID0gJGphdmFGaWxlcyIpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoYW5kcm9pZFRlc3Qua290bGluICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJhbmRyb2lkVGVzdC5rb3RsaW4gPSAke2FuZHJvaWRUZXN0LmtvdGxpbn0iKQogICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBpZiAoYW5kcm9pZFRlc3Qua290bGluICYmIGFuZHJvaWRUZXN0LmtvdGxpbi5zb3VyY2VGaWxlcykgewovLyAgICAgICAgICAgICAgICAgICAga290bGluRmlsZXMgPSBhbmRyb2lkVGVzdC5rb3RsaW4uc291cmNlRmlsZXMKLy8gICAgICAgICAgICAgICAgICAgIHByaW50bG4oIktvdGxpbiBUZXN0RmlsZXMgPSAka290bGluRmlsZXMiKQovLyAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdGVzdEZpbGVzID0gamF2YUZpbGVzICsga290bGluRmlsZXMKICAgICAgICAgICAgcHJpbnRsbigiQWxsIHRlc3QgZmlsZXMgPSAkdGVzdEZpbGVzIikKICAgICAgICB9CiAgICAgICAgcHJpbnRsbiAoIiR7Y29tcGlsZURlYnVnQW5kcm9pZFRlc3RLb3RsaW4uaW5wdXRzLmZpbGVzfSIpCiAgICB9Cgp9CgoKLy8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhdXRvZ3JhZGVyIC0gZG8gbm90IHJlbW92ZQovLyBUaGlzIGFwcGx5IHN0YXRlbWVudCBNVVNUIGJlIGJlIGRlY2xhcmVkIGFmdGVyIHRoZSBhbmRyb2lkIGJsb2NrLgphcHBseSBwbHVnaW46ICdlZHUudmFuZGVyYmlsdC5ncmFkZXIucGx1Z2luJwo=</text>
+        <text encoding="base64">Ly8JCWNsYXNzcGF0aCAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyOmdyYWRsZS1wbHVnaW46MS4xJwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gVGhpcyBhcHBseSBzdGF0ZW1lbnQgTVVTVCBiZSBiZSBkZWNsYXJlZCBhZnRlciB0aGUgYW5kcm9pZCBibG9jay4K</text>
+        <text encoding="base64">CQkvLyBSZXF1aXJlZCBieSBWYW5kZXJiaWx0IGF1dG9ncmFkZXIgLSBkbyBub3QgcmVtb3ZlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gUmVxdWlyZWQgYnkgVmFuZGVyYmlsdCBhdXRvZ3JhZGVyIC0gZG8gbm90IHJlbW92ZQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
