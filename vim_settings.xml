@@ -53,6 +53,13 @@
         <mark key="^" line="80" column="3" />
         <mark key="." line="80" column="3" />
       </file>
+      <file name="$USER_HOME$/cur/students/cs-891-spring-2018/assignments/assignment1b/app/build.gradle" timestamp="1518239170253">
+        <mark key="'" line="15" column="56" />
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="17" />
+        <mark key="." line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/A1InstrumentedTest.java" timestamp="1516007147206">
         <mark key="'" line="82" column="19" />
         <mark key="[" line="220" column="0" />
@@ -296,9 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphore.java" />
-      <jump line="222" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantiriManager.java" />
-      <jump line="401" column="24" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantiriManager.java" />
       <jump line="106" column="25" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/ReentrantLockHashMapSimpleSemaphoreMgrTest.java" />
       <jump line="40" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/ReentrantLockHashMapSimpleSemaphoreMgrTest.java" />
       <jump line="248" column="3" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/ReentrantLockHashMapSimpleSemaphoreMgrTest.java" />
@@ -396,10 +400,13 @@
       <jump line="76" column="17" filename="$USER_HOME$/cur/dropbox/PalantiriSimulator/app/build.gradle" />
       <jump line="58" column="42" filename="$USER_HOME$/cur/dropbox/PalantiriSimulator/app/build.gradle" />
       <jump line="53" column="0" filename="$USER_HOME$/cur/CS891/assignments/assignment1b/app/build.gradle" />
+      <jump line="75" column="55" filename="$USER_HOME$/cur/students/cs-891-spring-2018/assignments/assignment1b/app/build.gradle" />
+      <jump line="73" column="45" filename="$USER_HOME$/cur/students/cs-891-spring-2018/assignments/assignment1b/app/build.gradle" />
+      <jump line="15" column="56" filename="$USER_HOME$/cur/students/cs-891-spring-2018/assignments/assignment1b/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>compile</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -579,10 +586,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text>Compile</text>
+        <text>runner</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTozLjIuMC1hbHBoYTAxJwo=</text>
@@ -628,9 +635,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Compile</last-search>
+      <last-search>runner</last-search>
       <last-offset />
-      <last-pattern>Compile</last-pattern>
+      <last-pattern>runner</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>valid</last-substitute>
       <last-dir>1</last-dir>
@@ -638,7 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
         <entry>Map</entry>
         <entry>collect</entry>
         <entry>never</entry>
@@ -658,6 +664,7 @@
         <entry>getBeing</entry>
         <entry>compile</entry>
         <entry>Compile</entry>
+        <entry>runner</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/being/palantir/g</entry>
