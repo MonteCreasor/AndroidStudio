@@ -171,12 +171,13 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgrTest.java" timestamp="1518552514030">
-        <mark key="a" line="100" column="33" />
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="59" column="46" />
-        <mark key="." line="59" column="46" />
-        <mark key="^" line="75" column="7" />
+      <file name="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgrTest.java" timestamp="1518553326244">
+        <mark key="a" line="48" column="26" />
+        <mark key="'" line="118" column="47" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="63" />
+        <mark key="^" line="74" column="7" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/debug/DebugUnitTest.java" timestamp="1516288555469">
         <mark key="'" line="19" column="12" />
@@ -367,8 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="36" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
-      <jump line="137" column="26" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
       <jump line="167" column="26" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" />
       <jump line="301" column="40" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreWithReentrantLockTest.java" />
       <jump line="305" column="25" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreWithReentrantLockTest.java" />
@@ -467,10 +466,12 @@
       <jump line="102" column="20" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgr.java" />
       <jump line="120" column="60" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgr.java" />
       <jump line="105" column="4" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgr.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgrTest.java" />
+      <jump line="115" column="47" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgrTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mExecutor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKG1NYW5hZ2VyTW9jay5nZXRFeGVjdXRvcigpKS50aGVuUmV0dXJuKG1FeGVjdXRvcik7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -650,49 +651,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mExecutor</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>mEx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJbk9yZGVyIGluT3JkZXIgPSBpbk9yZGVyKG1NYW5hZ2VyTW9jaywgbUV4ZWN1dG9yKTsK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1NYW5hZ2VyTW9jay5nZXRFeGVjdXRvcigpKS50aGVuUmV0dXJuKG1FeGVjdXRvcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRFeGVjdXRvcigpLnNodXRkb3duTm93KCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZlcmlmeShtRXhlY3V0b3IpLnNodXRkb3duTm93KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBPcgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIEluT3JkZXIgaW5PcmRlciA9IGluT3JkZXIobU1hbmFnZXJNb2NrLCBtRXhlY3V0b3IpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtRXhlY3V0b3Iuc2h1dGRvd25Ob3coKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHdoZW4obU1hbmFnZXJNb2NrLmdldEV4ZWN1dG9yKCkpLnRoZW5SZXR1cm4obUV4ZWN1dG9yKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIC0tIHlvdSBmaWxsIGluIGhlcmUuCg==</text>
+        <text encoding="base64">ICAgICAgICAvL21NYW5hZ2VyTW9jay5tRXhlY3V0b3IgPSBtRXhlY3V0b3I7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbU1hbmFnZXJNb2NrLCBFeGVjdXRvclNlcnZpY2UuY2xhc3MsIG1FeGVjdXRvcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL3N5bmNocm9uaXplZCAodGhpcykK</text>
+        <text encoding="base64">Ly8gICAgICAgIFJlZmxlY3Rpb25IZWxwZXIuaW5qZWN0RmllbGRWYWx1ZUludG9GaXJzdEZpZWxkT2ZUeXBlKAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZnV0dXJlLmMpIAo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobU1hbmFnZXJNb2NrKS5hd2FpdENvbXBsZXRpb25PZkZ1dHVyZXMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VXBkYXRlZCBhdXRvZ2FyZGVyIGluc3RhbGxhdGlvbiBmaWxlcy4K</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobU1hbmFnZXJNb2NrKS5iZWdpbkJlaW5nVGhyZWFkUG9vbCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
