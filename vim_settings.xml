@@ -36,12 +36,11 @@
         <mark key="^" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/ReflectionHelper.java" timestamp="1518579631621">
-        <mark key="a" line="23" column="18" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="26" column="18" />
-        <mark key="^" line="25" column="26" />
-        <mark key="." line="25" column="26" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/ReflectionHelper.java" timestamp="1518580250519">
+        <mark key="[" line="42" column="43" />
+        <mark key="]" line="43" column="40" />
+        <mark key="^" line="43" column="40" />
+        <mark key="." line="43" column="40" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/CancellableLock.java" timestamp="1518568320677">
         <mark key="[" line="33" column="4" />
@@ -429,8 +428,8 @@
       <jump line="200" column="29" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLockTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydFRydWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>originallyAccessible</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -610,13 +609,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>originallyAccessible</text>
       </register>
       <register name="/" type="4">
         <text>throws</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoZmllbGQgLT4gewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmaWVsZCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZpZWxkLmdldFR5cGUoKSA9PSBmaW5kQ2xhc3M7CiAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydFRydWU7Cg==</text>
