@@ -16,10 +16,10 @@
         <mark key="." line="190" column="1" />
         <mark key="^" line="190" column="1" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgr.java" timestamp="1518640249595">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="9" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgr.java" timestamp="1518653958014">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="22" />
+        <mark key="." line="85" column="0" />
         <mark key="^" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/completableFutures/CompletableFuturesMgr.java" timestamp="1515467870692">
@@ -240,9 +240,10 @@
         <mark key="^" line="54" column="6" />
         <mark key="." line="262" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518640834003">
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="/Dummy.txt" timestamp="1518654282643">
+        <mark key="[" line="2" column="87" />
+        <mark key="]" line="2" column="87" />
+        <mark key="." line="2" column="87" />
       </file>
       <file name="$USER_HOME$/udacity/Flix/dependencies.gradle" timestamp="1515648816582">
         <mark key="'" line="27" column="7" />
@@ -434,7 +435,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>.Also re-ran runInstaller to install new autograder to reflect current test state.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -614,7 +615,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.Also re-ran runInstaller to install new autograder to reflect current test state.</text>
       </register>
       <register name="/" type="4">
         <text>throws</text>
@@ -622,41 +623,68 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaWVsZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydFRydWU7Cg==</text>
+      <register name="1" type="4">
+        <text>Ran runAutograder and all tests pass with 100% success.
+
+********************************************************************************
+                           CONSOLIDATED TEST SUMMARY
+********************************************************************************
+
+Type:                       CONSOLIDATED Tests
+Unit Test Classes:          6
+Unit Test Methods:          33
+Unit Test Points:           33
+Unit Test Score:            33/33
+Unit Tests Passed:          33
+Unit Tests Failed:          0
+Instrumented Test Classes:  1
+Instrumented Test Methods:  2
+Instrumented Test Points:   2
+Instrumented Test Score:    2/2
+Instrumented Tests Passed:  2
+Instrumented Tests Failed:  0
+Total Test Classes:         7
+Total Test Methods:         35
+Total Test Points:          35
+Total Test Score:           35/35
+Total Passed:               35
+Total Failed:               0
+GRADE:                      100%
+
+********************************************************************************</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRocmVhZFBvb2xFeGVjdXRvcjsK</text>
+        <text encoding="base64">ICAgICAgICBzaHV0ZG93bk5vdygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydFRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRocmVhZFBvb2xFeGVjdXRvcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hbmFnZXIuZ2V0U3BpbkxvY2soKS5nZXRPd25lcigpLmdldCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJUaGUgU3BpbkxvY2sgQXRvbWljQm9vbGVhbiBzaG91bGQgYmUgaW5pdGlhbGl6ZWQgdG8gZmFsc2UuIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hbmFnZXIuZ2V0U3BpbkxvY2soKS5nZXRPd25lcigpLmdldCgpKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJUaGUgU3BpbkxvY2sgQXRvbWljQm9vbGVhbiBzaG91bGQgYmUgaW5pdGlhbGl6ZWQgdG8gZmFsc2UuIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hbmFnZXIuZ2V0U3BpbkxvY2soKS5nZXRPd25lcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZSgK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
