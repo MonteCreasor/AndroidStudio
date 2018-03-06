@@ -286,6 +286,14 @@
         <mark key="^" line="54" column="6" />
         <mark key="." line="210" column="21" />
       </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/BeingAsyncTask.java" timestamp="1520379980106">
+        <mark key="a" line="19" column="6" />
+        <mark key="'" line="77" column="49" />
+        <mark key="[" line="196" column="53" />
+        <mark key="]" line="199" column="31" />
+        <mark key="." line="199" column="31" />
+        <mark key="^" line="199" column="31" />
+      </file>
       <file name="/Dummy.txt" timestamp="1520377384685">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="87" />
@@ -391,8 +399,6 @@
       <file name="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantiriManager.java" timestamp="1520370976345" />
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLockTest.java" />
-      <jump line="51" column="5" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLock.java" />
       <jump line="58" column="59" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLock.java" />
       <jump line="69" column="29" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLock.java" />
       <jump line="75" column="22" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLock.java" />
@@ -491,10 +497,12 @@
       <jump line="48" column="0" filename="$USER_HOME$/cur/ps/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
       <jump line="74" column="0" filename="$USER_HOME$/cur/ps/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
       <jump line="116" column="0" filename="$USER_HOME$/cur/ps/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
+      <jump line="20" column="67" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/BeingAsyncTask.java" />
+      <jump line="77" column="49" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/BeingAsyncTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Runnable</text>
+        <text>&quot;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -674,58 +682,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Runnable</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>@@</text>
+        <text>Pre</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFsYW50aXJpTWFuYWdlci5GYWN0b3J5LlR5cGUuUkVFTlRSQU5UX0xPQ0tfSEFTSF9NQVBfU0lNUExFX1NFTUFQSE9SRTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2coUFJFX0VYRUNVVEVfRk9STUFUX01FU1NBR0UsIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QElnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vUGFsYW50aXJpTWFuYWdlci5GYWN0b3J5LlR5cGUuUkVFTlRSQU5UX0xPQ0tfSEFTSF9NQVBfU0lNUExFX1NFTUFQSE9SRTsK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QElnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzID0gMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoZm9ybWF0LCBhcmdzKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzID0gMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzID0gMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRzID0gMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvKCkK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>@@</last-search>
+      <last-search>Pre</last-search>
       <last-offset />
-      <last-pattern>@@</last-pattern>
+      <last-pattern>Pre</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>mEx</last-substitute>
       <last-dir>1</last-dir>
@@ -733,7 +741,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mFutureList</entry>
         <entry>System.out</entry>
         <entry>&quot;Grad</entry>
         <entry>buildMO</entry>
@@ -753,6 +760,7 @@
         <entry>points</entry>
         <entry>@@M</entry>
         <entry>@@</entry>
+        <entry>Pre</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/being/palantir/g</entry>
