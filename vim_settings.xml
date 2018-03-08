@@ -65,11 +65,11 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="83" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncTaskMgr.java" timestamp="1520551258500">
-        <mark key="a" line="155" column="8" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncTaskMgr.java" timestamp="1520551611715">
+        <mark key="a" line="148" column="35" />
         <mark key="'" line="158" column="28" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="161" column="61" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="153" column="51" />
         <mark key="^" line="65" column="68" />
         <mark key="." line="126" column="0" />
       </file>
@@ -114,7 +114,11 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/android/sdk/sources/android-26/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1520541418143" />
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-26/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1520551635187">
+        <mark key="a" line="1243" column="11" />
+        <mark key="[" line="1243" column="0" />
+        <mark key="]" line="1248" column="60" />
+      </file>
       <file name="/Dummy.txt" timestamp="1520551245925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="87" />
@@ -158,13 +162,13 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncTaskMgrTest.java" timestamp="1520551262356">
-        <mark key="a" line="77" column="8" />
-        <mark key="'" line="96" column="22" />
-        <mark key="[" line="133" column="42" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="82" column="88" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncTaskMgrTest.java" timestamp="1520552105198">
+        <mark key="a" line="79" column="8" />
+        <mark key="'" line="98" column="22" />
+        <mark key="[" line="151" column="63" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="142" column="7" />
       </file>
       <file name="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantiriManager.java" timestamp="1520370976345" />
     </filemarks>
@@ -272,7 +276,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFeGVjdXRlIGFsbCB0aGUgQmVpbmdBc3luY1Rhc2tzIG9uIG1UaHJlYWRQb29sRXhlY3V0b3IsCiAgICAgICAgLy8gcGFzc2luZyBpbiB0aGUgZW50cnkgYW5kIGV4aXQgYmFycmllcnMuCiAgICAgICAgLy8gVE9ETyAgLS0geW91IGZpbGwgaW4gaGVyZS4KICAgICAgICBmb3IgKEJlaW5nQXN5bmNUYXNrIGFzeW5jVGFzayA6IGdldEJlaW5ncygpKQogICAgICAgICAgICBhc3luY1Rhc2suZXhlY3V0ZU9uRXhlY3V0b3IobUVudHJ5QmFycmllciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1FeGl0QmFycmllciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1UaHJlYWRQb29sRXhlY3V0b3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IHRocmVhZFBvb2xFeGVjdXRvci5nZXRRdWV1ZSgpLnNpemUoKTsK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -452,49 +456,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiA=</text>
+        <text>PoolSize</text>
       </register>
       <register name="/" type="4">
         <text>[Real M</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFeGVjdXRlIGFsbCB0aGUgQmVpbmdBc3luY1Rhc2tzIG9uIG1UaHJlYWRQb29sRXhlY3V0b3IsCiAgICAgICAgLy8gcGFzc2luZyBpbiB0aGUgZW50cnkgYW5kIGV4aXQgYmFycmllcnMuCiAgICAgICAgLy8gVE9ETyAgLS0geW91IGZpbGwgaW4gaGVyZS4KICAgICAgICBmb3IgKEJlaW5nQXN5bmNUYXNrIGFzeW5jVGFzayA6IGdldEJlaW5ncygpKQogICAgICAgICAgICBhc3luY1Rhc2suZXhlY3V0ZU9uRXhlY3V0b3IobUVudHJ5QmFycmllciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1FeGl0QmFycmllciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1UaHJlYWRQb29sRXhlY3V0b3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtTWFuYWdlck1vY2subVRocmVhZEZhY3RvcnkgPSByZWFsTWFuYWdlci5tVGhyZWFkRmFjdG9yeTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IHRocmVhZFBvb2xFeGVjdXRvci5nZXRRdWV1ZSgpLnNpemUoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIltSZWFsIE1ldGhvZF06IGJlZ2luQmVpbmdBc3luY1Rhc2tzR2F6aW5nKCkgY2FsbGVkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IHRocmVhZFBvb2xFeGVjdXRvci5nZXRRdWV1ZSgpLnNpemUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbVRocmVhZEZhY3RvcnkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE51bGw7CmltcG9ydCBzdGF0aWMgb3JnLmp1bml0LkFzc2VydC5mYWlsOwppbXBvcnQgc3RhdGljIG9yZy5tb2NraXRvLkFyZ3VtZW50TWF0Y2hlcnMuYW55Owo=</text>
+        <text encoding="base64">ICAgICAgICBtTWFuYWdlck1vY2subVRocmVhZEZhY3RvcnkgPSByZWFsTWFuYWdlci5tVGhyZWFkRmFjdG9yeTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRocmVhZCdzIG5hbWUgdGhlcmVieSBlbnN1cmluZyBhIHVuaXF1ZSBuYW1lLgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmV3IFN5bmNocm9ub3VzUXVldWU8PigpLAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRoZSBtSWQgdmFsdWUgc2hvdWxkIGJlIGluY2x1ZGVkIGFzIHBhcnQgb2YgdGhlIG5ldwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgVGltZVVuaXQuU0VDT05EUywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgNjBMLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYmVpbmdDb3VudCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmV3IFRocmVhZFBvb2xFeGVjdXRvcigwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
