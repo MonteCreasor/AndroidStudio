@@ -53,12 +53,13 @@
         <mark key="^" line="269" column="28" />
         <mark key="." line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeingTest.java" timestamp="1520611821778">
-        <mark key="a" line="104" column="59" />
-        <mark key="[" line="129" column="9" />
-        <mark key="]" line="129" column="10" />
-        <mark key="^" line="129" column="10" />
-        <mark key="." line="129" column="10" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeingTest.java" timestamp="1520615807447">
+        <mark key="a" line="94" column="59" />
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="98" column="9" />
+        <mark key="]" line="98" column="9" />
+        <mark key="^" line="60" column="10" />
+        <mark key="." line="98" column="9" />
       </file>
       <file name="$USER_HOME$/android/jules/grader/examples/DemoApp-Android-Studio-v3/app/src/androidTest/java/edu/vanderbilt/demoapp/EspressoTests.java" timestamp="1516071339846">
         <mark key="'" line="67" column="10" />
@@ -174,13 +175,13 @@
         <mark key="." line="54" column="50" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/ReentrantLockHashMapSimpleSemaphoreMgrTest.java" timestamp="1520553040510" />
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeing.java" timestamp="1520611786498">
-        <mark key="a" line="48" column="14" />
-        <mark key="'" line="220" column="14" />
-        <mark key="[" line="68" column="33" />
-        <mark key="]" line="68" column="37" />
-        <mark key="." line="68" column="37" />
-        <mark key="^" line="68" column="37" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeing.java" timestamp="1520614094549">
+        <mark key="a" line="182" column="42" />
+        <mark key="'" line="237" column="14" />
+        <mark key="[" line="135" column="18" />
+        <mark key="]" line="135" column="18" />
+        <mark key="." line="135" column="18" />
+        <mark key="^" line="135" column="16" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/PalantiriManager.java" timestamp="1517345172684">
         <mark key="'" line="402" column="24" />
@@ -410,7 +411,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.10.0/2ba7c7553f07747d8b85ce9b2273e5c03217a0d8/mockito-core-2.10.0-sources.jar!/org/mockito/internal/creation/bytebuddy/InterceptedInvocation.java" timestamp="1520611939392" />
     </filemarks>
     <jumps>
-      <jump line="289" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/InstrumentedTest1B.java" />
       <jump line="96" column="20" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/InstrumentedTest1B.java" />
       <jump line="210" column="20" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/InstrumentedTests.java" />
       <jump line="323" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/InstrumentedTests.java" />
@@ -510,10 +510,11 @@
       <jump line="144" column="28" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeing.java" />
       <jump line="174" column="37" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeing.java" />
       <jump line="220" column="14" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeing.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeingTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>/</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -693,46 +694,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>\log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSdWJyaWModmFsdWUgPSAiQXN5bmNCZWluZy5Bc3luY0JlaW5nVGFzayBjbGFzcyBpbXBsZW1lbnRhdGlvbiB0ZXN0LiIsCiAgICAgICAgICAgIGdvYWwgPSAiVGhpcyB0ZXN0IGNoZWNrcyBmb3IgdGhlIHByb3BlciBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgIiArCiAgICAgICAgICAgICAgICAgICAgIkFzeW5jQmVpbmcuQXN5bmNCZWluZ1Rhc2sncyBvblBvc3RFeGVjdXRlIG1ldGhvZC4iCiAgICApCiAgICBAVGVzdCh0aW1lb3V0ID0gMjAwMCkKICAgIHB1YmxpYyB2b2lkIHRlc3RBc3luY1Rhc2tPblBvc3RFeGVjdXRlKCkgdGhyb3dzIElsbGVnYWxBY2Nlc3NFeGNlcHRpb24gewogICAgICAgIEFzeW5jQmVpbmcuQXN5bmNCZWluZ1Rhc2sgYXN5bmNCZWluZ1Rhc2sgPSBtb2NrKEFzeW5jQmVpbmcuQXN5bmNCZWluZ1Rhc2suY2xhc3MpOwogICAgICAgIFJlZmxlY3Rpb25IZWxwZXIuaW5qZWN0RmllbGRWYWx1ZUludG9GaXJzdEZpZWxkT2ZUeXBlKAogICAgICAgICAgICAgICAgYXN5bmNCZWluZ1Rhc2ssIEN5Y2xpY0JhcnJpZXIuY2xhc3MsIG1DeWNsaWNCYXJyaWVyTW9jayk7CiAgICAgICAgUmVmbGVjdGlvbkhlbHBlci5pbmplY3RGaWVsZFZhbHVlSW50b0ZpcnN0RmllbGRPZlR5cGUoCiAgICAgICAgICAgICAgICBhc3luY0JlaW5nVGFzaywgQ291bnREb3duTGF0Y2guY2xhc3MsIG1Db3VudERvd25MYXRjaE1vY2spOwoKICAgICAgICBmaW5hbCBTdHJpbmcgbXNnID0gIlJhbmRvbSBtZXNzYWdlIjsKCiAgICAgICAgZG9DYWxsUmVhbE1ldGhvZCgpLndoZW4oYXN5bmNCZWluZ1Rhc2spLm9uUG9zdEV4ZWN1dGUoYW55KCkpOwoKICAgICAgICBhc3luY0JlaW5nVGFzay5vblBvc3RFeGVjdXRlKG1zZyk7CgogICAgICAgIHZlcmlmeShhc3luY0JlaW5nVGFzaywgdGltZXMoMSkpLmxvZyhtc2cpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBSZWZsZWN0aW9uSGVscGVyLmluamVjdEZpZWxkVmFsdWVJbnRvRmlyc3RGaWVsZE9mVHlwZSgKICAgICAgICAgICAgICAgIGFzeW5jQmVpbmdUYXNrLCBDeWNsaWNCYXJyaWVyLmNsYXNzLCBtQ3ljbGljQmFycmllck1vY2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFzeW5jVGFzazxJbnRlZ2VyLCBWb2lkLCBTdHJpbmc+IG1Bc3luY1Rhc2tNb2NrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbUFzeW5jQmVpbmdUYXNrTW9jaywgQ291bnREb3duTGF0Y2guY2xhc3MsIG1Db3VudERvd25MYXRjaE1vY2spOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzeW5jQmVpbmdUYXNrLCBDb3VudERvd25MYXRjaC5jbGFzcywgbUNvdW50RG93bkxhdGNoTW9jayk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFJlZmxlY3Rpb25IZWxwZXIuaW5qZWN0RmllbGRWYWx1ZUludG9GaXJzdEZpZWxkT2ZUeXBlKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSZWZsZWN0aW9uSGVscGVyLmluamVjdEZpZWxkVmFsdWVJbnRvRmlyc3RGaWVsZE9mVHlwZSgK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbUFzeW5jQmVpbmdUYXNrTW9jaywgQ3ljbGljQmFycmllci5jbGFzcywgbUN5Y2xpY0JhcnJpZXJNb2NrKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzeW5jQmVpbmdUYXNrLCBDeWNsaWNCYXJyaWVyLmNsYXNzLCBtQ3ljbGljQmFycmllck1vY2spOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFJlZmxlY3Rpb25IZWxwZXIuaW5qZWN0RmllbGRWYWx1ZUludG9GaXJzdEZpZWxkT2ZUeXBlKAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZWZsZWN0aW9uSGVscGVyLmluamVjdEZpZWxkVmFsdWVJbnRvRmlyc3RGaWVsZE9mVHlwZSgK</text>
+        <text encoding="base64">ICAgICAgICBBc3luY0JlaW5nIGFiID0gbmV3IEFzeW5jQmVpbmcobUJlaW5nTWFuYWdlck1vY2spOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhhdCB0aGlzIG1ldGhvZCBoYXMgYmVlbiBjYWxsZWQuUHJpbnQgdGhlIHRocmVhZCBuYW1lIHZpYSB0aGUgbG9jYWwgbG9nKCkgbWV0aG9kIG1ldGhvZC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBBc3luY0JlaW5nLkFzeW5jQmVpbmdUYXNrIHRhc2sgPSBhYi5jcmVhdGVUYXNrKG1DeWNsaWNCYXJyaWVyTW9jaywgbUNvdW50RG93bkxhdGNoTW9jayk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
