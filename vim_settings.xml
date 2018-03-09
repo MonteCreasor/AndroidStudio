@@ -126,12 +126,12 @@
         <mark key="." line="97" column="17" />
         <mark key="^" line="97" column="17" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/StampedLockSimpleSemaphoreMgrTest.java" timestamp="1520622412195">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/StampedLockSimpleSemaphoreMgrTest.java" timestamp="1520623723919">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="89" column="7" />
-        <mark key="." line="100" column="0" />
+        <mark key="[" line="124" column="26" />
+        <mark key="]" line="124" column="31" />
+        <mark key="^" line="124" column="31" />
+        <mark key="." line="124" column="31" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncTaskMgr.java" timestamp="1520555622843">
         <mark key="a" line="201" column="12" />
@@ -522,8 +522,8 @@
       <jump line="45" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/StampedLockSimpleSemaphoreMgrTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVXNlcyBtTWFuYWdlciBpbnN0YW5jZSBjcmVhdGVkIGluIHRoZSBAQmVmb3JlIHNldHVwIG1ldGhvZC4KICAgICAqLwogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RBY3F1aXJlV2l0aEFsbFBhbGFudGlyaUF2YWlsYWJsZSgpIHRocm93cyBJbnRlcnJ1cHRlZEV4Y2VwdGlvbiB7CiAgICAgICAgZG9Ob3RoaW5nKCkud2hlbihtTG9ja01vY2spLmxvY2tJbnRlcnJ1cHRpYmx5KCk7CiAgICAgICAgZG9Ob3RoaW5nKCkud2hlbihtTG9ja01vY2spLnVubG9jaygpOwogICAgICAgIGRvTm90aGluZygpLndoZW4obVNlbWFwaG9yZU1vY2spLmFjcXVpcmUoKTsKCiAgICAgICAgUGFsYW50aXIgcGFsYW50aXIgPSBtTWFuYWdlci5hY3F1aXJlKCk7CgogICAgICAgIGFzc2VydE5vdE51bGwoIkFjcXVpcmUgc2hvdWxkIHJldHVybiBhIG5vbi1udWxsIFBhbGFudGlyIiwgcGFsYW50aXIpOwogICAgICAgIGxvbmcgbG9ja2VkID0KICAgICAgICAgICAgICAgIG1QYWxhbnRpcmlNYXAudmFsdWVzKCkKICAgICAgICAgICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5maWx0ZXIoYiAtPiAhYikKICAgICAgICAgICAgICAgICAgICAgICAgLmNvdW50KCk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCJPbmx5IDEgcGFsYW50aXIgc2hvdWxkIGJlIGxvY2tlZCIsIDEsIGxvY2tlZCk7CgogICAgICAgIHZlcmlmeShtU2VtYXBob3JlTW9jaykuYWNxdWlyZSgpOwogICAgICAgIHZlcmlmeShtTG9ja01vY2spLmxvY2tJbnRlcnJ1cHRpYmx5KCk7CiAgICAgICAgdmVyaWZ5KG1Mb2NrTW9jaykubG9ja0ludGVycnVwdGlibHkoKTsKICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>tryConvertToWriteLock</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -703,13 +703,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>tryConvertToWriteLock</text>
       </register>
       <register name="/" type="4">
         <text>\log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVXNlcyBtTWFuYWdlciBpbnN0YW5jZSBjcmVhdGVkIGluIHRoZSBAQmVmb3JlIHNldHVwIG1ldGhvZC4KICAgICAqLwogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RBY3F1aXJlV2l0aEFsbFBhbGFudGlyaUF2YWlsYWJsZSgpIHRocm93cyBJbnRlcnJ1cHRlZEV4Y2VwdGlvbiB7CiAgICAgICAgZG9Ob3RoaW5nKCkud2hlbihtTG9ja01vY2spLmxvY2tJbnRlcnJ1cHRpYmx5KCk7CiAgICAgICAgZG9Ob3RoaW5nKCkud2hlbihtTG9ja01vY2spLnVubG9jaygpOwogICAgICAgIGRvTm90aGluZygpLndoZW4obVNlbWFwaG9yZU1vY2spLmFjcXVpcmUoKTsKCiAgICAgICAgUGFsYW50aXIgcGFsYW50aXIgPSBtTWFuYWdlci5hY3F1aXJlKCk7CgogICAgICAgIGFzc2VydE5vdE51bGwoIkFjcXVpcmUgc2hvdWxkIHJldHVybiBhIG5vbi1udWxsIFBhbGFudGlyIiwgcGFsYW50aXIpOwogICAgICAgIGxvbmcgbG9ja2VkID0KICAgICAgICAgICAgICAgIG1QYWxhbnRpcmlNYXAudmFsdWVzKCkKICAgICAgICAgICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5maWx0ZXIoYiAtPiAhYikKICAgICAgICAgICAgICAgICAgICAgICAgLmNvdW50KCk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCJPbmx5IDEgcGFsYW50aXIgc2hvdWxkIGJlIGxvY2tlZCIsIDEsIGxvY2tlZCk7CgogICAgICAgIHZlcmlmeShtU2VtYXBob3JlTW9jaykuYWNxdWlyZSgpOwogICAgICAgIHZlcmlmeShtTG9ja01vY2spLmxvY2tJbnRlcnJ1cHRpYmx5KCk7CiAgICAgICAgdmVyaWZ5KG1Mb2NrTW9jaykubG9ja0ludGVycnVwdGlibHkoKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobUxvY2tNb2NrKS50cnlDb252ZXJ0VG9Xcml0ZUxvY2soc3RhbXApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -718,34 +718,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hbmFnZXIubVN0YW1wZWRMb2NrKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJtTG9jayBzaG91bGQgbm90IGJlIG51bGwuIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hbmFnZXIubVN0YW1wZWRMb2NrKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJtTG9jayBzaG91bGQgbm90IGJlIG51bGwuIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5keS5zaW11bGF0b3IubWFuYWdlcnMucGFsYW50aXJpLnJlZW50cmFudExvY2tIYXNoTWFwU2ltcGxlU2VtYXBob3JlLlJlZW50cmFudExvY2tIYXNoTWFwU2ltcGxlU2VtYXBob3JlTWdyOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVkdS52YW5keS5zaW11bGF0b3IubWFuYWdlcnMucGFsYW50aXJpLnJlZW50cmFudExvY2tIYXNoTWFwU2ltcGxlU2VtYXBob3JlLlJlZW50cmFudExvY2tIYXNoTWFwU2ltcGxlU2VtYXBob3JlTWdyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS52YW5keS5zaW11bGF0b3IubWFuYWdlcnMucGFsYW50aXJpLnJlZW50cmFudExvY2tIYXNoTWFwU2ltcGxlU2VtYXBob3JlLkhlbHBlcnM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
