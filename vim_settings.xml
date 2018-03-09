@@ -119,15 +119,12 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/BeingAsyncTaskTest.java" timestamp="1520558445556">
-        <mark key="'" line="49" column="9" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/UnitTest1B.java" timestamp="1520371161029">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="83" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/BeingAsyncTaskTest.java" timestamp="1520560887718">
+        <mark key="'" line="52" column="9" />
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="55" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgrTest.java" timestamp="1518578165226">
         <mark key="'" line="127" column="44" />
@@ -234,6 +231,10 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-26/android/os/AsyncTask.java" timestamp="1520560459671">
+        <mark key="[" line="619" column="0" />
+        <mark key="]" line="620" column="91" />
+      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/UnitTest2A.java" timestamp="1520371166028">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="13" />
@@ -304,12 +305,12 @@
         <mark key="^" line="54" column="6" />
         <mark key="." line="210" column="21" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/BeingAsyncTask.java" timestamp="1520559336325">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/BeingAsyncTask.java" timestamp="1520560705404">
         <mark key="'" line="33" column="12" />
-        <mark key="[" line="47" column="14" />
-        <mark key="]" line="47" column="14" />
-        <mark key="." line="47" column="14" />
-        <mark key="^" line="47" column="40" />
+        <mark key="[" line="55" column="14" />
+        <mark key="]" line="55" column="14" />
+        <mark key="^" line="132" column="32" />
+        <mark key="." line="55" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1520551245925">
         <mark key="[" line="0" column="0" />
@@ -523,7 +524,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>asyncTaskMock</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -703,49 +704,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>asyncTaskMock</text>
       </register>
       <register name="/" type="4">
         <text>entryB</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZXhlY3V0ZU9uRXhlY3V0b3IoQ3ljbGljQmFycmllciBlbnRyeUJhcnJpZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIENvdW50RG93bkxhdGNoIGV4aXRCYXJyaWVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICBUaHJlYWRQb29sRXhlY3V0b3IgdGhyZWFkUG9vbEV4ZWN1dG9yKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKGJlaW5nLm1Bc3luY1Rhc2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkUG9vbEV4ZWN1dG9yIHRocmVhZFBvb2xFeGVjdXRvcikgewo=</text>
+        <text encoding="base64">ICAgIEBSdWxlCiAgICBwdWJsaWMgTW9ja2l0b1J1bGUgbW9ja2l0b1J1bGUgPSBNb2NraXRvSlVuaXQucnVsZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBCZWluZ0FzeW5jVGFzayBhc3luY1Rhc2tNb2NrID0gbW9jayhhcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFzeW5jVGFzazw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udmVuaWVudCBwcm9jZXNzLXdpZGUgdGhyZWFkIHBvb2wgZm9yIHRhc2tzIHRoYXQgYXJlIGxvb3NlbHkgY291cGxlZC4K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBkb05vdGhpbmcoKS53aGVuKGJlaW5nKS5leGVjdXRlT25FeGVjdXRvcigKICAgICAgICAgICAgICAgIGFueShDeWNsaWNCYXJyaWVyLmNsYXNzKSwKICAgICAgICAgICAgICAgIGFueShDb3VudERvd25MYXRjaC5jbGFzcyksCiAgICAgICAgICAgICAgICBhbnkoVGhyZWFkUG9vbEV4ZWN1dG9yLmNsYXNzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uUG9zdEV4ZWN1dGUocyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
