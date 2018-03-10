@@ -142,7 +142,7 @@
         <mark key="^" line="28" column="6" />
         <mark key="." line="28" column="3" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" timestamp="1516482836227">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Simulator.java" timestamp="1520720739956">
         <mark key="'" line="113" column="6" />
         <mark key="[" line="573" column="74" />
         <mark key="]" line="573" column="74" />
@@ -192,6 +192,13 @@
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" timestamp="1520372744941">
+        <mark key="'" line="136" column="23" />
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="27" />
+        <mark key="." line="50" column="27" />
+        <mark key="^" line="50" column="27" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" timestamp="1520706640990">
         <mark key="[" line="36" column="4" />
@@ -316,6 +323,13 @@
         <mark key="]" line="33" column="7" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeing.java" timestamp="1520720576130">
+        <mark key="'" line="180" column="16" />
+        <mark key="[" line="131" column="30" />
+        <mark key="]" line="132" column="6" />
+        <mark key="." line="132" column="6" />
+        <mark key="^" line="132" column="6" />
+      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/InstrumentedTests.java" timestamp="1520719060797">
         <mark key="'" line="48" column="31" />
         <mark key="[" line="70" column="37" />
@@ -414,6 +428,13 @@
         <mark key="^" line="20" column="17" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" timestamp="1520539446566">
+        <mark key="'" line="335" column="76" />
+        <mark key="[" line="131" column="24" />
+        <mark key="]" line="131" column="25" />
+        <mark key="^" line="131" column="25" />
+        <mark key="." line="131" column="25" />
+      </file>
       <file name="$USER_HOME$/cur/a1/CS-891-spring-2018/assignments/assignment1a/app/src/main/java/edu/vandy/app/ui/screens/settings/adapters/ManagerTypeEnumSpinnerAdapter.kt" timestamp="1516155203264">
         <mark key="'" line="19" column="41" />
         <mark key="[" line="63" column="64" />
@@ -461,14 +482,12 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/android/sdk/sources/android-26/java/util/concurrent/locks/StampedLock.java" timestamp="1520711031388">
-        <mark key="a" line="579" column="16" />
-        <mark key="b" line="536" column="16" />
-        <mark key="'" line="536" column="5" />
-        <mark key="[" line="536" column="5" />
-        <mark key="]" line="536" column="5" />
-        <mark key="^" line="536" column="5" />
-        <mark key="." line="536" column="5" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/UnitTest3A.java" timestamp="1520720328444">
+        <mark key="'" line="35" column="36" />
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="59" column="10" />
+        <mark key="^" line="59" column="10" />
+        <mark key="." line="33" column="10" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncTaskMgrTest.java" timestamp="1520616420593">
         <mark key="a" line="184" column="47" />
@@ -483,8 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="62" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/BeingCallableTest.java" />
-      <jump line="93" column="45" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/BeingCallableTest.java" />
       <jump line="101" column="45" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/BeingCallableTest.java" />
       <jump line="157" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncTaskMgrTest.java" />
       <jump line="20" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncTaskMgrTest.java" />
@@ -583,6 +600,8 @@
       <jump line="163" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreWithLockTest.java" />
       <jump line="281" column="18" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreWithReentrantLockTest.java" />
       <jump line="150" column="68" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLockTest.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/UnitTest3A.java" />
+      <jump line="35" column="36" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/UnitTest3A.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
