@@ -298,12 +298,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="8820" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphore.java" timestamp="1520986148093">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphore.java" timestamp="1520992554556">
         <mark key="a" line="69" column="27" />
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/InstrumentedTest1A.java" timestamp="1518744204766">
         <mark key="'" line="99" column="20" />
@@ -412,12 +412,13 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" timestamp="1520991097151">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="222" column="16" />
-        <mark key="]" line="222" column="18" />
-        <mark key="^" line="222" column="18" />
-        <mark key="." line="222" column="18" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" timestamp="1520992523660">
+        <mark key="a" line="211" column="7" />
+        <mark key="'" line="248" column="48" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="^" line="227" column="10" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/androidTest/java/edu/vandy/app/ui/screens/main/Toaster.java" timestamp="1518744445206">
         <mark key="'" line="9" column="45" />
@@ -431,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="579" column="4" filename="$USER_HOME$/tools/android/sdk/sources/android-26/java/util/concurrent/locks/StampedLock.java" />
       <jump line="536" column="5" filename="$USER_HOME$/tools/android/sdk/sources/android-26/java/util/concurrent/locks/StampedLock.java" />
       <jump line="235" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/StampedLockSimpleSemaphoreMgrTest.java" />
       <jump line="263" column="30" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/StampedLockSimpleSemaphoreMgrTest.java" />
@@ -531,10 +531,11 @@
       <jump line="33" column="33" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" />
       <jump line="200" column="40" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" />
       <jump line="21" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" />
+      <jump line="248" column="48" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>start</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgiU2ltcGxlU2VtYXBob3JlIG5vdGlmeSBtZXRob2Qgd2FzIG5vdCBjYWxsZWQuIik7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -714,66 +715,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>av</text>
+        <text encoding="base64">XDx3YXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgiU2ltcGxlU2VtYXBob3JlIG5vdGlmeSBtZXRob2Qgd2FzIG5vdCBjYWxsZWQuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU2ltcGxlU2VtYXBob3JlIHNpbXBsZVNlbWFwaG9yZSA9IG5ldyBTaW1wbGVTZW1hcGhvcmUoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgiU2ltcGxlU2VtYXBob3JlIG5vdGlmeSBtZXRob2Qgd2FzIG5vdCBjYWxsZWQuIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgibm90aWZ5IHdhcyBub3QgY2FsbGVkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocmVhZC53YWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU2ltcGxlU2VtYXBob3JlIG5vdGlmeSgpIHdhcyBjYWxsZWQuIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiU2ltcGxlU2VtYXBob3JlIGNhbGxpbmcgbm90aWZ5KCkuLi4iKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKHNpbXBsZVNlbWFwaG9yZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGkgPSAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQyLnJ1bigpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>av</last-search>
+      <last-search encoding="base64">XDx3YXNcPg==</last-search>
       <last-offset />
-      <last-pattern>av</last-pattern>
+      <last-pattern encoding="base64">XDx3YXNcPg==</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>ExecutorService</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>couner</entry>
         <entry>Couner</entry>
         <entry>thenReturn</entry>
         <entry>unlock</entry>
@@ -793,6 +793,7 @@
         <entry>never</entry>
         <entry>\.avi</entry>
         <entry>av</entry>
+        <entry encoding="base64">XDx3YXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/being/palantir/g</entry>
