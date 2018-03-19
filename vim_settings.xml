@@ -20,10 +20,6 @@
         <mark key="^" line="30" column="23" />
         <mark key="." line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/cur/dropbox/PalantiriSimulator/build.gradle" timestamp="1521480994969">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="37" />
-      </file>
       <file name="$USER_HOME$/junk/MyApplication/app/build.gradle" timestamp="1521486121888">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="34" column="5" />
@@ -142,6 +138,7 @@
         <mark key="]" line="13" column="56" />
         <mark key="." line="13" column="55" />
       </file>
+      <file name="$USER_HOME$/android/doug/crawler/app/src/main/AndroidManifest.xml" timestamp="1521494962515" />
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/debug/DebugUnitTest.java" timestamp="1516288555469">
         <mark key="'" line="19" column="12" />
         <mark key="[" line="8" column="35" />
@@ -153,10 +150,6 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/cur/dropbox/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/MainActivity.kt" timestamp="1521481103641">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="64" />
       </file>
       <file name="$USER_HOME$/cur/dropbox/PalantiriSimulator/app/build.gradle" timestamp="1521480967558">
         <mark key="'" line="58" column="42" />
@@ -591,11 +584,12 @@
         <mark key="." line="43" column="24" />
         <mark key="^" line="43" column="50" />
       </file>
-      <file name="$USER_HOME$/client/app/src/main/java/monte/apps/offline_test/MainActivity.kt" timestamp="1521482713514">
-        <mark key="'" line="141" column="18" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/client/app/src/main/java/monte/apps/offline_test/MainActivity.kt" timestamp="1521496082320">
+        <mark key="'" line="144" column="21" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="1" />
+        <mark key="." line="31" column="1" />
+        <mark key="^" line="31" column="1" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/UnitTest3A.java" timestamp="1520721786967">
         <mark key="'" line="37" column="36" />
@@ -624,8 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="68" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/ReentrantSpinLockTest.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/UnitTest3A.java" />
       <jump line="35" column="36" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/UnitTest3A.java" />
       <jump line="52" column="53" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeing.java" />
       <jump line="70" column="60" filename="$USER_HOME$/cur/PalantiriSimulator/app/build.gradle" />
@@ -724,6 +716,8 @@
       <jump line="50" column="10" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedActivityClient.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/ui/screens/pager/PagedActivityClient.kt" />
       <jump line="21" column="42" filename="$USER_HOME$/android/doug/crawler/app/src/main/java/edu/vanderbilt/crawler/viewmodels/Resource.kt" />
+      <jump line="142" column="28" filename="$USER_HOME$/client/app/src/main/java/monte/apps/offline_test/MainActivity.kt" />
+      <jump line="143" column="21" filename="$USER_HOME$/client/app/src/main/java/monte/apps/offline_test/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -910,55 +904,55 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>7</text>
+        <text>shouldO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTozLjIuMC1hbHBoYTA2Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNob3VsZE92ZXJyaWRlVXJsTG9hZGluZyh2aWV3LCByZXF1ZXN0LnVybC50b1N0cmluZygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLnNob3VsZE92ZXJyaWRlVXJsTG9hZGluZyh2aWV3LCByZXF1ZXN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBzb3VyY2VTZXRzIHsKICAgICAgICBtYWluLmphdmEuc3JjRGlycyArPSAnc3JjL21haW4va290bGluJwogICAgICAgIHRlc3QuamF2YS5zcmNEaXJzICs9ICdzcmMvdGVzdC9rb3RsaW4nCgogICAgICAgIG1haW4gewogICAgICAgICAgICBmaWxlKCdzcmMvbWFpbi9yZXMtc2NyZWVuJykKICAgICAgICAgICAgICAgICAgICAubGlzdEZpbGVzKCkKICAgICAgICAgICAgICAgICAgICAuZWFjaCB7IHJlcy5zcmNEaXJzICs9IGl0LnBhdGggfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gc2hvdWxkT3ZlcnJpZGVVcmxMb2FkaW5nKHZpZXcsIHJlcXVlc3QudXJsLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogYGBgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgb3ZlcnJpZGUgZnVuIHNob3VsZE92ZXJyaWRlVXJsTG9hZGluZyh2aWV3OiBXZWJWaWV3LCByZXF1ZXN0OiBXZWJSZXNvdXJjZVJlcXVlc3QpOiBCb29sZWFuIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgICAgICAgcmV0dXJuIGl0ZW1zLm1hcCB7IGl0LnVyaSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICAgICAgICAgLy8gTWFwIGFsbCByZXNvdXJjZXMgdG8gdXJpcyBmb3IgUGFnZWRBY3Rpdml0eQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludGxuKCJvblBhZ2VTdGFydGVkIGNhbGxlZCBmb3IgVVJMICIgKyB1cmwpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogICAgICBvdmVycmlkZSBmdW4gZ2V0SW1hZ2VVcmlzKCk6IExpc3Q8VXJpPiB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogICAgICAqLwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzdXBlci5vblBhZ2VTdGFydGVkKHZpZXcsIHVybCwgZmF2aWNvbikK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>7</last-search>
+      <last-search>shouldO</last-search>
       <last-offset />
-      <last-pattern>7</last-pattern>
+      <last-pattern>shouldO</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>ExecutorService</last-substitute>
       <last-dir>1</last-dir>
@@ -966,7 +960,6 @@
     </search>
     <history>
       <history-search>
-        <entry>3A</entry>
         <entry>3</entry>
         <entry>utO</entry>
         <entry>rrut</entry>
@@ -986,6 +979,7 @@
         <entry>Log.d</entry>
         <entry>override</entry>
         <entry>7</entry>
+        <entry>shouldO</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/being/palantir/g</entry>
