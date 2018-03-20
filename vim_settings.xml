@@ -8,12 +8,14 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" timestamp="1521584381369">
+        <mark key="'" line="214" column="33" />
+      </file>
       <file name="$USER_HOME$/cur/batch/alicefangxinlui/assignment1b/app/build.gradle" timestamp="1518659785728">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/Simulator.java" timestamp="1521581401000" />
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Controller.java" timestamp="1520536244630">
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
@@ -246,13 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="40" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" />
-      <jump line="248" column="48" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" />
-      <jump line="246" column="19" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" />
-      <jump line="170" column="26" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" />
-      <jump line="208" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/stampedLockSimpleSemaphore/SimpleSemaphoreTest.java" />
       <jump line="3" column="23" filename="$USER_HOME$/projects/FamilyFirst/feature/src/main/java/monte/apps/familyfirst/feature/ContactsVO.kt" />
       <jump line="15" column="38" filename="$USER_HOME$/projects/FamilyFirst/feature/src/main/java/monte/apps/familyfirst/feature/AddFamilyMember.kt" />
       <jump line="86" column="38" filename="$USER_HOME$/junk/android-kiosk-example/KioskExample/app/src/main/java/com/sureshjoshi/android/kioskexample/MainActivity.java" />
@@ -346,6 +341,13 @@
       <jump line="319" column="27" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/ReentrantLockHashMapSimpleSemaphoreMgrTest.java" />
       <jump line="104" column="25" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/ReentrantLockHashMapSimpleSemaphoreMgrTest.java" />
       <jump line="57" column="4" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/ReentrantLockHashMapSimpleSemaphoreMgrTest.java" />
+      <jump line="108" column="33" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" />
+      <jump line="111" column="29" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" />
+      <jump line="141" column="25" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" />
+      <jump line="177" column="25" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" />
+      <jump line="208" column="25" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" />
+      <jump line="213" column="33" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" />
+      <jump line="214" column="33" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -532,7 +534,7 @@
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>mPalanatiriMap</text>
+        <text>mPermits</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtTG9jayA9IG5ldyBSZWVudHJhbnRMb2NrKCk7Cg==</text>
@@ -578,9 +580,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mPalanatiriMap</last-search>
+      <last-search>mPermits</last-search>
       <last-offset />
-      <last-pattern>mPalanatiriMap</last-pattern>
+      <last-pattern>mPermits</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>ExecutorService</last-substitute>
       <last-dir>1</last-dir>
@@ -588,7 +590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Log.d</entry>
         <entry>override</entry>
         <entry>7</entry>
         <entry>shouldO</entry>
@@ -608,6 +609,7 @@
         <entry>doNo</entry>
         <entry>Throwable</entry>
         <entry>mPalanatiriMap</entry>
+        <entry>mPermits</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'b/being/palantir/g</entry>
