@@ -19,11 +19,12 @@
       <file name="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" timestamp="1521584381369">
         <mark key="'" line="214" column="33" />
       </file>
-      <file name="$USER_HOME$/client/testing/android-testdpc/app/src/main/java/com/afwsamples/testdpc/safetynet/SafetyNetFragment.java" timestamp="1521660743248">
-        <mark key="[" line="142" column="87" />
-        <mark key="]" line="142" column="87" />
-        <mark key="." line="142" column="87" />
-        <mark key="^" line="142" column="87" />
+      <file name="$USER_HOME$/client/testing/android-testdpc/app/src/main/java/com/afwsamples/testdpc/safetynet/SafetyNetFragment.java" timestamp="1521662008170">
+        <mark key="a" line="152" column="42" />
+        <mark key="[" line="172" column="61" />
+        <mark key="]" line="172" column="63" />
+        <mark key="." line="172" column="63" />
+        <mark key="^" line="172" column="63" />
       </file>
       <file name="$USER_HOME$/cur/batch/alicefangxinlui/assignment1b/app/build.gradle" timestamp="1518659785728">
         <mark key="[" line="87" column="0" />
@@ -35,12 +36,6 @@
         <mark key="]" line="1" column="33" />
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
-      </file>
-      <file name="$USER_HOME$/client/provision/src/sdg/example/kiosk_mode/Context.kt" timestamp="1521652995494">
-        <mark key="[" line="5" column="59" />
-        <mark key="]" line="5" column="58" />
-        <mark key="^" line="5" column="58" />
-        <mark key="." line="5" column="58" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Controller.java" timestamp="1520536244630">
         <mark key="[" line="138" column="0" />
@@ -395,6 +390,7 @@
         <mark key="." line="12" column="61" />
       </file>
       <file name="$USER_HOME$/client/provision/res/values/strings.xml" timestamp="1521659084890" />
+      <file name="$USER_HOME$/client/testing/android-testdpc/README.md" timestamp="1521662453027" />
       <file name="$USER_HOME$/android/samples/architecture/android-architecture-components/GithubBrowserSample/gradle/wrapper/gradle-wrapper.properties" timestamp="1521406127391">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="69" />
@@ -521,7 +517,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>VerifyAppsUserResponse</text>
+        <text>getJwsResult</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -701,13 +697,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>VerifyAppsUserResponse</text>
+        <text>getJwsResult</text>
       </register>
       <register name="/" type="4">
         <text>Response</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9FWFRFUk5BTF9TVE9SQUdFIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzRGV0YWNoZWQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBqd3MgPSBhdHRlc3RhdGlvblJlc3VsdC5nZXRKd3NSZXN1bHQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmFsIEpTT05PYmplY3QganNvbk9iamVjdCA9IHJldHJpZXZlUGF5bG9hZEZyb21Kd3MoandzKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBqc29uU3RyaW5nID0ganNvbk9iamVjdC50b1N0cmluZyg0KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyB2ZXJpZnlPblNlcnZlclN0cmluZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9IGdldFN0cmluZyhSLnN0cmluZy5zYWZldHluZXRfdmVyaWZ5X29uX3NlcnZlcik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVNZXNzYWdlVmlldyh2ZXJpZnlPblNlcnZlclN0cmluZyArICJcbiIgKyBqc29uU3RyaW5nLCBmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEpTT05FeGNlcHRpb24gZXgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZU1lc3NhZ2VWaWV3KFIuc3RyaW5nLnNhZmV0eW5ldF9mYWlsX3JlYXNvbl9pbnZhbGlkX2p3cywgdHJ1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXR0ZXN0YXRpb25SZXN1bHQuCg==</text>
@@ -716,34 +712,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ29vZ2xlLmFuZHJvaWQuZ21zLnNhZmV0eW5ldC5TYWZldHlOZXRBcGkuQXR0ZXN0YXRpb25SZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMuY29tbW9uLmFwaS5SZXN1bHRDYWxsYmFja3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRSZXN1bHRDYWxsYmFjayh6emEgLT4gewo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmluZXhhYmxlPSJmYWxzZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmluZXhhYmxlPSJmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uREUiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXR0ZXN0YXRpb25SZXN1bHQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
