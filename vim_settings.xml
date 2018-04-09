@@ -378,7 +378,7 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522359603160">
+      <file name="/Dummy.txt" timestamp="1523304088694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="87" />
         <mark key="." line="9" column="87" />
@@ -769,7 +769,7 @@
         <text>= null;</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>hello</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZsYXZvckRpbWVuc2lvbnMgInRhcmdldFNkayIsICJwYWNrYWdlTmFtZSIK</text>
@@ -815,9 +815,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>hello</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>hello</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>ExecutorService</last-substitute>
       <last-dir>1</last-dir>
@@ -825,7 +825,6 @@
     </search>
     <history>
       <history-search>
-        <entry>android</entry>
         <entry>Response</entry>
         <entry>kotl</entry>
         <entry>Leak</entry>
@@ -845,6 +844,7 @@
         <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDxvcmdcPg==</entry>
         <entry>'</entry>
+        <entry>hello</entry>
       </history-search>
       <history-cmd>
         <entry>.,'as/height/width/g</entry>
