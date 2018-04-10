@@ -8,11 +8,13 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/ccs/test-apps/client/build.gradle" timestamp="1522004827569">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
+      <file name="$USER_HOME$/ccs/test-apps/client/build.gradle" timestamp="1523323864500">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/ccs/test-apps/client/app/src/main/assets/www/index.html" timestamp="1523322612071" />
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_complete/gradle/wrapper/gradle-wrapper.properties" timestamp="1521829010590">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -112,6 +114,13 @@
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
         <mark key="^" line="28" column="14" />
+      </file>
+      <file name="$USER_HOME$/ccs/test-apps/client/app/build.gradle" timestamp="1523323597144">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="26" column="17" />
       </file>
       <file name="$USER_HOME$/junk/MyApplication/app/build.gradle" timestamp="1521486121888">
         <mark key="[" line="22" column="0" />
@@ -287,6 +296,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/test-apps/client/app/src/main/assets/www/db.js" timestamp="1523322987511">
+        <mark key="'" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/junk/android-kiosk-example/KioskExample/app/build.gradle" timestamp="1521078605048">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -378,7 +390,7 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523304088694">
+      <file name="/Dummy.txt" timestamp="1523323641906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="87" />
         <mark key="." line="9" column="87" />
@@ -412,6 +424,9 @@
         <mark key="]" line="291" column="31" />
         <mark key="^" line="291" column="31" />
         <mark key="." line="291" column="31" />
+      </file>
+      <file name="$USER_HOME$/ccs/test-apps/client/app/src/main/assets/www/app.js" timestamp="1523323017551">
+        <mark key="'" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_complete/build.gradle" timestamp="1521829719938">
         <mark key="[" line="4" column="30" />
@@ -483,11 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="0" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" />
-      <jump line="480" column="0" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" />
-      <jump line="198" column="12" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" />
-      <jump line="211" column="16" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" />
-      <jump line="226" column="12" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" />
       <jump line="258" column="36" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" />
       <jump line="284" column="16" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" />
       <jump line="289" column="16" filename="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/beings/BeingManager.java" />
@@ -583,10 +593,15 @@
       <jump line="74" column="21" filename="$USER_HOME$/ccs/KioskApp/dependencies.gradle" />
       <jump line="75" column="29" filename="$USER_HOME$/ccs/KioskApp/dependencies.gradle" />
       <jump line="76" column="31" filename="$USER_HOME$/ccs/KioskApp/dependencies.gradle" />
+      <jump line="49" column="0" filename="$USER_HOME$/ccs/test-apps/client/app/src/main/assets/www/db.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/ccs/test-apps/client/app/src/main/assets/www/app.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/ccs/test-apps/client/app/src/main/assets/www/app.js" />
+      <jump line="26" column="50" filename="$USER_HOME$/ccs/test-apps/client/app/build.gradle" />
+      <jump line="5" column="4" filename="$USER_HOME$/ccs/test-apps/client/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>= null;</text>
+        <text>08</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -766,10 +781,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>= null;</text>
+        <text>08</text>
       </register>
       <register name="/" type="4">
-        <text>hello</text>
+        <text>compile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZsYXZvckRpbWVuc2lvbnMgInRhcmdldFNkayIsICJwYWNrYWdlTmFtZSIK</text>
@@ -815,9 +830,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hello</last-search>
+      <last-search>compile</last-search>
       <last-offset />
-      <last-pattern>hello</last-pattern>
+      <last-pattern>compile</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>ExecutorService</last-substitute>
       <last-dir>1</last-dir>
@@ -825,9 +840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Response</entry>
-        <entry>kotl</entry>
-        <entry>Leak</entry>
         <entry>leak</entry>
         <entry>enable</entry>
         <entry>setEnabled</entry>
@@ -845,6 +857,9 @@
         <entry encoding="base64">XDxvcmdcPg==</entry>
         <entry>'</entry>
         <entry>hello</entry>
+        <entry>compile'</entry>
+        <entry>comp</entry>
+        <entry>compile</entry>
       </history-search>
       <history-cmd>
         <entry>.,'as/height/width/g</entry>
