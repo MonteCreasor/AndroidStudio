@@ -357,7 +357,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreMO.java" timestamp="1523381209226" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreMO.java" timestamp="1523381743345">
+        <mark key="'" line="194" column="6" />
+      </file>
       <file name="$USER_HOME$/junk/android-kiosk-example/KioskExample/app/build.gradle" timestamp="1521078605048">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -485,7 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="24" filename="$USER_HOME$/client/testing/android-testdpc/app/build.gradle" />
       <jump line="87" column="31" filename="$USER_HOME$/client/testing/android-testdpc/app/build.gradle" />
       <jump line="91" column="48" filename="$USER_HOME$/client/testing/android-testdpc/app/build.gradle" />
       <jump line="0" column="19" filename="$USER_HOME$/client/testing/android-testdpc/app/build.gradle" />
@@ -585,6 +586,7 @@
       <jump line="205" column="29" filename="$USER_HOME$/ccs/test-apps/client/app/src/main/java/monte/apps/offlineTest/MainActivity.kt" />
       <jump line="208" column="29" filename="$USER_HOME$/ccs/test-apps/client/app/src/main/java/monte/apps/offlineTest/MainActivity.kt" />
       <jump line="223" column="45" filename="$USER_HOME$/ccs/test-apps/client/app/src/main/java/monte/apps/offlineTest/MainActivity.kt" />
+      <jump line="194" column="6" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreMO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -771,7 +773,7 @@
         <text>3001</text>
       </register>
       <register name="/" type="4">
-        <text>shouldIn</text>
+        <text>poll</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcHV0KCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzIiwgIkFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMsIE9yaWdpbiwgQWNjZXB0LCB4LWp3dC10b2tlbiwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzIikK</text>
@@ -817,9 +819,9 @@
       </register>
     </registers>
     <search>
-      <last-search>shouldIn</last-search>
+      <last-search>poll</last-search>
       <last-offset />
-      <last-pattern>shouldIn</last-pattern>
+      <last-pattern>poll</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>ExecutorService</last-substitute>
       <last-dir>1</last-dir>
@@ -827,7 +829,6 @@
     </search>
     <history>
       <history-search>
-        <entry>READ</entry>
         <entry>mUrl</entry>
         <entry>checksum</entry>
         <entry>getCheck</entry>
@@ -847,6 +848,7 @@
         <entry>ERROR</entry>
         <entry>toast</entry>
         <entry>shouldIn</entry>
+        <entry>poll</entry>
       </history-search>
       <history-cmd>
         <entry>.,'as/height/width/g</entry>
