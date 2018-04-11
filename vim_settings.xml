@@ -115,11 +115,11 @@
         <mark key="." line="72" column="90" />
         <mark key="^" line="72" column="90" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" timestamp="1523423947173">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" timestamp="1523467263873">
         <mark key="a" line="137" column="24" />
         <mark key="'" line="382" column="67" />
         <mark key="k" line="284" column="10" />
-        <mark key="[" line="137" column="0" />
+        <mark key="[" line="408" column="9" />
         <mark key="]" line="156" column="0" />
         <mark key="." line="157" column="0" />
       </file>
@@ -225,13 +225,13 @@
         <mark key="." line="124" column="7" />
         <mark key="^" line="124" column="7" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" timestamp="1523466554066">
-        <mark key="a" line="744" column="36" />
-        <mark key="'" line="578" column="35" />
-        <mark key="[" line="762" column="72" />
-        <mark key="]" line="763" column="7" />
-        <mark key="^" line="763" column="7" />
-        <mark key="." line="763" column="7" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" timestamp="1523468149927">
+        <mark key="a" line="40" column="8" />
+        <mark key="'" line="754" column="46" />
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="9" />
+        <mark key="^" line="46" column="10" />
+        <mark key="." line="46" column="9" />
       </file>
       <file name="$USER_HOME$/client/KioskMode/app/build.gradle" timestamp="1521655011770">
         <mark key="[" line="29" column="0" />
@@ -597,7 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="45" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
       <jump line="139" column="45" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
       <jump line="157" column="45" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
       <jump line="175" column="45" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
@@ -697,6 +696,7 @@
       <jump line="549" column="28" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
       <jump line="570" column="37" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
       <jump line="578" column="35" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
+      <jump line="754" column="46" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -886,43 +886,43 @@
         <text>notify()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJlbGVhc2UgIiArICsraSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB5LnNldEF2YWlsYWJsZVBlcm1pdHMoMTApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKCJBdmFpbGFibGUgcGVybWl0cyBzaG91bGQgYmUgdXBkYXRlZC4iLAogICAgICAgICAgICAgICAgICAgIGV4cGVjdGVkUGVybWl0cywgbUZhaXJTZW1hcGhvcmVNb2NrLmF2YWlsYWJsZVBlcm1pdHMoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBSdWxlCiAgICBwdWJsaWMgTW9ja2l0b1J1bGUgbW9ja2l0b1J1bGUgPSBNb2NraXRvSlVuaXQucnVsZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigibmV4dFdhaXRlciA9ICIgKyBuZXh0V2FpdGVyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigibmV4dFdhaXRlciA9ICIgKyBuZXh0V2FpdGVyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1GYWlyU2VtYXBob3JlTW9jay5jcmVhdGVXYWl0ZXIoKSkudGhlblJldHVybih3YWl0ZXJNb2NrKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRmFpclNlbWFwaG9yZU1PIHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1GYWlyU2VtYXBob3JlTW9jay5jcmVhdGVXYWl0ZXIoKSkudGhlblJldHVybih3YWl0ZXJNb2NrKTsK</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICB5LnNldEF2YWlsYWJsZVBlcm1pdHMoMTEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkb0NhbGxSZWFsTWV0aG9kKCkud2hlbih5KS5zZXRBdmFpbGFibGVQZXJtaXRzKGFueUludCgpKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhaWwoIm5vdGlmeSgpIHNob3VsZCBub3QgYmUgY2FsbGVkIHdoZW4gd2FpdGVyIGhhcyBhbHJlYWR5IGJlZW4gcmVsZWFzZWQuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB5LnNldEF2YWlsYWJsZVBlcm1pdHMoMTApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHdhaXRlck1vY2subVJlbGVhc2VkKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
