@@ -228,13 +228,13 @@
         <mark key="." line="124" column="7" />
         <mark key="^" line="124" column="7" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" timestamp="1523567277757">
-        <mark key="a" line="566" column="17" />
-        <mark key="'" line="469" column="55" />
-        <mark key="[" line="487" column="63" />
-        <mark key="]" line="487" column="65" />
-        <mark key="^" line="487" column="65" />
-        <mark key="." line="487" column="65" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" timestamp="1523567907060">
+        <mark key="a" line="718" column="36" />
+        <mark key="'" line="308" column="83" />
+        <mark key="[" line="485" column="8" />
+        <mark key="]" line="485" column="21" />
+        <mark key="^" line="485" column="21" />
+        <mark key="." line="485" column="21" />
       </file>
       <file name="$USER_HOME$/client/KioskMode/app/build.gradle" timestamp="1521655011770">
         <mark key="[" line="29" column="0" />
@@ -599,17 +599,11 @@
         <mark key="]" line="12" column="61" />
         <mark key="." line="12" column="61" />
       </file>
-      <file name="/fragment.java" timestamp="1523561954357">
+      <file name="/fragment.java" timestamp="1523567604681">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="47" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/MOTest.java" />
-      <jump line="588" column="55" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/MOTest.java" />
-      <jump line="595" column="58" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/MOTest.java" />
-      <jump line="328" column="63" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/MOTest.java" />
-      <jump line="361" column="36" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/MOTest.java" />
-      <jump line="359" column="25" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/MOTest.java" />
       <jump line="104" column="31" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/MOTest.java" />
       <jump line="99" column="70" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/MOTest.java" />
       <jump line="31" column="39" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/MOTest.java" />
@@ -704,10 +698,16 @@
       <jump line="590" column="51" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" />
       <jump line="335" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" />
       <jump line="584" column="51" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" />
+      <jump line="736" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
+      <jump line="30" column="39" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
+      <jump line="92" column="70" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
+      <jump line="97" column="31" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
+      <jump line="308" column="83" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxMOTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>mWaiterMock</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -887,22 +887,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>mWaiterMock</text>
       </register>
       <register name="/" type="4">
-        <text>new Link</text>
+        <text>CO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuV2FpdGVyV2FpdENhbGxlZFZlcmlmeUFuZFJlbGVhc2UoY2xhc3NOb3RMb2NrZWRBbmRXYWl0ZXJMb2NrZWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhc3NlcnRXYWl0ZXJMb2NrZWQoKSB7CiAgICAgICAgYXNzZXJ0VHJ1ZSgiV2FpdGVyIGxvY2sgc2hvdWxkIGJlIGxvY2tlZC4iLAogICAgICAgICAgICAgICAgVGhyZWFkLmhvbGRzTG9jayhtV2FpdGVyTW9jaykpOwogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuV2FpdGVyV2FpdENhbGxlZFZlcmlmeShjbGFzc0xvY2tlZEFuZFdhaXRlckxvY2tlZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU2V0IFdhaXRlciByZWxlYXNlZCBmbGFnIHNvIHRoYXQgY2FsbGVyIHdpbGwgdW5ibG9jay4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuV2FpdGVyV2FpdENhbGxlZFZlcmlmeShjbGFzc0xvY2tlZEFuZFdhaXRlckxvY2tlZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVdhaXRlck1vY2subVJlbGVhc2VkID0gdHJ1ZTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -911,34 +911,34 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KS53aGVuKG1XYWl0ZXJNb2NrKS53YWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0V2FpdGVyTG9ja2VkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVdhaXRlck1vY2subVJlbGVhc2VkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0Q2xhc3NMb2NrZWQoKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2V0IFdhaXRlciByZWxlYXNlZCBmbGFnIHNvIHRoYXQgY2FsbGVyIHdpbGwgdW5ibG9jay4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKCkgLT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyaWZ5LnJ1bigpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUnVubmFibGUgY2xhc3NMb2NrZWRBbmRXYWl0ZXJMb2NrZWQoRmFpclNlbWFwaG9yZU1PLldhaXRlciBleHBlY3RlZFdhaXRlcikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>new Link</last-search>
+      <last-search>CO</last-search>
       <last-offset />
-      <last-pattern>new Link</last-pattern>
+      <last-pattern>CO</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>ExecutorService</last-substitute>
       <last-dir>1</last-dir>
@@ -946,7 +946,6 @@
     </search>
     <history>
       <history-search>
-        <entry>when</entry>
         <entry>when[^(]</entry>
         <entry>whenQueueAdd</entry>
         <entry>classLocked</entry>
@@ -966,6 +965,7 @@
         <entry>IllA</entry>
         <entry>Ille</entry>
         <entry>new Link</entry>
+        <entry>CO</entry>
       </history-search>
       <history-cmd>
         <entry>.,'as/height/width/g</entry>
