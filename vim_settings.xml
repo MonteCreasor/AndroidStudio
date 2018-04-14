@@ -266,12 +266,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" timestamp="1523693477329">
-        <mark key="'" line="154" column="12" />
-        <mark key="[" line="252" column="9" />
-        <mark key="]" line="253" column="7" />
-        <mark key="^" line="253" column="7" />
-        <mark key="." line="253" column="7" />
+      <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" timestamp="1523694119448">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="55" column="46" />
+        <mark key="]" line="55" column="46" />
+        <mark key="." line="55" column="46" />
       </file>
       <file name="$USER_HOME$/junk/android-kiosk-mode/app/build.gradle" timestamp="1521079364191">
         <mark key="[" line="8" column="26" />
@@ -474,13 +473,6 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/ccs/good/cosu-master/cosu_codelab_managed/app/src/main/java/com/google/codelabs/cosu/MainActivity.java" timestamp="1523665570647">
-        <mark key="'" line="112" column="35" />
-        <mark key="[" line="108" column="24" />
-        <mark key="]" line="109" column="35" />
-        <mark key="." line="109" column="35" />
-        <mark key="^" line="109" column="35" />
-      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" timestamp="1520813063990">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -580,12 +572,13 @@
         <mark key="^" line="19" column="93" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" timestamp="1523692823510">
-        <mark key="a" line="50" column="26" />
-        <mark key="'" line="37" column="28" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="56" column="9" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" timestamp="1523694229569">
+        <mark key="a" line="46" column="26" />
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="99" column="42" />
+        <mark key="]" line="99" column="43" />
+        <mark key="." line="99" column="43" />
+        <mark key="^" line="99" column="43" />
       </file>
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_managed/gradle/wrapper/gradle-wrapper.properties" timestamp="1521842627728">
         <mark key="[" line="5" column="69" />
@@ -615,8 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" />
-      <jump line="335" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" />
       <jump line="586" column="51" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" />
       <jump line="575" column="24" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" />
       <jump line="639" column="27" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" />
@@ -715,10 +706,12 @@
       <jump line="46" column="3" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
       <jump line="116" column="14" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
       <jump line="154" column="12" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
+      <jump line="37" column="8" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" />
+      <jump line="44" column="0" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isKioskMode</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -898,58 +891,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isKioskMode</text>
       </register>
       <register name="/" type="4">
-        <text>setHome</text>
+        <text>setKios</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBsb2NrVGFza01vZGVTdGF0ZSA9PSBBY3Rpdml0eU1hbmFnZXIuTE9DS19UQVNLX01PREVfTE9DS0VECg==</text>
+        <text encoding="base64">ICAgIHZhbCBpc0tpb3NrTW9kZTogQm9vbGVhbgogICAgICAgIGdldCgpID0gaXNEZXZpY2VPd25lciAmJiBpc0RldmljZUFkbWluICYmIGlzTG9ja1Rhc2tQZXJtaXR0ZWQgJiYgaXNMb2NrZWRUYXNrICYmIGlzSG9tZUFjdGl2aXR5Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGluS2lvc2tNb2RlID0gZmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBsb2NrVGFza01vZGVTdGF0ZSA9PSBBY3Rpdml0eU1hbmFnZXIuTE9DS19UQVNLX01PREVfTE9DS0VECg==</text>
+        <text encoding="base64">ICAgICAgICBwb2xpY3lNYW5hZ2VyLnNldEtpb3NrUG9saWNpZXModHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aChjb250ZXh0LmdldFN5c3RlbVNlcnZpY2UoQ29udGV4dC5BQ1RJVklUWV9TRVJWSUNFKSBhcyBBY3Rpdml0eU1hbmFnZXIpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxvY2tUYXNrTW9kZVN0YXRlID09IEFjdGl2aXR5TWFuYWdlci5MT0NLX1RBU0tfTU9ERV9MT0NLRUQK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocG9saWN5TWFuYWdlci5pc0RldmljZU93bmVyICYmICFwb2xpY3lNYW5hZ2VyLmhhc0tpb3NrUG9saWNpZXMpIHsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBpc0tpb3NrTW9kZTogQm9vbGVhbgogICAgICAgIGdldCgpID0gaXNLaW9za01vZGVQb3NzaWJsZSAmJiBpc0xvY2tlZFRhc2sgJiYgaXNIb21lQWN0aXZpdHkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb250ZXh0LkFDVElWSVRZX1NFUlZJQ0UpIGFzIEFjdGl2aXR5TWFuYWdlcj8K</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFtID0gZ2V0U3lzdGVtU2VydmljZSgK</text>
+        <text encoding="base64">ICAgICAqIGFyZSBub3QgbWV0LCB0aGUgdGhlIGtpb3NrIG1vZGUgaXMgbm90IHNlY3VyZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAqIHRoZSBkZWZhdWx0IGhvbWUgYWN0aXZpdHkuIElmIGFueSBvZiB0aGVzZSByZXF1aXJlbWVudHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setHome</last-search>
+      <last-search>setKios</last-search>
       <last-offset />
-      <last-pattern>setHome</last-pattern>
+      <last-pattern>setKios</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>ExecutorService</last-substitute>
       <last-dir>1</last-dir>
@@ -957,9 +950,6 @@
     </search>
     <history>
       <history-search>
-        <entry>startDev</entry>
-        <entry>dpm</entry>
-        <entry>deviceAd</entry>
         <entry encoding="base64">XDwuXD4=</entry>
         <entry>clear</entry>
         <entry>Lock</entry>
@@ -977,6 +967,9 @@
         <entry>HOME</entry>
         <entry>am</entry>
         <entry>setHome</entry>
+        <entry>onStart</entry>
+        <entry>setKioske</entry>
+        <entry>setKios</entry>
       </history-search>
       <history-cmd>
         <entry>s/palantir/being/g</entry>
