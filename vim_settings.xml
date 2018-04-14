@@ -120,6 +120,12 @@
         <mark key="." line="72" column="90" />
         <mark key="^" line="72" column="90" />
       </file>
+      <file name="$USER_HOME$/ccs/good/KioskMode/scripts/get-device-policies.sh" timestamp="1523680818075">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/cur/batch/skidush622/assignment1b/app/build.gradle" timestamp="1518662403737">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -135,11 +141,11 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/AdminReceiver.kt" timestamp="1523672498757">
-        <mark key="[" line="7" column="45" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/AdminReceiver.kt" timestamp="1523680464791">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="28" column="49" />
       </file>
       <file name="$USER_HOME$/cur/batch/carlston17/assignment1b/app/src/androidTest/java/edu/vandy/app/ui/screens/main/InstrumentedTest1B.java" timestamp="1518727054754">
         <mark key="[" line="209" column="20" />
@@ -233,10 +239,11 @@
         <mark key="." line="39" column="46" />
         <mark key="^" line="39" column="46" />
       </file>
-      <file name="$USER_HOME$/ccs/good/KioskMode/scripts/get-provision-info.sh" timestamp="1523679768709">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/ccs/good/KioskMode/scripts/get-provision-info.sh" timestamp="1523680512255">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/cur/batch/Robotia/assignment1b/app/build.gradle" timestamp="1518662164948">
         <mark key="[" line="87" column="0" />
@@ -248,11 +255,11 @@
         <mark key="]" line="13" column="55" />
         <mark key="." line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/ccs/good/KioskMode/scripts/set-device-owner.sh" timestamp="1523679324415">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/ccs/good/KioskMode/scripts/set-device-owner.sh" timestamp="1523680814473">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" timestamp="1523679194894">
         <mark key="[" line="146" column="14" />
@@ -690,8 +697,8 @@
       <jump line="114" column="33" filename="$USER_HOME$/ccs/good/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVjZWl2ZXI9LkFkbWluUmVjZWl2ZXIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZWNobyA=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -871,49 +878,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>unset</text>
+        <text encoding="base64">ZWNobyA=</text>
       </register>
       <register name="/" type="4">
         <text>mKioskPacka</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2V0IE1haW5BY3Rpdml0eSBhcyBob21lIGludGVudCByZWNlaXZlcgogICAgICAgICAgICAvLyBzbyB0aGF0IGl0IHdpbGwgYmUgc3RhcnRlZCBvbiByZWJvb3QuCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9ja2luZ1BhY2thZ2UgPSBpbnRlbnQuZ2V0U3RyaW5nRXh0cmEoRGV2aWNlQWRtaW5SZWNlaXZlci5FWFRSQV9MT0NLX1RBU0tfUEFDS0FHRSkKICAgICAgICBjb250ZXh0LnRvYXN0KCJbS2lvc2sgTW9kZSBlbmFibGVkXTogJGxvY2tpbmdQYWNrYWdlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVjZWl2ZXI9LkFkbWluUmVjZWl2ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZT1tb250ZS5hcHBzLmtpb3NrbW9kZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcGtnID0gaW50ZW50LmdldFN0cmluZ0V4dHJhKERldmljZUFkbWluUmVjZWl2ZXIuRVhUUkFfTE9DS19UQVNLX1BBQ0tBR0UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LnRvYXN0KCJbS2lvc2sgTW9kZSBkaXNhYmxlZF06ICIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LnRvYXN0KCJbS2lvc2sgTW9kZSBlbmFibGVkXTogJGxvY2tpbmdQYWNrYWdlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LnRvYXN0KCJbS2lvc2sgTW9kZSBlbmFibGVkXSIpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBhZGREZXZpY2VJbnRlbnQ6IEludGVudAogICAgICAgIGdldCgpIHsKICAgICAgICAgICAgdmFsIGludGVudCA9IEludGVudChEZXZpY2VQb2xpY3lNYW5hZ2VyLkFDVElPTl9BRERfREVWSUNFX0FETUlOKQogICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoRGV2aWNlUG9saWN5TWFuYWdlci5FWFRSQV9ERVZJQ0VfQURNSU4sIGFkbWluQ29tcG9uZW50KQogICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoRGV2aWNlUG9saWN5TWFuYWdlci5FWFRSQV9BRERfRVhQTEFOQVRJT04sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiWW91IG11c3QgZW5hYmxlIGRldmljZSBhZG1pbmlzdHJhdGlvbiAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJmb3IgZnVsbCBraW9zayBtb2RlIGZlYXR1cmVzIHRvIHdvcmsuIikKICAgICAgICAgICAgcmV0dXJuIGludGVudAogICAgICAgIH0KCg==</text>
+        <text encoding="base64">cmVjZWl2ZXI9LkFkbWluUmVjZWl2ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGJ1aWxkQWRkRGV2aWNlQWRtaW5JbnRlbnQoKTogSW50ZW50IHsK</text>
+        <text encoding="base64">cGFja2FnZT1tb250ZS5hcHBzLmtpb3NrbW9kZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc28gdGhhdCBpdCB3aWxsIGJlIHN0YXJ0ZWQgb24gcmVib290Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlbmFibGUgU1RBWV9PTl9XSElMRV9QTFVHR0VEX0lOCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
