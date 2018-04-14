@@ -153,13 +153,13 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" timestamp="1523728307338">
-        <mark key="a" line="293" column="50" />
-        <mark key="'" line="295" column="7" />
-        <mark key="[" line="290" column="40" />
-        <mark key="]" line="290" column="46" />
-        <mark key="." line="290" column="46" />
-        <mark key="^" line="290" column="46" />
+      <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" timestamp="1523729380897">
+        <mark key="a" line="200" column="8" />
+        <mark key="'" line="279" column="0" />
+        <mark key="[" line="319" column="49" />
+        <mark key="]" line="319" column="57" />
+        <mark key="." line="319" column="57" />
+        <mark key="^" line="319" column="57" />
       </file>
       <file name="$USER_HOME$/ccs/test-apps/client/build.gradle" timestamp="1523323864500">
         <mark key="[" line="14" column="14" />
@@ -356,7 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="45" filename="$USER_HOME$/tools/android/sdk/platforms/android-27/android.jar!/android/provider/Settings.class" />
       <jump line="508" column="45" filename="$USER_HOME$/tools/android/sdk/platforms/android-27/android.jar!/android/provider/Settings.class" />
       <jump line="22" column="48" filename="$USER_HOME$/tools/android/sdk/platforms/android-27/android.jar!/android/provider/Settings.class" />
       <jump line="36" column="112" filename="$USER_HOME$/tools/android/sdk/platforms/android-27/android.jar!/android/provider/Settings.class" />
@@ -456,10 +455,11 @@
       <jump line="297" column="17" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
       <jump line="18" column="53" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
       <jump line="300" column="7" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
+      <jump line="274" column="0" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -639,49 +639,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Power</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlUG9saWN5TWFuYWdlci5zZXRHbG9iYWxTZXR0aW5nKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRW5hYmxlL2Rpc2FibGUga2V5Z3VhcmQgYW5kIHN0YXR1cyBiYXIuCiAgICAgICAgICAgIGlmICghc2V0S2V5Z3VhcmREaXNhYmxlZChjb21wb25lbnROYW1lLCBhY3RpdmUpKSB7CiAgICAgICAgICAgICAgICBjb250ZXh0LnRvYXN0KCJGYWlsZWQgdG8gJHtpZiAoYWN0aXZlKSAiZGlzYWJsZSIgZWxzZSAiZW5hYmxlIn0ga2V5Z3VhcmQuIikKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoIXNldFN0YXR1c0JhckRpc2FibGVkKGNvbXBvbmVudE5hbWUsIGFjdGl2ZSkpIHsKICAgICAgICAgICAgICAgIGNvbnRleHQudG9hc3QoIkZhaWxlZCB0byAke2lmIChhY3RpdmUpICJkaXNhYmxlIiBlbHNlICJlbmFibGUifSBzdGF0dXMgYmFyLiIpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIEVuYWJsZS9kaXNhYmxlIGVuY3J5cHRpb24uCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBzZXRTdG9yYWdlRW5jcnlwdGlvbihjb21wb25lbnROYW1lLCBhY3RpdmUpCiAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgY29udGV4dC50b2FzdCgiRmFpbGVkIHRvIGRpc2FibGUgc3RhdHVzIGJhci4iKQogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwuCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2VQb2xpY3lNYW5hZ2VyLmdldFMK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnlTdGF5T25Nb2RlKGFjdGl2ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRVc2VyUmVzdHJpY3Rpb24oVXNlck1hbmFnZXIuRElTQUxMT1dfQURKVVNUX1ZPTFVNRSwgYWN0aXZlKQo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnlTdGF5T25Nb2RlKGFjdGl2ZSkKICAgICAgICB2ZXJmaXlTdGF5T25Nb2RlKGFjdGl2ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRVc2VyUmVzdHJpY3Rpb24oVXNlck1hbmFnZXIuRElTQUxMT1dfTU9VTlRfUEhZU0lDQUxfTUVESUEsIGFjdGl2ZSkK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRVc2VyUmVzdHJpY3Rpb24oVXNlck1hbmFnZXIuRElTQUxMT1dfQUREX1VTRVIsIGFjdGl2ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRVc2VyUmVzdHJpY3Rpb24oVXNlck1hbmFnZXIuRElTQUxMT1dfRkFDVE9SWV9SRVNFVCwgYWN0aXZlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRVc2VyUmVzdHJpY3Rpb24oVXNlck1hbmFnZXIuRElTQUxMT1dfU0FGRV9CT09ULCBhY3RpdmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWwuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJzaG91bGQgYmUgIiArIGlmIChyZXN0cmljdCkgInJlc3RyaWN0ZWQiIGVsc2UgIiBub3QgcmVzdHJpY3RlZC4iCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2VQb2xpY3lNYW5hZ2VyLmdldFMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
