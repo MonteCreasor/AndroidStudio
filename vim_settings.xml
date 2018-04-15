@@ -667,13 +667,11 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" timestamp="1523831109917">
-        <mark key="a" line="157" column="28" />
+      <file name="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" timestamp="1523831747480">
         <mark key="'" line="173" column="57" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="^" line="208" column="44" />
-        <mark key="." line="224" column="0" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreCommonTest.java" timestamp="1523560642346">
         <mark key="[" line="4" column="19" />
@@ -696,13 +694,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/settings/src/main/res/layout/settings_dialog_fragment.xml" timestamp="1523827312804" />
+      <file name="$USER_HOME$/ccs/kiosk/settings/src/main/res/layout/settings_dialog_fragment.xml" timestamp="1523832258364">
+        <mark key="'" line="484" column="33" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="70" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
-      <jump line="29" column="3" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
-      <jump line="31" column="75" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
-      <jump line="40" column="69" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
       <jump line="43" column="60" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
       <jump line="63" column="72" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
       <jump line="46" column="3" filename="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
@@ -799,10 +795,14 @@
       <jump line="81" column="42" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/Settings.kt" />
       <jump line="100" column="21" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/Settings.kt" />
       <jump line="77" column="46" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/Settings.kt" />
+      <jump line="257" column="49" filename="$USER_HOME$/ccs/kiosk/settings/src/main/res/layout/settings_dialog_fragment.xml" />
+      <jump line="478" column="33" filename="$USER_HOME$/ccs/kiosk/settings/src/main/res/layout/settings_dialog_fragment.xml" />
+      <jump line="481" column="22" filename="$USER_HOME$/ccs/kiosk/settings/src/main/res/layout/settings_dialog_fragment.xml" />
+      <jump line="484" column="33" filename="$USER_HOME$/ccs/kiosk/settings/src/main/res/layout/settings_dialog_fragment.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNvbmZpZ3VyZVZpZXdUcmFuc3BhcmVuY3koKSB7CiAgICAgICAgc2V0dGluZ3NWaWV3VHJhbnNwYXJlbmN5U2Vla0Jhci5ncmFiVG91Y2hFdmVudHMoKQogICAgICAgIHNldHRpbmdzVmlld1RyYW5zcGFyZW5jeVNlZWtCYXIubWF4ID0gVklFV19UUkFOU1BBUkVOQ1lfUkFOR0UubWF4SW5kZXgKICAgICAgICBzZXR0aW5nc1ZpZXdUcmFuc3BhcmVuY3lTZWVrQmFyLnByb2dyZXNzID0KICAgICAgICAgICAgICAgIFZJRVdfVFJBTlNQQVJFTkNZX1JBTkdFLnRvT2Zmc2V0KFNldHRpbmdzLnZpZXdUcmFuc3BhcmVuY3kpCiAgICAgICAgY29tcG9zaXRlRGlzcG9zYWJsZS5hZGQoCiAgICAgICAgICAgICAgICBSeFNlZWtCYXIuY2hhbmdlcyhzZXR0aW5nc1ZpZXdUcmFuc3BhcmVuY3lTZWVrQmFyKQogICAgICAgICAgICAgICAgICAgICAgICAvLyBTUEVDSUFMIENBU0U6IGRvbid0IHNraXAgaW5pdGlhbCB2YWx1ZSBzbyB0aGF0CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIG9uTmV4dCB3aWxsIGJlIGltbWVkaWF0ZWx5IGNhbGxlZCBhbmQgdGhpcyB3aWxsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIHNldCB0aGUgdHJhbnNwYXJlbmN5IGZvciB0aGlzIHZpZXcuCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHZhbHVlID0gVklFV19UUkFOU1BBUkVOQ1lfUkFOR0UuZnJvbU9mZnNldChpdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVByZWZlcmVuY2UgeyBTZXR0aW5ncy52aWV3VHJhbnNwYXJlbmN5ID0gdmFsdWUgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0dGluZ3NWaWV3VHJhbnNwYXJlbmN5VmFsdWUudGV4dCA9IFN0cmluZy5mb3JtYXQoIiUzZCIsIHZhbHVlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JpZExheW91dC5hbHBoYSA9IDEgLSAodmFsdWUgKiAoMSAvIDEwMGYpKQogICAgICAgICAgICAgICAgICAgICAgICB9KQogICAgfQoK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -985,55 +985,55 @@
         <text>palantirCountRange</text>
       </register>
       <register name="/" type="4">
-        <text>Range</text>
+        <text>ransp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNvbmZpZ3VyZVN0cmljdE1vZGUoKSB7CiAgICAgICAgc2V0dGluZ3NTdHJpY3RNb2RlLmlzQ2hlY2tlZCA9IFNldHRpbmdzLnN0cmljdE1vZGUKICAgICAgICBzZXR0aW5nc1N0cmljdE1vZGUuZW5hYmxlKFNldHRpbmdzLm1vZGVsQ2hlY2tlcikKICAgICAgICBzZXR0aW5nc1N0cmljdE1vZGVMYWJlbC5lbmFibGUoU2V0dGluZ3MubW9kZWxDaGVja2VyKQogICAgICAgIGNvbXBvc2l0ZURpc3Bvc2FibGUuYWRkKAogICAgICAgICAgICAgICAgUnhDb21wb3VuZEJ1dHRvbi5jaGVja2VkQ2hhbmdlcyhzZXR0aW5nc1N0cmljdE1vZGUpCiAgICAgICAgICAgICAgICAgICAgICAgIC5za2lwSW5pdGlhbFZhbHVlKCkKICAgICAgICAgICAgICAgICAgICAgICAgLnN1YnNjcmliZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVQcmVmZXJlbmNlIHsgU2V0dGluZ3Muc3RyaWN0TW9kZSA9IGl0IH0KICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNvbmZpZ3VyZVZpZXdUcmFuc3BhcmVuY3koKSB7CiAgICAgICAgc2V0dGluZ3NWaWV3VHJhbnNwYXJlbmN5U2Vla0Jhci5ncmFiVG91Y2hFdmVudHMoKQogICAgICAgIHNldHRpbmdzVmlld1RyYW5zcGFyZW5jeVNlZWtCYXIubWF4ID0gVklFV19UUkFOU1BBUkVOQ1lfUkFOR0UubWF4SW5kZXgKICAgICAgICBzZXR0aW5nc1ZpZXdUcmFuc3BhcmVuY3lTZWVrQmFyLnByb2dyZXNzID0KICAgICAgICAgICAgICAgIFZJRVdfVFJBTlNQQVJFTkNZX1JBTkdFLnRvT2Zmc2V0KFNldHRpbmdzLnZpZXdUcmFuc3BhcmVuY3kpCiAgICAgICAgY29tcG9zaXRlRGlzcG9zYWJsZS5hZGQoCiAgICAgICAgICAgICAgICBSeFNlZWtCYXIuY2hhbmdlcyhzZXR0aW5nc1ZpZXdUcmFuc3BhcmVuY3lTZWVrQmFyKQogICAgICAgICAgICAgICAgICAgICAgICAvLyBTUEVDSUFMIENBU0U6IGRvbid0IHNraXAgaW5pdGlhbCB2YWx1ZSBzbyB0aGF0CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIG9uTmV4dCB3aWxsIGJlIGltbWVkaWF0ZWx5IGNhbGxlZCBhbmQgdGhpcyB3aWxsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIHNldCB0aGUgdHJhbnNwYXJlbmN5IGZvciB0aGlzIHZpZXcuCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHZhbHVlID0gVklFV19UUkFOU1BBUkVOQ1lfUkFOR0UuZnJvbU9mZnNldChpdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVByZWZlcmVuY2UgeyBTZXR0aW5ncy52aWV3VHJhbnNwYXJlbmN5ID0gdmFsdWUgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0dGluZ3NWaWV3VHJhbnNwYXJlbmN5VmFsdWUudGV4dCA9IFN0cmluZy5mb3JtYXQoIiUzZCIsIHZhbHVlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JpZExheW91dC5hbHBoYSA9IDEgLSAodmFsdWUgKiAoMSAvIDEwMGYpKQogICAgICAgICAgICAgICAgICAgICAgICB9KQogICAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVByZWZlcmVuY2UgeyBTZXR0aW5ncy5tb2RlbENoZWNrZXIgPSBpdCB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnN1YnNjcmliZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldHRpbmdzU3RhdGVTaXplVmFsdWUudGV4dCA9IFN0cmluZy5mb3JtYXQoIiUzZCIsIHZhbHVlKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNraXBJbml0aWFsVmFsdWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVByZWZlcmVuY2UgeyBTZXR0aW5ncy5zdGF0ZVNpemUgPSB2YWx1ZSB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJ4Q29tcG91bmRCdXR0b24uY2hlY2tlZENoYW5nZXMoc2V0dGluZ3NNb2RlbENoZWNrZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB2YWx1ZSA9IHN0YXRlU2l6ZVJhbmdlLmZyb21PZmZzZXQoaXQpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb3NpdGVEaXNwb3NhYmxlLmFkZCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnN1YnNjcmliZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR0aW5nc01vZGVsQ2hlY2tlci5pc0NoZWNrZWQgPSBTZXR0aW5ncy5tb2RlbENoZWNrZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNraXBJbml0aWFsVmFsdWUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Range</last-search>
+      <last-search>ransp</last-search>
       <last-offset />
-      <last-pattern>Range</last-pattern>
+      <last-pattern>ransp</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>Range</last-substitute>
       <last-dir>1</last-dir>
@@ -1041,9 +1041,6 @@
     </search>
     <history>
       <history-search>
-        <entry>restarat</entry>
-        <entry>restart</entry>
-        <entry>til</entry>
         <entry>gson</entry>
         <entry>'</entry>
         <entry>Leak</entry>
@@ -1061,6 +1058,9 @@
         <entry>changed</entry>
         <entry>RAnge</entry>
         <entry>Range</entry>
+        <entry>Strict</entry>
+        <entry>ansper</entry>
+        <entry>ransp</entry>
       </history-search>
       <history-cmd>
         <entry>'a,.s/palantir/being/g</entry>
