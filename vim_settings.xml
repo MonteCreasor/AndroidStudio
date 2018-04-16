@@ -369,12 +369,12 @@
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/extensions/BottomSheetView.kt" timestamp="1523842742955">
         <mark key="'" line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" timestamp="1523849423092">
-        <mark key="'" line="155" column="4" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="278" column="53" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" timestamp="1523851791452">
+        <mark key="'" line="156" column="4" />
+        <mark key="[" line="328" column="8" />
+        <mark key="]" line="328" column="7" />
+        <mark key="." line="328" column="7" />
+        <mark key="^" line="328" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Student Submissions/assignment2b-hangs/Sri_Seethalam/app/src/test/java/edu/vandy/simulator/UnitTest1B.java" timestamp="1521595435114">
         <mark key="[" line="59" column="9" />
@@ -382,9 +382,15 @@
         <mark key="^" line="59" column="10" />
         <mark key="." line="59" column="10" />
       </file>
+      <file name="$USER_HOME$/ccs/kiosk/settings/src/main/res/layout/settings_dialog_fragment.xml" timestamp="1523852531389">
+        <mark key="a" line="46" column="12" />
+        <mark key="'" line="134" column="32" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="42" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="156" column="22" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="158" column="24" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="171" column="57" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" />
@@ -484,10 +490,11 @@
       <jump line="86" column="17" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="162" column="4" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="61" column="0" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/DrawerActivity.kt" />
+      <jump line="144" column="32" filename="$USER_HOME$/ccs/kiosk/settings/src/main/res/layout/settings_dialog_fragment.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG4K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -667,49 +674,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>code</text>
+        <text>StrictMode</text>
       </register>
       <register name="/" type="4">
         <text>toat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZXR0aW5ncyBwcmVmcy4K</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2V0dGluZ3NNb2RlbFBhcmFtZXRlcnNHcm91cCIKICAgICAgICBzdHlsZT0iQHN0eWxlL1dpZGdldC5TZXR0aW5ncy5IZWFkZXIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9jb2x1bW5TcGFuPSIyIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9InN0YXJ0fGZpbGxfaG9yaXpvbnRhbCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkV4YW1wbGUgR3JvdXAiIC8+CgogICAgPFRleHRWaWV3CiAgICAgICAgc3R5bGU9IkBzdHlsZS9XaWRnZXQuU2V0dGluZ3MuUm93VGl0bGUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0ic3RhcnR8Y2VudGVyX3ZlcnRpY2FsIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iRXhhbXBsZSBFbnVtIiAvPgoKICAgIDxTcGlubmVyCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9leGFtcGxlRW51bVNwaW5uZXIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJzdGFydHxjZW50ZXJfdmVydGljYWx8ZmlsbF9ob3Jpem9udGFsIiAvPgoKICAgIDxUZXh0VmlldwogICAgICAgIHN0eWxlPSJAc3R5bGUvV2lkZ2V0LlNldHRpbmdzLlJvd1RpdGxlIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0ic3RhcnR8Y2VudGVyX3ZlcnRpY2FsIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iRXhhbXBsZSBTZWVrQmFyIiAvPgoKICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2V4YW1wbGVTZWVrQmFyTGF5b3V0IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9InN0YXJ0fGNlbnRlcl92ZXJ0aWNhbHxmaWxsX2hvcml6b250YWwiCiAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCI+CgogICAgICAgIDxTZWVrQmFyCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZXhhbXBsZVNlZWtCYXIiCiAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvV2lkZ2V0LlNldHRpbmdzLlJvd1dpZGdldCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9InN0YXJ0fGNlbnRlcl92ZXJ0aWNhbHxmaWxsX2hvcml6b250YWwiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIgLz4KCiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZXhhbXBsZVNlZWtCYXJWYWx1ZSIKICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9XaWRnZXQuU2V0dGluZ3MuUm93VGl0bGUiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJAZGltZW4vc2V0dGluZ3NTZWVrQmFyVmFsdWUiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJzdGFydHxjZW50ZXJfdmVydGljYWwiCiAgICAgICAgICAgIHRvb2xzOnRleHQ9IjAwIiAvPgogICAgPC9MaW5lYXJMYXlvdXQ+Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9hc3QoIlByZWZlcmVuY2UgY2hhbmdlZDogJGtleSIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKFNldHRpbmdzKSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2tpb3NrTW9kZSIK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNpbXVsYXRpb25SdW5uaW5nID0gZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkRlYnVnZ2luZyIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIHNpbXVsYXRpb24gaXMgcnVubmluZy4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJzdGFydHxmaWxsX2hvcml6b250YWwiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIHByZXZlbnQgcmVzZXQgb2YgY3JpdGljYWwgbW9kZWwgcGFyYW1ldGVycyB3aGlsZSBhCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9jb2x1bW5TcGFuPSIyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEZsYWcgaW5kaWNhdGluZyBpZiBhIHNpbXVsYXRpb24gaXMgcnVubmluZy4gVXNlZCB0bwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
