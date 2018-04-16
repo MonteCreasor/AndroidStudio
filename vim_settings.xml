@@ -18,11 +18,12 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/dependencies.gradle" timestamp="1523837388241">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="20" column="36" />
+      <file name="$USER_HOME$/ccs/kiosk/dependencies.gradle" timestamp="1523909656796">
+        <mark key="'" line="14" column="12" />
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="$USER_HOME$/client/KioskMode/app/src/main/res/values/strings.xml" timestamp="1521659213730">
         <mark key="[" line="1" column="33" />
@@ -553,6 +554,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/kiosk/extensions/build.gradle" timestamp="1523909311128">
+        <mark key="[" line="31" column="76" />
+        <mark key="]" line="31" column="76" />
+        <mark key="^" line="31" column="69" />
+        <mark key="." line="31" column="76" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Student Submissions/assignment2b-broken/Andrew_Carlston/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgrTest.java" timestamp="1521592803685">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -564,10 +571,11 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/build.gradle" timestamp="1523903779391">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="39" />
-        <mark key="." line="9" column="39" />
+      <file name="$USER_HOME$/ccs/kiosk/app/build.gradle" timestamp="1523909296064">
+        <mark key="[" line="31" column="76" />
+        <mark key="]" line="31" column="76" />
+        <mark key="." line="31" column="76" />
+        <mark key="^" line="31" column="69" />
       </file>
       <file name="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/TestClass.kt" timestamp="1523822221324">
         <mark key="[" line="8" column="0" />
@@ -611,7 +619,7 @@
         <mark key="^" line="18" column="60" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523904879785">
+      <file name="/Dummy.txt" timestamp="1523909573991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/kiosk/settings/src/main/res/values/strings.xml" timestamp="1523858927214">
@@ -725,8 +733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="25" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" />
-      <jump line="203" column="29" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/SettingsDialogFragment.kt" />
       <jump line="123" column="39" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/Settings.kt" />
       <jump line="92" column="4" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/Settings.kt" />
       <jump line="87" column="4" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/ui/screens/settings/Settings.kt" />
@@ -825,10 +831,12 @@
       <jump line="217" column="60" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" />
       <jump line="222" column="55" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" />
       <jump line="174" column="8" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" />
+      <jump line="1" column="27" filename="$USER_HOME$/ccs/kiosk/dependencies.gradle" />
+      <jump line="15" column="12" filename="$USER_HOME$/ccs/kiosk/dependencies.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>_version</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1008,58 +1016,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>_version</text>
       </register>
       <register name="/" type="4">
-        <text>home</text>
+        <text>kotlin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1biBzZXRLaW9za01vZGUoYWN0aXZpdHk6IEFjdGl2aXR5Pyk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiB0cnkgewogICAgICAgICAgICBzZXRLaW9za1BvbGljaWVzKGFjdGl2aXR5ICE9IG51bGwpCiAgICAgICAgICAgIHNldEhvbWVBY3Rpdml0eShhY3Rpdml0eSkKICAgICAgICAgICAgdHJ1ZQogICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICBjb250ZXh0LnRvYXN0KCJzZXRLaW9za01vZGUgZXhjZXB0aW9uOiAkZSIpCiAgICAgICAgICAgIGZhbHNlCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2lvc2tNb2RlQnV0dG9uLnRleHQgPSBnZXRTdHJpbmcoUi5zdHJpbmcuZXhpdF9raW9za19tb2RlKQo=</text>
+        <text encoding="base64">ICAgIGtvdGxpbl92ZXJzaW9uID0gIjEuMi4zMSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2lvc2tNb2RlQnV0dG9uLnRleHQgPSBnZXRTdHJpbmcoUi5zdHJpbmcuZW50ZXJfa2lvc2tfbW9kZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAga2lvc2tNb2RlQnV0dG9uLnRleHQgPSBnZXRTdHJpbmcoUi5zdHJpbmcuZXhpdF9raW9za19tb2RlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga2lvc2tNb2RlQnV0dG9uLnRleHQgPSBnZXRTdHJpbmcoUi5zdHJpbmcuZW50ZXJfa2lvc2tfbW9kZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBraW9zazogQm9vbGVhbgo=</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBraW9zazogQm9vbGVhbgo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC50b2FzdCgic2V0S2lvc2tNb2RlIGV4Y2VwdGlvbjogJGUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>home</last-search>
+      <last-search>kotlin</last-search>
       <last-offset />
-      <last-pattern>home</last-pattern>
+      <last-pattern>kotlin</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1067,7 +1075,6 @@
     </search>
     <history>
       <history-search>
-        <entry>when</entry>
         <entry>Example</entry>
         <entry>Simul</entry>
         <entry>PolicyManager</entry>
@@ -1087,6 +1094,7 @@
         <entry>HOme</entry>
         <entry>Home</entry>
         <entry>home</entry>
+        <entry>kotlin</entry>
       </history-search>
       <history-cmd>
         <entry>'a,.s/palantir/being/g</entry>
