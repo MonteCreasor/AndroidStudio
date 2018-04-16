@@ -660,11 +660,12 @@
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/adapters/SpriteAdapter.kt" timestamp="1523837517064">
         <mark key="'" line="86" column="62" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" timestamp="1523844200066">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="22" column="4" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" timestamp="1523845362775">
+        <mark key="'" line="81" column="33" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="81" column="60" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/extensions/BottomSheetView.kt" timestamp="1523842742955">
         <mark key="'" line="17" column="37" />
@@ -718,10 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="4" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/adapters/SpriteAdapter.kt" />
-      <jump line="39" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/settings/adapters/SpriteAdapter.kt" />
-      <jump line="88" column="64" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/settings/adapters/SpriteAdapter.kt" />
-      <jump line="36" column="4" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/settings/adapters/SpriteAdapter.kt" />
       <jump line="24" column="19" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/settings/adapters/SpriteAdapter.kt" />
       <jump line="87" column="0" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/settings/adapters/SpriteAdapter.kt" />
       <jump line="25" column="32" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/settings/adapters/SpriteAdapter.kt" />
@@ -818,10 +815,14 @@
       <jump line="160" column="44" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
       <jump line="175" column="20" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
       <jump line="185" column="20" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/PolicyManager.kt" />
+      <jump line="88" column="16" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" />
+      <jump line="168" column="12" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" />
+      <jump line="72" column="28" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" />
+      <jump line="81" column="33" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRTdXBwb3J0QWN0aW9uQmFyKHRvb2xiYXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1001,59 +1002,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text>Activity</text>
       </register>
       <register name="/" type="4">
-        <text>toast</text>
+        <text>kioskModeB</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIG1vZHVsZSgnOnNldHRpbmdzJykK</text>
+        <text encoding="base64">ICAgICAgICB0b2dnbGVMYXVuY2hlckJ1dHRvbi5lbmFibGUocG9saWN5TWFuYWdlci5pc0RldmljZUFkbWluKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRTdXBwb3J0QWN0aW9uQmFyKHRvb2xiYXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hcHBfYmFyX21haW4pCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hcHBfYmFyX21haW4pCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAtPiBzdXBlci5vbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUi5pZC5hY3Rpb25fc2V0dGluZ3MgLT4gdHJ1ZQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd2hlbiAoaXRlbS5pdGVtSWQpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlU2ltdWxhdGlvbk1vZGVsKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBhcyB5b3Ugc3BlY2lmeSBhIHBhcmVudCBhY3Rpdml0eSBpbiBBbmRyb2lkTWFuaWZlc3QueG1sLgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGaXJzdCB0aW1lIGluIC0gc2UgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBhdXRvbWF0aWNhbGx5IGhhbmRsZSBjbGlja3Mgb24gdGhlIEhvbWUvVXAgYnV0dG9uLCBzbyBsb25nCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>tup model parameters.
-        if (savedInstanceState</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBIYW5kbGUgYWN0aW9uIGJhciBpdGVtIGNsaWNrcyBoZXJlLiBUaGUgYWN0aW9uIGJhciB3aWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>toast</last-search>
+      <last-search>kioskModeB</last-search>
       <last-offset />
-      <last-pattern>toast</last-pattern>
+      <last-pattern>kioskModeB</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1061,8 +1061,6 @@
     </search>
     <history>
       <history-search>
-        <entry>transp</entry>
-        <entry>Transp</entry>
         <entry>Transpa</entry>
         <entry>ranspa</entry>
         <entry>Stric</entry>
@@ -1081,6 +1079,8 @@
         <entry>onResume</entry>
         <entry>toolbar</entry>
         <entry>toast</entry>
+        <entry>setText</entry>
+        <entry>kioskModeB</entry>
       </history-search>
       <history-cmd>
         <entry>'a,.s/palantir/being/g</entry>
