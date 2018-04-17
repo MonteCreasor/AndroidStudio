@@ -18,6 +18,11 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
       </file>
+      <file name="$USER_HOME$/ccs/kiosk/dependencies.gradle" timestamp="1523991420793">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/ccs/modules/Settings/build.gradle" timestamp="1523915550722">
         <mark key="[" line="10" column="76" />
         <mark key="]" line="10" column="76" />
@@ -110,12 +115,13 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" timestamp="1523988130089">
-        <mark key="'" line="274" column="36" />
-        <mark key="[" line="142" column="4" />
-        <mark key="]" line="142" column="12" />
-        <mark key="." line="142" column="12" />
-        <mark key="^" line="142" column="12" />
+      <file name="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" timestamp="1523991013706">
+        <mark key="a" line="70" column="6" />
+        <mark key="'" line="186" column="5" />
+        <mark key="[" line="153" column="25" />
+        <mark key="]" line="153" column="43" />
+        <mark key="^" line="153" column="43" />
+        <mark key="." line="153" column="43" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/BeingRunnableTest.java" timestamp="1520813057894">
         <mark key="[" line="21" column="0" />
@@ -231,9 +237,6 @@
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/AUTOGRADER_SUBMISSION/staging/unit-test-results/log.txt" timestamp="1523925534289">
-        <mark key="'" line="221" column="48" />
-      </file>
       <file name="$USER_HOME$/ccs/good/KioskMode/settings.gradle" timestamp="1523763108476">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -267,9 +270,6 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/tools/android/sdk/sources/android-27/android/preference/PreferenceActivity.java" timestamp="1523937904043">
-        <mark key="'" line="1248" column="13" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/BeingCallableTest.java" timestamp="1523571695732">
         <mark key="[" line="11" column="0" />
@@ -348,13 +348,13 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" timestamp="1523988725743">
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" timestamp="1523991724922">
         <mark key="a" line="255" column="46" />
         <mark key="'" line="4" column="7" />
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="37" />
-        <mark key="." line="264" column="0" />
-        <mark key="^" line="267" column="81" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="114" column="28" />
       </file>
       <file name="$USER_HOME$/junk/android-kiosk-mode/app/build.gradle" timestamp="1521079364191">
         <mark key="[" line="8" column="26" />
@@ -696,7 +696,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" timestamp="1523949992797">
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" timestamp="1523991255440">
         <mark key="'" line="439" column="7" />
       </file>
       <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/DrawerActivity.kt" timestamp="1523936074425">
@@ -826,30 +826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="15" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/SettingsActivity.kt" />
-      <jump line="203" column="20" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/SettingsActivity.kt" />
-      <jump line="2" column="29" filename="$USER_HOME$/ccs/kiosk/app/src/main/res/xml/pref_general.xml" />
-      <jump line="6" column="0" filename="$USER_HOME$/ccs/kiosk/app/src/main/res/xml/pref_general.xml" />
-      <jump line="95" column="30" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/systemupdatepolicy/SystemUpdatePolicyFragment.java" />
-      <jump line="127" column="12" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/systemupdatepolicy/SystemUpdatePolicyFragment.java" />
-      <jump line="138" column="23" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/systemupdatepolicy/SystemUpdatePolicyFragment.java" />
-      <jump line="139" column="18" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/systemupdatepolicy/SystemUpdatePolicyFragment.java" />
-      <jump line="140" column="18" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/systemupdatepolicy/SystemUpdatePolicyFragment.java" />
-      <jump line="256" column="60" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/systemupdatepolicy/SystemUpdatePolicyFragment.java" />
-      <jump line="34" column="22" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/systemupdatepolicy/SystemUpdatePolicyFragment.java" />
-      <jump line="241" column="31" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="262" column="19" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="267" column="21" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="195" column="28" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="216" column="23" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="219" column="23" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="226" column="23" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="234" column="58" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="280" column="45" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="282" column="80" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="315" column="8" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="274" column="0" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="14" column="26" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
       <jump line="123" column="22" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
       <jump line="132" column="22" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
       <jump line="160" column="45" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
@@ -926,10 +902,34 @@
       <jump line="18" column="7" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
       <jump line="19" column="7" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
       <jump line="4" column="7" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
+      <jump line="87" column="69" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="80" column="36" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="93" column="74" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="77" column="55" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="103" column="4" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="55" column="8" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="245" column="17" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="257" column="11" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="265" column="7" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="318" column="49" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="341" column="49" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="347" column="30" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="88" column="0" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="81" column="6" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="82" column="60" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="84" column="36" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="97" column="75" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="75" column="17" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="76" column="4" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="111" column="33" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="41" column="22" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="74" column="34" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="179" column="5" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUYXJnZXRBcGkoQnVpbGQuVkVSU0lPTl9DT0RFUy5OKQo=</text>
+        <text encoding="base64">ICAgICAgICBCdWlsZC5WRVJTSU9OX0NPREVTLk4K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1109,72 +1109,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IHZhbHVlIGlmIHRoZSBzaGFyZWQgcHJlZmVyZW5jZSBoYXMgbm8gY3VycmVudCB2YWx1ZS4=</text>
       </register>
       <register name="/" type="4">
-        <text>android.os</text>
+        <text>T2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUYXJnZXRBcGkoQnVpbGQuVkVSU0lPTl9DT0RFUy5OKQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmV0dXJucyB0aGUgdmFsdWUgb2YgdGhlIHNoYXJlZCBwcmVmZXJlbmNlIHdpdGggdGhlIHNwZWNpZmllZCBbbmFtZV0uCiAgICAgKiBvciB0aGUgW2RlZmF1bHRdIHZhbHVlIGlmIHRoZSBzaGFyZWQgcHJlZmVyZW5jZSBoYXMgbm8gY3VycmVudCB2YWx1ZS4KICAgICAqLwogICAgaW5saW5lIGZ1biA8cmVpZmllZCBUPiBnZXQobmFtZTogU3RyaW5nLCBkZWZhdWx0OiBUKTogVCB7CiAgICAgICAgd2l0aChwcmVmcykgewogICAgICAgICAgICBAU3VwcHJlc3MoIlVOQ0hFQ0tFRF9DQVNUIikKICAgICAgICAgICAgcmV0dXJuIHdoZW4gKGRlZmF1bHQpIHsKICAgICAgICAgICAgICAgIGlzIEludCAtPiBnZXRJbnQobmFtZSwgZGVmYXVsdCkKICAgICAgICAgICAgICAgIGlzIExvbmcgLT4gZ2V0TG9uZyhuYW1lLCBkZWZhdWx0KQogICAgICAgICAgICAgICAgaXMgRmxvYXQgLT4gZ2V0RmxvYXQobmFtZSwgZGVmYXVsdCkKICAgICAgICAgICAgICAgIGlzIEJvb2xlYW4gLT4gZ2V0Qm9vbGVhbihuYW1lLCBkZWZhdWx0KQogICAgICAgICAgICAgICAgaXMgU3RyaW5nIC0+IGdldFN0cmluZyhuYW1lLCBkZWZhdWx0KSA/OiAiIgogICAgICAgICAgICAgICAgZWxzZSAtPiB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGFkYXB0ZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBhZGFwdGVyLmRlY29kZShnZXRTdHJpbmcobmFtZSwgbnVsbCkpID86IGRlZmF1bHQKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICB2YWwgc3RyaW5nID0gZ2V0U3RyaW5nKG5hbWUsIG51bGwpCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzdHJpbmcgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgR3NvbigpLmZyb21Kc29uPFQ+KHN0cmluZywgb2JqZWN0IDogVHlwZVRva2VuPFQ+KCkge30udHlwZSkKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBhcyBUCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBCdWlsZC5WRVJTSU9OX0NPREVTLk4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFVzZXJSZXN0cmljdGlvbih1c2VyUmVzdHJpY3Rpb24sIHByZXZTZXR0aW5nVmFsdWUpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5vcy5CdWlsZENvbXBhdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBwcmV2U2V0dGluZ1ZhbHVlID0gc2hhcmVkUHJlZmVyZW5jZXMuZ2V0Qm9vbGVhbih1c2VyUmVzdHJpY3Rpb24sIGZhbHNlKQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYW5ub3RhdGlvbi5UYXJnZXRBcGkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICh1c2VyUmVzdHJpY3Rpb24gaW4gS0lPU0tfVVNFUl9SRVNUUklDVElPTlMpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dEJvb2xlYW4oaXQsIGdldFVzZXJSZXN0cmljdGlvbihpdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IEJ1aWxkLlZFUlNJT05fQ09ERVMuTSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29udGV4dC5NT0RFX1BSSVZBVEUpCg==</text>
+        <text encoding="base64">ICAgIEBUYXJnZXRBcGkoQnVpbGQuVkVSU0lPTl9DT0RFUy5NKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNoYXJlZFByZWZlcmVuY2VzID0gZ2V0U2hhcmVkUHJlZmVyZW5jZXMoS0lPU0tfUFJFRkVSRU5DRV9GSUxFLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IEJ1aWxkLlZFUlNJT05fQ09ERVMuTikgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBUYXJnZXRBcGkoQnVpbGQuVkVSU0lPTl9DT0RFUy5OKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/:/\r/g</text>
+        <text>%s/T2/T/g</text>
       </register>
     </registers>
     <search>
-      <last-search>android.os</last-search>
+      <last-search>T2</last-search>
       <last-offset />
-      <last-pattern>android.os</last-pattern>
-      <last-replace>\r</last-replace>
-      <last-substitute>:</last-substitute>
+      <last-pattern>T2</last-pattern>
+      <last-replace>T</last-replace>
+      <last-substitute>T2</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Home acti</entry>
-        <entry>if (activity</entry>
-        <entry>mService</entry>
-        <entry>Status</entry>
-        <entry>Bar</entry>
-        <entry>Notific</entry>
-        <entry encoding="base64">ZnVuIDw=</entry>
         <entry>_SERV</entry>
         <entry>getService</entry>
         <entry>ACTIVITY_M</entry>
@@ -1188,9 +1181,15 @@
         <entry>restric</entry>
         <entry>getUserR</entry>
         <entry>android.os</entry>
+        <entry>default</entry>
+        <entry>prefs</entry>
+        <entry>comp</entry>
+        <entry>compani</entry>
+        <entry>T</entry>
+        <entry>XXX</entry>
+        <entry>T2</entry>
       </history-search>
       <history-cmd>
-        <entry>w JavaTestHelper.java</entry>
         <entry>%s/version\./ver./g</entry>
         <entry>%s/versions\./ver./g</entry>
         <entry>%s/; //g</entry>
@@ -1210,6 +1209,7 @@
         <entry>%s/ /^M/g</entry>
         <entry>%s/ /\r/g</entry>
         <entry>%s/:/\r/g</entry>
+        <entry>%s/T2/T/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
