@@ -282,8 +282,9 @@
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" timestamp="1523992329851">
+      <file name="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" timestamp="1523993022625">
         <mark key="a" line="204" column="25" />
+        <mark key="'" line="159" column="8" />
         <mark key="[" line="243" column="0" />
         <mark key="]" line="243" column="0" />
         <mark key="^" line="242" column="15" />
@@ -828,8 +829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6826" column="16" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
-      <jump line="107" column="35" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
       <jump line="3056" column="35" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
       <jump line="3106" column="67" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
       <jump line="3285" column="85" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
@@ -928,6 +927,8 @@
       <jump line="94" column="22" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
       <jump line="204" column="34" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
       <jump line="244" column="35" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="116" column="8" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="159" column="8" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1114,7 +1115,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\.N</text>
+        <text>adapter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogUmV0dXJucyB0aGUgdmFsdWUgb2YgdGhlIHNoYXJlZCBwcmVmZXJlbmNlIHdpdGggdGhlIHNwZWNpZmllZCBbbmFtZV0uCiAgICAgKiBvciB0aGUgW2RlZmF1bHRdIHZhbHVlIGlmIHRoZSBzaGFyZWQgcHJlZmVyZW5jZSBoYXMgbm8gY3VycmVudCB2YWx1ZS4KICAgICAqLwogICAgaW5saW5lIGZ1biA8cmVpZmllZCBUPiBnZXQobmFtZTogU3RyaW5nLCBkZWZhdWx0OiBUKTogVCB7CiAgICAgICAgd2l0aChwcmVmcykgewogICAgICAgICAgICBAU3VwcHJlc3MoIlVOQ0hFQ0tFRF9DQVNUIikKICAgICAgICAgICAgcmV0dXJuIHdoZW4gKGRlZmF1bHQpIHsKICAgICAgICAgICAgICAgIGlzIEludCAtPiBnZXRJbnQobmFtZSwgZGVmYXVsdCkKICAgICAgICAgICAgICAgIGlzIExvbmcgLT4gZ2V0TG9uZyhuYW1lLCBkZWZhdWx0KQogICAgICAgICAgICAgICAgaXMgRmxvYXQgLT4gZ2V0RmxvYXQobmFtZSwgZGVmYXVsdCkKICAgICAgICAgICAgICAgIGlzIEJvb2xlYW4gLT4gZ2V0Qm9vbGVhbihuYW1lLCBkZWZhdWx0KQogICAgICAgICAgICAgICAgaXMgU3RyaW5nIC0+IGdldFN0cmluZyhuYW1lLCBkZWZhdWx0KSA/OiAiIgogICAgICAgICAgICAgICAgZWxzZSAtPiB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGFkYXB0ZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBhZGFwdGVyLmRlY29kZShnZXRTdHJpbmcobmFtZSwgbnVsbCkpID86IGRlZmF1bHQKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICB2YWwgc3RyaW5nID0gZ2V0U3RyaW5nKG5hbWUsIG51bGwpCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzdHJpbmcgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgR3NvbigpLmZyb21Kc29uPFQ+KHN0cmluZywgb2JqZWN0IDogVHlwZVRva2VuPFQ+KCkge30udHlwZSkKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBhcyBUCiAgICAgICAgfQogICAgfQo=</text>
@@ -1156,13 +1157,13 @@
         <text encoding="base64">ICAgICAgICAgICAgVGV4dFZpZXcgcGtnTmFtZVRleHRWaWV3ID0gKFRleHRWaWV3KSBjb252ZXJ0Vmlldy5maW5kVmlld0J5SWQoUi5pZC5wa2dfbmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/T2/T/g</text>
+        <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>\.N</last-search>
+      <last-search>adapter</last-search>
       <last-offset />
-      <last-pattern>\.N</last-pattern>
+      <last-pattern>adapter</last-pattern>
       <last-replace>T</last-replace>
       <last-substitute>T2</last-substitute>
       <last-dir>1</last-dir>
@@ -1170,8 +1171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getLock</entry>
-        <entry>setU</entry>
         <entry>setUser</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>companion</entry>
@@ -1190,6 +1189,8 @@
         <entry>VERSION</entry>
         <entry>.N</entry>
         <entry>\.N</entry>
+        <entry>finish</entry>
+        <entry>adapter</entry>
       </history-search>
       <history-cmd>
         <entry>%s/version\./ver./g</entry>
@@ -1198,7 +1199,6 @@
         <entry>%s/; /;/g</entry>
         <entry>.,.s/ /;/g</entry>
         <entry>%s/;/:/g</entry>
-        <entry>set ic</entry>
         <entry>NERDTreeToggle</entry>
         <entry>b hello</entry>
         <entry>ls</entry>
@@ -1212,6 +1212,7 @@
         <entry>%s/ /\r/g</entry>
         <entry>%s/:/\r/g</entry>
         <entry>%s/T2/T/g</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
