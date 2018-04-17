@@ -342,13 +342,13 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" timestamp="1523950525289">
-        <mark key="a" line="336" column="25" />
-        <mark key="'" line="342" column="4" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="0" />
-        <mark key="." line="225" column="0" />
-        <mark key="^" line="224" column="31" />
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" timestamp="1523951647374">
+        <mark key="a" line="316" column="0" />
+        <mark key="'" line="86" column="4" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="95" column="3" />
       </file>
       <file name="$USER_HOME$/junk/android-kiosk-mode/app/build.gradle" timestamp="1521079364191">
         <mark key="[" line="8" column="26" />
@@ -827,7 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/MainActivity.kt" />
       <jump line="233" column="30" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/MainActivity.kt" />
       <jump line="113" column="61" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/MainActivity.kt" />
       <jump line="43" column="0" filename="$USER_HOME$/ccs/modules/Settings/app/src/main/java/monte/libs/settings/DrawerActivity.kt" />
@@ -927,10 +926,11 @@
       <jump line="5843" column="21" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
       <jump line="5847" column="34" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
       <jump line="439" column="7" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
+      <jump line="86" column="4" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1110,31 +1110,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.isKeyguardLocked</text>
+        <text encoding="base64">ZnVuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>Notific</text>
+        <text encoding="base64">ZnVuIDw=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGtleWd1YXJkTG9ja2VkID0ga2dtLmlzS2V5Z3VhcmRMb2NrZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG9wZXJhdG9yIGZ1biBpbnZva2UoKSA9IGRldmljZVBvbGljeU1hbmFnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGtleWd1YXJkU2VjdXJlID0ga2dtLmlzS2V5Z3VhcmRTZWN1cmUK</text>
+        <text encoding="base64">ICAgIC8qKiBNYXBzIHRoaXMoKS53aGF0ZXZlciB0byBkZXZpY2VQb2xpY3lNYW5hZ2VyLndoYXRldmVyIHByb3BlcnR5LiAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwga2cxID0ga2V5R3VhcmQKICAgICAgICBrZXlHdWFyZCA9ICFhY3RpdmUKICAgICAgICB2YWwga2cyID0ga2V5R3VhcmQK</text>
+        <text encoding="base64">CiAgICBpbmxpbmUgZnVuIDxyZWlmaWVkIFQ+IGdldFNlcnZpY2Uoc2VydmljZU5hbWU6IFN0cmluZyk6IFQgewogICAgICAgIHJldHVybiBjb250ZXh0LmdldFN5c3RlbVNlcnZpY2Uoc2VydmljZU5hbWUpIGFzIFQKICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
@@ -1143,33 +1143,32 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQodmFsdWUpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/:/\r/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Notific</last-search>
+      <last-search encoding="base64">ZnVuIDw=</last-search>
       <last-offset />
-      <last-pattern>Notific</last-pattern>
+      <last-pattern encoding="base64">ZnVuIDw=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>:</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>:</entry>
         <entry>mock</entry>
         <entry>settings</entry>
         <entry>startA</entry>
@@ -1189,6 +1188,7 @@
         <entry>Status</entry>
         <entry>Bar</entry>
         <entry>Notific</entry>
+        <entry encoding="base64">ZnVuIDw=</entry>
       </history-search>
       <history-cmd>
         <entry>w JavaTestHelper.java</entry>
