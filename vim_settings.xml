@@ -262,13 +262,16 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-27/android/preference/PreferenceActivity.java" timestamp="1523937904043">
+        <mark key="'" line="1248" column="13" />
+      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/BeingCallableTest.java" timestamp="1523571695732">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/SettingsActivity.kt" timestamp="1523935903909">
-        <mark key="'" line="169" column="37" />
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/SettingsActivity.kt" timestamp="1523938390843">
+        <mark key="'" line="58" column="17" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="157" column="15" />
@@ -513,12 +516,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/res/menu/menu_main.xml" timestamp="1523936623439">
-        <mark key="a" line="4" column="0" />
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="40" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="40" />
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/res/menu/menu_main.xml" timestamp="1523937540499">
+        <mark key="a" line="4" column="8" />
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="38" />
       </file>
       <file name="$USER_HOME$/junk/MyApplication/build.gradle" timestamp="1521486115735">
         <mark key="[" line="15" column="0" />
@@ -775,8 +778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="36" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" />
-      <jump line="52" column="32" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" />
       <jump line="54" column="12" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" />
       <jump line="58" column="12" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" />
       <jump line="65" column="12" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" />
@@ -875,10 +876,12 @@
       <jump line="226" column="34" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" />
       <jump line="6" column="23" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" />
       <jump line="30" column="25" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/MainActivity.kt" />
+      <jump line="58" column="17" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kioskmode/SettingsActivity.kt" />
+      <jump line="1248" column="13" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/preference/PreferenceActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ic</text>
+        <text>partial_secure</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1058,58 +1061,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ic</text>
+        <text>partial_secure</text>
       </register>
       <register name="/" type="4">
-        <text>Intent</text>
+        <text>isValidF</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUi5pZC5kZWJ1Z19zZXR0aW5ncyAtPiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBhbmRyb2lkOmRyYXdhYmxlL2ljX3BhcnRpYWxfc2VjdXJlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIDxpdGVtCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9kZWJ1Z19zZXR0aW5ncyIKICAgICAgICBhbmRyb2lkOmVuYWJsZWQ9InRydWUiCiAgICAgICAgYW5kcm9pZDpvcmRlckluQ2F0ZWdvcnk9IjEwMSIKICAgICAgICBhbmRyb2lkOnRpdGxlPSJEZWJ1ZyIKICAgICAgICBhcHA6c2hvd0FzQWN0aW9uPSJuZXZlciIgLz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIE9wZW4gb3IgY2xvc2UgdGhlIFNldHRpbmdzIHBhbmVsLgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqIE9wZW4gb3IgY2xvc2UgdGhlIFNldHRpbmdzIHBhbmVsLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIG9wZW5pbmcgdGhlIFNldHRpbmdzIHBhbmVsLgo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIFRoZSBBcHBCYXIgbWVudSBvbmx5IGhhcyBvbmUgZW50cnk6IGFuIGljb24gZm9yCg==</text>
+        <text encoding="base64">ICAgICAqIG9wZW5pbmcgdGhlIFNldHRpbmdzIHBhbmVsLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIFRoZSBBcHBCYXIgbWVudSBvbmx5IGhhcyBvbmUgZW50cnk6IGFuIGljb24gZm9yCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIEFwcEJhciBtZW51IG9ubHkgaGFzIG9uZSBlbnRyeTogYW4gaWNvbiBmb3IKICAgICAqIG9wZW5pbmcgdGhlIFNldHRpbmdzIHBhbmVsLgogICAgICovCiAgICBvdmVycmlkZSBmdW4gb25DcmVhdGVPcHRpb25zTWVudShtZW51OiBNZW51KTogQm9vbGVhbiB7CiAgICAgICAgbWVudUluZmxhdGVyLmluZmxhdGUoUi5tZW51Lm1lbnVfbWFpbiwgbWVudSkKICAgICAgICByZXR1cm4gdHJ1ZQogICAgfQoKICAgIC8qKgogICAgICogT3BlbiBvciBjbG9zZSB0aGUgU2V0dGluZ3MgcGFuZWwuCiAgICAgKi8KICAgIG92ZXJyaWRlIGZ1biBvbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbTogTWVudUl0ZW0pOiBCb29sZWFuIHsKICAgICAgICByZXR1cm4gd2hlbiAoaXRlbS5pdGVtSWQpIHsKICAgICAgICAgICAgUi5pZC5hY3Rpb25fc2V0dGluZ3MgLT4gewogICAgICAgICAgICAgICAgaWYgKGRyYXdlckxheW91dC5pc0RyYXdlck9wZW4oR3Jhdml0eUNvbXBhdC5FTkQpKSB7CiAgICAgICAgICAgICAgICAgICAgZHJhd2VyTGF5b3V0LmNsb3NlRHJhd2VyKEdyYXZpdHlDb21wYXQuRU5EKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBkcmF3ZXJMYXlvdXQub3BlbkRyYXdlcihHcmF2aXR5Q29tcGF0LkVORCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHRydWUKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIC0+IHJldHVybiBzdXBlci5vbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbSkKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIEFwcEJhciBtZW51IG9ubHkgaGFzIG9uZSBlbnRyeTogYW4gaWNvbiBmb3IKICAgICAqIG9wZW5pbmcgdGhlIFNldHRpbmdzIHBhbmVsLgogICAgICovCiAgICBvdmVycmlkZSBmdW4gb25DcmVhdGVPcHRpb25zTWVudShtZW51OiBNZW51KTogQm9vbGVhbiB7CiAgICAgICAgbWVudUluZmxhdGVyLmluZmxhdGUoUi5tZW51Lm1lbnVfbWFpbiwgbWVudSkKICAgICAgICByZXR1cm4gdHJ1ZQogICAgfQoKICAgIC8qKgogICAgICogT3BlbiBvciBjbG9zZSB0aGUgU2V0dGluZ3MgcGFuZWwuCiAgICAgKi8KICAgIG92ZXJyaWRlIGZ1biBvbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbTogTWVudUl0ZW0pOiBCb29sZWFuIHsKICAgICAgICByZXR1cm4gd2hlbiAoaXRlbS5pdGVtSWQpIHsKICAgICAgICAgICAgUi5pZC5hY3Rpb25fc2V0dGluZ3MgLT4gewogICAgICAgICAgICAgICAgaWYgKGRyYXdlckxheW91dC5pc0RyYXdlck9wZW4oR3Jhdml0eUNvbXBhdC5FTkQpKSB7CiAgICAgICAgICAgICAgICAgICAgZHJhd2VyTGF5b3V0LmNsb3NlRHJhd2VyKEdyYXZpdHlDb21wYXQuRU5EKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBkcmF3ZXJMYXlvdXQub3BlbkRyYXdlcihHcmF2aXR5Q29tcGF0LkVORCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHRydWUKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIC0+IHJldHVybiBzdXBlci5vbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbSkKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/:/\r/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Intent</last-search>
+      <last-search>isValidF</last-search>
       <last-offset />
-      <last-pattern>Intent</last-pattern>
+      <last-pattern>isValidF</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -1117,7 +1120,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Home</entry>
         <entry>home</entry>
         <entry>kotlin</entry>
         <entry>dp</entry>
@@ -1137,6 +1139,7 @@
         <entry>settings</entry>
         <entry>startA</entry>
         <entry>Intent</entry>
+        <entry>isValidF</entry>
       </history-search>
       <history-cmd>
         <entry>w JavaTestHelper.java</entry>
