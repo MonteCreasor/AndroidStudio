@@ -342,13 +342,13 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" timestamp="1523952035049">
-        <mark key="a" line="316" column="0" />
-        <mark key="'" line="196" column="0" />
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="90" column="11" />
-        <mark key="." line="90" column="11" />
-        <mark key="^" line="90" column="11" />
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" timestamp="1523986742698">
+        <mark key="a" line="74" column="7" />
+        <mark key="'" line="51" column="49" />
+        <mark key="[" line="75" column="15" />
+        <mark key="]" line="76" column="81" />
+        <mark key="." line="76" column="81" />
+        <mark key="^" line="76" column="81" />
       </file>
       <file name="$USER_HOME$/junk/android-kiosk-mode/app/build.gradle" timestamp="1521079364191">
         <mark key="[" line="8" column="26" />
@@ -711,7 +711,7 @@
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523944356668">
+      <file name="/Dummy.txt" timestamp="1523985813116">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Student Submissions/assignment2b-graded/David_Liao/app/src/main/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphore.java" timestamp="1521598094698">
@@ -827,8 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="7" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeingTest.java" />
-      <jump line="188" column="50" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeingTest.java" />
       <jump line="135" column="47" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeingTest.java" />
       <jump line="221" column="48" filename="$USER_HOME$/cur/PalantiriSimulator/AUTOGRADER_SUBMISSION/staging/unit-test-results/log.txt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
@@ -927,10 +925,12 @@
       <jump line="36" column="48" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
       <jump line="92" column="27" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
       <jump line="196" column="0" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
+      <jump line="51" column="49" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KCkg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1110,58 +1110,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCkg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>getService</text>
+        <text>getLock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGdldFNlcnZpY2UoQ29udGV4dC5LRVlHVUFSRF9TRVJWSUNFKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGlmIChCdWlsZC5WRVJTSU9OX1NES19JTlQgPCBCdWlsZC5WRVJTSU9OX0NPREVTLk0pIHsKICAgICAgICAgICAgYWN0aXZpdHlNYW5hZ2VyLmlzSW5Mb2NrVGFza01vZGUKICAgICAgICB9IGVsc2UKICAgICAgICAgICAgYWN0aXZpdHlNYW5hZ2VyLmxvY2tUYXNrTW9kZVN0YXRlID09IEFjdGl2aXR5TWFuYWdlci5MT0NLX1RBU0tfTU9ERV9MT0NLRUQKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGdldFNlcnZpY2UoQ29udGV4dC5LRVlHVUFSRF9TRVJWSUNFKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBrZXlndWFyZE1hbmFnZXI6IEtleWd1YXJkTWFuYWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpdml0eU1hbmFnZXIubG9ja1Rhc2tNb2RlU3RhdGUgPT0gQWN0aXZpdHlNYW5hZ2VyLkxPQ0tfVEFTS19NT0RFX0xPQ0tFRAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpdml0eU1hbmFnZXIuaXNJbkxvY2tUYXNrTW9kZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGtnbSA6IEtleWd1YXJkTWFuYWdlciAgPSBnZXRTZXJ2aWNlKEFjdGl2aXR5LktFWUdVQVJEX1NFUlZJQ0UpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGlmIChCdWlsZC5WRVJTSU9OX1NES19JTlQpIDwgQnVpbGQuVkVSU0lPTl9DT0RFUy5NKSB7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGlmIChCdWlsZC5WRVJTSU9OX1NES19JTlQgPCBCdWlsZC5WRVJTSU9OX0NPREVTLk0pIHsKICAgICAgICAgICAgICAgIGFjdGl2aXR5TWFuYWdlci5pc0luTG9ja1Rhc2tNb2RlCiAgICAgICAgICAgIH0gZWxzZSAKICAgICAgICAgICAgICAgIGFjdGl2aXR5TWFuYWdlci5sb2NrVGFza01vZGVTdGF0ZSA9PSBBY3Rpdml0eU1hbmFnZXIuTE9DS19UQVNLX01PREVfTE9DS0VECiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLktleWd1YXJkTWFuYWdlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzZXRMYXVuY2hlcihhY3Rpdml0eSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/:/\r/g</text>
       </register>
     </registers>
     <search>
-      <last-search>getService</last-search>
+      <last-search>getLock</last-search>
       <last-offset />
-      <last-pattern>getService</last-pattern>
+      <last-pattern>getLock</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -1169,10 +1169,6 @@
     </search>
     <history>
       <history-search>
-        <entry>startA</entry>
-        <entry>Intent</entry>
-        <entry>isValidF</entry>
-        <entry>isXLarge</entry>
         <entry>NewPol</entry>
         <entry>Button</entry>
         <entry>context</entry>
@@ -1189,6 +1185,10 @@
         <entry encoding="base64">ZnVuIDw=</entry>
         <entry>_SERV</entry>
         <entry>getService</entry>
+        <entry>ACTIVITY_M</entry>
+        <entry>ACTIVITY_SER</entry>
+        <entry>isInLock</entry>
+        <entry>getLock</entry>
       </history-search>
       <history-cmd>
         <entry>w JavaTestHelper.java</entry>
