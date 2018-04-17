@@ -18,7 +18,7 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/dependencies.gradle" timestamp="1523991420793">
+      <file name="$USER_HOME$/ccs/kiosk/dependencies.gradle" timestamp="1523991974040">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="32" />
         <mark key="." line="7" column="32" />
@@ -282,10 +282,12 @@
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" timestamp="1523987491088">
+      <file name="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" timestamp="1523992329851">
         <mark key="a" line="204" column="25" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="229" column="5" />
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="^" line="242" column="15" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="$USER_HOME$/cur/doug-assignments/CS891/Assignment2b/app/src/main/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/ReentrantLockHashMapSimpleSemaphoreMgr.java" timestamp="1522182838291">
         <mark key="[" line="114" column="0" />
@@ -826,19 +828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="22" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="132" column="22" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="160" column="45" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="175" column="21" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="186" column="21" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="261" column="52" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="293" column="17" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="296" column="4" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="159" column="36" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="108" column="16" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="104" column="16" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="342" column="4" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" />
-      <jump line="6824" column="12" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
       <jump line="6826" column="16" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
       <jump line="107" column="35" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
       <jump line="3056" column="35" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DevicePolicyManager.java" />
@@ -926,10 +915,23 @@
       <jump line="41" column="22" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
       <jump line="74" column="34" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
       <jump line="179" column="5" filename="$USER_HOME$/ccs/kiosk/settings/src/main/java/monte/apps/preferences/Prefs.kt" />
+      <jump line="202" column="4" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="206" column="24" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="220" column="24" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="127" column="8" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="158" column="18" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="68" column="31" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="72" column="44" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="78" column="54" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="82" column="23" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="85" column="40" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="94" column="22" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="204" column="34" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
+      <jump line="244" column="35" filename="$USER_HOME$/ccs/android-testdpc/app/src/main/java/com/afwsamples/testdpc/policy/locktask/KioskModeActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBCdWlsZC5WRVJTSU9OX0NPREVTLk4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1109,58 +1111,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZhbHVlIGlmIHRoZSBzaGFyZWQgcHJlZmVyZW5jZSBoYXMgbm8gY3VycmVudCB2YWx1ZS4=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>T2</text>
+        <text>\.N</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogUmV0dXJucyB0aGUgdmFsdWUgb2YgdGhlIHNoYXJlZCBwcmVmZXJlbmNlIHdpdGggdGhlIHNwZWNpZmllZCBbbmFtZV0uCiAgICAgKiBvciB0aGUgW2RlZmF1bHRdIHZhbHVlIGlmIHRoZSBzaGFyZWQgcHJlZmVyZW5jZSBoYXMgbm8gY3VycmVudCB2YWx1ZS4KICAgICAqLwogICAgaW5saW5lIGZ1biA8cmVpZmllZCBUPiBnZXQobmFtZTogU3RyaW5nLCBkZWZhdWx0OiBUKTogVCB7CiAgICAgICAgd2l0aChwcmVmcykgewogICAgICAgICAgICBAU3VwcHJlc3MoIlVOQ0hFQ0tFRF9DQVNUIikKICAgICAgICAgICAgcmV0dXJuIHdoZW4gKGRlZmF1bHQpIHsKICAgICAgICAgICAgICAgIGlzIEludCAtPiBnZXRJbnQobmFtZSwgZGVmYXVsdCkKICAgICAgICAgICAgICAgIGlzIExvbmcgLT4gZ2V0TG9uZyhuYW1lLCBkZWZhdWx0KQogICAgICAgICAgICAgICAgaXMgRmxvYXQgLT4gZ2V0RmxvYXQobmFtZSwgZGVmYXVsdCkKICAgICAgICAgICAgICAgIGlzIEJvb2xlYW4gLT4gZ2V0Qm9vbGVhbihuYW1lLCBkZWZhdWx0KQogICAgICAgICAgICAgICAgaXMgU3RyaW5nIC0+IGdldFN0cmluZyhuYW1lLCBkZWZhdWx0KSA/OiAiIgogICAgICAgICAgICAgICAgZWxzZSAtPiB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGFkYXB0ZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBhZGFwdGVyLmRlY29kZShnZXRTdHJpbmcobmFtZSwgbnVsbCkpID86IGRlZmF1bHQKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICB2YWwgc3RyaW5nID0gZ2V0U3RyaW5nKG5hbWUsIG51bGwpCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzdHJpbmcgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgR3NvbigpLmZyb21Kc29uPFQ+KHN0cmluZywgb2JqZWN0IDogVHlwZVRva2VuPFQ+KCkge30udHlwZSkKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBhcyBUCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCdWlsZC5WRVJTSU9OX0NPREVTLk4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5vcy5CdWlsZENvbXBhdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnZlcnRWaWV3Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYW5ub3RhdGlvbi5UYXJnZXRBcGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBrZ05hbWVUZXh0Vmlldy5zZXRUZXh0KGFwcGxpY2F0aW9uSW5mby5sb2FkTGFiZWwobVBhY2thZ2VNYW5hZ2VyKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IEJ1aWxkLlZFUlNJT05fQ09ERVMuTSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBrZ05hbWVUZXh0Vmlldy5zZXRUZXh0KGdldFN0cmluZyhSLnN0cmluZy5zdG9wX2tpb3NrX21vZGUpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUYXJnZXRBcGkoQnVpbGQuVkVSU0lPTl9DT0RFUy5NKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGJhY2sgZG9vcgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IEJ1aWxkLlZFUlNJT05fQ09ERVMuTikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdldFBhY2thZ2VOYW1lKCkuZXF1YWxzKGdldEl0ZW0ocG9zaXRpb24pKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUYXJnZXRBcGkoQnVpbGQuVkVSU0lPTl9DT0RFUy5OKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dFZpZXcgcGtnTmFtZVRleHRWaWV3ID0gKFRleHRWaWV3KSBjb252ZXJ0Vmlldy5maW5kVmlld0J5SWQoUi5pZC5wa2dfbmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/T2/T/g</text>
       </register>
     </registers>
     <search>
-      <last-search>T2</last-search>
+      <last-search>\.N</last-search>
       <last-offset />
-      <last-pattern>T2</last-pattern>
+      <last-pattern>\.N</last-pattern>
       <last-replace>T</last-replace>
       <last-substitute>T2</last-substitute>
       <last-dir>1</last-dir>
@@ -1168,11 +1170,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_SERV</entry>
-        <entry>getService</entry>
-        <entry>ACTIVITY_M</entry>
-        <entry>ACTIVITY_SER</entry>
-        <entry>isInLock</entry>
         <entry>getLock</entry>
         <entry>setU</entry>
         <entry>setUser</entry>
@@ -1188,6 +1185,11 @@
         <entry>T</entry>
         <entry>XXX</entry>
         <entry>T2</entry>
+        <entry>Build</entry>
+        <entry>isAtLeastN</entry>
+        <entry>VERSION</entry>
+        <entry>.N</entry>
+        <entry>\.N</entry>
       </history-search>
       <history-cmd>
         <entry>%s/version\./ver./g</entry>
