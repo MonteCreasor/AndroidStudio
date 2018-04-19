@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="CIDR.Lang.IntroduceTypedef" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="ctrl a" second-keystroke="a" />
@@ -12,5 +13,6 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="MaterialDesignIconGenerateAction" />
 </keymap>
