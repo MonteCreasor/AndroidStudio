@@ -23,12 +23,12 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/PhotoActivity.kt" timestamp="1524096522483">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="179" column="5" />
-        <mark key="]" line="180" column="3" />
-        <mark key="." line="180" column="3" />
-        <mark key="^" line="180" column="3" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/PhotoActivity.kt" timestamp="1524097247204">
+        <mark key="'" line="148" column="4" />
+        <mark key="[" line="89" column="12" />
+        <mark key="]" line="89" column="40" />
+        <mark key="^" line="89" column="40" />
+        <mark key="." line="89" column="40" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/Controller.java" timestamp="1520536244630">
         <mark key="[" line="138" column="0" />
@@ -142,12 +142,12 @@
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/strings.xml" timestamp="1524096476703">
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/strings.xml" timestamp="1524096745081">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="53" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/ccs/good/KioskMode/app/build.gradle" timestamp="1523677047569">
         <mark key="[" line="10" column="23" />
@@ -322,7 +322,7 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="40" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1524094484554">
+      <file name="/fragment.kt" timestamp="1524097137754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tools/android/sdk/sources/android-27/android/hardware/camera2/CameraDevice.java" timestamp="1524095052399">
@@ -522,9 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="51" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DeviceAdminReceiver.java" />
-      <jump line="491" column="57" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DeviceAdminReceiver.java" />
-      <jump line="492" column="56" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DeviceAdminReceiver.java" />
       <jump line="505" column="57" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DeviceAdminReceiver.java" />
       <jump line="506" column="56" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DeviceAdminReceiver.java" />
       <jump line="516" column="57" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/admin/DeviceAdminReceiver.java" />
@@ -622,10 +619,13 @@
       <jump line="108" column="0" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/PhotoActivity.kt" />
       <jump line="170" column="22" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
       <jump line="4" column="20" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
+      <jump line="159" column="0" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/PhotoActivity.kt" />
+      <jump line="118" column="6" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/PhotoActivity.kt" />
+      <jump line="135" column="4" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/PhotoActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sample</text>
+        <text>ConfirmationDialog().show(childFragmentManager, FRAGMENT_DIALOG)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -805,13 +805,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sample</text>
+        <text>ConfirmationDialog().show(childFragmentManager, FRAGMENT_DIALOG)</text>
       </register>
       <register name="/" type="4">
         <text>lert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icmVxdWVzdF9wZXJtaXNzaW9uIj5UaGlzIHNhbXBsZSBuZWVkcyBjYW1lcmEgcGVybWlzc2lvbi48L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY2FtZXJhX2Vycm9yIj5UaGlzIGRldmljZSBkb2VzblwndCBzdXBwb3J0IENhbWVyYTIgQVBJLjwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcmVudEZyYWdtZW50LnJlcXVlc3RQZXJtaXNzaW9ucyhhcnJheU9mKE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSRVFVRVNUX0NBTUVSQV9QRVJNSVNTSU9OKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -820,34 +820,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBzaG93UmVxdWVzdFBlcm1pc3Npb25EaWFsb2coKSB7CiAgICAgICAgYWxlcnQgewogICAgICAgICAgICB0aXRsZVJlc291cmNlID0gUi5zdHJpbmcudGl0bGVfcmVxdWVzdF9jYW1lcmFfcGVybWlzc2lvbgogICAgICAgICAgICBtZXNzYWdlUmVzb3VyY2UgPSBSLnN0cmluZy5yZWFzb25fcmVxdWVzdF9jYW1lcmFfcGVybWlzc2lvbgogICAgICAgICAgICB5ZXNCdXR0b24gewogICAgICAgICAgICAgICAgcmVxdWVzdFBlcm1pc3Npb25zKGFycmF5T2YoTWFuaWZlc3QucGVybWlzc2lvbi5DQU1FUkEpLCBSRVFVRVNUX0NBTUVSQV9QRVJNSVNTSU9OKQogICAgICAgICAgICB9CiAgICAgICAgICAgIG5vQnV0dG9uIHsKICAgICAgICAgICAgICAgIE1ha2VQaG90b0FjdGl2aXR5QGZpbmlzaCgpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RQZXJtaXNzaW9ucyhhcnJheU9mKE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBKSwgUkVRVUVTVF9DQU1FUkFfUEVSTUlTU0lPTikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlQ2FtZXJhUHJldmlld1Nlc3Npb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmNyZWF0ZSgpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcmVudEZyYWdtZW50LmFjdGl2aXR5Py5maW5pc2goKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNldE5lZ2F0aXZlQnV0dG9uKGFuZHJvaWQuUi5zdHJpbmcuY2FuY2VsKSB7IF8sIF8gLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
