@@ -341,11 +341,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" timestamp="1524204845055">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="67" column="19" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" timestamp="1524206069005">
+        <mark key="'" line="242" column="12" />
+        <mark key="[" line="91" column="12" />
+        <mark key="]" line="91" column="12" />
+        <mark key="^" line="91" column="12" />
+        <mark key="." line="91" column="12" />
       </file>
       <file name="$USER_HOME$/ccs/android-samples/android-Camera2Raw/Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java" timestamp="1524168409420">
         <mark key="'" line="120" column="13" />
@@ -486,12 +487,12 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" timestamp="1524205222788">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="64" column="7" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" timestamp="1524205395975">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="65" column="27" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/res/values/strings.xml" timestamp="1523748005887">
         <mark key="[" line="1" column="33" />
@@ -616,7 +617,7 @@
       <file name="$USER_HOME$/tools/android/sdk/sources/android-27/android/hardware/camera2/CameraDevice.java" timestamp="1524095052399">
         <mark key="'" line="148" column="9" />
       </file>
-      <file name="/fragment.kt" timestamp="1524197410107">
+      <file name="/fragment.kt" timestamp="1524206029001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/dependencies.gradle" timestamp="1522359749386">
@@ -1015,7 +1016,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="62" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
       <jump line="404" column="0" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
       <jump line="445" column="4" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
       <jump line="450" column="16" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
@@ -1115,10 +1115,11 @@
       <jump line="148" column="16" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
       <jump line="70" column="19" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
       <jump line="56" column="16" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
+      <jump line="242" column="12" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1301,55 +1302,55 @@
         <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>frontCameraId</text>
+        <text>takeSnap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaGVjayhjYW1lcmFJZCA9PSBmcm9udENhbWVyYUlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FtZXJhU2VydmljZSA9IENhbWVyYVNlcnZpY2UodGhpcykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FtZXJhU2VydmljZSA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vblN0b3AoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblN0b3AoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FtZXJhU2VydmljZS5zdGFydCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FtZXJhU2VydmljZSA9IENhbWVyYVNlcnZpY2UodGhpcykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FtZXJhU2VydmljZSA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vblJlc3VtZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGZyb250Q2FtZXJhSWQ6IFN0cmluZz8gPSBudWxsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNhbWVyYVNlcnZpY2Uuc3RvcCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>frontCameraId</last-search>
+      <last-search>takeSnap</last-search>
       <last-offset />
-      <last-pattern>frontCameraId</last-pattern>
+      <last-pattern>takeSnap</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1357,8 +1358,6 @@
     </search>
     <history>
       <history-search>
-        <entry>captureLis</entry>
-        <entry>CaptureRE</entry>
         <entry>captureRe</entry>
         <entry>captureRequest</entry>
         <entry>onOpened</entry>
@@ -1377,6 +1376,8 @@
         <entry>frontFacing</entry>
         <entry>frontFacingC</entry>
         <entry>frontCameraId</entry>
+        <entry>onStart</entry>
+        <entry>takeSnap</entry>
       </history-search>
       <history-cmd>
         <entry>%s/versions\./ver./g</entry>
