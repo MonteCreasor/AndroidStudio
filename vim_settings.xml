@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="P" line="66" column="0" filename="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" protocol="file" />
       <mark key="R" line="64" column="8" filename="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" protocol="file" />
@@ -487,8 +487,8 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" timestamp="1524205395975">
-        <mark key="'" line="103" column="0" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" timestamp="1524243778179">
+        <mark key="'" line="64" column="0" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="^" line="65" column="27" />
@@ -537,6 +537,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/Activity.java" timestamp="1524243861821">
+        <mark key="'" line="5454" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/Student Submissions/assignment2b-broken/Andrew_Carlston/app/src/main/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphore.java" timestamp="1521591818858">
         <mark key="[" line="17" column="18" />
@@ -1016,9 +1019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="404" column="0" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
-      <jump line="445" column="4" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
-      <jump line="450" column="16" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
       <jump line="284" column="8" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
       <jump line="157" column="46" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
       <jump line="180" column="22" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
@@ -1116,6 +1116,9 @@
       <jump line="70" column="19" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
       <jump line="56" column="16" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
       <jump line="242" column="12" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
+      <jump line="64" column="0" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" />
+      <jump line="4537" column="17" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/Activity.java" />
+      <jump line="5454" column="27" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/Activity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1302,7 +1305,7 @@
         <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>takeSnap</text>
+        <text encoding="base64">bUZpbmlzaGVkID0g</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaGVjayhjYW1lcmFJZCA9PSBmcm9udENhbWVyYUlkKQo=</text>
@@ -1348,9 +1351,9 @@
       </register>
     </registers>
     <search>
-      <last-search>takeSnap</last-search>
+      <last-search encoding="base64">bUZpbmlzaGVkID0g</last-search>
       <last-offset />
-      <last-pattern>takeSnap</last-pattern>
+      <last-pattern encoding="base64">bUZpbmlzaGVkID0g</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1358,9 +1361,6 @@
     </search>
     <history>
       <history-search>
-        <entry>captureRe</entry>
-        <entry>captureRequest</entry>
-        <entry>onOpened</entry>
         <entry>createCap</entry>
         <entry>cameraOpen</entry>
         <entry>null</entry>
@@ -1378,6 +1378,9 @@
         <entry>frontCameraId</entry>
         <entry>onStart</entry>
         <entry>takeSnap</entry>
+        <entry>startAc</entry>
+        <entry>isFin</entry>
+        <entry encoding="base64">bUZpbmlzaGVkID0g</entry>
       </history-search>
       <history-cmd>
         <entry>%s/versions\./ver./g</entry>
