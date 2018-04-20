@@ -641,12 +641,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" timestamp="1524189328029">
-        <mark key="'" line="300" column="0" />
-        <mark key="[" line="42" column="31" />
-        <mark key="]" line="42" column="31" />
-        <mark key="^" line="42" column="31" />
-        <mark key="." line="42" column="31" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" timestamp="1524190625417">
+        <mark key="a" line="218" column="36" />
+        <mark key="'" line="167" column="28" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/res/layout/content_kiosk.xml" timestamp="1524022028116">
         <mark key="[" line="18" column="26" />
@@ -987,8 +987,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="704" column="49" filename="$USER_HOME$/ccs/android-samples/android-Camera2Raw/Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java" />
-      <jump line="712" column="79" filename="$USER_HOME$/ccs/android-samples/android-Camera2Raw/Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java" />
       <jump line="727" column="0" filename="$USER_HOME$/ccs/android-samples/android-Camera2Raw/Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java" />
       <jump line="729" column="56" filename="$USER_HOME$/ccs/android-samples/android-Camera2Raw/Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java" />
       <jump line="747" column="0" filename="$USER_HOME$/ccs/android-samples/android-Camera2Raw/Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java" />
@@ -1087,10 +1085,12 @@
       <jump line="82" column="24" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="313" column="0" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
+      <jump line="160" column="69" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
+      <jump line="167" column="28" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2NhcHR1cmVCdWlsZGVyLnNldChDYXB0dXJlUmVxdWVzdC5DT05UUk9MX01PREUsIENhbWVyYU1ldGFkYXRhLkNPTlRST0xfU0NFTkVfTU9ERV9GQUNFX1BSSU9SSVRZKQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1273,28 +1273,28 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>receiver</text>
+        <text>takePicture</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN1cmZhY2UuUk9UQVRJT05fMCAtPiAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2NhcHR1cmVCdWlsZGVyLnNldChDYXB0dXJlUmVxdWVzdC5DT05UUk9MX01PREUsIENhbWVyYU1ldGFkYXRhLkNPTlRST0xfU0NFTkVfTU9ERV9GQUNFX1BSSU9SSVRZKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNuYXBzaG90SWQ6IFN0cmluZz8gPSBudWxsCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNuYXBzaG90SWQ6IFN0cmluZz8gPSBudWxsCgo=</text>
       </register>
       <register name="u" type="4">
         <text />
@@ -1303,7 +1303,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGN1cnJlbnRDYW1lcmFJZDogU3RyaW5nPyA9IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -1312,16 +1312,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGN1cnJlbnRDYW1lcmFJZDogU3RyaW5nPyA9IG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
       </register>
     </registers>
     <search>
-      <last-search>receiver</last-search>
+      <last-search>takePicture</last-search>
       <last-offset />
-      <last-pattern>receiver</last-pattern>
+      <last-pattern>takePicture</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1329,7 +1329,6 @@
     </search>
     <history>
       <history-search>
-        <entry>degress</entry>
         <entry>, 0</entry>
         <entry encoding="base64">PFQ=</entry>
         <entry encoding="base64">PHJp</entry>
@@ -1349,6 +1348,7 @@
         <entry>Bitmap</entry>
         <entry>Image</entry>
         <entry>receiver</entry>
+        <entry>takePicture</entry>
       </history-search>
       <history-cmd>
         <entry>%s/versions\./ver./g</entry>
