@@ -83,12 +83,10 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/build.gradle" timestamp="1526238263027">
-        <mark key="'" line="15" column="23" />
-        <mark key="[" line="77" column="58" />
-        <mark key="]" line="77" column="59" />
-        <mark key="^" line="78" column="62" />
-        <mark key="." line="77" column="59" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/build.gradle" timestamp="1526240579111">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="72" column="71" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_complete/app/build.gradle" timestamp="1521829703374">
         <mark key="[" line="29" column="51" />
@@ -280,11 +278,11 @@
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/dependencies.gradle" timestamp="1526237085799">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="12" column="11" />
-        <mark key="." line="12" column="11" />
-        <mark key="^" line="12" column="11" />
+      <file name="$USER_HOME$/ccs/Kiosk/dependencies.gradle" timestamp="1526239825212">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+        <mark key="^" line="14" column="42" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/build.gradle" timestamp="1523933689413">
         <mark key="[" line="12" column="57" />
@@ -1022,7 +1020,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="46" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
       <jump line="180" column="22" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
       <jump line="435" column="23" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
       <jump line="452" column="18" filename="$USER_HOME$/ccs/android-samples/android-Camera2Basic/kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt" />
@@ -1122,10 +1119,11 @@
       <jump line="4537" column="17" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/Activity.java" />
       <jump line="5454" column="27" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/app/Activity.java" />
       <jump line="15" column="23" filename="$USER_HOME$/ccs/Kiosk/app/build.gradle" />
+      <jump line="76" column="74" filename="$USER_HOME$/ccs/Kiosk/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJpby5yZWFjdGl2ZXgucnhqYXZhMjpyeGphdmE6JHZlcnNpb25zLnJ4amF2YSIKICAgIGltcGxlbWVudGF0aW9uICJpby5yZWFjdGl2ZXgucnhqYXZhMjpyeGFuZHJvaWQ6JHZlcnNpb25zLnJ4YW5kcm9pZCIK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1305,49 +1303,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">bUZpbmlzaGVkID0g</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVjayhjYW1lcmFJZCA9PSBmcm9udENhbWVyYUlkKQo=</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gImFuZHJvaWQubmF2aWdhdGlvbjpuYXZpZ2F0aW9uLXVpLWt0OiIgKyB2ZXJzaW9ucy5uYXZpZ2F0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJpby5yZWFjdGl2ZXgucnhqYXZhMjpyeGphdmE6JHZlcnNpb25zLnJ4amF2YSIKICAgIGltcGxlbWVudGF0aW9uICJpby5yZWFjdGl2ZXgucnhqYXZhMjpyeGFuZHJvaWQ6JHZlcnNpb25zLnJ4YW5kcm9pZCIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIE5hdmlnYXRpb24K</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkLmFyY2gubGlmZWN5Y2xlOmV4dGVuc2lvbnM6JyArIHZlcnNpb25zLmxpZmVjeWNsZQogICAgaW1wbGVtZW50YXRpb24gJ2FuZHJvaWQuYXJjaC5uYXZpZ2F0aW9uOm5hdmlnYXRpb24tZnJhZ21lbnQ6JyArIHZlcnNpb25zLm5hdmlnYXRpb24KICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkLmFyY2gubmF2aWdhdGlvbjpuYXZpZ2F0aW9uLXVpLWt0eDonICsgdmVyc2lvbnMubmF2aWdhdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6JHZlcnNpb25zLmNvbnN0cmFpbnRMYXlvdXQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uZ29vZ2xlLmNvZGUuZ3Nvbjpnc29uOiR2ZXJzaW9ucy5nc29uIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIExpdmVEYXRhICsgVmlld01vZGVsCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uZ29vZ2xlLmNvZGUuZ3Nvbjpnc29uOiR2ZXJzaW9ucy5nc29uIgo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtdjQ6MjcuMS4xIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbi1sYXlvdXQ6JyArIHZlcnNpb25zLmNvbnN0cmFpbnRMYXlvdXQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vblN0b3AoKQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGdyb3VwOiAnYW5kcm9pZC5hcmNoLm5hdmlnYXRpb24nLCBuYW1lOiAnbmF2aWdhdGlvbi1mcmFnbWVudCcsIHZlcnNpb246ICcxLjAuMC1hbHBoYTAxJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblN0b3AoKSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gImFuZHJvaWQubmF2aWdhdGlvbjpuYXZpZ2F0aW9uLXVpLWt0OiIgKyB2ZXJzaW9ucy5uYXZpZ2F0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
