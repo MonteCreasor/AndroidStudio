@@ -66,12 +66,6 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/SiteDatabase.kt" timestamp="1526328256296">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="26" column="23" />
-      </file>
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_complete/app/src/main/java/com/google/codelabs/cosu/LockedActivity.java" timestamp="1521997642682">
         <mark key="[" line="183" column="50" />
         <mark key="]" line="183" column="52" />
@@ -211,6 +205,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="9" column="32" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/Prefs.kt" timestamp="1526340659124">
+        <mark key="a" line="228" column="0" />
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="64" />
       </file>
       <file name="$USER_HOME$/ccs/modules/Settings/settings/build.gradle" timestamp="1523915406809">
         <mark key="[" line="3" column="33" />
@@ -442,6 +442,11 @@
         <mark key="]" line="17" column="62" />
         <mark key="^" line="17" column="62" />
         <mark key="." line="17" column="62" />
+      </file>
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/db/Converters.kt" timestamp="1526340335206">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/cur/ps/app/build.gradle" timestamp="1518754333205">
         <mark key="[" line="86" column="0" />
@@ -740,11 +745,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/db/Device.kt" timestamp="1526338563414">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="68" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/db/Device.kt" timestamp="1526340850676">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Student Submissions/assignment2b-graded/David_Liao/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" timestamp="1521598074793">
         <mark key="[" line="45" column="25" />
@@ -763,14 +767,6 @@
         <mark key="." line="12" column="58" />
         <mark key="^" line="12" column="58" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/DeviceDao.kt" timestamp="1526334527981">
-        <mark key="a" line="21" column="6" />
-        <mark key="'" line="18" column="27" />
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-      </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/res/menu/menu_scanner.xml" timestamp="1526245322037">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="46" />
@@ -780,12 +776,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/Device.kt" timestamp="1526334351379">
-        <mark key="[" line="54" column="19" />
-        <mark key="]" line="54" column="19" />
-        <mark key="." line="54" column="19" />
-        <mark key="^" line="40" column="2" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/ViewExt.kt" timestamp="1526275571221">
         <mark key="'" line="38" column="0" />
@@ -1186,12 +1176,15 @@
         <mark key="]" line="12" column="61" />
         <mark key="." line="12" column="61" />
       </file>
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/db/Form.kt" timestamp="1526340803244">
+        <mark key="a" line="39" column="17" />
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="25" />
+        <mark key="^" line="41" column="25" />
+        <mark key="." line="41" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="18" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
-      <jump line="263" column="21" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
-      <jump line="264" column="18" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
-      <jump line="35" column="17" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="36" column="17" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="37" column="14" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="95" column="21" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
@@ -1288,10 +1281,14 @@
       <jump line="65" column="42" filename="$USER_HOME$/ccs/Kiosk/versions.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/ccs/Kiosk/versions.gradle" />
       <jump line="28" column="4" filename="$USER_HOME$/ccs/Kiosk/app/src/debug/java/monte/apps/kiosk/App.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/Prefs.kt" />
+      <jump line="6" column="23" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/Prefs.kt" />
+      <jump line="27" column="3" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/Prefs.kt" />
+      <jump line="28" column="9" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/Prefs.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAVHlwZUNvbnZlcnRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1471,58 +1468,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">R3NvbkFkYXB0ZXI8Rm9ybT4oKS5lbmNvZGUodGhpcyk=</text>
       </register>
       <register name="/" type="4">
-        <text>retro</text>
+        <text>Gson</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBARW1iZWRkZWQK</text>
+        <text encoding="base64">ICAgIEBUeXBlQ29udmVydGVyCiAgICBmdW4gPFQ+IGVuY29kZSgpOiBTdHJpbmcgewogICAgICAgIHJldHVybiBHc29uQWRhcHRlcjxGb3JtPigpLmVuY29kZSh0aGlzKQogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAVHlwZUNvbnZlcnRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cm9iamVjdCBGcm9tIHsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnc29uLmZyb21Kc29uPExpc3Q8TWVhc3VyZW1lbnQ+Pihqc29uLCB0eXBlKQo=</text>
+        <text encoding="base64">ICAgIEBUeXBlQ29udmVydGVyCiAgICBmdW4gPFQ+IGZyb20oc3RyaW5nOiBTdHJpbmcpOiBUIHsKICAgICAgICByZXR1cm4gR3NvbigpLmZyb21Kc29uPFQ+KHN0cmluZywgb2JqZWN0IDogVHlwZVRva2VuPEZvcm0+KCkge30udHlwZSkKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0udHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICBlbmNvZGUodmFsdWU6IFQpOiBTdHJpbmcgPSBHc29uKCkudG9Kc29uKHZhbHVlKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ3Nvbi50b0pzb24obGlzdCwgdHlwZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB0eXBlID0gb2JqZWN0IDogVHlwZVRva2VuPExpc3Q8TWVhc3VyZW1lbnQ+PigpIHsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdHlwZSA9IG9iamVjdCA6IFR5cGVUb2tlbjxMaXN0PFQ+PigpIHt9LnR5cGUK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBnc29uID0gR3NvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ3NvbiA9IEdzb24oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gc3RyaW5nVG9NZWFzdXJlbWVudHMoanNvbjogU3RyaW5nKTogTGlzdDxNZWFzdXJlbWVudD4gewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;\(.*\):\$\(.*\)&quot;/'\1' + \2/g</text>
       </register>
     </registers>
     <search>
-      <last-search>retro</last-search>
+      <last-search>Gson</last-search>
       <last-offset />
-      <last-pattern>retro</last-pattern>
+      <last-pattern>Gson</last-pattern>
       <last-replace>'\1' + \2</last-replace>
       <last-substitute>&quot;\(.*\):\$\(.*\)&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1530,7 +1527,6 @@
     </search>
     <history>
       <history-search>
-        <entry>VISIBLE</entry>
         <entry>VISIBL</entry>
         <entry>GONE</entry>
         <entry>visibil</entry>
@@ -1550,6 +1546,7 @@
         <entry>User</entry>
         <entry>timber</entry>
         <entry>retro</entry>
+        <entry>Gson</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ \n/g</entry>
