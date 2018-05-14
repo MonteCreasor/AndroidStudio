@@ -32,11 +32,12 @@
         <mark key="^" line="10" column="77" />
       </file>
       <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay-yeshiva/app/build.gradle" timestamp="1526328702516" />
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/api/CcsApi.kt" timestamp="1526331862580">
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="37" column="49" />
-        <mark key="." line="37" column="49" />
-        <mark key="^" line="37" column="49" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/api/CcsApi.kt" timestamp="1526336522762">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="44" column="11" />
+        <mark key="." line="44" column="11" />
+        <mark key="^" line="44" column="11" />
       </file>
       <file name="$USER_HOME$/client/KioskMode/app/src/main/res/values/strings.xml" timestamp="1521659213730">
         <mark key="[" line="1" column="33" />
@@ -146,7 +147,7 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay-yeshiva/app/src/main/assets/airshipconfig.properties" timestamp="1526329517373">
+      <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay-yeshiva/app/src/main/assets/airshipconfig.properties" timestamp="1526336602611">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="28" column="22" />
         <mark key="." line="28" column="22" />
@@ -1124,8 +1125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="39" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
-      <jump line="203" column="62" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="231" column="60" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="245" column="21" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="96" column="18" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
@@ -1224,10 +1223,12 @@
       <jump line="29" column="14" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/SiteDao.kt" />
       <jump line="41" column="46" filename="$USER_HOME$/ccs/samples/android-architecture-components/PagingWithNetworkSample/versions.gradle" />
       <jump line="21" column="27" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/DeviceDao.kt" />
+      <jump line="35" column="18" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/api/CcsApi.kt" />
+      <jump line="61" column="0" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/api/CcsApi.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1407,7 +1408,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
@@ -1416,40 +1417,40 @@
         <text encoding="base64">ICAgICAgICBAQ29sdW1uSW5mbwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIEJBU0VfVVJMID0gImh0dHBzOi8vd3d3LnJlZGRpdC5jb20vIgogICAgICAgIGZ1biBjcmVhdGUoKTogQ2NzQXBpID0gY3JlYXRlKEh0dHBVcmwucGFyc2UoQkFTRV9VUkwpISEpCiAgICAgICAgZnVuIGNyZWF0ZShodHRwVXJsOiBIdHRwVXJsKTogQ2NzQXBpIHsKICAgICAgICAgICAgdmFsIGxvZ2dlciA9IEh0dHBMb2dnaW5nSW50ZXJjZXB0b3IoSHR0cExvZ2dpbmdJbnRlcmNlcHRvci5Mb2dnZXIgewogICAgICAgICAgICAgICAgTG9nLmQoIkFQSSIsIGl0KQogICAgICAgICAgICB9KQogICAgICAgICAgICBsb2dnZXIubGV2ZWwgPSBIdHRwTG9nZ2luZ0ludGVyY2VwdG9yLkxldmVsLkJBU0lDCgogICAgICAgICAgICB2YWwgY2xpZW50ID0gT2tIdHRwQ2xpZW50LkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5hZGRJbnRlcmNlcHRvcihsb2dnZXIpCiAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICAgICAgcmV0dXJuIFJldHJvZml0LkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5iYXNlVXJsKGh0dHBVcmwpCiAgICAgICAgICAgICAgICAgICAgLmNsaWVudChjbGllbnQpCiAgICAgICAgICAgICAgICAgICAgLmFkZENvbnZlcnRlckZhY3RvcnkoR3NvbkNvbnZlcnRlckZhY3RvcnkuY3JlYXRlKCkpCiAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICAgICAgICAgICAgICAuY3JlYXRlKENjc0FwaTo6Y2xhc3MuamF2YSkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAQ29sdW1uSW5mbyhuYW1lID0gInVybCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFBhdGgoInN1YnJlZGRpdCIpIHN1YnJlZGRpdDogU3RyaW5nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZm9ybWlvSWQ6IFN0cmluZywK</text>
+        <text encoding="base64">ICAgIEBnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAQ29sdW1uSW5mbyhuYW1lID0gImZvcm1pb19pZCIsIGluZGV4ID0gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBAQ29sdW1uSW5mbyhuYW1lID0gInVybCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZm9ybWlvSWQ6IFN0cmluZywK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAQ29sdW1uSW5mbyhuYW1lID0gImRhdGEiKQo=</text>
+        <text encoding="base64">ICAgICAgICBAQ29sdW1uSW5mbyhuYW1lID0gImZvcm1pb19pZCIsIGluZGV4ID0gdHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBACg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAQ29sdW1uSW5mbyhuYW1lID0gImRhdGEiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc291cmNlVXJsOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">ICAgICAgICBACg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;\(.*\):\$\(.*\)&quot;/'\1' + \2/g</text>
