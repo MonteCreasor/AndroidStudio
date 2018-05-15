@@ -119,13 +119,6 @@
         <mark key="^" line="30" column="11" />
         <mark key="." line="30" column="11" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/injection/Injection.kt" timestamp="1526362886468">
-        <mark key="a" line="14" column="22" />
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="15" column="28" />
-        <mark key="^" line="15" column="28" />
-        <mark key="." line="15" column="28" />
-      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/BeingRunnableTest.java" timestamp="1520813057894">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -277,12 +270,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApiService.kt" timestamp="1526364757574">
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApiService.kt" timestamp="1526406871297">
         <mark key="'" line="12" column="20" />
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="29" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
         <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/res/layout/scanner_fragment.xml" timestamp="1526246660246">
         <mark key="'" line="9" column="0" />
@@ -704,12 +697,12 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/scanner/LiveDataViewModel.kt" timestamp="1526362489260">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-        <mark key="^" line="17" column="7" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/scanner/LiveDataViewModel.kt" timestamp="1526406766166">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/client/app/src/main/assets/www/index.html" timestamp="1521563926833">
         <mark key="[" line="72" column="71" />
@@ -816,11 +809,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApi.kt" timestamp="1526405104978">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="57" column="79" />
-        <mark key="." line="66" column="61" />
-        <mark key="^" line="66" column="61" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApi.kt" timestamp="1526407466170">
+        <mark key="[" line="72" column="5" />
+        <mark key="]" line="74" column="10" />
+        <mark key="." line="74" column="10" />
+        <mark key="^" line="74" column="10" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/Device.kt" timestamp="1526334351379">
         <mark key="[" line="54" column="19" />
@@ -1254,13 +1247,6 @@
         <mark key="]" line="12" column="61" />
         <mark key="." line="12" column="61" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/db/Form.kt" timestamp="1526359888732">
-        <mark key="a" line="19" column="17" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="84" column="66" filename="$USER_HOME$/ccs/Kiosk/app/build.gradle" />
@@ -1365,8 +1351,8 @@
       <jump line="93" column="26" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/Settings.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Companion</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1546,7 +1532,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setupMock</text>
+        <text>Companion</text>
       </register>
       <register name="/" type="4">
         <text>MOCK</text>
@@ -1561,34 +1547,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNyZWF0ZSgpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICB2YWwgZ3NvbkNvbnZlcnRlckZhY3RvcnkgPSBHc29uQ29udmVydGVyRmFjdG9yeS5jcmVhdGUoCiAgICAgICAgICAgICAgICAgICAgR3NvbkJ1aWxkZXIoKS5zZXREYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIikuY3JlYXRlKCkpCiAgICAgICAgICAgIHZhbCByZXRyb2ZpdCA9IFJldHJvZml0LkJ1aWxkZXIoKS5iYXNlVXJsKCJodHRwOi8vbW9jay5jb20iKQogICAgICAgICAgICAgICAgICAgIC5jbGllbnQoT2tIdHRwQ2xpZW50KCkpCiAgICAgICAgICAgICAgICAgICAgLmFkZENvbnZlcnRlckZhY3RvcnkoZ3NvbkNvbnZlcnRlckZhY3RvcnkpCiAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKCiAgICAgICAgICAgIHZhbCBiZWhhdmlvciA9IE5ldHdvcmtCZWhhdmlvci5jcmVhdGUoKQogICAgICAgICAgICBiZWhhdmlvci5zZXREZWxheShTZXR0aW5ncy5uZXR3b3JrRGVsYXksIFRpbWVVbml0Lk1JTExJU0VDT05EUykKICAgICAgICAgICAgYmVoYXZpb3Iuc2V0RmFpbHVyZVBlcmNlbnQoU2V0dGluZ3MuZmFpbHVyZVBlcmNlbnQpCiAgICAgICAgICAgIGJlaGF2aW9yLnNldFZhcmlhbmNlUGVyY2VudChTZXR0aW5ncy52YXJpYW5jZVBlcmNlbnQpCgogICAgICAgICAgICBtb2NrUmV0cm9maXQgPSBNb2NrUmV0cm9maXQuQnVpbGRlcihyZXRyb2ZpdCkKICAgICAgICAgICAgICAgICAgICAubmV0d29ya0JlaGF2aW9yKGJlaGF2aW9yKQogICAgICAgICAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIFRpbWJlci5lKGUsICJVbmFibGUgdG8gc2V0dXAgQVBJIG1vY2tpbmciKQogICAgICAgICAgICB0aHJvdyBlCiAgICAgICAgfQoKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qYWtld2hhcnRvbi5yZXRyb2ZpdDIuYWRhcHRlci5yeGphdmEyLlJ4SmF2YTJDYWxsQWRhcHRlckZhY3RvcnkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNyZWF0ZSgpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICB2YWwgZ3NvbkNvbnZlcnRlckZhY3RvcnkgPSBHc29uQ29udmVydGVyRmFjdG9yeS5jcmVhdGUoCiAgICAgICAgICAgICAgICAgICAgR3NvbkJ1aWxkZXIoKS5zZXREYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIikuY3JlYXRlKCkpCiAgICAgICAgICAgIHZhbCByZXRyb2ZpdCA9IFJldHJvZml0LkJ1aWxkZXIoKS5iYXNlVXJsKCJodHRwOi8vbW9jay5jb20iKQogICAgICAgICAgICAgICAgICAgIC5jbGllbnQoT2tIdHRwQ2xpZW50KCkpCiAgICAgICAgICAgICAgICAgICAgLmFkZENvbnZlcnRlckZhY3RvcnkoZ3NvbkNvbnZlcnRlckZhY3RvcnkpCiAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKCiAgICAgICAgICAgIHZhbCBiZWhhdmlvciA9IE5ldHdvcmtCZWhhdmlvci5jcmVhdGUoKQogICAgICAgICAgICBiZWhhdmlvci5zZXREZWxheShTZXR0aW5ncy5uZXR3b3JrRGVsYXksIFRpbWVVbml0Lk1JTExJU0VDT05EUykKICAgICAgICAgICAgYmVoYXZpb3Iuc2V0RmFpbHVyZVBlcmNlbnQoU2V0dGluZ3MuZmFpbHVyZVBlcmNlbnQpCiAgICAgICAgICAgIGJlaGF2aW9yLnNldFZhcmlhbmNlUGVyY2VudChTZXR0aW5ncy52YXJpYW5jZVBlcmNlbnQpCgogICAgICAgICAgICBtb2NrUmV0cm9maXQgPSBNb2NrUmV0cm9maXQuQnVpbGRlcihyZXRyb2ZpdCkKICAgICAgICAgICAgICAgICAgICAubmV0d29ya0JlaGF2aW9yKGJlaGF2aW9yKQogICAgICAgICAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIFRpbWJlci5lKGUsICJVbmFibGUgdG8gc2V0dXAgQVBJIG1vY2tpbmciKQogICAgICAgICAgICB0aHJvdyBlCiAgICAgICAgfQoKICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qYWtld2hhcnRvbi5yZXRyb2ZpdDIuYWRhcHRlci5yeGphdmEyLlJ4SmF2YTJDYWxsQWRhcHRlckZhY3RvcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBtb250ZSBvbiAyMDE3LTAyLTI3Lgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBtb250ZSBvbiAyMDE3LTAyLTI3Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uUmVhZGVyCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uV3JpdGVyCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uUmVhZGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBNT0NLX0FQSSA9IGZhbHNlCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uV3JpdGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;\(.*\):\$\(.*\)&quot;/'\1' + \2/g</text>
