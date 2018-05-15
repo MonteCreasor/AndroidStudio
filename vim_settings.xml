@@ -606,6 +606,9 @@
         <mark key="." line="81" column="46" />
         <mark key="^" line="81" column="46" />
       </file>
+      <file name="/Dummy.txt" timestamp="1526410553361">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Student Submissions/assignment2b-broken/Andrew_Carlston/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/SimpleSemaphoreTest.java" timestamp="1521591831523">
         <mark key="[" line="45" column="27" />
         <mark key="]" line="45" column="27" />
@@ -657,6 +660,9 @@
         <mark key="]" line="77" column="38" />
         <mark key="." line="77" column="38" />
         <mark key="^" line="77" column="38" />
+      </file>
+      <file name="$USER_HOME$/android/samples/architecture/u2020/src/internalDebug/java/com/jakewharton/u2020/data/api/MockGithubService.java" timestamp="1526410068808">
+        <mark key="'" line="24" column="9" />
       </file>
       <file name="$USER_HOME$/client/KioskMode/app/src/main/AndroidManifest.xml" timestamp="1521659502654">
         <mark key="[" line="23" column="26" />
@@ -1006,6 +1012,9 @@
         <mark key="." line="55" column="24" />
         <mark key="^" line="55" column="24" />
       </file>
+      <file name="/fragment.kt" timestamp="1526359607147">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/dependencies.gradle" timestamp="1522359749386">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="33" />
@@ -1274,8 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="62" filename="$USER_HOME$/ccs/Kiosk/app/build.gradle" />
-      <jump line="93" column="65" filename="$USER_HOME$/ccs/Kiosk/app/build.gradle" />
       <jump line="99" column="47" filename="$USER_HOME$/ccs/Kiosk/app/build.gradle" />
       <jump line="90" column="28" filename="$USER_HOME$/ccs/Kiosk/app/build.gradle" />
       <jump line="111" column="0" filename="$USER_HOME$/ccs/Kiosk/app/build.gradle" />
@@ -1374,6 +1381,8 @@
       <jump line="33" column="19" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/mocking/MockService.kt" />
       <jump line="13" column="26" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApiService.kt" />
       <jump line="19" column="13" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApi.kt" />
+      <jump line="23" column="46" filename="$USER_HOME$/android/samples/architecture/u2020/src/internalDebug/java/com/jakewharton/u2020/data/api/MockGithubService.java" />
+      <jump line="24" column="9" filename="$USER_HOME$/android/samples/architecture/u2020/src/internalDebug/java/com/jakewharton/u2020/data/api/MockGithubService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1560,7 +1569,7 @@
         <text>interceptor</text>
       </register>
       <register name="/" type="4">
-        <text>mockR</text>
+        <text>delegate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuIE9rSHR0cENsaWVudC5CdWlsZGVyLmFkZFF1ZXJ5UGFyYW1ldGVySW50ZXJjZXB0b3IoCiAgICAgICAgbmFtZTogU3RyaW5nLCB2YWx1ZTogU3RyaW5nKTogT2tIdHRwQ2xpZW50LkJ1aWxkZXIgewogICAgdmFsIGludGVyY2VwdG9yID0gSW50ZXJjZXB0b3IgeyBjaGFpbiAtPgogICAgICAgIHZhbCBvcmlnaW5hbCA9IGNoYWluLnJlcXVlc3QoKQogICAgICAgIHZhbCBvcmlnaW5hbEh0dHBVcmwgPSBvcmlnaW5hbC51cmwoKQoKICAgICAgICB2YWwgdXJsID0gb3JpZ2luYWxIdHRwVXJsLm5ld0J1aWxkZXIoKQogICAgICAgICAgICAgICAgLmFkZFF1ZXJ5UGFyYW1ldGVyKCI8VE9ETz4iLCAiPFRPRE8+IikKICAgICAgICAgICAgICAgIC5idWlsZCgpCgogICAgICAgIC8vIFJlcXVlc3QgY3VzdG9taXphdGlvbjogYWRkIHJlcXVlc3QgaGVhZGVycwogICAgICAgIHZhbCByZXF1ZXN0QnVpbGRlciA9IG9yaWdpbmFsLm5ld0J1aWxkZXIoKQogICAgICAgICAgICAgICAgLnVybCh1cmwpCgogICAgICAgIHZhbCByZXF1ZXN0ID0gcmVxdWVzdEJ1aWxkZXIuYnVpbGQoKQogICAgICAgIGNoYWluLnByb2NlZWQocmVxdWVzdCkKICAgIH0KCiAgICBhZGRJbnRlcmNlcHRvcihpbnRlcmNlcHRvcikKICAgIHJldHVybiB0aGlzCn0K</text>
@@ -1606,9 +1615,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mockR</last-search>
+      <last-search>delegate</last-search>
       <last-offset />
-      <last-pattern>mockR</last-pattern>
+      <last-pattern>delegate</last-pattern>
       <last-replace>'\1' + \2</last-replace>
       <last-substitute>&quot;\(.*\):\$\(.*\)&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1616,7 +1625,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ktx</entry>
         <entry>27</entry>
         <entry>26</entry>
         <entry>retrofit</entry>
@@ -1636,6 +1644,7 @@
         <entry>mock</entry>
         <entry>MOCK</entry>
         <entry>mockR</entry>
+        <entry>delegate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ \n/g</entry>
