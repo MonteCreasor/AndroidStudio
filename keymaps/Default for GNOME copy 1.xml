@@ -1,3 +1,7 @@
 <keymap version="1" name="Default for GNOME copy 1" parent="Default for GNOME">
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
   <action id="MaterialDesignIconGenerateAction" />
 </keymap>
