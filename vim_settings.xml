@@ -216,12 +216,6 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/Prefs.kt" timestamp="1526425922373">
-        <mark key="a" line="228" column="0" />
-        <mark key="'" line="316" column="12" />
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="297" column="95" />
-      </file>
       <file name="$USER_HOME$/ccs/modules/Settings/settings/build.gradle" timestamp="1523915406809">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="4" column="0" />
@@ -703,13 +697,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/main/MainActivity.kt" timestamp="1526444311740">
-        <mark key="a" line="45" column="6" />
-        <mark key="'" line="86" column="61" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/main/MainActivity.kt" timestamp="1526445566679">
+        <mark key="a" line="93" column="3" />
+        <mark key="'" line="85" column="61" />
+        <mark key="[" line="111" column="48" />
+        <mark key="]" line="111" column="48" />
+        <mark key="^" line="111" column="51" />
+        <mark key="." line="111" column="48" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/api/CCSApi.kt" timestamp="1526363452923">
         <mark key="'" line="42" column="8" />
@@ -849,6 +843,13 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/strings.xml" timestamp="1526445677483">
+        <mark key="'" line="9" column="71" />
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="25" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/build.gradle" timestamp="1523933689413">
         <mark key="[" line="12" column="57" />
@@ -1359,12 +1360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="32" filename="$USER_HOME$/ccs/samples/android-architecture-components/PagingWithNetworkSample/app/src/test-common/java/com/android/example/paging/pagingwithnetwork/repository/FakeRedditApi.kt" />
-      <jump line="13" column="9" filename="$USER_HOME$/ccs/Kiosk/versions.gradle" />
-      <jump line="15" column="9" filename="$USER_HOME$/ccs/Kiosk/versions.gradle" />
-      <jump line="17" column="9" filename="$USER_HOME$/ccs/Kiosk/versions.gradle" />
-      <jump line="18" column="9" filename="$USER_HOME$/ccs/Kiosk/versions.gradle" />
-      <jump line="41" column="34" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/mocking/MockService.kt" />
       <jump line="93" column="26" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/Settings.kt" />
       <jump line="29" column="27" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/mocking/MockService.kt" />
       <jump line="13" column="26" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApiService.kt" />
@@ -1459,10 +1454,16 @@
       <jump line="263" column="8" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/KioskModeActivity.kt" />
       <jump line="54" column="21" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/KioskModeActivity.kt" />
       <jump line="216" column="7" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/KioskModeActivity.kt" />
+      <jump line="3" column="43" filename="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/strings.xml" />
+      <jump line="4" column="58" filename="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/strings.xml" />
+      <jump line="5" column="59" filename="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/strings.xml" />
+      <jump line="6" column="32" filename="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/strings.xml" />
+      <jump line="8" column="71" filename="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/strings.xml" />
+      <jump line="9" column="71" filename="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1642,58 +1643,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>startK</text>
+        <text>owner</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZXhpdF9idXR0b24iPkV4aXQ8L3N0cmluZz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9hc3QoZ2V0U3RyaW5nKFIuc3RyaW5nLmtpb3NrX21vZGVfbm90X3N1cHBvcnRlZCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIVBvbGljeU1hbmFnZXIuaXNEZXZpY2VPd25lcikgewogICAgICAgICAgICB0b2FzdChnZXRTdHJpbmcoUi5zdHJpbmcubG9ja190YXNrX25vdF9wZXJtaXR0ZWQpKQogICAgICAgICAgICByZXR1cm4gZmFsc2UKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmVnYXRpdmVCdXR0b24oIk5vIFRoYW5rcyIpIHsgZmluaXNoKCkgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluaXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHlGb3JSZXN1bHQoaW50ZW50LCBTRUNVUklUWV9TRVRUSU5HU19SRVFVRVNUKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodGV4dC5pc051bGxPckJsYW5rKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBpbnRlbnQgPSBJbnRlbnQoYW5kcm9pZC5wcm92aWRlci5TZXR0aW5ncy5BQ1RJT05fU0VDVVJJVFlfU0VUVElOR1MpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgdGV4dCA9IGlucHV0Py50ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpdmVCdXR0b24oIlNldHRpbmdzIikgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBmaXJzdFJ1bjogQm9vbGVhbiBieSBQcmVmZXJlbmNlKHRydWUsICJmaXJzdF9ydW5fcHJlZiIpCiAgICAK</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbnRlLmFwcHMua2lvc2suY29tbW9uLlByZWZlcmVuY2UK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluaXNoKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;\(.*\):\$\(.*\)&quot;/'\1' + \2/g</text>
       </register>
     </registers>
     <search>
-      <last-search>startK</last-search>
+      <last-search>owner</last-search>
       <last-offset />
-      <last-pattern>startK</last-pattern>
+      <last-pattern>owner</last-pattern>
       <last-replace>'\1' + \2</last-replace>
       <last-substitute>&quot;\(.*\):\$\(.*\)&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1701,7 +1702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ioExecutor</entry>
         <entry>disk</entry>
         <entry>Execu</entry>
         <entry>onCreate</entry>
@@ -1721,6 +1721,7 @@
         <entry>alert</entry>
         <entry>pendingRe</entry>
         <entry>startK</entry>
+        <entry>owner</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ \n/g</entry>
