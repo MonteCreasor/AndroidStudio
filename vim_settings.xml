@@ -697,13 +697,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/main/MainActivity.kt" timestamp="1526486618786">
-        <mark key="a" line="145" column="3" />
-        <mark key="'" line="83" column="36" />
-        <mark key="[" line="69" column="8" />
-        <mark key="]" line="69" column="8" />
-        <mark key="." line="69" column="8" />
-        <mark key="^" line="69" column="16" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/main/MainActivity.kt" timestamp="1526487777984">
+        <mark key="a" line="153" column="3" />
+        <mark key="'" line="68" column="21" />
+        <mark key="[" line="73" column="35" />
+        <mark key="]" line="73" column="35" />
+        <mark key="." line="73" column="35" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/api/CCSApi.kt" timestamp="1526363452923">
         <mark key="'" line="42" column="8" />
@@ -1344,7 +1344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="27" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/mocking/MockService.kt" />
       <jump line="13" column="26" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApiService.kt" />
       <jump line="19" column="13" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApi.kt" />
       <jump line="23" column="46" filename="$USER_HOME$/android/samples/architecture/u2020/src/internalDebug/java/com/jakewharton/u2020/data/api/MockGithubService.java" />
@@ -1444,10 +1443,11 @@
       <jump line="9" column="71" filename="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/strings.xml" />
       <jump line="65" column="36" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/main/MainActivity.kt" />
       <jump line="93" column="0" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/KioskModeActivity.kt" />
+      <jump line="67" column="21" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/main/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Callable.</text>
+        <text>post</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1627,49 +1627,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Callable.</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text>stop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gc3VjY2Vzc3MoKSA9IHsgc3RhdHVzID0gdHJ1ZTsgc2VtYXBob3JlLnJlbGVhc2UoKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bk9uVWlUaHJlYWQoeyBzaG93RGV2aWNlSWRBbGVydChyZXN1bHQpIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC53YWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bk9uVWlUaHJlYWQoeyBzaG93RGV2aWNlSWRBbGVydChyZXN1bHQpIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgampqamoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW4gd2FpdCgpID0geyBzZW1hcGhvcmUuYWNxdWlyZSgpIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbWFwaG9yZS5hY3F1aXJlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbWFwaG9yZS5hY3F1aXJlKCkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1dHVyZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2VtYXBob3JlID0gU2VtYXBob3JlKDApCg==</text>
+        <text encoding="base64">ICAgICAgICBGdXR1cmUK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC53YWl0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBmaW5pc2hBY3Rpdml0eSA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;\(.*\):\$\(.*\)&quot;/'\1' + \2/g</text>
