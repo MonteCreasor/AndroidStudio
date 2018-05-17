@@ -719,7 +719,12 @@
         <mark key="." line="41" column="47" />
         <mark key="^" line="41" column="46" />
       </file>
-      <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/views/actions/ActionInputDialog.java" timestamp="1526529935018" />
+      <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/views/actions/ActionInputDialog.java" timestamp="1526531761335">
+        <mark key="[" line="163" column="51" />
+        <mark key="]" line="163" column="51" />
+        <mark key="." line="163" column="51" />
+        <mark key="^" line="163" column="51" />
+      </file>
       <file name="$USER_HOME$/client/KioskMode/app/src/main/java/monte/appss/kioskmode/MainActivity.kt" timestamp="1521651718465">
         <mark key="[" line="55" column="20" />
         <mark key="]" line="55" column="24" />
@@ -1013,7 +1018,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gb25SZXN1bWUoKSB7CiAgICAgICAgICAgIHN1cGVyLm9uUmVzdW1lKCkKICAgICAgICB9</text>
+        <text>;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1193,13 +1198,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>View.generateViewId()</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>application</text>
+        <text>onPause</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGlhbG9nRnJhZ21lbnQgPSBBbGVydERpYWxvZ0ZyYWdtZW50Lm5ld0luc3RhbmNlKGRpYWxvZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRFbmFibGVkKCFUZXh0VXRpbHMuaXNFbXB0eShlZGl0VGV4dC5nZXRUZXh0KCkpKTsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gb25SZXN1bWUoKSB7CiAgICAgICAgICAgIHN1cGVyLm9uUmVzdW1lKCkKICAgICAgICB9</text>
@@ -1242,9 +1247,9 @@
       </register>
     </registers>
     <search>
-      <last-search>application</last-search>
+      <last-search>onPause</last-search>
       <last-offset />
-      <last-pattern>application</last-pattern>
+      <last-pattern>onPause</last-pattern>
       <last-replace>'\1' + \2</last-replace>
       <last-substitute>&quot;\(.*\):\$\(.*\)&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1252,7 +1257,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pendingRe</entry>
         <entry>startK</entry>
         <entry>owner</entry>
         <entry>stop</entry>
@@ -1272,6 +1276,7 @@
         <entry>getDeviceW</entry>
         <entry>getDevice</entry>
         <entry>application</entry>
+        <entry>onPause</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ \n/g</entry>
