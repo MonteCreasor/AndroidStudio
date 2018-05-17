@@ -872,13 +872,13 @@
         <mark key="^" line="54" column="4" />
         <mark key="." line="54" column="4" />
       </file>
-      <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/AlertDialogFragment.kt" timestamp="1526594180685">
-        <mark key="a" line="58" column="45" />
-        <mark key="'" line="50" column="16" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="59" column="45" />
+      <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/AlertDialogFragment.kt" timestamp="1526595117802">
+        <mark key="a" line="57" column="45" />
+        <mark key="'" line="80" column="26" />
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+        <mark key="^" line="42" column="30" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/CameraService.kt" timestamp="1524206069005">
         <mark key="'" line="242" column="12" />
@@ -1156,7 +1156,7 @@
         <mark key="^" line="21" column="66" />
         <mark key="." line="21" column="66" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/AsyncAlert.kt" timestamp="1526593900908">
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/AsyncAlert.kt" timestamp="1526594452650">
         <mark key="a" line="231" column="0" />
         <mark key="'" line="199" column="23" />
         <mark key="[" line="4" column="0" />
@@ -1359,7 +1359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="21" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/SecureActivity.kt" />
       <jump line="169" column="33" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/SecureActivity.kt" />
       <jump line="194" column="33" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/SecureActivity.kt" />
       <jump line="217" column="27" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/SecureActivity.kt" />
@@ -1459,10 +1458,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/ccs/DialogFragmentSandbox/versions.gradle" />
       <jump line="16" column="9" filename="$USER_HOME$/ccs/DialogFragmentSandbox/versions.gradle" />
       <jump line="199" column="23" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/AsyncAlert.kt" />
+      <jump line="81" column="26" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/AlertDialogFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>this</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1642,49 +1642,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>customView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY29udGV4dCBpcyBMaXN0ZW5lcikgewogICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0Lm9uU3VjY2VzcygiSEVMTE8iKQogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5rby5zdXBwb3J0LnY0LmFsZXJ0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9uCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5rby5hcHBjb21wYXQudjcuKgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5rby4qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5rby4qCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b2FzdCgiQ0FOQ0VMIikK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG9hc3QoIllFUyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZpdHkub25GYWlsdXJlKCJOTyIpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgago=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeDogRGlhbG9nSW50ZXJmYWNlID0gZGlhbG9nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vblN1Y2Nlc3ModmFsdWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkZhaWx1cmUobXNnKQo=</text>
+        <text encoding="base64">ICAgICAgICBkaWFsb2cuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkRpYWxvZwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;\(.*\):\$\(.*\)&quot;/'\1' + \2/g</text>
