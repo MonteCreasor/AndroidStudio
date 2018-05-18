@@ -1021,13 +1021,12 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" timestamp="1526640287950">
-        <mark key="a" line="31" column="0" />
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="165" column="23" />
-        <mark key="]" line="165" column="24" />
-        <mark key="^" line="165" column="24" />
-        <mark key="." line="165" column="24" />
+      <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" timestamp="1526668040254">
+        <mark key="a" line="32" column="0" />
+        <mark key="[" line="163" column="16" />
+        <mark key="]" line="163" column="26" />
+        <mark key="." line="163" column="26" />
+        <mark key="^" line="163" column="26" />
       </file>
       <file name="$USER_HOME$/client/KioskMode/app/build.gradle" timestamp="1521655011770">
         <mark key="[" line="29" column="0" />
@@ -1589,7 +1588,6 @@
       <jump line="83" column="37" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
       <jump line="103" column="29" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
       <jump line="115" column="18" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
-      <jump line="144" column="24" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
       <jump line="146" column="38" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
       <jump line="149" column="22" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
       <jump line="262" column="31" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
@@ -1598,10 +1596,11 @@
       <jump line="95" column="57" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
       <jump line="97" column="3" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
       <jump line="40" column="0" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
+      <jump line="144" column="11" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>onComplete</text>
+        <text>validateDeviceId</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1781,31 +1780,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>onComplete</text>
+        <text>validateDeviceId</text>
       </register>
       <register name="/" type="4">
         <text>DeviceOwnerAlert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFwcmVmcy5nZXRTdHJpbmcoImRldmljZUlkIiwgbnVsbCkuaXNOdWxsT3JCbGFuaygpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmFuZFRoZW4geyBzdGFydEtpb3NrTW9kZSgpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghTG9vcGVyLmdldE1haW5Mb29wZXIoKS5pc0N1cnJlbnRUaHJlYWQpIHt9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLm9ic2VydmVPbihTY2hlZHVsZXJzLnNpbmdsZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bk9uVWlUaHJlYWQgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmFuZFRoZW4geyB2YWxpZGF0ZVBpbigpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgKChDb21wbGV0YWJsZSl0aGlzKS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLm9ic2VydmVPbihTY2hlZHVsZXJzLnNpbmdsZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXJjZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmFuZFRoZW4geyB2YWxpZGF0ZURldmljZU93bmVyKCkgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmFuZFRoZW4geyBzdGFydEtpb3NrTW9kZSgpIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
@@ -1814,16 +1813,16 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLm9ic2VydmVPbihTY2hlZHVsZXJzLnNpbmdsZSgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiB2YWxpZGF0ZURldmljZUlkKCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmFuZFRoZW4geyB2YWxpZGF0ZVBpbigpIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbXBvc2l0ZURpc3Bvc2FibGUuYWRkKGRpc3Bvc2FibGUpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLm9ic2VydmVPbihTY2hlZHVsZXJzLnNpbmdsZSgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKHsgc2hvd0xheW91dCgpIH0sIHsgdCAtPiB0b2FzdCh0LnRvU3RyaW5nKCkpIH0pCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmFuZFRoZW4geyB2YWxpZGF0ZURldmljZU93bmVyKCkgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/CustomA/A/g</text>
