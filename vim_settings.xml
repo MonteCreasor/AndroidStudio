@@ -112,11 +112,11 @@
         <mark key="^" line="30" column="11" />
         <mark key="." line="30" column="11" />
       </file>
-      <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/res/layout/fragment_pending.xml" timestamp="1526616488489">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="15" column="42" />
-        <mark key="^" line="13" column="45" />
-        <mark key="." line="15" column="42" />
+      <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/res/layout/fragment_pending.xml" timestamp="1526618847869">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="30" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/BeingRunnableTest.java" timestamp="1520813057894">
         <mark key="[" line="21" column="0" />
@@ -734,13 +734,13 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" timestamp="1526617980438">
+      <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" timestamp="1526619001228">
         <mark key="a" line="54" column="11" />
-        <mark key="'" line="202" column="25" />
-        <mark key="[" line="203" column="24" />
-        <mark key="]" line="203" column="24" />
-        <mark key="." line="203" column="24" />
-        <mark key="^" line="204" column="32" />
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="195" column="56" />
+        <mark key="]" line="196" column="35" />
+        <mark key="." line="196" column="35" />
+        <mark key="^" line="196" column="35" />
       </file>
       <file name="$USER_HOME$/projects/FamilyFirst/feature/src/main/res/layout/contact_item.xml" timestamp="1520996797772">
         <mark key="[" line="16" column="0" />
@@ -914,13 +914,13 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" timestamp="1526617038935">
-        <mark key="a" line="85" column="27" />
-        <mark key="'" line="32" column="97" />
-        <mark key="[" line="88" column="59" />
-        <mark key="]" line="88" column="62" />
-        <mark key="." line="88" column="62" />
-        <mark key="^" line="88" column="62" />
+      <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" timestamp="1526618827538">
+        <mark key="a" line="93" column="27" />
+        <mark key="'" line="31" column="97" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="28" />
+        <mark key="." line="96" column="59" />
+        <mark key="^" line="89" column="42" />
       </file>
       <file name="$USER_HOME$/client/KioskMode/app/build.gradle" timestamp="1521655011770">
         <mark key="[" line="29" column="0" />
@@ -1365,9 +1365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="29" filename="$USER_HOME$/ccs/DialogFragmentSandbox/versions.gradle" />
-      <jump line="96" column="32" filename="$USER_HOME$/ccs/DialogFragmentSandbox/versions.gradle" />
-      <jump line="97" column="32" filename="$USER_HOME$/ccs/DialogFragmentSandbox/versions.gradle" />
       <jump line="101" column="27" filename="$USER_HOME$/ccs/DialogFragmentSandbox/versions.gradle" />
       <jump line="102" column="26" filename="$USER_HOME$/ccs/DialogFragmentSandbox/versions.gradle" />
       <jump line="117" column="38" filename="$USER_HOME$/ccs/DialogFragmentSandbox/versions.gradle" />
@@ -1465,10 +1462,13 @@
       <jump line="190" column="0" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
       <jump line="36" column="0" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
       <jump line="202" column="25" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
+      <jump line="47" column="37" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
+      <jump line="45" column="4" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
+      <jump line="28" column="8" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Context</text>
+        <text>e</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1648,58 +1648,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Context</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>newInstance</text>
+        <text>replace</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd3NEaWFsb2cgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21taXROb3coKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd3NEaWFsb2cgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodHJ1ZSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2hvd3NEaWFsb2cgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd3NEaWFsb2cgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQuc2hvdyh0aGlzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlci5maW5kRnJhZ21lbnRCeUlkKFIuaWQuY29udGFpbmVyKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQWxlcnREaWFsb2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRJbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmZyYWdtZW50X3BlbmRpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;\(.*\):\$\(.*\)&quot;/'\1' + \2/g</text>
       </register>
     </registers>
     <search>
-      <last-search>newInstance</last-search>
+      <last-search>replace</last-search>
       <last-offset />
-      <last-pattern>newInstance</last-pattern>
+      <last-pattern>replace</last-pattern>
       <last-replace>'\1' + \2</last-replace>
       <last-substitute>&quot;\(.*\):\$\(.*\)&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1707,7 +1707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>appcom</entry>
         <entry>support</entry>
         <entry>support\.</entry>
         <entry>anko</entry>
@@ -1723,10 +1722,11 @@
         <entry>finish</entry>
         <entry>toast</entry>
         <entry>onCreate</entry>
-        <entry>replace</entry>
         <entry>show</entry>
         <entry>showLayout</entry>
         <entry>newInstance</entry>
+        <entry>_con</entry>
+        <entry>replace</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ \n/g</entry>
