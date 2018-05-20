@@ -408,12 +408,13 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" timestamp="1526852794047">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="120" column="92" />
-        <mark key="]" line="120" column="98" />
-        <mark key="." line="120" column="98" />
-        <mark key="^" line="120" column="98" />
+      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" timestamp="1526853791085">
+        <mark key="a" line="97" column="0" />
+        <mark key="'" line="77" column="6" />
+        <mark key="[" line="154" column="16" />
+        <mark key="]" line="155" column="15" />
+        <mark key="." line="155" column="15" />
+        <mark key="^" line="155" column="15" />
       </file>
       <file name="$USER_HOME$/ccs/test-apps/client/build.gradle" timestamp="1523323864500">
         <mark key="[" line="14" column="14" />
@@ -854,8 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="75" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
-      <jump line="326" column="22" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
       <jump line="332" column="20" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
       <jump line="296" column="8" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
       <jump line="301" column="12" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
@@ -954,10 +953,12 @@
       <jump line="120" column="91" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
       <jump line="140" column="46" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
       <jump line="48" column="0" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
+      <jump line="98" column="8" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
+      <jump line="77" column="6" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHJ1ZSA=</text>
+        <text>(</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1137,49 +1138,50 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHJ1ZSA=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>finish(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvblByZWNvbmRpdGlvbnNSZXN1bHQoYWxlcnQ6OmNsYXNzLmphdmEsIHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIGZ1biBhZGQoZ29hbDogKCkgLT4gQm9vbGVhbiwKICAgICAgICAgICAgYWN0aW9uOiAoKSAtPiBCb29sZWFuLAogICAgICAgICAgICBzdWNjZXNzOiAodmFsdWU6IEFueT8pIC0+IEJvb2xlYW4gPSB7IHRydWUgfSwKICAgICAgICAgICAgZmFpbHVyZTogKCkgLT4gQm9vbGVhbiA9IHsgZmFsc2UgfSk6IFByZWNvbmRpdGlvbnM8VD4gewogICAgICAgIHZhbCBwcmV2aW91cyA9IGNoYWluLmxhc3QoKQoKICAgICAgICBpZiAocHJldmlvdXMuaWQgPT0gLTEpIHsKICAgICAgICAgICAgdGhyb3cgRXhjZXB0aW9uKCJQcmVjb25kaXRpb25zIGZpbmFsbHkgaGFzIGFscmVhZHkgYmVlbiBjYWxsZWQuIikKICAgICAgICB9CgogICAgICAgIHZhbCB2YWxpZGF0b3IgPSBWYWxpZGF0b3IoKytpZCwgZ29hbCwgYWN0aW9uLCBzdWNjZXNzLCBmYWlsdXJlKQogICAgICAgIHByZXZpb3VzLm5leHQgPSB7IHZhbGlkYXRvci5ydW4oKSB9CiAgICAgICAgY2hhaW4uYWRkKHZhbGlkYXRvcikKCiAgICAgICAgcmV0dXJuIHRoaXMKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMpCg==</text>
+      <register name="1" type="4">
+        <text>ljjjits context is an [Alert#Listener]
+ *    and will [Alert#Listener.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25QcmVjb25kaXRpb25zUmVzdWx0KGFsZXJ0OjpjbGFzcy5qYXZhLCBpZiAoc3RhdHVzKSB2YWx1ZSBlbHNlIG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gb25Bc3luY1Jlc3VsdChhbGVydDogQWxlcnQsIHN0YXR1czogQm9vbGVhbiwgdmFsdWU6IEFueT8pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25QcmVjb25kaXRpb25zUmVzdWx0KGFsZXJ0OjpjbGFzcy5qYXZhLCBpZiAoc3RhdHVzKSB2YWx1ZSBlbHNlIG51bGwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gb25Bc3luY1Jlc3VsdChhbGVydDogQWxlcnQsIHN0YXR1czogQm9vbGVhbiwgdmFsdWU6IEFueT8pIHsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25QcmVjb25kaXRpb25zUmVzdWx0KCkK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25QcmVjb25kaXRpb25zUmVzdWx0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/CustomA/A/g</text>
