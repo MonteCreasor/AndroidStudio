@@ -26,6 +26,7 @@
         <mark key="." line="10" column="76" />
         <mark key="^" line="10" column="77" />
       </file>
+      <file name="/AndroidManifest.xml" timestamp="1526780976924" />
       <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/AndroidManifest.xml" timestamp="1526777587887">
         <mark key="[" line="12" column="59" />
         <mark key="]" line="13" column="3" />
@@ -393,11 +394,12 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" timestamp="1526787541228">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="31" />
-        <mark key="." line="24" column="31" />
-        <mark key="^" line="24" column="31" />
+      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" timestamp="1526794313148">
+        <mark key="a" line="40" column="6" />
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="32" />
+        <mark key="^" line="44" column="32" />
+        <mark key="." line="44" column="32" />
       </file>
       <file name="$USER_HOME$/ccs/test-apps/client/build.gradle" timestamp="1523323864500">
         <mark key="[" line="14" column="14" />
@@ -647,6 +649,7 @@
         <mark key="]" line="114" column="0" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="$USER_HOME$/android/android-src/cts/apps/PermissionApp/src/com/android/cts/permission/permissionapp/PermissionActivity.java" timestamp="1526793272743" />
       <file name="$USER_HOME$/client/KioskMode/app/src/main/java/monte/apps/kioskmode/Common.java" timestamp="1521653038686">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -824,7 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/27.1.1/fe233277b6eae25ce5b2afab6daf55d73c86f0b9/support-compat-27.1.1-sources.jar!/android/support/v4/app/ActivityCompat.java" />
       <jump line="446" column="80" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/27.1.1/fe233277b6eae25ce5b2afab6daf55d73c86f0b9/support-compat-27.1.1-sources.jar!/android/support/v4/app/ActivityCompat.java" />
       <jump line="459" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/27.1.1/fe233277b6eae25ce5b2afab6daf55d73c86f0b9/support-compat-27.1.1-sources.jar!/android/support/v4/app/ActivityCompat.java" />
       <jump line="475" column="49" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/27.1.1/fe233277b6eae25ce5b2afab6daf55d73c86f0b9/support-compat-27.1.1-sources.jar!/android/support/v4/app/ActivityCompat.java" />
@@ -924,10 +926,11 @@
       <jump line="209" column="16" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/Permissions.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Precondition.kt" />
       <jump line="45" column="58" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
+      <jump line="22" column="23" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Unit</text>
+        <text>?</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1107,49 +1110,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Unit</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>espresso</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkFsZXJ0UmVzdWx0KGFsZXJ0OiBBbGVydCwgc3RhdHVzOiBCb29sZWFuLCB2YWx1ZTogQW55PykgewogICAgICAgIHZhbGlkYXRvcnMuZmluZCB7IGl0LmFsZXJ0ID09IGFsZXJ0OjpjbGFzcy5qYXZhIH0/LmFwcGx5IHsKICAgICAgICAgICAgd2hlbiAoc3RhdHVzKSB7CiAgICAgICAgICAgICAgICB0cnVlIC0+IHN1Y2Nlc3MuaW52b2tlKHZhbHVlKQogICAgICAgICAgICAgICAgZmFsc2UgLT4gZmFpbHVyZS5pbnZva2UoKQogICAgICAgICAgICB9CiAgICAgICAgICAgIG5leHQuaW52b2tlKCkKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAqIEFkZCBhbiBBbGVydCB0byBoYW5kbGUgYSBmYWlsZWQgZ29hbC4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAqIEFkZCBhbiBhY3Rpb24uCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5leHQgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBFeGNlcHRpb24oIkNhbid0IGdldCB0YXJnZXQgY29udGV4dCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXMgYW5kcm9pZC5hcHAuRnJhZ21lbnQgLT4gdGFyZ2V0LmNvbnRleHQK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXMgRnJhZ21lbnQgLT4gdGFyZ2V0LmNvbnRleHQhIQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBydW4oKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXMgQWN0aXZpdHkgLT4gdGFyZ2V0Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IHdoZW4gKHRhcmdldCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/CustomA/A/g</text>
