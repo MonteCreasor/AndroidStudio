@@ -400,12 +400,12 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" timestamp="1526847560867">
-        <mark key="a" line="58" column="5" />
-        <mark key="'" line="188" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" timestamp="1526849441668">
+        <mark key="'" line="121" column="10" />
+        <mark key="[" line="181" column="4" />
+        <mark key="]" line="181" column="12" />
+        <mark key="^" line="181" column="12" />
+        <mark key="." line="181" column="12" />
       </file>
       <file name="$USER_HOME$/ccs/test-apps/client/build.gradle" timestamp="1523323864500">
         <mark key="[" line="14" column="14" />
@@ -651,11 +651,12 @@
         <mark key="^" line="21" column="66" />
         <mark key="." line="21" column="66" />
       </file>
-      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" timestamp="1526848581660">
-        <mark key="[" line="95" column="25" />
-        <mark key="]" line="95" column="25" />
-        <mark key="." line="95" column="25" />
-        <mark key="^" line="95" column="52" />
+      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" timestamp="1526849340634">
+        <mark key="'" line="60" column="33" />
+        <mark key="[" line="53" column="15" />
+        <mark key="]" line="53" column="15" />
+        <mark key="." line="53" column="15" />
+        <mark key="^" line="59" column="52" />
       </file>
       <file name="$USER_HOME$/client/KioskMode/app/src/main/java/monte/apps/kioskmode/Common.java" timestamp="1521653038686">
         <mark key="[" line="26" column="0" />
@@ -840,11 +841,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="79" filename="$USER_HOME$/ccs/DialogFragmentSandbox/versions.gradle" />
-      <jump line="47" column="0" filename="$USER_HOME$/ccs/DialogFragmentSandbox/versions.gradle" />
-      <jump line="147" column="0" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
-      <jump line="29" column="26" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
-      <jump line="148" column="0" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
       <jump line="28" column="4" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/MainActivity.kt" />
       <jump line="141" column="0" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
       <jump line="348" column="39" filename="$USER_HOME$/ccs/DialogFragmentSandbox/app/src/main/java/monte/apps/dialogfragmentsandbox/Alert.kt" />
@@ -940,10 +936,15 @@
       <jump line="70" column="5" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
       <jump line="56" column="23" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
       <jump line="190" column="0" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
+      <jump line="122" column="0" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
+      <jump line="17" column="0" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" />
+      <jump line="61" column="14" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" />
+      <jump line="60" column="33" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/MainActivity.kt" />
+      <jump line="121" column="10" filename="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/Preconditions.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>runValidations</text>
+        <text>n</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1123,40 +1124,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>runValidations</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>fragmentM</text>
+        <text>checkP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQWRkIHByZWNvbmRpdGlvbiB0aGF0IHdpbGwgZGlzcGxheSBhbiBBbGVydCB0byBoYW5kbGUgYSBmYWlsZWQgZ29hbC4KICAgICAqCiAgICAgKiBUaGUgZGVmYXVsdCBbc3VjY2Vzc10gbGFtYmRhIHJldHVybnMgdHJ1ZSBzbyB0aGF0IHRoZQogICAgICogbmV4dCB2YWxpZGF0b3IgaXMgcnVuLgogICAgICoKICAgICAqIFRoZSBkZWZhdWx0IFtmYWlsdXJlXSBsYW1iZGEgcmV0dXJucyBmYWxzZSBzbyB0aGF0IHRoZQogICAgICogZmluYWwgcmVzdWx0IGxhbWJkYSBpcyBpbW1lZGlhdGVseSBydW4uCiAgICAgKi8KICAgIGZ1biBhZGQoZ29hbDogKCkgLT4gQm9vbGVhbiwKICAgICAgICAgICAgYWxlcnQ6IENsYXNzPCo+LAogICAgICAgICAgICBzdWNjZXNzOiAodmFsdWU6IEFueT8pIC0+IEJvb2xlYW4gPSB7IHRydWUgfSwKICAgICAgICAgICAgZmFpbHVyZTogKCkgLT4gQm9vbGVhbiA9IHsgZmFsc2UgfSk6IFByZWNvbmRpdGlvbnM8VD4gewogICAgICAgIHZhbCBhY3Rpb24gPSB7IChhbGVydC5uZXdJbnN0YW5jZSgpIGFzIEFsZXJ0KS5zaG93KGZyYWdtZW50TWFuYWdlcik7IHRydWUgfQogICAgICAgIHJldHVybiBhZGQoZ29hbCwgYWN0aW9uLCBzdWNjZXNzLCBmYWlsdXJlKQogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlT3duZXIK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93UGVuZGluZ0xheW91dCgpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tQcmVjb25kaXRpb25zKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWxpZGF0b3JzLmZpcnN0KCkucnVuKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmVjb25kaXRpb25zLnJ1bigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja1ByZWNvbmRpdGlvbnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbGlkYXRvcnMgPSBidWlsZFZhbGlkYXRvckNoYWluKCkK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogTXVzdCBiZSBjYWxsZWQgZnJvbSBbdGFyZ2V0XSdzIFtMaXN0ZW5lci5vblByZWNvbmRpdGlvbnNSZXN1bHRdIGhvb2suCiAgICAgKiBDb21wbGV0ZXMgYSBwb3NzaWJseSBhc3luY2hyb25vdXMgVmFsaWRhdG9yIGFjdGlvbiBieSBsb2NhdGluZyB0aGUKICAgICAqIFZhbGlkYXRvciBtYXRjaGluZyB0aGUgcGFzc2VkIFtpZF0gYW5kIGNhbGxpbmcgaXQncyBbcmVzdWx0XSBoYW5kbGVyLgogICAgICovCiAgICBmdW4gb25QcmVjb25kaXRpb25zUmVzdWx0KGlkOiBBbnksIHZhbHVlOiBBbnk/KSB7CiAgICAgICAgY2hhaW4uZmluZCB7IGl0LmlkID09IGlkIH0/LnJlc3VsdCh2YWx1ZSkKICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC8vIEJ1aWxkIGEgY2hhaW4gb2YgdmFsaWRhdGlvbnMgdGhhdCBuZWVkIHRvIGJlIHBlcmZvcm1lZC4K</text>
+        <text encoding="base64">ICAgIC8qKiBDaGFpbiBhbHdheXMgaGFzIGEgc3RhcnRpbmcgZW50cnkgKi8KICAgIHByaXZhdGUgdmFsIGNoYWluOiBNdXRhYmxlTGlzdDxWYWxpZGF0b3I+ID0gbXV0YWJsZUxpc3RPZihWYWxpZGF0b3IoaWQsIHsgdHJ1ZSB9LCB7IHRydWUgfSkpCgogICAgcHJpdmF0ZSBpbm5lciBjbGFzcyBWYWxpZGF0b3IodmFsIGlkOiBBbnksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZ29hbDogKCkgLT4gQm9vbGVhbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBhY3Rpb246ICgpIC0+IEFueT8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgc3VjY2VzczogKHZhbHVlOiBBbnk/KSAtPiBCb29sZWFuID0geyB0cnVlIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZmFpbHVyZTogKCkgLT4gQm9vbGVhbiA9IHsgZmFsc2UgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBuZXh0OiAoKSAtPiBVbml0ID0ge30pCgo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -1165,16 +1166,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKiBDaGFpbiBhbHdheXMgaGFzIGEgc3RhcnRpbmcgZW50cnkgKi8KICAgIHByaXZhdGUgdmFsIGNoYWluOiBNdXRhYmxlTGlzdDxWYWxpZGF0b3I+ID0gbXV0YWJsZUxpc3RPZihWYWxpZGF0b3IoaWQsIHsgdHJ1ZSB9LCB7IHRydWUgfSkpCgogICAgcHJpdmF0ZSBpbm5lciBjbGFzcyBWYWxpZGF0b3IodmFsIGlkOiBBbnksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZ29hbDogKCkgLT4gQm9vbGVhbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBhY3Rpb246ICgpIC0+IEFueT8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgc3VjY2VzczogKHZhbHVlOiBBbnk/KSAtPiBCb29sZWFuID0geyB0cnVlIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZmFpbHVyZTogKCkgLT4gQm9vbGVhbiA9IHsgZmFsc2UgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBuZXh0OiAoKSAtPiBVbml0ID0ge30pCgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/CustomA/A/g</text>
       </register>
     </registers>
     <search>
-      <last-search>fragmentM</last-search>
+      <last-search>checkP</last-search>
       <last-offset />
-      <last-pattern>fragmentM</last-pattern>
+      <last-pattern>checkP</last-pattern>
       <last-replace>A</last-replace>
       <last-substitute>CustomA</last-substitute>
       <last-dir>1</last-dir>
@@ -1182,7 +1183,6 @@
     </search>
     <history>
       <history-search>
-        <entry>KEY_</entry>
         <entry>restoreAfter</entry>
         <entry>Child</entry>
         <entry>child</entry>
@@ -1202,6 +1202,7 @@
         <entry>espresso</entry>
         <entry encoding="base64">XDxMaXN0ZW5lclw+</entry>
         <entry>fragmentM</entry>
+        <entry>checkP</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ /\n/g</entry>
