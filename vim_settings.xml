@@ -20,12 +20,11 @@
         <mark key="^" line="32" column="49" />
         <mark key="." line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/Settings.kt" timestamp="1526957930740">
-        <mark key="'" line="76" column="8" />
-        <mark key="[" line="76" column="20" />
-        <mark key="]" line="77" column="79" />
-        <mark key="." line="77" column="74" />
-        <mark key="^" line="41" column="40" />
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/db/Config.java" timestamp="1526969600618">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/modules/Settings/build.gradle" timestamp="1523915550722">
         <mark key="[" line="10" column="76" />
@@ -96,8 +95,12 @@
         <mark key="." line="29" column="67" />
         <mark key="^" line="29" column="67" />
       </file>
-      <file name="$USER_HOME$/tools/android/sdk/sources/android-27/android/preference/PreferenceScreen.java" timestamp="1526942998347">
-        <mark key="'" line="127" column="27" />
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/main/MainActivity.kt" timestamp="1526954362158">
+        <mark key="a" line="100" column="91" />
+        <mark key="[" line="137" column="8" />
+        <mark key="]" line="137" column="23" />
+        <mark key="^" line="137" column="23" />
+        <mark key="." line="137" column="23" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/Code.kt" timestamp="1526284369214">
         <mark key="[" line="11" column="35" />
@@ -135,9 +138,6 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/alerts/KioskModeAlert.kt" timestamp="1526958969543">
-        <mark key="'" line="91" column="8" />
-      </file>
       <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/AlertDialog.kt" timestamp="1526781918343">
         <mark key="[" line="37" column="20" />
         <mark key="]" line="37" column="25" />
@@ -162,6 +162,13 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="21" column="47" />
       </file>
+      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/alerts/PermissionsAlert.kt" timestamp="1526879900078">
+        <mark key="a" line="6" column="33" />
+        <mark key="[" line="21" column="64" />
+        <mark key="]" line="21" column="64" />
+        <mark key="^" line="18" column="80" />
+        <mark key="." line="21" column="64" />
+      </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/alerts/Alert.kt" timestamp="1526957252674">
         <mark key="[" line="125" column="4" />
         <mark key="]" line="125" column="7" />
@@ -180,13 +187,18 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/res/raw/config.json" timestamp="1526971000933">
+        <mark key="a" line="12" column="6" />
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+      </file>
       <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/injection/Injection.kt" timestamp="1526965553620">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/27.1.1/94732bda44fba11302c58e459b7c1f47e7521bf9/support-fragment-27.1.1-sources.jar!/android/support/v4/app/DialogFragment.java" timestamp="1526947991660">
-        <mark key="'" line="99" column="11" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/DeviceAdminReceiver.kt" timestamp="1526952221395">
         <mark key="[" line="30" column="8" />
@@ -199,14 +211,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="28" column="49" />
-      </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/common/KioskModeActivity.kt" timestamp="1526958913317">
-        <mark key="a" line="243" column="0" />
-        <mark key="'" line="155" column="38" />
-        <mark key="[" line="154" column="92" />
-        <mark key="]" line="154" column="94" />
-        <mark key="." line="154" column="94" />
-        <mark key="^" line="154" column="94" />
       </file>
       <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/ui/survey/ui/survey/ItemFragment.kt" timestamp="1526964422632">
         <mark key="[" line="21" column="0" />
@@ -249,13 +253,20 @@
         <mark key="^" line="11" column="64" />
         <mark key="." line="11" column="64" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/ServiceLocator.kt" timestamp="1526965950563">
+      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/PendingFragment.kt" timestamp="1526870974909">
+        <mark key="a" line="17" column="32" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/ServiceLocator.kt" timestamp="1526971110239">
         <mark key="a" line="53" column="2" />
         <mark key="'" line="53" column="2" />
-        <mark key="[" line="87" column="8" />
-        <mark key="]" line="87" column="11" />
-        <mark key="." line="87" column="11" />
-        <mark key="^" line="87" column="11" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="87" column="7" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/strings.xml" timestamp="1526955569036">
         <mark key="'" line="59" column="0" />
@@ -269,6 +280,13 @@
         <mark key="." line="12" column="58" />
         <mark key="^" line="12" column="58" />
       </file>
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/res/xml/pref_security.xml" timestamp="1526958510355">
+        <mark key="a" line="40" column="20" />
+        <mark key="[" line="50" column="42" />
+        <mark key="]" line="50" column="42" />
+        <mark key="." line="50" column="66" />
+        <mark key="^" line="49" column="74" />
+      </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/KioskApp.kt" timestamp="1524021381751">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -281,11 +299,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/mocking/MockService.kt" timestamp="1526966604763">
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/mocking/MockService.kt" timestamp="1526968068770">
         <mark key="[" line="5" column="59" />
-        <mark key="]" line="5" column="70" />
+        <mark key="]" line="5" column="59" />
         <mark key="^" line="5" column="70" />
-        <mark key="." line="5" column="70" />
+        <mark key="." line="5" column="59" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/debug/java/monte/apps/kiosk/App.kt" timestamp="1526774175974">
         <mark key="[" line="29" column="52" />
@@ -329,20 +347,6 @@
         <mark key="^" line="54" column="4" />
         <mark key="." line="54" column="4" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" timestamp="1526958395011">
-        <mark key="a" line="365" column="10" />
-        <mark key="'" line="375" column="37" />
-        <mark key="[" line="377" column="72" />
-        <mark key="]" line="377" column="72" />
-        <mark key="^" line="375" column="96" />
-        <mark key="." line="377" column="76" />
-      </file>
-      <file name="$USER_HOME$/tools/android/sdk/sources/android-27/android/preference/PreferenceActivity.java" timestamp="1526941792247">
-        <mark key="'" line="127" column="42" />
-      </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/alerts/StopKioskMode.kt" timestamp="1526881842309">
-        <mark key="'" line="13" column="40" />
-      </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/Site.kt" timestamp="1526331874715">
         <mark key="[" line="43" column="11" />
         <mark key="]" line="43" column="11" />
@@ -378,6 +382,13 @@
         <mark key="^" line="93" column="19" />
         <mark key="." line="93" column="19" />
       </file>
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/Toast.kt" timestamp="1526948371742">
+        <mark key="a" line="6" column="18" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/client/KioskMode/app/build.gradle" timestamp="1521655011770">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="67" />
@@ -390,16 +401,37 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="3" column="38" />
       </file>
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/res/layout/main_fragment.xml" timestamp="1526971706787">
+        <mark key="a" line="7" column="0" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="23" column="45" />
+      </file>
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/ui/main/MainFragment.kt" timestamp="1526971922697">
+        <mark key="a" line="31" column="7" />
+        <mark key="[" line="36" column="43" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="48" />
+        <mark key="^" line="36" column="48" />
+      </file>
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/main/MainFragment.kt" timestamp="1526880362118">
+        <mark key="a" line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="12" column="53" />
+        <mark key="^" line="12" column="53" />
+      </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/services/camera/APictureCapturingService.kt" timestamp="1524112722455">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
         <mark key="^" line="17" column="55" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/androidTest/java/monte/apps/kiosk/ui/main/ExampleInstrumentedTest.kt" timestamp="1526967521939">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/ccs/kiosk/app/src/androidTest/java/monte/apps/kiosk/ui/main/ExampleInstrumentedTest.kt" timestamp="1526968002984">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/good/KioskMode/scripts/get-provision-info.sh" timestamp="1523680512255">
         <mark key="[" line="2" column="31" />
@@ -455,13 +487,6 @@
         <mark key="." line="21" column="38" />
         <mark key="^" line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/AndroidManifest.xml" timestamp="1526956080722">
-        <mark key="'" line="53" column="39" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="55" column="50" />
-      </file>
       <file name="$USER_HOME$/ccs/examples/camera-reverse/CameraReverse/build.gradle" timestamp="1524185846191">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="16" />
@@ -515,11 +540,11 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/ui/survey/ui/survey/SurveyFragment.kt" timestamp="1526964485579">
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="35" column="18" />
-        <mark key="." line="35" column="18" />
-        <mark key="^" line="35" column="18" />
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/ui/survey/ui/survey/SurveyFragment.kt" timestamp="1526971269294">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_managed/build.gradle" timestamp="1521842606811">
         <mark key="[" line="18" column="0" />
@@ -532,6 +557,13 @@
         <mark key="]" line="21" column="14" />
         <mark key="^" line="21" column="14" />
         <mark key="." line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/res/values/settings.xml" timestamp="1526958152144">
+        <mark key="a" line="57" column="18" />
+        <mark key="[" line="35" column="121" />
+        <mark key="]" line="35" column="121" />
+        <mark key="^" line="35" column="121" />
+        <mark key="." line="35" column="121" />
       </file>
       <file name="$USER_HOME$/ccs/DialogFragmentSandbox/app/build.gradle" timestamp="1526774826462">
         <mark key="[" line="38" column="48" />
@@ -586,6 +618,20 @@
         <mark key="]" line="3" column="36" />
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/res/values/strings.xml" timestamp="1526873057493">
+        <mark key="a" line="5" column="61" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="13" column="61" />
+        <mark key="^" line="13" column="63" />
+      </file>
+      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/Context.kt" timestamp="1526895697753">
+        <mark key="a" line="6" column="0" />
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="17" column="38" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="17" column="38" />
       </file>
       <file name="$USER_HOME$/ccs/KioskApp/ktextensions/build.gradle" timestamp="1522024284148">
         <mark key="[" line="31" column="0" />
@@ -668,13 +714,14 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/mocking/MockServiceBase.kt" timestamp="1526967373521">
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/mocking/MockServiceBase.kt" timestamp="1526971094680">
+        <mark key="a" line="64" column="6" />
         <mark key="'" line="24" column="18" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="32" />
-        <mark key="^" line="37" column="32" />
-        <mark key="." line="37" column="32" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/db/Device.kt" timestamp="1526968818406" />
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/main/PendingFragment.kt" timestamp="1526878753133">
         <mark key="[" line="12" column="48" />
         <mark key="]" line="12" column="56" />
@@ -759,13 +806,6 @@
         <mark key="^" line="21" column="66" />
         <mark key="." line="21" column="66" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/camera/CameraFragment.kt" timestamp="1526948523107">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="111" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
       <file name="$USER_HOME$/client/KioskMode/app/src/main/java/monte/apps/kioskmode/Common.java" timestamp="1521653038686">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -789,6 +829,13 @@
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/PolicyManager.kt" timestamp="1526873376895">
+        <mark key="a" line="128" column="4" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="138" column="44" />
       </file>
       <file name="$USER_HOME$/client/provision/build.gradle" timestamp="1521650411887">
         <mark key="[" line="2" column="17" />
@@ -844,8 +891,8 @@
         <mark key="^" line="28" column="33" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526962713149">
-        <mark key="[" line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1526969337597">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
@@ -915,7 +962,7 @@
         <mark key="^" line="131" column="25" />
         <mark key="." line="131" column="25" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApi.kt" timestamp="1526965102982">
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApi.kt" timestamp="1526968056769">
         <mark key="'" line="45" column="52" />
         <mark key="[" line="43" column="31" />
         <mark key="]" line="43" column="31" />
@@ -939,12 +986,12 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/alerts/StartKioskModeAlert.kt" timestamp="1526887735379">
-        <mark key="'" line="40" column="25" />
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="6" />
-        <mark key="." line="12" column="6" />
-        <mark key="^" line="95" column="41" />
+      <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/Toast.kt" timestamp="1526873664666">
+        <mark key="a" line="11" column="13" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/Bitmap.kt" timestamp="1524192851151">
         <mark key="[" line="16" column="43" />
@@ -964,14 +1011,11 @@
         <mark key="^" line="59" column="10" />
         <mark key="." line="59" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1526965171996">
+      <file name="/fragment.java" timestamp="1526968788915">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="17" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
-      <jump line="49" column="10" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
-      <jump line="437" column="105" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="238" column="64" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="89" column="38" filename="$USER_HOME$/ccs/Kiosk/app/src/main/AndroidManifest.xml" />
       <jump line="52" column="0" filename="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
@@ -1069,10 +1113,13 @@
       <jump line="24" column="18" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/mocking/MockServiceBase.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/ccs/kiosk/versions.gradle" />
       <jump line="20" column="9" filename="$USER_HOME$/ccs/kiosk/versions.gradle" />
+      <jump line="11" column="1" filename="$USER_HOME$/ccs/kiosk/app/src/main/res/raw/config.json" />
+      <jump line="18" column="19" filename="$USER_HOME$/ccs/kiosk/app/src/main/res/raw/config.json" />
+      <jump line="15" column="8" filename="$USER_HOME$/ccs/kiosk/app/src/main/res/raw/config.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmV1cC5vCg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1252,70 +1299,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.okhttp2.mockwebserver.MockWebServer</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>retro</text>
+        <text>urvey1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmV0cm9maXQubW9jayA9ICJjb20uc3F1YXJldXAucmV0cm9maXQyOnJldHJvZml0LW1vY2s6JHZlcnNpb25zLnJldHJvZml0Igo=</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uQnV0dG9uLnNldE9uQ2xpY2tMaXN0ZW5lciB7IAogICAgICAgICAgICBzdGFydEFjdGl2aXR5KEludGVudChjb250ZXh0LCBTdXJ2ZXlBY3Rpdml0eTo6Y2xhc3MuamF2YSkpCiAgICAgICAgfQogICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmV1cC5vCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHJvZml0Lm1vY2sgPSAiY29tLnNxdWFyZXVwLnJldHJvZml0MjpyZXRyb2ZpdC1tb2NrOiR2ZXJzaW9ucy5yZXRyb2ZpdCIK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogZm9yIHRlc3RpbmcuCg==</text>
+        <text encoding="base64">ICAgIHRvb2xzOmxheW91dF9lZGl0b3JfYWJzb2x1dGVZPSIxMzdkcCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0dGluZ3MuZm9ybWlvVXJsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbnRlLmFwcHMua2lvc2sudWkuc3VydmV5LlIK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVc2UgdGhlIFZpZXdNb2RlbAo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxpc3RlbmVyOiBPbkxpc3RGcmFnbWVudEludGVyYWN0aW9uTGlzdGVuZXI/ID0gbnVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/onCreatePreference/onCreate/g</text>
+        <text>s/urvey1/urvey2/g</text>
       </register>
     </registers>
     <search>
-      <last-search>retro</last-search>
+      <last-search>urvey1</last-search>
       <last-offset />
-      <last-pattern>retro</last-pattern>
-      <last-replace>onCreate</last-replace>
-      <last-substitute>Secur</last-substitute>
+      <last-pattern>urvey1</last-pattern>
+      <last-replace>urvey2</last-replace>
+      <last-substitute>urvey1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Sync</entry>
-        <entry>when {</entry>
-        <entry>Click</entry>
-        <entry>runKioskMode</entry>
-        <entry>runKi</entry>
         <entry>Settings</entry>
         <entry>Color</entry>
         <entry>color</entry>
@@ -1331,13 +1373,13 @@
         <entry>delegate</entry>
         <entry>T</entry>
         <entry>retro</entry>
+        <entry>&quot;</entry>
+        <entry>survey</entry>
+        <entry>q</entry>
+        <entry>ey1</entry>
+        <entry>urvey1</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry>set ic</entry>
-        <entry>%s/;//g</entry>
-        <entry>q!</entry>
-        <entry encoding="base64">JzwsJz5zL2FyY2hfdmVyc2lvbi9n</entry>
         <entry encoding="base64">JzwsJz5zLycgKyBhcmNoX3ZlcnNpb24vZw==</entry>
         <entry encoding="base64">JzwsJz4lcy8nICsgYXJjaF92ZXJzaW9uL2cg</entry>
         <entry>%s/:2.0.0-alpha1'/' + arch_version/g</entry>
@@ -1353,6 +1395,11 @@
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
         <entry>%s/FragmentCompat/Fragment/g</entry>
         <entry>%s/onCreatePreference/onCreate/g</entry>
+        <entry>%s/&quot;/\&quot;/</entry>
+        <entry>s/&quot;/\&quot;/g</entry>
+        <entry>s/&quot;/\\&quot;/g</entry>
+        <entry>s/urvey1/urvey3/g</entry>
+        <entry>s/urvey1/urvey2/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
