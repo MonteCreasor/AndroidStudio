@@ -116,6 +116,11 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/res/layout/fragment_item_list.xml" timestamp="1527033806797">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/Waiter.java" timestamp="1523398438132">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="11" />
@@ -134,7 +139,6 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="25" />
       </file>
-      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1527029184948" />
       <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApiService.kt" timestamp="1526985229150">
         <mark key="[" line="14" column="49" />
         <mark key="]" line="14" column="54" />
@@ -385,7 +389,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1527029184948" />
       <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/ui/common/LiveData.kt" timestamp="1527016431381">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
@@ -509,11 +512,11 @@
         <mark key="^" line="11" column="62" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/ui/survey/ui/survey/SurveyFragment.kt" timestamp="1527024206880">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="20" column="26" />
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/ui/survey/ui/survey/SurveyFragment.kt" timestamp="1527033997618">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+        <mark key="." line="19" column="26" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/res/layout/settings_activity.xml" timestamp="1526943961399">
         <mark key="[" line="31" column="50" />
@@ -609,6 +612,12 @@
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/res/layout/survey_fragment.xml" timestamp="1527033833979">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="14" column="71" />
+        <mark key="." line="14" column="71" />
+        <mark key="^" line="14" column="71" />
       </file>
       <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay-yeshiva/app/src/main/res/layout/fragment_questions.xml" timestamp="1527028700075">
         <mark key="a" line="1" column="44" />
@@ -771,11 +780,10 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/ccs/kiosk/app/src/main/res/layout/survey_activity.xml" timestamp="1527028798187">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/ccs/kiosk/app/src/main/res/layout/survey_activity.xml" timestamp="1527033899563">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreCO.java" timestamp="1524171385414">
         <mark key="[" line="38" column="0" />
@@ -1040,6 +1048,7 @@
       <file name="/fragment.java" timestamp="1527030625726">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay-yeshiva/app/src/main/res/layout/activity_today.xml" timestamp="1527033711349" />
     </filemarks>
     <jumps>
       <jump line="114" column="73" filename="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/mocking/MockServiceBase.kt" />
@@ -1145,7 +1154,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FormioFragment</text>
+        <text>config</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1325,7 +1334,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FormioFragment</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text>swipeRe</text>
@@ -1334,40 +1343,40 @@
         <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGZvcm06IEZvcm0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuTGluZWFyTGF5b3V0TWFuYWdlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtID0K</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuR3JpZExheW91dE1hbmFnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVudC5nZXRQYXJjZWxhYmxlRXh0cmEoS0VZX0ZPUk0pCg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbnRlLmFwcHMua2lvc2sudWkuc3VydmV5LnVpLnN1cnZleS5kdW1teS5EdW1teUNvbnRlbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRQYXJjZWxhYmxlKEtFWV9GT1JNKQo=</text>
+        <text encoding="base64">PCEtLTxGcmFtZUxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiLS0+PCEtLXhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyItLT48IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT48IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLS0+PCEtLXRvb2xzOmNvbnRleHQ9Ii5TdXJ2ZXlBY3Rpdml0eSIgLz4tLT48P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJ1dGYtOCI/Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybSA9IGludGVudC5nZXRQYXJjZWxhYmxlRXh0cmEoS0VZX0ZPUk0pCiAgICAgICAgICAgIGZvcm0gPSBzYXZlZEluc3RhbmNlU3RhdGUuZ2V0UGFyY2VsYWJsZShLRVlfRk9STSkK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0TWFuYWdlcj0iTGluZWFyTGF5b3V0TWFuYWdlciIK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybSA9IGludGVudC5nZXRQYXJjZWxhYmxlRXh0cmEoS0VZX0ZPUk0pCg==</text>
+        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuUmVjeWNsZXJWaWV3IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgogICAgYW5kcm9pZDppZD0iQCtpZC9saXN0IgogICAgYW5kcm9pZDpuYW1lPSJtb250ZS5hcHBzLmtpb3NrLnVpLnN1cnZleS51aS5zdXJ2ZXkuSXRlbUZyYWdtZW50IgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMTZkcCIKICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblJpZ2h0PSIxNmRwIgogICAgYXBwOmxheW91dE1hbmFnZXI9IkxpbmVhckxheW91dE1hbmFnZXIiCiAgICB0b29sczpjb250ZXh0PSIudWkuc3VydmV5LnVpLnN1cnZleS5JdGVtRnJhZ21lbnQiCiAgICB0b29sczpsaXN0aXRlbT0iQGxheW91dC9mb3JtX2l0ZW0iIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGxhdGVpbml0IHZhciBmb3JtOiBGb3JtCg==</text>
+        <text encoding="base64">PC9hbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5Db29yZGluYXRvckxheW91dD4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29tbWl0Tm93KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmVwbGFjZShSLmlkLmNvbnRhaW5lciwgUGVuZGluZ0ZyYWdtZW50Lm5ld0luc3RhbmNlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpjb250ZXh0PSIuU3VydmV5QWN0aXZpdHkiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/scanner/survey/g</text>
