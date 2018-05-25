@@ -612,9 +612,6 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1527205465769">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ccs/kiosk/app/src/main/res/raw/submit_survey" timestamp="1527111580437">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -693,6 +690,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainActivity.kt" timestamp="1527227728306">
+        <mark key="a" line="149" column="25" />
+        <mark key="'" line="149" column="25" />
+      </file>
       <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/AdminReceiver.kt" timestamp="1523685097683">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -734,8 +735,11 @@
         <mark key="^" line="11" column="64" />
         <mark key="." line="11" column="64" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/db/Submission.kt" timestamp="1527226146871">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/db/Submission.kt" timestamp="1527227575058">
         <mark key="[" line="10" column="22" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/build.gradle" timestamp="1523933689413">
         <mark key="[" line="12" column="57" />
@@ -972,9 +976,6 @@
         <mark key="." line="55" column="24" />
         <mark key="^" line="55" column="24" />
       </file>
-      <file name="/fragment.kt" timestamp="1527186450942">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/dependencies.gradle" timestamp="1522359749386">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="33" />
@@ -1189,7 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="30" filename="$USER_HOME$/ccs/intake/versions.gradle" />
       <jump line="91" column="54" filename="$USER_HOME$/ccs/intake/app/build.gradle" />
       <jump line="92" column="57" filename="$USER_HOME$/ccs/intake/app/build.gradle" />
       <jump line="93" column="51" filename="$USER_HOME$/ccs/intake/app/build.gradle" />
@@ -1289,6 +1289,7 @@
       <jump line="160" column="0" filename="$USER_HOME$/ccs/sandbox/kiosk/versions.gradle" />
       <jump line="166" column="83" filename="$USER_HOME$/ccs/sandbox/kiosk/versions.gradle" />
       <jump line="32" column="24" filename="$USER_HOME$/ccs/sandbox/kiosk/versions.gradle" />
+      <jump line="149" column="25" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1475,7 +1476,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>plugin</text>
+        <text>precon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGFuZHJvaWQgPSBbOl0KYW5kcm9pZC5wbHVnaW4gPSAiY29tLmFuZHJvaWQudG9vbHMuYnVpbGQ6Z3JhZGxlOiR2ZXJzaW9ucy5hbmRyb2lkX2dyYWRsZV9wbHVnaW4iCmRlcHMuYW5kcm9pZCA9IGFuZHJvaWQK</text>
@@ -1521,9 +1522,9 @@
       </register>
     </registers>
     <search>
-      <last-search>plugin</last-search>
+      <last-search>precon</last-search>
       <last-offset />
-      <last-pattern>plugin</last-pattern>
+      <last-pattern>precon</last-pattern>
       <last-replace>survey</last-replace>
       <last-substitute>plugin</last-substitute>
       <last-dir>1</last-dir>
@@ -1531,7 +1532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>support =</entry>
         <entry>retrofit</entry>
         <entry>gson</entry>
         <entry>jdk8</entry>
@@ -1551,6 +1551,7 @@
         <entry>gradle</entry>
         <entry>android_p</entry>
         <entry>plugin</entry>
+        <entry>precon</entry>
       </history-search>
       <history-cmd>
         <entry>%s/rootProject\.//g</entry>
