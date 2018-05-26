@@ -667,12 +667,12 @@
         <mark key="^" line="19" column="93" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" timestamp="1527291823040">
-        <mark key="'" line="176" column="12" />
-        <mark key="[" line="311" column="45" />
-        <mark key="]" line="312" column="41" />
-        <mark key="^" line="312" column="41" />
-        <mark key="." line="312" column="41" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" timestamp="1527308391511">
+        <mark key="'" line="147" column="26" />
+        <mark key="[" line="165" column="47" />
+        <mark key="]" line="165" column="56" />
+        <mark key="^" line="165" column="56" />
+        <mark key="." line="165" column="56" />
       </file>
       <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/api/MockApiService.kt" timestamp="1526979086186">
         <mark key="[" line="20" column="0" />
@@ -887,11 +887,11 @@
         <mark key="^" line="54" column="4" />
         <mark key="." line="54" column="4" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" timestamp="1527307530594">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" timestamp="1527307826994">
         <mark key="'" line="381" column="12" />
-        <mark key="[" line="147" column="38" />
-        <mark key="]" line="147" column="38" />
-        <mark key="." line="147" column="38" />
+        <mark key="[" line="299" column="46" />
+        <mark key="]" line="299" column="47" />
+        <mark key="." line="299" column="47" />
         <mark key="^" line="241" column="20" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/Site.kt" timestamp="1526331874715">
@@ -1280,11 +1280,11 @@
         <mark key="^" line="28" column="35" />
         <mark key="." line="28" column="45" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/scanner_layout.xml" timestamp="1527307665459">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/scanner_layout.xml" timestamp="1527307751410">
         <mark key="a" line="1" column="131" />
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
         <mark key="^" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/Student Submissions/assignment2b-hangs/Sri_Seethalam/app/src/test/java/edu/vandy/simulator/UnitTest1B.java" timestamp="1521595435114">
@@ -1295,7 +1295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="15" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/formio/ui/formio/FormioFragment.kt" />
       <jump line="211" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/formio/ui/formio/FormioFragment.kt" />
       <jump line="313" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/formio/ui/formio/FormioFragment.kt" />
       <jump line="49" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/formio/ui/formio/FormioViewModel.kt" />
@@ -1395,6 +1394,7 @@
       <jump line="373" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
       <jump line="374" column="21" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
       <jump line="380" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
+      <jump line="147" column="26" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1581,7 +1581,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>start()</text>
+        <text>onAc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBiYXJjb2RlSW1hZ2U/LmlzVmlzaWJsZSA9IGZhbHNlCg==</text>
@@ -1627,9 +1627,9 @@
       </register>
     </registers>
     <search>
-      <last-search>start()</last-search>
+      <last-search>onAc</last-search>
       <last-offset />
-      <last-pattern>start()</last-pattern>
+      <last-pattern>onAc</last-pattern>
       <last-replace>survey</last-replace>
       <last-substitute>plugin</last-substitute>
       <last-dir>1</last-dir>
@@ -1637,7 +1637,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connect</entry>
         <entry>loadFrom</entry>
         <entry>loadForm</entry>
         <entry>Button\.</entry>
@@ -1657,6 +1656,7 @@
         <entry>totop</entry>
         <entry>start</entry>
         <entry>start()</entry>
+        <entry>onAc</entry>
       </history-search>
       <history-cmd>
         <entry>%s/rootProject\.//g</entry>
