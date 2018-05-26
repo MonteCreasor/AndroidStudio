@@ -896,13 +896,12 @@
         <mark key="^" line="54" column="4" />
         <mark key="." line="54" column="4" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" timestamp="1527297523208">
-        <mark key="a" line="279" column="0" />
-        <mark key="'" line="279" column="0" />
-        <mark key="[" line="129" column="20" />
-        <mark key="]" line="129" column="20" />
-        <mark key="^" line="287" column="48" />
-        <mark key="." line="129" column="20" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" timestamp="1527298129569">
+        <mark key="'" line="127" column="8" />
+        <mark key="[" line="288" column="46" />
+        <mark key="]" line="288" column="47" />
+        <mark key="." line="288" column="47" />
+        <mark key="^" line="291" column="23" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/Site.kt" timestamp="1526331874715">
         <mark key="[" line="43" column="11" />
@@ -1296,8 +1295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="52" filename="$USER_HOME$/ccs/intake/versions.gradle" />
-      <jump line="159" column="86" filename="$USER_HOME$/ccs/intake/versions.gradle" />
       <jump line="170" column="21" filename="$USER_HOME$/ccs/intake/versions.gradle" />
       <jump line="160" column="0" filename="$USER_HOME$/ccs/sandbox/kiosk/versions.gradle" />
       <jump line="166" column="83" filename="$USER_HOME$/ccs/sandbox/kiosk/versions.gradle" />
@@ -1396,10 +1393,12 @@
       <jump line="138" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
       <jump line="144" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
       <jump line="275" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
+      <jump line="278" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
+      <jump line="126" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlVmlld3MoKQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1579,58 +1578,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>context!!.getColor(R.color.barcode_match))</text>
       </register>
       <register name="/" type="4">
-        <text>updateV</text>
+        <text>updateViews</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmFyY29kZUltYWdlPy5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eT8ucnVuT25VaVRocmVhZCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0Q29sb3JGaWx0ZXIoUi5jb2xvci5iYXJjb2RlX21hdGNoLCBQb3J0ZXJEdWZmLk1vZGUuU1JDX0FUT1ApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldENvbG9yKFIuY29sb3IuYmFyY29kZV9tYXRjaCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlVmlld3MoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZpdHk/LnJ1bk9uVWlUaHJlYWQgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYXJjb2RlSW1hZ2U/LnNldENvbG9yRmlsdGVyKFIuY29sb3IuYmFyY29kZV9tYXRjaCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5LnJ1bk9uVWlUaHJlYWQgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdCwgY29udGV4dCEhLmdldENvbG9yKFIuY29sb3IuYmFyY29kZV9tYXRjaCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmFyY29kZUltYWdlPy5zZXRDb2xvckZpbHRlcihSLmNvbG9yLmJhcmNvZGVfbWF0Y2gpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRHJhd2FibGVDb21wYXQuc2V0VGludCgK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBVQWlyc2hpcC5zaGFyZWQoKS5nZXRQdXNoTWFuYWdlcigpLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYXJjb2RlSW1hZ2U/LmRyYXdhYmxlPy5hbHNvIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5Py5ydW5PblVpVGhyZWFkIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>updateV</last-search>
+      <last-search>updateViews</last-search>
       <last-offset />
-      <last-pattern>updateV</last-pattern>
+      <last-pattern>updateViews</last-pattern>
       <last-replace>survey</last-replace>
       <last-substitute>plugin</last-substitute>
       <last-dir>1</last-dir>
@@ -1654,10 +1653,10 @@
         <entry>facing.id</entry>
         <entry>facing</entry>
         <entry>Toggle</entry>
-        <entry>updateViews</entry>
         <entry>detected</entry>
         <entry>listen</entry>
         <entry>updateV</entry>
+        <entry>updateViews</entry>
       </history-search>
       <history-cmd>
         <entry>%s/rootProject\.//g</entry>
