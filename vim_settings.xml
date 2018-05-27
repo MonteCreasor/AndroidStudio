@@ -514,10 +514,10 @@
         <mark key="." line="40" column="9" />
         <mark key="^" line="40" column="9" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ScannerActivity.kt" timestamp="1527391586818">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ScannerActivity.kt" timestamp="1527392314213">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/DeviceOwnerAlert.kt" timestamp="1527387691531">
         <mark key="[" line="10" column="25" />
@@ -845,10 +845,10 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/scanner_activity.xml" timestamp="1527386103205">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="53" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/scanner_activity.xml" timestamp="1527392404570">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
         <mark key="^" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/db/Device.kt" timestamp="1526359840261">
@@ -1468,8 +1468,8 @@
       <jump line="71" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1649,7 +1649,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>Scanner</text>
@@ -1658,40 +1658,40 @@
         <text encoding="base64">ICAgIDxDaGVja0JveAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvY2hlY2tfYm94IgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9kb250X2Fza19hZ2Fpbl9jaGVja19ib3giCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIvPgoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2lyY3VsYXJSZXZlYWxBY3Rpdml0eSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZpZXcuU1lTVEVNX1VJX0ZMQUdfTEFZT1VUX1NUQUJMRSBvciBWaWV3LlNZU1RFTV9VSV9GTEFHX0xBWU9VVF9GVUxMU0NSRUVOCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuZGVjb3JWaWV3LnN5c3RlbVVpVmlzaWJpbGl0eSA9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2lyY3VsYXJSZXZlYWxBY3Rpdml0eSgpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNpcmN1bGFyUmV2ZWFsQWN0aXZpdHkoKSB7CiAgICAgICAgdmFsIGN4ID0gY29udGVudFZpZXchIS53aWR0aCAvIDIKICAgICAgICB2YWwgY3kgPSBjb250ZW50VmlldyEhLmhlaWdodCAvIDIKCiAgICAgICAgdmFsIGZpbmFsUmFkaXVzID0gTWF0aC5tYXgoY29udGVudFZpZXchIS53aWR0aCwgY29udGVudFZpZXchIS5oZWlnaHQpCgogICAgICAgIC8vIGNyZWF0ZSB0aGUgYW5pbWF0b3IgZm9yIHRoaXMgdmlldyAodGhlIHN0YXJ0IHJhZGl1cyBpcyB6ZXJvKQogICAgICAgIHZhbCBjaXJjdWxhclJldmVhbCA9CiAgICAgICAgICAgICAgICBWaWV3QW5pbWF0aW9uVXRpbHMuY3JlYXRlQ2lyY3VsYXJSZXZlYWwoCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRWaWV3LCBjeCwgY3ksIDBmLCBmaW5hbFJhZGl1cy50b0Zsb2F0KCkpCiAgICAgICAgY2lyY3VsYXJSZXZlYWwuZHVyYXRpb24gPSAxMDAwCgogICAgICAgIC8vIG1ha2UgdGhlIHZpZXcgdmlzaWJsZSBhbmQgc3RhcnQgdGhlIGFuaW1hdGlvbgogICAgICAgIGNvbnRlbnRWaWV3ISEuaXNWaXNpYmxlID0gdHJ1ZQogICAgICAgIGNpcmN1bGFyUmV2ZWFsLnN0YXJ0KCkKICAgIH0KCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNpcmN1bGFyUmV2ZWFsQWN0aXZpdHkoKSB7CiAgICAgICAgdmFsIGN4ID0gY29udGVudFZpZXchIS53aWR0aCAvIDIKICAgICAgICB2YWwgY3kgPSBjb250ZW50VmlldyEhLmhlaWdodCAvIDIKCiAgICAgICAgdmFsIGZpbmFsUmFkaXVzID0gTWF0aC5tYXgoY29udGVudFZpZXchIS53aWR0aCwgY29udGVudFZpZXchIS5oZWlnaHQpCgogICAgICAgIC8vIGNyZWF0ZSB0aGUgYW5pbWF0b3IgZm9yIHRoaXMgdmlldyAodGhlIHN0YXJ0IHJhZGl1cyBpcyB6ZXJvKQogICAgICAgIHZhbCBjaXJjdWxhclJldmVhbCA9CiAgICAgICAgICAgICAgICBWaWV3QW5pbWF0aW9uVXRpbHMuY3JlYXRlQ2lyY3VsYXJSZXZlYWwoCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRWaWV3LCBjeCwgY3ksIDBmLCBmaW5hbFJhZGl1cy50b0Zsb2F0KCkpCiAgICAgICAgY2lyY3VsYXJSZXZlYWwuZHVyYXRpb24gPSAxMDAwCgogICAgICAgIC8vIG1ha2UgdGhlIHZpZXcgdmlzaWJsZSBhbmQgc3RhcnQgdGhlIGFuaW1hdGlvbgogICAgICAgIGNvbnRlbnRWaWV3ISEuaXNWaXNpYmxlID0gdHJ1ZQogICAgICAgIGNpcmN1bGFyUmV2ZWFsLnN0YXJ0KCkKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
