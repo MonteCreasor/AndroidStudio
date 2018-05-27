@@ -1185,8 +1185,12 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" timestamp="1527458020251">
-        <mark key="'" line="78" column="17" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" timestamp="1527463134759">
+        <mark key="'" line="17" column="64" />
+        <mark key="[" line="81" column="57" />
+        <mark key="]" line="81" column="58" />
+        <mark key="." line="81" column="58" />
+        <mark key="^" line="134" column="24" />
       </file>
       <file name="$USER_HOME$/client/KioskMode/app/src/main/java/monte/appss/kioskmode/MainActivity.kt" timestamp="1521651718465">
         <mark key="[" line="55" column="20" />
@@ -1221,11 +1225,12 @@
         <mark key="." line="26" column="86" />
         <mark key="^" line="26" column="86" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/settings/SettingsActivity.kt" timestamp="1527461210921">
-        <mark key="'" line="434" column="0" />
-        <mark key="[" line="427" column="0" />
-        <mark key="]" line="427" column="0" />
-        <mark key="." line="427" column="0" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/settings/SettingsActivity.kt" timestamp="1527462789655">
+        <mark key="'" line="425" column="0" />
+        <mark key="[" line="414" column="42" />
+        <mark key="]" line="395" column="23" />
+        <mark key="^" line="395" column="23" />
+        <mark key="." line="395" column="23" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/raw/get_device_config" timestamp="1527365544259">
         <mark key="[" line="23" column="15" />
@@ -1437,9 +1442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
-      <jump line="484" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
-      <jump line="301" column="26" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
       <jump line="161" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
       <jump line="220" column="51" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
       <jump line="24998" column="6" filename="$USER_HOME$/tools/android/sdk/sources/android-27/android/view/View.java" />
@@ -1537,10 +1539,13 @@
       <jump line="72" column="53" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/survey/ui/survey/SurveyFragment.kt" />
       <jump line="136" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/survey/ui/survey/SurveyFragment.kt" />
       <jump line="433" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/settings/SettingsActivity.kt" />
+      <jump line="158" column="17" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
+      <jump line="14" column="11" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
+      <jump line="16" column="64" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgZGlzYWJsZWRTdW1tYXJ5CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1720,66 +1725,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Continue</text>
+        <text>if (isEnabled) {</text>
       </register>
       <register name="/" type="4">
-        <text>onSurveySelected</text>
+        <text>show</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gb25DbGVhckRldmljZU93bmVyc2hpcENvbmZpcm1lZCgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRW5hYmxlZCA9IGRpc2FibGVkU3VtbWFyeSA9PSBudWxsCiAgICAgICAgICAgICAgICBzdW1tYXJ5ID0gZGlzYWJsZWRTdW1tYXJ5ID86Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgZGlzYWJsZWRTdW1tYXJ5CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB4ID0gY29udGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgZGlzYWJsZWRTdW1tYXJ5CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB4ID0gY29udGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgZGlzYWJsZWRTdW1tYXJ5CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQ2xlYXJEZXZpY2VPd25lcnNoaXBDb25maXJtZWQoKSB7CiAgICAgICAgICAgIFBvbGljeU1hbmFnZXIuY2xlYXJEZXZpY2VPd25lcihjb250ZXh0KQogICAgICAgICAgICB0b2FzdChSLnN0cmluZy5kZXZpY2Vfb3duZXJfcmVtb3ZlZCkKICAgICAgICAgICAgdXBkYXRlUHJlZlN0YXRlcygpCiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgZGlzYWJsZWRTdW1tYXJ5CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRW5hYmxlZCA9IG93bmVyICYmIHNlY3VyZQogICAgICAgICAgICAgICAgc3VtbWFyeSA9IGlmIChpc0VuYWJsZWQpIHsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRW5hYmxlZCA9IG93bmVyICYmIHNlY3VyZQogICAgICAgICAgICAgICAgc3VtbWFyeSA9IGlmIChpc0VuYWJsZWQpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRW5hYmxlZCA9IG93bmVyICYmIHNlY3VyZQogICAgICAgICAgICAgICAgc3VtbWFyeSA9IGlmIChpc0VuYWJsZWQpIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgb3ZlcnJpZGUgZnVuIG9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtOiBNZW51SXRlbSk6IEJvb2xlYW4gewogICAgICAgICAgICB2YWwgaWQgPSBpdGVtLml0ZW1JZAogICAgICAgICAgICBpZiAoaWQgPT0gYW5kcm9pZC5SLmlkLmhvbWUpIHsKICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoSW50ZW50KGFjdGl2aXR5LCBTZXR0aW5nc0FjdGl2aXR5OjpjbGFzcy5qYXZhKSkKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHN1cGVyLm9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtKQogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRW5hYmxlZCA9IG93bmVyICYmIHNlY3VyZQogICAgICAgICAgICAgICAgc3VtbWFyeSA9IGlmIChpc0VuYWJsZWQpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgY2xhc3MgQ2xlYXJEZXZpY2VPd25lckFsZXJ0IDogRGlhbG9nRnJhZ21lbnQoKSB7CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZURpYWxvZyhzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pOiBEaWFsb2cgewogICAgICAgICAgICAgICAgcmV0dXJuIEFsZXJ0RGlhbG9nLkJ1aWxkZXIoY29udGV4dCkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldFRpdGxlKFIuc3RyaW5nLnJlbW92ZV9kZXZpY2Vfb3duZXJfYWxlcnRfdGl0bGUpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKFIuc3RyaW5nLnJlbW92ZV9kZXZpY2Vfb3duZXJfYWxlcnRfbWVzc2FnZSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldFBvc2l0aXZlQnV0dG9uKFIuc3RyaW5nLnJlbW92ZV9kZXZpY2Vfb3duZXJfYWxlcnRfcG9zaXRpdmUpIHsgXywgXyAtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgKGNvbnRleHQgYXMgQ2xlYXJEZXZpY2VPd25lckFsZXJ0TGlzdGVuZXIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5vbkNsZWFyRGV2aWNlT3duZXJzaGlwQ29uZmlybWVkKCkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0TmVnYXRpdmVCdXR0b24oUi5zdHJpbmcucmVtb3ZlX2RldmljZV9vd25lcl9hbGVydF9uZWdhdGl2ZSkgeyBfLCBfIC0+CiAgICAgICAgICAgICAgICAgICAgICAgIH0uY3JlYXRlKCkKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQ2xlYXJEZXZpY2VPd25lcnNoaXBDb25maXJtZWQoKSB7CiAgICAgICAgICAgIFBvbGljeU1hbmFnZXIuY2xlYXJEZXZpY2VPd25lcihjb250ZXh0KQogICAgICAgICAgICB0b2FzdChSLnN0cmluZy5kZXZpY2Vfb3duZXJfcmVtb3ZlZCkKICAgICAgICAgICAgdXBkYXRlUHJlZlN0YXRlcygpCiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcucHJlZl9kZXNjcmlwdGlvbl9lbmRfc2Vzc2lvbl9hdXRoZW50aWNhdGlvbikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onSurveySelected</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern>onSurveySelected</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace>survey</last-replace>
-      <last-substitute>HOME_APPS</last-substitute>
+      <last-substitute>show</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onSaveInstance</entry>
         <entry>onBack</entry>
         <entry>showM</entry>
         <entry>onActivityResult</entry>
@@ -1799,6 +1803,7 @@
         <entry>Secur</entry>
         <entry>interface</entry>
         <entry>onSurveySelected</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>%s/rootProject\.//g</entry>
