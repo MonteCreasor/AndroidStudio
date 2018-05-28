@@ -302,13 +302,13 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" timestamp="1527478933047">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" timestamp="1527480044965">
         <mark key="a" line="67" column="19" />
-        <mark key="'" line="131" column="8" />
-        <mark key="[" line="131" column="65" />
-        <mark key="]" line="131" column="65" />
-        <mark key="." line="131" column="65" />
-        <mark key="^" line="67" column="19" />
+        <mark key="'" line="61" column="31" />
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="39" />
+        <mark key="." line="30" column="39" />
+        <mark key="^" line="30" column="39" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/values/settings.xml" timestamp="1527467955752">
         <mark key="b" line="25" column="18" />
@@ -1261,7 +1261,7 @@
         <mark key="^" line="395" column="23" />
         <mark key="." line="395" column="23" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/res/raw/get_device_config" timestamp="1527477855627">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/res/raw/get_device_config" timestamp="1527479475549">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="42" column="33" />
         <mark key="]" line="42" column="33" />
@@ -1386,11 +1386,11 @@
         <mark key="^" line="28" column="33" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/FormioActivity.kt" timestamp="1527479278116">
-        <mark key="[" line="28" column="62" />
-        <mark key="]" line="28" column="67" />
-        <mark key="." line="28" column="67" />
-        <mark key="^" line="28" column="67" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/FormioActivity.kt" timestamp="1527479881702">
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="37" column="36" />
+        <mark key="^" line="37" column="26" />
+        <mark key="." line="37" column="36" />
       </file>
       <file name="$USER_HOME$/ccs/kiosk/settings/src/main/res/values/strings.xml" timestamp="1524008270534">
         <mark key="[" line="0" column="10" />
@@ -1480,9 +1480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="22" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" />
-      <jump line="66" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
-      <jump line="139" column="32" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
       <jump line="155" column="49" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" />
       <jump line="341" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" />
       <jump line="144" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/MainActivity.kt" />
@@ -1580,10 +1577,13 @@
       <jump line="100" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
       <jump line="67" column="19" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
       <jump line="129" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
+      <jump line="144" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
+      <jump line="30" column="39" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
+      <jump line="61" column="31" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>example</text>
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1763,58 +1763,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>render</text>
+        <text>swipeRefresh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oZm9ybS5kYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGlucHV0U3RyZWFtID0gcmVzb3VyY2VzLm9wZW5SYXdSZXNvdXJjZShSLnJhdy5leGFtcGxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHMudG9Kc29uPENvbmZpZz4oKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbmZpZyA9IHMudG9Kc29uPENvbmZpZz4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHJlbmRlcihmb3JtOiBGb3JtKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXIoZm9ybS5kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHMgPSBTY2FubmVyKGlucHV0U3RyZWFtKS51c2VEZWxpbWl0ZXIoIlxcQSIpCiAgICAgICAgICAgIHZhbCByZXN1bHQgPSBpZiAocy5oYXNOZXh0KCkpIHMubmV4dCgpIGVsc2UgIiIK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LmV2YWx1YXRlSmF2YXNjcmlwdCgiamF2YXNjcmlwdDpyZW5kZXIoJyRmb3JtJyk7IikgewogICAgICAgICAgICB0b2FzdCgicmVuZGVyIHJldHVybmVkICRpdCIpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGZvcm06IEZvcm0/ID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJlc3VsdCA9IGlmIChzLmhhc05leHQoKSkgcy5uZXh0KCkgZWxzZSAiIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhciB1cmwgPSAiaHR0cHM6Ly9leGFtcGxlcy5mb3JtLmlvL2V4YW1wbGUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcy50b0pzb248Q29uZmlnPigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGZvcm0uZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgImRhdGEiOiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>render</last-search>
+      <last-search>swipeRefresh</last-search>
       <last-offset />
-      <last-pattern>render</last-pattern>
+      <last-pattern>swipeRefresh</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1822,8 +1822,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clear</entry>
-        <entry>Listener</entry>
         <entry>Secur</entry>
         <entry>interface</entry>
         <entry>onSurveySelected</entry>
@@ -1842,6 +1840,8 @@
         <entry>onButtonClick</entry>
         <entry>Click</entry>
         <entry>render</entry>
+        <entry>onRef</entry>
+        <entry>swipeRefresh</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\(.*\):$\(.*|\)&quot;/\1' + \2/g</entry>
