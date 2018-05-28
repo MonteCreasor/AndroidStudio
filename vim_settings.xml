@@ -813,12 +813,12 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/common/KioskModeActivity.kt" timestamp="1527490559224">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/common/KioskModeActivity.kt" timestamp="1527490694482">
         <mark key="'" line="257" column="16" />
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="29" />
         <mark key="^" line="257" column="69" />
-        <mark key="." line="262" column="0" />
+        <mark key="." line="258" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/sandbox/kiosk/app/src/main/java/monte/apps/kiosk/AlertDialog.kt" timestamp="1526781918343">
         <mark key="[" line="37" column="20" />
@@ -1569,7 +1569,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZVZpZXdzKCkK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1752,55 +1752,55 @@
         <text encoding="base64">IHx8</text>
       </register>
       <register name="/" type="4">
-        <text>refresh</text>
+        <text>setupV</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGtpb3NrTW9kZSA9PSBhY3RpdmUgJiYgUG9saWN5TWFuYWdlci5pc0xvY2tlZFRhc2spIHx8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZVZpZXdzKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uVXBkYXRlS2lvc2tNb2RlKGFjdGl2ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvblVwZGF0ZUtpb3NrTW9kZShhY3RpdmUpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghUG9saWN5TWFuYWdlci5pc0xvY2tlZFRhc2spIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvblVwZGF0ZUtpb3NrTW9kZShhY3RpdmUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghUG9saWN5TWFuYWdlci5pc0xvY2tlZFRhc2spIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGtpb3NrTW9kZSAhPSBhY3RpdmUgJiYgIVBvbGljeU1hbmFnZXIuaXNMb2NrZWRUYXNrKSB8fAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
       </register>
     </registers>
     <search>
-      <last-search>refresh</last-search>
+      <last-search>setupV</last-search>
       <last-offset />
-      <last-pattern>refresh</last-pattern>
+      <last-pattern>setupV</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1808,7 +1808,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Submit</entry>
         <entry>onSubmit</entry>
         <entry>toast</entry>
         <entry>observe</entry>
@@ -1828,6 +1827,7 @@
         <entry>showPro</entry>
         <entry>1</entry>
         <entry>refresh</entry>
+        <entry>setupV</entry>
       </history-search>
       <history-cmd>
         <entry>%s/CustomA/A/g</entry>
