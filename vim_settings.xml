@@ -673,7 +673,7 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527563242474">
+      <file name="/Dummy.txt" timestamp="1527574993044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -787,12 +787,12 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" timestamp="1527572094176">
-        <mark key="'" line="42" column="19" />
-        <mark key="[" line="151" column="12" />
-        <mark key="]" line="151" column="30" />
-        <mark key="." line="151" column="30" />
-        <mark key="^" line="151" column="30" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" timestamp="1527574878159">
+        <mark key="'" line="124" column="12" />
+        <mark key="[" line="138" column="81" />
+        <mark key="]" line="138" column="81" />
+        <mark key="^" line="138" column="81" />
+        <mark key="." line="138" column="81" />
       </file>
       <file name="$USER_HOME$/android/clients/40au/vu-ema-master/MyDay-yeshiva/build.gradle" timestamp="1527380189863">
         <mark key="[" line="27" column="1" />
@@ -1542,11 +1542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
-      <jump line="228" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
-      <jump line="75" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
-      <jump line="249" column="3" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
-      <jump line="250" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
       <jump line="267" column="36" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
       <jump line="271" column="14" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
       <jump line="275" column="36" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/formio/ui/formio/FormioFragment.kt" />
@@ -1642,10 +1637,15 @@
       <jump line="38" column="26" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
       <jump line="151" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
       <jump line="42" column="19" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
+      <jump line="149" column="23" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
+      <jump line="79" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
+      <jump line="80" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
+      <jump line="84" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
+      <jump line="124" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiXG5DSEFOR0VEOlxuJHtwcmV0dHlQcmludChjaGFuZ2VkKX0iKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1825,58 +1825,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>listener</text>
+        <text>reload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiXG5EQVRBXG4ke3ByZXR0eVByaW50KGRhdGEpfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiXG5DSEFOR0VEOlxuJHtwcmV0dHlQcmludChjaGFuZ2VkKX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHdyYXBwZWQgPSAiZGF0YSA6ICRkYXRhIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEgPSBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiUkVMT0FESU5HOiBcbiR7cHJldHR5UHJpbnQoanNvbil9IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKYXZhc2NyaXB0SW50ZXJmYWNlCiAgICBmdW4gbG9hZGVkKHN0YXR1czogQm9vbGVhbikgewogICAgICAgIGFjdGl2aXR5Py5ydW5PblVpVGhyZWFkIHsKICAgICAgICAgICAgaGlkZVByb2dyZXNzVmlldygpCiAgICAgICAgfQogICAgfQoKICAgIEBKYXZhc2NyaXB0SW50ZXJmYWNlCiAgICBmdW4gY2hhbmdlZChkYXRhOiBTdHJpbmc/KSB7CiAgICAgICAgaWYgKGRhdGEgIT0gbnVsbCkgewogICAgICAgICAgICBwcmludGxuKCJcbiR7cHJldHR5UHJpbnQoZGF0YSl9IikKICAgICAgICB9CgogICAgICAgIGNoYW5nZXMgPSBkYXRhCiAgICB9CgogICAgLyoqCiAgICAgKiBDYWxsZWQgZnJvbSBmb3JtaW8gd2ViIGFwcCB0byBwb3N0IGEgc3VibWlzc2lvbiB0byB0aGUgc2VydmVyLgogICAgICovCiAgICBASmF2YXNjcmlwdEludGVyZmFjZQogICAgZnVuIHN1Ym1pdChkYXRhOiBTdHJpbmc/KSB7CiAgICAgICAgaWYgKGRhdGEgIT0gbnVsbCkgewogICAgICAgICAgICBwcmludGxuKCJcbiR7cHJldHR5UHJpbnQoZGF0YSl9IikKICAgICAgICAgICAgYWN0aXZpdHk/LnJ1bk9uVWlUaHJlYWQgewogICAgICAgICAgICAgICAgc3VibWlzc2lvbiA9IFN1Ym1pc3Npb24obW9kZWwuc2Vzc2lvbklkLCBmb3JtLmlkLCBkYXRhKS5hbHNvIHsKICAgICAgICAgICAgICAgICAgICBtb2RlbC5zdWJtaXQoaXQpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5ldmFsdWF0ZUphdmFzY3JpcHQoImphdmFzY3JpcHQ6cmVsb2FkRm9ybSgke2Zvcm0uZGF0YX0sICRkYXRhKTsiKSB7IH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5ldmFsdWF0ZUphdmFzY3JpcHQoImphdmFzY3JpcHQ6bG9hZEZvcm0oJHtmb3JtLmRhdGF9KTsiKSB7IH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5ldmFsdWF0ZUphdmFzY3JpcHQoImphdmFzY3JpcHQ6bG9hZEZvcm0oJHtmb3JtLmRhdGF9LCAkZGF0YSk7IikgeyB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGZvcm06IEZvcm0/ID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5ldmFsdWF0ZUphdmFzY3JpcHQoImphdmFzY3JpcHQ6cmVsb2FkRm9ybSgke2Zvcm0uZGF0YX0pOyIpIHsgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVjb3JWaWV3LnNldE9uU3lzdGVtVWlWaXNpYmlsaXR5Q2hhbmdlTGlzdGVuZXIodGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5ldmFsdWF0ZUphdmFzY3JpcHQoImphdmFzY3JpcHQ6cmVsb2FkRm9ybSgke2Zvcm0uZGF0YX0pOyIpIHsgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRlY29yVmlldyA9IGFjdGl2aXR5ISEud2luZG93LmRlY29yVmlldwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5ldmFsdWF0ZUphdmFzY3JpcHQoImphdmFzY3JpcHQ6bG9hZEZvcm0oJHtmb3JtLmRhdGF9LCAkZGF0YSk7IikgeyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNGdWxsU2NyZWVuID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHdlYlZpZXc6IFdlYlZpZXcK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>listener</last-search>
+      <last-search>reload</last-search>
       <last-offset />
-      <last-pattern>listener</last-pattern>
+      <last-pattern>reload</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1884,11 +1884,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Zm9ybSA=</entry>
-        <entry encoding="base64">Zm9ybSA9IA==</entry>
-        <entry>loadForm</entry>
-        <entry>refresh</entry>
-        <entry>centered</entry>
         <entry>forio</entry>
         <entry>formio</entry>
         <entry>show</entry>
@@ -1897,13 +1892,18 @@
         <entry>requestCode</entry>
         <entry>Delay</entry>
         <entry>setOn</entry>
-        <entry>onClick</entry>
         <entry>onResume</entry>
         <entry>Click(</entry>
-        <entry>Click</entry>
         <entry>onSave</entry>
         <entry>render</entry>
         <entry>listener</entry>
+        <entry>onClick</entry>
+        <entry>Click</entry>
+        <entry>submitButton</entry>
+        <entry>setupV</entry>
+        <entry>webView</entry>
+        <entry encoding="base64">d2ViVmlldyA9IA==</entry>
+        <entry>reload</entry>
       </history-search>
       <history-cmd>
         <entry>%s/start_/stop_/g</entry>
