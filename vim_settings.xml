@@ -1265,6 +1265,14 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="48" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" timestamp="1527647375446">
+        <mark key="a" line="85" column="12" />
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="152" column="59" />
+        <mark key="]" line="154" column="66" />
+        <mark key="." line="154" column="66" />
+        <mark key="^" line="154" column="66" />
+      </file>
       <file name="$USER_HOME$/client/KioskMode/app/src/main/java/monte/appss/kioskmode/MainActivity.kt" timestamp="1521651718465">
         <mark key="[" line="55" column="20" />
         <mark key="]" line="55" column="24" />
@@ -1426,12 +1434,12 @@
         <mark key="." line="218" column="65" />
         <mark key="^" line="218" column="65" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" timestamp="1527645634863">
-        <mark key="'" line="191" column="16" />
-        <mark key="[" line="60" column="69" />
-        <mark key="]" line="60" column="70" />
-        <mark key="^" line="60" column="70" />
-        <mark key="." line="60" column="70" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" timestamp="1527646711876">
+        <mark key="'" line="195" column="16" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="69" column="3" />
+        <mark key="." line="69" column="3" />
+        <mark key="^" line="69" column="3" />
       </file>
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_complete/app/src/main/java/com/google/codelabs/cosu/App.java" timestamp="1521830882928">
         <mark key="[" line="20" column="25" />
@@ -1551,12 +1559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
-      <jump line="73" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
-      <jump line="76" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
-      <jump line="83" column="53" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
-      <jump line="94" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
-      <jump line="97" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="105" column="53" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="120" column="42" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="53" column="28" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
@@ -1651,10 +1653,16 @@
       <jump line="109" column="27" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="58" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="183" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
+      <jump line="129" column="42" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
+      <jump line="67" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
+      <jump line="320" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
+      <jump line="19" column="11" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
+      <jump line="20" column="64" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
+      <jump line="94" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Preconditions</text>
+        <text>this</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1834,58 +1842,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Preconditions</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>LocalBroad</text>
+        <text>finish</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFpbi5maW5kIHsgIiRpZDoke2l0LmlkfSIgPT0gaWQgfT8ucmVzdWx0KHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIGZ1biA8VD4gc2hvdyh0YXJnZXQ6IFQsIHJlcXVlc3RDb2RlOiBJbnQ/ID0gbnVsbCwgaWQ6IFN0cmluZz8gPSBudWxsLCBhbmltYXRlOiBCb29sZWFuID0gZmFsc2UpIHsKICAgICAgICB0aGlzLmlkID0gaWQKICAgICAgICB0aGlzLmFuaW1hdGUgPSBhbmltYXRlCgogICAgICAgIC8vIFN1cHBvcnQgY2FsbGJhY2tzIHRvIGZyYWdtZW50cy4KICAgICAgICAodGFyZ2V0IGFzPyBGcmFnbWVudCk/LnNldFRhcmdldEZyYWdtZW50KHRhcmdldCwgcmVxdWVzdENvZGUgPzogMCkKCiAgICAgICAgc3VwZXIuc2hvdyhnZXRGcmFnbWVudE1hbmFnZXIodGFyZ2V0KSwgdGhpczo6Y2xhc3MuamF2YS5uYW1lKQogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnRlbnQgVGhlIEludGVudCBiZWluZyByZWNlaXZlZC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb250ZXh0IFRoZSBDb250ZXh0IGluIHdoaWNoIHRoZSByZWNlaXZlciBpcyBydW5uaW5nLgo=</text>
+        <text encoding="base64">ICAgICAgICAodGFyZ2V0IGFzPyBGcmFnbWVudCk/LnNldFRhcmdldEZyYWdtZW50KHRhcmdldCw/OiAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdXBwb3J0IGNhbGxiYWNrcyB0byBmcmFnbWVudHMuCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEludGVudHMgdGhhdCB0aGV5IG1heSByZWNlaXZlLgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIGltcGxlbWVudGF0aW9ucyBzaG91bGQgcmVzcG9uZCBvbmx5IHRvIGtub3duIGFjdGlvbnMsIGlnbm9yaW5nIGFueSB1bmV4cGVjdGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIHJlc29sdXRpb24uICBGb3IgdGhpcyByZWFzb24sIFtvblJlY2VpdmUoKV1bLm9uUmVjZWl2ZV0K</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIHBvc3NpYmxlIGZvciBzZW5kZXJzIHRvIGZvcmNlIGRlbGl2ZXJ5IHRvIHNwZWNpZmljIHJlY2lwaWVudHMsIGJ5cGFzc2luZyBmaWx0ZXIK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>LocalBroad</last-search>
+      <last-search>finish</last-search>
       <last-offset />
-      <last-pattern>LocalBroad</last-pattern>
+      <last-pattern>finish</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1893,8 +1901,6 @@
     </search>
     <history>
       <history-search>
-        <entry>range</entry>
-        <entry>fit</entry>
         <entry>canon</entry>
         <entry>-1</entry>
         <entry>finall</entry>
@@ -1913,6 +1919,8 @@
         <entry>run</entry>
         <entry>addAll</entry>
         <entry>LocalBroad</entry>
+        <entry>show</entry>
+        <entry>finish</entry>
       </history-search>
       <history-cmd>
         <entry>%s/start_/stop_/g</entry>
