@@ -321,9 +321,9 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" timestamp="1527798167902">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" timestamp="1527798251596">
         <mark key="a" line="357" column="47" />
-        <mark key="'" line="261" column="12" />
+        <mark key="'" line="34" column="15" />
         <mark key="[" line="341" column="62" />
         <mark key="]" line="341" column="62" />
         <mark key="." line="341" column="62" />
@@ -1486,13 +1486,13 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/KioskModeAlert.kt" timestamp="1527743998852">
-        <mark key="a" line="20" column="0" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/KioskModeAlert.kt" timestamp="1527799335402">
+        <mark key="a" line="95" column="11" />
         <mark key="'" line="55" column="12" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="65" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="124" column="71" />
+        <mark key="[" line="90" column="64" />
+        <mark key="]" line="90" column="65" />
+        <mark key="^" line="90" column="65" />
+        <mark key="." line="90" column="65" />
       </file>
       <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/model/db/Code.kt" timestamp="1527216697537">
         <mark key="[" line="6" column="0" />
@@ -1547,7 +1547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="24" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" />
       <jump line="145" column="56" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" />
       <jump line="298" column="32" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" />
       <jump line="129" column="14" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/KioskModeAlert.kt" />
@@ -1647,10 +1646,11 @@
       <jump line="297" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="299" column="24" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="304" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
+      <jump line="34" column="15" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>t</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1852,58 +1852,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>runFinally</text>
+        <text>Kiosk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IHRocm93IEV4Y2VwdGlvbigiSW52YWxpZCBhY3Rpb24gJGFjdGlvbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZpdHkhIS5zdGFydExvY2tUYXNrKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHQ/LnJ1bigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEtpb3NrRnJhZ21lbnQuQWN0aW9uLlNUQVJUX1NFU1NJT04gLT4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmaW5hbGwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kTmV4dEZpbmFsbHkodmFsaWRhdG9yKT8uc3VjY2VzcyEhKHN0YXR1cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcgo=</text>
+        <text encoding="base64">ICAgICAgICBpc1MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgeCA9IGNoYWluLmRyb3AoY2hhaW4uaW5kZXhPZih2YWxpZGF0b3IpICsgMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuaWQuZW5kc1dpdGgoImZpbmFsbHkiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHQ/LnJ1bigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>runFinally</last-search>
+      <last-search>Kiosk</last-search>
       <last-offset />
-      <last-pattern>runFinally</last-pattern>
+      <last-pattern>Kiosk</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>MATCH</last-substitute>
       <last-dir>1</last-dir>
@@ -1911,7 +1911,6 @@
     </search>
     <history>
       <history-search>
-        <entry>next?</entry>
         <entry>next!!</entry>
         <entry>next</entry>
         <entry>fnd</entry>
@@ -1931,6 +1930,7 @@
         <entry>funFinally</entry>
         <entry>runFina</entry>
         <entry>runFinally</entry>
+        <entry>Kiosk</entry>
       </history-search>
       <history-cmd>
         <entry>%s/start_/stop_/g</entry>
