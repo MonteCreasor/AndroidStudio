@@ -1489,13 +1489,12 @@
         <mark key="." line="218" column="65" />
         <mark key="^" line="218" column="65" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" timestamp="1527727428104">
-        <mark key="a" line="212" column="38" />
-        <mark key="'" line="213" column="36" />
-        <mark key="[" line="313" column="67" />
-        <mark key="]" line="314" column="19" />
-        <mark key="." line="314" column="19" />
-        <mark key="^" line="314" column="19" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" timestamp="1527728322377">
+        <mark key="'" line="65" column="54" />
+        <mark key="[" line="301" column="20" />
+        <mark key="]" line="301" column="34" />
+        <mark key="." line="301" column="34" />
+        <mark key="^" line="301" column="34" />
       </file>
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_complete/app/src/main/java/com/google/codelabs/cosu/App.java" timestamp="1521830882928">
         <mark key="[" line="20" column="25" />
@@ -1621,8 +1620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="56" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
-      <jump line="169" column="17" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="123" column="5" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="168" column="14" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="192" column="40" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
@@ -1721,10 +1718,12 @@
       <jump line="125" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/common/KioskModeActivity.kt" />
       <jump line="212" column="38" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="213" column="36" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
+      <jump line="210" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
+      <jump line="65" column="54" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc3RyYXRlZ3kgPT0gQlJPQURDQVNUKSB1bnJlZ2lzdGVyUmVjZWl2ZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1904,58 +1903,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{ onAlertResult(&quot;$tag:${chain.size}&quot;, it) }</text>
       </register>
       <register name="/" type="4">
-        <text>no_</text>
+        <text>listener</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmF0ZWd5ID09IEJST0FEQ0FTVCkgdW5yZWdpc3RlclJlY2VpdmVyKCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGlzdGVuZXI6IChzdGF0dXM6IEJvb2xlYW4pIC0+IFVuaXQgPSB7IG9uQWxlcnRSZXN1bHQoIiR0YWc6JHtjaGFpbi5zaXplfSIsIGl0KSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc3RyYXRlZ3kgPT0gQlJPQURDQVNUKSB1bnJlZ2lzdGVyUmVjZWl2ZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmF0ZWd5ID09IEJST0FEQ0FTVCkgdW5yZWdpc3RlclJlY2VpdmVyKCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQubGlzdGVuZXI/Lm9uQWxlcnRSZXN1bHQoaXQubGlzdGVuZXJJZCEhLCBmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICBjaGFpbi5sYXN0KCkubGlzdGVuZXIgPSBsaXN0ZW5lcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFpbi5hZGQoVmFsaWRhdG9yKGdvYWwsIGFjdGlvbiwgc3VjY2VzcywgZmFpbHVyZSwgcmVxdWlyZWQpKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nKCJFTkRFRCBhdCAkaWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5uZXh0Py5pbnZva2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ6IEJvb2xlYW4gPSB0cnVlKTogUHJlY29uZGl0aW9ucyB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmFpbHVyZTogKCkgLT4gVW5pdCA9IHt9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeDogSW50LCB5OiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3VjY2VzczogKHZhbHVlOiBBbnk/KSAtPiBVbml0ID0ge30sCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>no_</last-search>
+      <last-search>listener</last-search>
       <last-offset />
-      <last-pattern>no_</last-pattern>
+      <last-pattern>listener</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>MATCH</last-substitute>
       <last-dir>1</last-dir>
@@ -1963,7 +1962,6 @@
     </search>
     <history>
       <history-search>
-        <entry>KEY_ID</entry>
         <entry>onAlert</entry>
         <entry>Yes</entry>
         <entry>No</entry>
@@ -1983,6 +1981,7 @@
         <entry>updateViews</entry>
         <entry>MATCH</entry>
         <entry>no_</entry>
+        <entry>listener</entry>
       </history-search>
       <history-cmd>
         <entry>%s/start_/stop_/g</entry>
