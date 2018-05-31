@@ -1414,11 +1414,12 @@
         <mark key="." line="218" column="65" />
         <mark key="^" line="218" column="65" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" timestamp="1527755887897">
-        <mark key="'" line="250" column="0" />
-        <mark key="[" line="326" column="18" />
-        <mark key="]" line="326" column="31" />
-        <mark key="." line="326" column="31" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" timestamp="1527757307794">
+        <mark key="'" line="279" column="26" />
+        <mark key="[" line="286" column="50" />
+        <mark key="]" line="286" column="13" />
+        <mark key="." line="286" column="13" />
+        <mark key="^" line="286" column="13" />
       </file>
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_complete/app/src/main/java/com/google/codelabs/cosu/App.java" timestamp="1521830882928">
         <mark key="[" line="20" column="25" />
@@ -1551,10 +1552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="61" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
-      <jump line="61" column="64" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
-      <jump line="80" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
-      <jump line="83" column="34" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="90" column="56" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="122" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="125" column="46" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
@@ -1651,10 +1648,14 @@
       <jump line="322" column="32" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="326" column="32" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="250" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
+      <jump line="296" column="33" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
+      <jump line="286" column="49" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
+      <jump line="285" column="26" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
+      <jump line="279" column="26" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiUHJlY29uZGl0aW9ucygkdGFnKTogJG1zZyIsIHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RhcnRpbmcg</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1856,10 +1857,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">c3RhcnRpbmcg</text>
       </register>
       <register name="/" type="4">
-        <text>head</text>
+        <text>FAILED</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgiUHJlY29uZGl0aW9ucygkdGFnKTogJG1zZyIsIHQpCg==</text>
@@ -1905,9 +1906,9 @@
       </register>
     </registers>
     <search>
-      <last-search>head</last-search>
+      <last-search>FAILED</last-search>
       <last-offset />
-      <last-pattern>head</last-pattern>
+      <last-pattern>FAILED</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>MATCH</last-substitute>
       <last-dir>1</last-dir>
@@ -1915,9 +1916,6 @@
     </search>
     <history>
       <history-search>
-        <entry>when</entry>
-        <entry>throw</entry>
-        <entry>addAlert</entry>
         <entry>Click</entry>
         <entry>onAl</entry>
         <entry>onAlert</entry>
@@ -1935,6 +1933,9 @@
         <entry>finally</entry>
         <entry>$tag</entry>
         <entry>head</entry>
+        <entry>goal succed</entry>
+        <entry>GOAL failed</entry>
+        <entry>FAILED</entry>
       </history-search>
       <history-cmd>
         <entry>%s/start_/stop_/g</entry>
