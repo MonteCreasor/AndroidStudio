@@ -26,6 +26,7 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/camera/CameraFragment.kt" timestamp="1527854972022" />
       <file name="$USER_HOME$/ccs/modules/Settings/build.gradle" timestamp="1523915550722">
         <mark key="[" line="10" column="76" />
         <mark key="]" line="10" column="76" />
@@ -1255,6 +1256,12 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/camera_fragment.xml" timestamp="1527854645281">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/DialogFragmentSandbox/scripts/set-device-owner.sh" timestamp="1526777980369">
         <mark key="[" line="5" column="49" />
         <mark key="]" line="5" column="49" />
@@ -1550,15 +1557,6 @@
         <mark key="." line="218" column="65" />
         <mark key="^" line="218" column="65" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" timestamp="1527839760776">
-        <mark key="a" line="260" column="5" />
-        <mark key="'" line="65" column="6" />
-        <mark key="j" line="294" column="20" />
-        <mark key="[" line="330" column="25" />
-        <mark key="]" line="331" column="12" />
-        <mark key="." line="331" column="12" />
-        <mark key="^" line="331" column="12" />
-      </file>
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_complete/app/src/main/java/com/google/codelabs/cosu/App.java" timestamp="1521830882928">
         <mark key="[" line="20" column="25" />
         <mark key="]" line="21" column="45" />
@@ -1654,10 +1652,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/form_fragment.xml" timestamp="1527594784839">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/form_fragment.xml" timestamp="1527855091268">
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="40" />
+        <mark key="^" line="34" column="40" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/common/Bitmap.kt" timestamp="1524192851151">
         <mark key="[" line="16" column="43" />
@@ -1697,7 +1696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/FormActivity.kt" />
       <jump line="35" column="28" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/FormActivity.kt" />
       <jump line="68" column="21" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/FormActivity.kt" />
       <jump line="302" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
@@ -1797,10 +1795,11 @@
       <jump line="166" column="51" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
       <jump line="287" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
       <jump line="72" column="6" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/res/layout/camera_fragment.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVuS2lvc2tBY3Rpb24oU1RPUF9LSU9TSykK</text>
+      <register name="&quot;" type="4">
+        <text>Bottom</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2002,49 +2001,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>Bottom</text>
       </register>
       <register name="/" type="4">
         <text>refresh()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVE9ETzogZm9yIGJldHRlciBkZW1vIHRvIHNob3cgYnVzeSBkZWxheS4uLiByZW1vdmUgYWZ0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVuS2lvc2tBY3Rpb24oU1RPUF9LSU9TSykK</text>
+        <text encoding="base64">ICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Rml4ZWQgcGVyc2lzdGVudCBjb25maXJtIGJ1Zy4KRml4ZWQgbWFpbiBhY3Rpdml0eSBoYXZpbmcgYSBiYWNrIGFycm93IChpdCBzaG91bGRuJ3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVuS2lvc2tBY3Rpb24oU1RPUF9LSU9TSykK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lPSJ1aS4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICAgIDxzY3JpcHQ+CiAgICAgIEZvcm1pby5jcmVhdGVGb3JtKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdmb3JtaW8nKSwgJ2h0dHBzOi8vZXhhbXBsZXMuZm9ybS5pby9leGFtcGxlJykudGhlbihmdW5jdGlvbihmb3JtKSB7CiAgZm9ybS5zdWJtaXNzaW9uID0gewogICAgZGF0YTogewogICAgICBmaXJzdE5hbWU6ICdKb2UnLAogICAgICBsYXN0TmFtZTogJ1NtaXRoJwogICAgfQogIH07CgogIGZvcm0ub24oJ3N1Ym1pdCcsIGZ1bmN0aW9uKHN1Ym1pc3Npb24pIHsKICAgIGNvbnNvbGUubG9nKCdTdWJtaXNzaW9uIHdhcyBtYWRlIScsIHN1Ym1pc3Npb24pOwogIH0pOwoKICBmb3JtLm9uKCdjaGFuZ2UnLCBmdW5jdGlvbihjaGFuZ2VkKSB7CiAgICBjb25zb2xlLmxvZygnRm9ybSB3YXMgY2hhbmdlZCcsIGNoYW5nZWQpOwogIH0pOwp9KTsKCgogICAgPC9zY3JpcHQ+CjwvaGVhZD4KCjxib2R5Pgo8ZGl2IGNsYXNzPSJqdW1ib3Ryb24iPgogICAgPGRpdiBjbGFzcz0iY29udGFpbmVyIHRleHQtY2VudGVyIj4KICAgICAgICA8aDE+VmFuaWxsYUpTIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9mb3JtaW8vZm9ybWlvLmpzIiB0YXJnZXQ9Il9ibGFuayI+Rm9ybQogICAgICAgICAgICBSZW5kZXJlcjwvYT48L2gxPgogICAgICAgIDxwPmJ5IDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwczovL2Zvcm0uaW8iPjxpbWcKICAgICAgICAgICAgICAgIHNyYz0iaHR0cHM6Ly9oZWxwLmZvcm0uaW8vYXNzZXRzL2Zvcm1pby1sb2dvLnBuZyIvPjwvYT48L3A+CiAgICA8L2Rpdj4KPC9kaXY+CjxkaXYgY2xhc3M9InBhZ2UtY29udGVudCI+CiAgICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgogICAgICAgIDxkaXYgaWQ9ImZvcm1pbyI+PC9kaXY+CiAgICA8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRUaW1lcigpCg==</text>
+        <text encoding="base64">PC9GcmFtZUxheW91dD4K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5yZWxvYWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy4K</text>
+        <text encoding="base64">PC9MaW5lYXJMYXlvdXQ+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5yZWxvYWQoKQo=</text>
+        <text encoding="base64">PExpbmVhckxheW91dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoaWRlUHJvZ3Jlc3NWaWV3KCkK</text>
+        <text encoding="base64">ICAgIDxGcmFtZUxheW91dAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/\\&quot;/g</text>
