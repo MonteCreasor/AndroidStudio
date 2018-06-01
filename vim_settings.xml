@@ -336,7 +336,7 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" timestamp="1527826121221">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" timestamp="1527827754925">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
@@ -1349,6 +1349,13 @@
         <mark key="]" line="6" column="48" />
         <mark key="." line="6" column="48" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/res/raw/get_device_config" timestamp="1527828393111">
+        <mark key="'" line="5" column="3437" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="3439" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/common/NavBar.kt" timestamp="1527401126771">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1384,7 +1391,7 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="63" column="48" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/assets/formio.html" timestamp="1527823763671" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/assets/formio.html" timestamp="1527828493635" />
       <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/res/layout/layout.xml" timestamp="1523762035721">
         <mark key="[" line="7" column="54" />
         <mark key="]" line="7" column="54" />
@@ -1474,15 +1481,6 @@
         <mark key="]" line="218" column="65" />
         <mark key="." line="218" column="65" />
         <mark key="^" line="218" column="65" />
-      </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" timestamp="1527818138166">
-        <mark key="a" line="260" column="5" />
-        <mark key="'" line="330" column="19" />
-        <mark key="j" line="294" column="20" />
-        <mark key="[" line="330" column="25" />
-        <mark key="]" line="331" column="12" />
-        <mark key="." line="331" column="12" />
-        <mark key="^" line="331" column="12" />
       </file>
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_complete/app/src/main/java/com/google/codelabs/cosu/App.java" timestamp="1521830882928">
         <mark key="[" line="20" column="25" />
@@ -1614,8 +1612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="38" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" />
-      <jump line="33" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" />
       <jump line="373" column="41" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" />
       <jump line="295" column="50" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" />
@@ -1714,10 +1710,12 @@
       <jump line="106" column="36" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
       <jump line="214" column="35" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
       <jump line="218" column="35" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/scanner/ui/ScannerFragment.kt" />
+      <jump line="115" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/res/raw/get_device_config" />
+      <jump line="5" column="3437" filename="$USER_HOME$/ccs/intake/app/src/main/res/raw/get_device_config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>REAR</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIntcInR5cGVcIjpcImZvcm1cIixcInRhZ3NcIjpbXSxcIm93bmVyXCI6XCI1YTk5ZWI0ZDZjM2QyYTBmOTkxNDY1NTBcIixcImNvbXBvbmVudHNcIjpbe1wiaW5wdXRcIjp0cnVlLFwidGFibGVWaWV3XCI6dHJ1ZSxcImxhYmVsXCI6XCJTdXJ2ZXkxXCIsXCJrZXlcIjpcInN1cnZleTFcIixcInF1ZXN0aW9uc1wiOlt7XCJ2YWx1ZVwiOlwicXVlc3Rpb24xXCIsXCJsYWJlbFwiOlwicXVlc3Rpb24xXCJ9LHtcInZhbHVlXCI6XCJxdWVzdGlvbjJcIixcImxhYmVsXCI6XCJxdWVzdGlvbjJcIn0se1widmFsdWVcIjpcInF1ZXN0aW9uM1wiLFwibGFiZWxcIjpcInF1ZXN0aW9uM1wifSx7XCJ2YWx1ZVwiOlwicXVlc3Rpb240XCIsXCJsYWJlbFwiOlwicXVlc3Rpb240XCJ9LHtcInZhbHVlXCI6XCJxdWVzdGlvbjVcIixcImxhYmVsXCI6XCJxdWVzdGlvbjVcIn1dLFwidmFsdWVzXCI6W3tcInZhbHVlXCI6XCJ5ZXNcIixcImxhYmVsXCI6XCJ5ZXNcIn0se1widmFsdWVcIjpcIm5vXCIsXCJsYWJlbFwiOlwibm9cIn0se1widmFsdWVcIjpcIm90aGVyXCIsXCJsYWJlbFwiOlwib3RoZXJcIn1dLFwiZGVmYXVsdFZhbHVlXCI6XCJcIixcInByb3RlY3RlZFwiOmZhbHNlLFwicGVyc2lzdGVudFwiOnRydWUsXCJoaWRkZW5cIjpmYWxzZSxcImNsZWFyT25IaWRlXCI6dHJ1ZSxcInZhbGlkYXRlXCI6e1wicmVxdWlyZWRcIjpmYWxzZSxcImN1c3RvbVwiOlwiXCIsXCJjdXN0b21Qcml2YXRlXCI6ZmFsc2V9LFwidHlwZVwiOlwic3VydmV5XCIsXCJsYWJlbFBvc2l0aW9uXCI6XCJ0b3BcIixcInRhZ3NcIjpbXSxcImNvbmRpdGlvbmFsXCI6e1wic2hvd1wiOlwiXCIsXCJ3aGVuXCI6bnVsbCxcImVxXCI6XCJcIn0sXCJwcm9wZXJ0aWVzXCI6e319LHtcImF1dG9mb2N1c1wiOmZhbHNlLFwiaW5wdXRcIjp0cnVlLFwibGFiZWxcIjpcIlN1Ym1pdFwiLFwidGFibGVWaWV3XCI6ZmFsc2UsXCJrZXlcIjpcInN1Ym1pdFwiLFwic2l6ZVwiOlwibWRcIixcImxlZnRJY29uXCI6XCJcIixcInJpZ2h0SWNvblwiOlwiXCIsXCJibG9ja1wiOmZhbHNlLFwiYWN0aW9uXCI6XCJzdWJtaXRcIixcImRpc2FibGVPbkludmFsaWRcIjpmYWxzZSxcInRoZW1lXCI6XCJwcmltYXJ5XCIsXCJ0eXBlXCI6XCJidXR0b25cIn1dLFwicmV2aXNpb25zXCI6XCJcIixcIl92aWRcIjowLFwiYWNjZXNzXCI6W3tcInJvbGVzXCI6W1wiNWFhZjI4NTE1MGRhYWQxYzQwODkxNGIxXCIsXCI1YWFmMjg1MTUwZGFhZDc4MTA4OTE0YjJcIixcIjVhYWYyODUxNTBkYWFkYjZmZTg5MTRiM1wiXSxcInR5cGVcIjpcInJlYWRfYWxsXCJ9XSxcInN1Ym1pc3Npb25BY2Nlc3NcIjpbXSxcImNyZWF0ZWRcIjpcIjIwMTgtMDUtMjJUMDY6MjM6MDQuMjIxWlwiLFwiX2lkXCI6XCI1YjAzYjc0ODRlZGI3NTBlYmE1MDkzZGRcIixcInRpdGxlXCI6XCJTdXJ2ZXkxXCIsXCJkaXNwbGF5XCI6XCJmb3JtXCIsXCJzZXR0aW5nc1wiOnt9LFwibmFtZVwiOlwic3VydmV5MVwiLFwicGF0aFwiOlwic3VydmV5MVwiLFwicHJvamVjdFwiOlwiNWFhZjI4NTE1MGRhYWQzNWI4ODkxNGIwXCIsXCJtb2RpZmllZFwiOlwiMjAxOC0wNS0yMlQwNjoyMzowNC40MDBaXCIsXCJtYWNoaW5lTmFtZVwiOlwiYmtoeGVyaGFneXRpZm9kOnN1cnZleTFcIn0iLAo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1919,66 +1917,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>REAR</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>gone</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlcgogICAgICAgICAgICAgICAgICAgIC5iZWdpblRyYW5zYWN0aW9uKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGZyYWdtZW50OiBNYWluRnJhZ21lbnQK</text>
+        <text encoding="base64">ICAgICAgIntcInR5cGVcIjpcImZvcm1cIixcInRhZ3NcIjpbXSxcIm93bmVyXCI6XCI1YTk5ZWI0ZDZjM2QyYTBmOTkxNDY1NTBcIixcImNvbXBvbmVudHNcIjpbe1wiaW5wdXRcIjp0cnVlLFwidGFibGVWaWV3XCI6dHJ1ZSxcImxhYmVsXCI6XCJTdXJ2ZXkxXCIsXCJrZXlcIjpcInN1cnZleTFcIixcInF1ZXN0aW9uc1wiOlt7XCJ2YWx1ZVwiOlwicXVlc3Rpb24xXCIsXCJsYWJlbFwiOlwicXVlc3Rpb24xXCJ9LHtcInZhbHVlXCI6XCJxdWVzdGlvbjJcIixcImxhYmVsXCI6XCJxdWVzdGlvbjJcIn0se1widmFsdWVcIjpcInF1ZXN0aW9uM1wiLFwibGFiZWxcIjpcInF1ZXN0aW9uM1wifSx7XCJ2YWx1ZVwiOlwicXVlc3Rpb240XCIsXCJsYWJlbFwiOlwicXVlc3Rpb240XCJ9LHtcInZhbHVlXCI6XCJxdWVzdGlvbjVcIixcImxhYmVsXCI6XCJxdWVzdGlvbjVcIn1dLFwidmFsdWVzXCI6W3tcInZhbHVlXCI6XCJ5ZXNcIixcImxhYmVsXCI6XCJ5ZXNcIn0se1widmFsdWVcIjpcIm5vXCIsXCJsYWJlbFwiOlwibm9cIn0se1widmFsdWVcIjpcIm90aGVyXCIsXCJsYWJlbFwiOlwib3RoZXJcIn1dLFwiZGVmYXVsdFZhbHVlXCI6XCJcIixcInByb3RlY3RlZFwiOmZhbHNlLFwicGVyc2lzdGVudFwiOnRydWUsXCJoaWRkZW5cIjpmYWxzZSxcImNsZWFyT25IaWRlXCI6dHJ1ZSxcInZhbGlkYXRlXCI6e1wicmVxdWlyZWRcIjpmYWxzZSxcImN1c3RvbVwiOlwiXCIsXCJjdXN0b21Qcml2YXRlXCI6ZmFsc2V9LFwidHlwZVwiOlwic3VydmV5XCIsXCJsYWJlbFBvc2l0aW9uXCI6XCJ0b3BcIixcInRhZ3NcIjpbXSxcImNvbmRpdGlvbmFsXCI6e1wic2hvd1wiOlwiXCIsXCJ3aGVuXCI6bnVsbCxcImVxXCI6XCJcIn0sXCJwcm9wZXJ0aWVzXCI6e319LHtcImF1dG9mb2N1c1wiOmZhbHNlLFwiaW5wdXRcIjp0cnVlLFwibGFiZWxcIjpcIlN1Ym1pdFwiLFwidGFibGVWaWV3XCI6ZmFsc2UsXCJrZXlcIjpcInN1Ym1pdFwiLFwic2l6ZVwiOlwibWRcIixcImxlZnRJY29uXCI6XCJcIixcInJpZ2h0SWNvblwiOlwiXCIsXCJibG9ja1wiOmZhbHNlLFwiYWN0aW9uXCI6XCJzdWJtaXRcIixcImRpc2FibGVPbkludmFsaWRcIjpmYWxzZSxcInRoZW1lXCI6XCJwcmltYXJ5XCIsXCJ0eXBlXCI6XCJidXR0b25cIn1dLFwicmV2aXNpb25zXCI6XCJcIixcIl92aWRcIjowLFwiYWNjZXNzXCI6W3tcInJvbGVzXCI6W1wiNWFhZjI4NTE1MGRhYWQxYzQwODkxNGIxXCIsXCI1YWFmMjg1MTUwZGFhZDc4MTA4OTE0YjJcIixcIjVhYWYyODUxNTBkYWFkYjZmZTg5MTRiM1wiXSxcInR5cGVcIjpcInJlYWRfYWxsXCJ9XSxcInN1Ym1pc3Npb25BY2Nlc3NcIjpbXSxcImNyZWF0ZWRcIjpcIjIwMTgtMDUtMjJUMDY6MjM6MDQuMjIxWlwiLFwiX2lkXCI6XCI1YjAzYjc0ODRlZGI3NTBlYmE1MDkzZGRcIixcInRpdGxlXCI6XCJTdXJ2ZXkxXCIsXCJkaXNwbGF5XCI6XCJmb3JtXCIsXCJzZXR0aW5nc1wiOnt9LFwibmFtZVwiOlwic3VydmV5MVwiLFwicGF0aFwiOlwic3VydmV5MVwiLFwicHJvamVjdFwiOlwiNWFhZjI4NTE1MGRhYWQzNWI4ODkxNGIwXCIsXCJtb2RpZmllZFwiOlwiMjAxOC0wNS0yMlQwNjoyMzowNC40MDBaXCIsXCJtYWNoaW5lTmFtZVwiOlwiYmtoeGVyaGFneXRpZm9kOnN1cnZleTFcIn0iLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGZyYWdtZW50OiBNYWluRnJhZ21lbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtYWluCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzcygiVU5VU0VEX1BBUkFNRVRFUiIpCiAgICBmdW4gb25FeGl0S2lvc2tNb2RlQ2xpY2tlZCh2aWV3OiBWaWV3KSB7CiAgICAgICAgcnVuS2lvc2tBY3Rpb24oU1RPUF9LSU9TSykKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ampqamoK</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygiVU5VU0VEX1BBUkFNRVRFUiIpCiAgICBmdW4gb25FeGl0S2lvc2tNb2RlQ2xpY2tlZCh2aWV3OiBWaWV3KSB7CiAgICAgICAgcnVuS2lvc2tBY3Rpb24oU1RPUF9LSU9TSykKICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ampqamoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRob3JpemF0aW9uVGV4dC5pc0dvbmUgPSBhdXRob3JpemF0aW9uVGV4dC50ZXh0LmlzTnVsbE9yQmxhbmsoKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNUZXh0LmlzR29uZSA9IHN0YXR1c1RleHQudGV4dC5pc051bGxPckJsYW5rKCkK</text>
+        <text encoding="base64">ICAgICAgICBhdXRob3JpemF0aW9uVGV4dC5pc0dvbmUgPSBhdXRob3JpemF0aW9uVGV4dC50ZXh0LmlzTnVsbE9yQmxhbmsoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>s/&quot;/\\&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>gone</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>gone</last-pattern>
-      <last-replace>2</last-replace>
-      <last-substitute>MATCH</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>\\&quot;</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addAction</entry>
         <entry>sow</entry>
         <entry>addChe</entry>
         <entry>showCh</entry>
@@ -1998,16 +1995,15 @@
         <entry>Swipe</entry>
         <entry>onExi</entry>
         <entry>gone</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/start_/stop_/g</entry>
         <entry>%s/_REQUEST//g</entry>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
         <entry>%s/FragmentCompat/Fragment/g</entry>
         <entry>%s/onCreatePreference/onCreate/g</entry>
         <entry>%s/&quot;/\&quot;/</entry>
         <entry>s/&quot;/\&quot;/g</entry>
-        <entry>s/&quot;/\\&quot;/g</entry>
         <entry>s/urvey1/urvey3/g</entry>
         <entry>s/urvey1/urvey2/g</entry>
         <entry>%s/ = \(.*\)/(\1),/g</entry>
@@ -2020,6 +2016,8 @@
         <entry>s/1/3/g</entry>
         <entry>s/1/2/g</entry>
         <entry>set ic</entry>
+        <entry>%s/&quot;/\\&quot;/</entry>
+        <entry>s/&quot;/\\&quot;/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
