@@ -85,6 +85,11 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/versions.gradle" timestamp="1528088609767">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/idealife/gateway/src/main/java/com/ideallife/android/gateway/service/GatewayService.java" timestamp="1527989017735">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -328,11 +333,11 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="25" column="8" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/build.gradle" timestamp="1528077410835">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="44" />
-        <mark key="^" line="47" column="3" />
-        <mark key="." line="47" column="3" />
+      <file name="$USER_HOME$/ccs/intake/app/build.gradle" timestamp="1528088640318">
+        <mark key="[" line="121" column="32" />
+        <mark key="]" line="121" column="39" />
+        <mark key="^" line="121" column="39" />
+        <mark key="." line="121" column="39" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/math.kt" timestamp="1527629729592">
         <mark key="[" line="0" column="31" />
@@ -1599,7 +1604,6 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.widget/multislider/1.3/783ba5d8cd73e829ff38c9b35d35f4599f8938a5/multislider-1.3-sources.jar!/io/apptik/widget/MultiSlider.java" timestamp="1528075772439" />
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/DeviceDatabase.kt" timestamp="1526332143830">
         <mark key="[" line="26" column="81" />
         <mark key="]" line="26" column="86" />
@@ -1775,6 +1779,13 @@
         <mark key="." line="218" column="65" />
         <mark key="^" line="218" column="65" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" timestamp="1528089254266">
+        <mark key="'" line="279" column="7" />
+        <mark key="[" line="340" column="15" />
+        <mark key="]" line="340" column="16" />
+        <mark key="^" line="340" column="16" />
+        <mark key="." line="340" column="16" />
+      </file>
       <file name="$USER_HOME$/formio/cosu-apps/cosu-master/cosu_codelab_complete/app/src/main/java/com/google/codelabs/cosu/App.java" timestamp="1521830882928">
         <mark key="[" line="20" column="25" />
         <mark key="]" line="21" column="45" />
@@ -1927,7 +1938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
       <jump line="104" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
       <jump line="105" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
       <jump line="106" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
@@ -2027,10 +2037,11 @@
       <jump line="338" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.java" />
       <jump line="57" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/ConnectionChecker.java" />
       <jump line="86" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/ConnectionChecker.java" />
+      <jump line="279" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>net</text>
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2232,58 +2243,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>net</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>isNoConn</text>
+        <text>action</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlMb2cudyhUQUcsICJDT05ORUNUSU9OIENIRUNLRVJbIiArIGNhbGxlciArICJdID0gIiArCg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gcnVuKCkgewogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gcnVuKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCUxvZy53KFRBRywgIk5ldHdvcmtJbmZvIG5pID0gY20uZ2V0QWN0aXZlTmV0d29ya0luZm8oKSByZXR1cm5lZCBudWxsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0QWxlcnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiAobmkgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQWxlcnQpIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmkgPT0gbnVsbCkgewoJCQlMb2cudyhUQUcsICIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gcnVuKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>isNoConn</last-search>
+      <last-search>action</last-search>
       <last-offset />
-      <last-pattern>isNoConn</last-pattern>
+      <last-pattern>action</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>ca</last-substitute>
       <last-dir>1</last-dir>
@@ -2291,7 +2302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>location</entry>
         <entry>httpcore</entry>
         <entry>compileSdk</entry>
         <entry>2.9.3</entry>
@@ -2311,6 +2321,7 @@
         <entry>finish</entry>
         <entry>isNoIn</entry>
         <entry>isNoConn</entry>
+        <entry>action</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
