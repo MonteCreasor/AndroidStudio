@@ -928,10 +928,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" timestamp="1528190055861">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" timestamp="1528215138982">
+        <mark key="[" line="63" column="66" />
+        <mark key="]" line="64" column="17" />
+        <mark key="." line="64" column="17" />
+        <mark key="^" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/ccs/good/KioskMode/app/src/main/java/monte/apps/kioskmode/DeviceAdminReceiver.kt" timestamp="1523749244691">
         <mark key="[" line="14" column="44" />
@@ -2048,11 +2049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="18" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainFragment.kt" />
-      <jump line="23" column="69" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" />
-      <jump line="334" column="44" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/KioskFragment.kt" />
-      <jump line="101" column="31" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
-      <jump line="253" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Preconditions.kt" />
       <jump line="97" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
       <jump line="42" column="25" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
       <jump line="119" column="42" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/alerts/Alert.kt" />
@@ -2148,10 +2144,15 @@
       <jump line="95" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
       <jump line="108" column="41" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
       <jump line="46" column="25" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/KioskService.kt" />
+      <jump line="61" column="39" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
+      <jump line="44" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
+      <jump line="45" column="24" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
+      <jump line="47" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnN0YXJ0U2Vzc2lvbigpLgo=</text>
+      <register name="&quot;" type="4">
+        <text>selected</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2353,58 +2354,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Session</text>
+        <text>selected</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXNzaW9uX2lkXD4=</text>
+        <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRpc3Bvc2FibGUgPQogICAgICAgICAgICAgICAgICAgIHNlcnZpY2Uuc3RhcnRTZXNzaW9uKGZvcm0uaWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL1RPRE86IGZvciBiZXR0ZXIgZGVtbyB0byBzaG93IGJ1c3kgZGVsYXkuLi4gcmVtb3ZlIGFmdGVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZG9PblN1YnNjcmliZSB7IFRocmVhZC5zbGVlcCgxMDAwKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpdmVTZXNzaW9uLnZhbHVlID0gaXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpdmVOZXR3b3JrLnZhbHVlID0gTmV0d29ya1N0YXRlLkxPQURFRAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsaXZlTmV0d29yay52YWx1ZSA9IE5ldHdvcmtTdGF0ZS5nZXRFcnJvcihpdC5tZXNzYWdlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQoKICAgICAgICAgICAgZGlzcG9zYWJsZXMuYWRkKGRpc3Bvc2FibGUpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGZvcm1zCiAgICAgICAgZ2V0KCkgPSBjb25maWc/LmZvcm1zID86IGVtcHR5TGlzdCgpCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnN0YXJ0U2Vzc2lvbigpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlc3Npb24gPSBzZXNzaW9uCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGZvcm1JbmRleDogSW50ID0gLTEKICAgIHByaXZhdGUgdmFyIGNvZGVJbmRleDogSW50ID0gLTEKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnN0YXJ0U2Vzc2lvbigpLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUE9TVElORyAtPiBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlc3Npb24gPSBzZXNzaW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkNoZWNrUmVzdWx0IikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUE9TVElORyAtPiBUT0RPKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkV4Y2VwdGlvblJlc3VtZU5leHQoKQo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkNoZWNrUmVzdWx0IikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFBhcnQgZmlsZTogTXVsdGlwYXJ0Qm9keS5QYXJ0KTogQ29tcGxldGFibGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkV4Y2VwdGlvblJlc3VtZU5leHQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXNzaW9uX2lkXD4=</last-search>
+      <last-search>form</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXNzaW9uX2lkXD4=</last-pattern>
+      <last-pattern>form</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>setLaun</last-substitute>
       <last-dir>1</last-dir>
@@ -2412,7 +2413,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onOption</entry>
         <entry>startR</entry>
         <entry>onAc</entry>
         <entry>Update</entry>
@@ -2432,6 +2432,7 @@
         <entry>State</entry>
         <entry>config</entry>
         <entry encoding="base64">XDxzZXNzaW9uX2lkXD4=</entry>
+        <entry>form</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
