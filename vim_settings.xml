@@ -914,6 +914,7 @@
         <mark key="^" line="46" column="53" />
         <mark key="." line="46" column="37" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/alerts/DeviceOwnerAlert.kt" timestamp="1528311318815" />
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/values/dimens.xml" timestamp="1527845900569">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="36" />
@@ -1149,6 +1150,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/alerts/Preconditions.kt" timestamp="1528311422886">
+        <mark key="'" line="64" column="6" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/tmp/GatewayLib/gatewaylib/build.gradle" timestamp="1528077103322">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1355,6 +1359,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/kiosk/KioskFragment.kt" timestamp="1528311377633" />
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/Device.kt" timestamp="1526334351379">
         <mark key="[" line="54" column="19" />
         <mark key="]" line="54" column="19" />
@@ -1744,15 +1749,6 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" timestamp="1528267728195">
-        <mark key="a" line="65" column="12" />
-        <mark key="v" line="34" column="12" />
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="54" column="27" />
-        <mark key="]" line="54" column="29" />
-        <mark key="." line="54" column="29" />
-        <mark key="^" line="54" column="29" />
-      </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/persistence/DeviceDatabase.kt" timestamp="1526332143830">
         <mark key="[" line="26" column="81" />
         <mark key="]" line="26" column="86" />
@@ -2084,7 +2080,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="11" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
       <jump line="244" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
       <jump line="120" column="22" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
       <jump line="306" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
@@ -2184,6 +2179,7 @@
       <jump line="118" column="44" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/overlay/BarcodeOverlay.kt" />
       <jump line="363" column="25" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="232" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
+      <jump line="64" column="6" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/alerts/Preconditions.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2392,7 +2388,7 @@
         <text encoding="base64">LnVpLmZvcm0uRm9ybUFjdGl2aXR5Ij4=</text>
       </register>
       <register name="/" type="4">
-        <text>cardVie</text>
+        <text>open(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc3VwcG9ydEZyYWdtZW50TWFuYWdlci5iYWNrU3RhY2tFbnRyeUNvdW50ID0gMCkgewo=</text>
@@ -2438,9 +2434,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cardVie</last-search>
+      <last-search>open(</last-search>
       <last-offset />
-      <last-pattern>cardVie</last-pattern>
+      <last-pattern>open(</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>config</last-substitute>
       <last-dir>1</last-dir>
@@ -2448,7 +2444,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setupModel</entry>
         <entry>show</entry>
         <entry>error</entry>
         <entry>Status</entry>
@@ -2468,6 +2463,7 @@
         <entry>color</entry>
         <entry>match</entry>
         <entry>cardVie</entry>
+        <entry>open(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
