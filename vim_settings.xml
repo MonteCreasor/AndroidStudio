@@ -1268,12 +1268,12 @@
         <mark key="^" line="22" column="30" />
         <mark key="." line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" timestamp="1528269565849">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
-        <mark key="^" line="186" column="27" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" timestamp="1528270713033">
+        <mark key="'" line="234" column="0" />
+        <mark key="[" line="201" column="13" />
+        <mark key="]" line="193" column="39" />
+        <mark key="." line="193" column="39" />
+        <mark key="^" line="193" column="39" />
       </file>
       <file name="$USER_HOME$/ccs/Kiosk/app/src/main/java/monte/apps/kiosk/model/api/CCSApiMock.kt" timestamp="1526420943041">
         <mark key="[" line="11" column="58" />
@@ -2077,8 +2077,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/forms/ui/FormsFragment.kt" />
-      <jump line="222" column="29" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/form/ui/FormFragment.kt" />
       <jump line="208" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
       <jump line="216" column="24" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
       <jump line="88" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/screens/main/ui/MainViewModel.kt" />
@@ -2177,10 +2175,12 @@
       <jump line="53" column="26" filename="$USER_HOME$/ccs/intake/versions.gradle" />
       <jump line="186" column="18" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
       <jump line="28" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
+      <jump line="193" column="27" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
+      <jump line="228" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGl0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isNullOrBlank</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2382,58 +2382,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>isNullOrBlank</text>
       </register>
       <register name="/" type="4">
-        <text>Map</text>
+        <text>getQuestion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwRGlmZmVyZW5jZSA9IGRpZmYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiXG5BTlNXRVJTXG4ke3ByZXR0eVByaW50KGFuc3dlcnMhISl9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGl0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGpzb25TdHJpbmc6IFN0cmluZz8gPSAiU1RVQiIKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc25hcHNob3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBHc29uKCkubGV0IHsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFuc3dlcnMgPSBhbnN3ZXJzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RDaGFuZ2VzID0gc2Vjb25kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwRGlmZmVyZW5jZSA9IGRpZmYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1hcFR5cGUgPSBvYmplY3QgOiBUeXBlVG9rZW48TXV0YWJsZU1hcDxTdHJpbmcsIEFueT4+KCkge30udHlwZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwRGlmZmVyZW5jZS48TWFwRGlmZmVyZW5jZTxTdHJpbmcsIEFueT4+dG9Kc29uKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihkaWZmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>Map</last-search>
+      <last-search>getQuestion</last-search>
       <last-offset />
-      <last-pattern>Map</last-pattern>
+      <last-pattern>getQuestion</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>config</last-substitute>
       <last-dir>1</last-dir>
@@ -2441,7 +2441,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onFormS</entry>
         <entry>listenr</entry>
         <entry>startAc</entry>
         <entry>startAct</entry>
@@ -2461,6 +2460,7 @@
         <entry>guava</entry>
         <entry>Guav</entry>
         <entry>Map</entry>
+        <entry>getQuestion</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
