@@ -8,13 +8,13 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1528433750000">
-        <mark key="a" line="195" column="16" />
-        <mark key="'" line="264" column="16" />
-        <mark key="[" line="356" column="21" />
-        <mark key="]" line="356" column="21" />
-        <mark key="^" line="356" column="20" />
-        <mark key="." line="356" column="21" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1528434415468">
+        <mark key="a" line="351" column="27" />
+        <mark key="'" line="188" column="4" />
+        <mark key="[" line="351" column="87" />
+        <mark key="]" line="351" column="90" />
+        <mark key="^" line="351" column="90" />
+        <mark key="." line="351" column="90" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/idealife/.gitignore" timestamp="1527993004148">
         <mark key="[" line="7" column="0" />
@@ -610,7 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="18" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PeekingAppBarLayout.kt" />
       <jump line="99" column="22" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PeekingAppBarLayout.kt" />
       <jump line="94" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/main/MainFragment.kt" />
       <jump line="69" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/Activity.kt" />
@@ -710,10 +709,11 @@
       <jump line="205" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
       <jump line="104" column="9" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
       <jump line="264" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="188" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQkJ</text>
+        <text>DEFAULT_POLLING_FREQUENCY</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -915,13 +915,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQkJ</text>
+        <text>DEFAULT_POLLING_FREQUENCY</text>
       </register>
       <register name="/" type="4">
-        <text>sendNo</text>
+        <text>Builder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJLnNldEF1dG9DYW5jZWwoZmFsc2UpCg==</text>
+        <text encoding="base64">CQkJU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuZm9ybWF0KGdldFN0cmluZyhSLnN0cmluZy5wb2xsaW5nX2Zvcl9yZWFkaW5ncyksIERFRkFVTFRfUE9MTElOR19GUkVRVUVOQ1kpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNpZ25pbmdDb25maWdzIHsKICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgc3RvcmVGaWxlIGZpbGUoImlsa2V5c3RvcmUuamtzIikKICAgICAgICAgICAgc3RvcmVQYXNzd29yZCAiaWRlYWwxNWludGhlaG91c2UiCiAgICAgICAgICAgIGtleUFsaWFzICJoZWFsdGh0YWJsZXQiCiAgICAgICAgICAgIGtleVBhc3N3b3JkICJpZGVhbDE1aW50aGVob3VzZSIKICAgICAgICB9CiAgICB9Cgo=</text>
@@ -964,9 +964,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sendNo</last-search>
+      <last-search>Builder</last-search>
       <last-offset />
-      <last-pattern>sendNo</last-pattern>
+      <last-pattern>Builder</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>Utils</last-substitute>
       <last-dir>1</last-dir>
@@ -974,7 +974,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdXBlclw+</entry>
         <entry>addding delayed hide</entry>
         <entry>adding delayed hide</entry>
         <entry>fixed</entry>
@@ -994,6 +993,7 @@
         <entry>setStatus</entry>
         <entry>with(</entry>
         <entry>sendNo</entry>
+        <entry>Builder</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
