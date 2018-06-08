@@ -57,12 +57,12 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" timestamp="1528442292431">
-        <mark key="'" line="124" column="31" />
-        <mark key="[" line="59" column="49" />
-        <mark key="]" line="60" column="7" />
-        <mark key="." line="60" column="7" />
-        <mark key="^" line="60" column="7" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" timestamp="1528444558704">
+        <mark key="'" line="59" column="29" />
+        <mark key="[" line="105" column="16" />
+        <mark key="]" line="106" column="21" />
+        <mark key="." line="105" column="21" />
+        <mark key="^" line="106" column="21" />
       </file>
       <file name="$USER_HOME$/ccs/kiosk/app/src/main/java/monte/apps/kiosk/common/SnackExt.kt" timestamp="1527041868842">
         <mark key="[" line="33" column="0" />
@@ -557,7 +557,7 @@
         <mark key="." line="35" column="68" />
         <mark key="^" line="35" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528443271250">
+      <file name="/Dummy.txt" timestamp="1528443729622">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -604,11 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="621" column="32" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
-      <jump line="624" column="32" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
-      <jump line="210" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
-      <jump line="318" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
-      <jump line="424" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="449" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="317" column="62" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="397" column="46" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
@@ -704,10 +699,15 @@
       <jump line="3" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/res/values/styles.xml" />
       <jump line="49" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/res/values/styles.xml" />
       <jump line="6" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/res/values/styles.xml" />
+      <jump line="32" column="29" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
+      <jump line="107" column="41" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
+      <jump line="45" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
+      <jump line="38" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
+      <jump line="59" column="29" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -909,58 +909,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>delayHide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJBcHBUaGVtZSIgcGFyZW50PSJUaGVtZS5BcHBDb21wYXQuTGlnaHQuRGFya0FjdGlvbkJhciI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERUxBWV9ISURFID0gMTAwMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBkZWxheUhpZGUoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmJhY2tncm91bmQiPkBjb2xvci9ibGFja19vdmVybGF5PC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBhbmQgYSBjaGFuZ2Ugb2YgdGhlIHN0YXR1cyBhbmQgbmF2aWdhdGlvbiBiYXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJGdWxsc2NyZWVuQWN0aW9uQmFyU3R5bGUiIHBhcmVudD0iV2lkZ2V0LkFwcENvbXBhdC5BY3Rpb25CYXIiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBTb21lIG9sZGVyIGRldmljZXMgbmVlZHMgYSBzbWFsbCBkZWxheSBiZXR3ZWVuIFVJIHdpZGdldCB1cGRhdGVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOndpbmRvd0JhY2tncm91bmQiPkBudWxsPC9pdGVtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOndpbmRvd0FjdGlvbkJhck92ZXJsYXkiPnRydWU8L2l0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmFjdGlvbkJhclN0eWxlIj5Ac3R5bGUvRnVsbHNjcmVlbkFjdGlvbkJhclN0eWxlPC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgKiB1c2VyIGludGVyYWN0aW9uIGJlZm9yZSBoaWRpbmcgdGhlIHN5c3RlbSBVSS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>delayHide</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>delayHide</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>Utils</last-substitute>
       <last-dir>1</last-dir>
@@ -968,8 +968,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setStatus</entry>
-        <entry>with(</entry>
         <entry>sendNo</entry>
         <entry>Builder</entry>
         <entry>CHANN</entry>
@@ -988,6 +986,8 @@
         <entry>sendBlu</entry>
         <entry>show</entry>
         <entry>status</entry>
+        <entry>500</entry>
+        <entry>delayHide</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
