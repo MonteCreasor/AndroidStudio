@@ -8,13 +8,13 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1528432690344">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1528433750000">
         <mark key="a" line="195" column="16" />
-        <mark key="'" line="196" column="8" />
-        <mark key="[" line="355" column="27" />
-        <mark key="]" line="355" column="30" />
-        <mark key="^" line="355" column="30" />
-        <mark key="." line="355" column="30" />
+        <mark key="'" line="264" column="16" />
+        <mark key="[" line="356" column="21" />
+        <mark key="]" line="356" column="21" />
+        <mark key="^" line="356" column="20" />
+        <mark key="." line="356" column="21" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/idealife/.gitignore" timestamp="1527993004148">
         <mark key="[" line="7" column="0" />
@@ -610,7 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PeekingAppBarLayout.kt" />
       <jump line="78" column="18" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PeekingAppBarLayout.kt" />
       <jump line="99" column="22" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PeekingAppBarLayout.kt" />
       <jump line="94" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/main/MainFragment.kt" />
@@ -710,10 +709,11 @@
       <jump line="50" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
       <jump line="205" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
       <jump line="104" column="9" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
+      <jump line="264" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">CQkJ</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -915,10 +915,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">CQkJ</text>
       </register>
       <register name="/" type="4">
-        <text>with(</text>
+        <text>sendNo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJLnNldEF1dG9DYW5jZWwoZmFsc2UpCg==</text>
@@ -964,9 +964,9 @@
       </register>
     </registers>
     <search>
-      <last-search>with(</last-search>
+      <last-search>sendNo</last-search>
       <last-offset />
-      <last-pattern>with(</last-pattern>
+      <last-pattern>sendNo</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>Utils</last-substitute>
       <last-dir>1</last-dir>
@@ -974,7 +974,6 @@
     </search>
     <history>
       <history-search>
-        <entry>peek</entry>
         <entry encoding="base64">XDxzdXBlclw+</entry>
         <entry>addding delayed hide</entry>
         <entry>adding delayed hide</entry>
@@ -994,6 +993,7 @@
         <entry>setUser</entry>
         <entry>setStatus</entry>
         <entry>with(</entry>
+        <entry>sendNo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
