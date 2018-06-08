@@ -21,6 +21,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/alerts/GetPinAlert.kt" timestamp="1528445455587">
+        <mark key="'" line="31" column="44" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="31" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/idealife/gateway/src/main/java/com/ideallife/android/gateway/service/GatewayService.java" timestamp="1527989017735">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -74,6 +81,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1528444611471" />
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/Animator.kt" timestamp="1528334667621">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -234,6 +242,13 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/kiosk/KioskFragment.kt" timestamp="1528444922802">
+        <mark key="a" line="217" column="0" />
+        <mark key="[" line="217" column="58" />
+        <mark key="]" line="217" column="58" />
+        <mark key="^" line="217" column="58" />
+        <mark key="." line="217" column="58" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/edit_text_input.xml" timestamp="1527624703422">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -315,6 +330,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1528444611471" />
       <file name="$USER_HOME$/ccs/intake/.gitignore" timestamp="1527233679388">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -475,6 +491,8 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1528444611471" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.widget/multislider/1.3/783ba5d8cd73e829ff38c9b35d35f4599f8938a5/multislider-1.3-sources.jar!/io/apptik/widget/MultiSlider.java" timestamp="1528444611471" />
       <file name="$USER_HOME$/tools/android/sdk/sources/android-27/android/os/Looper.java" timestamp="1526985383032">
         <mark key="[" line="175" column="14" />
         <mark key="]" line="175" column="15" />
@@ -604,8 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="449" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
-      <jump line="317" column="62" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="397" column="46" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="240" column="81" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="194" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
@@ -704,10 +720,12 @@
       <jump line="45" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
       <jump line="38" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
       <jump line="59" column="29" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
+      <jump line="41" column="28" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/alerts/GetPinAlert.kt" />
+      <jump line="31" column="44" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/alerts/GetPinAlert.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGluUmVxdWVzdGVkID0gdHJ1ZQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -909,40 +927,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>firstTime</text>
       </register>
       <register name="/" type="4">
-        <text>delayHide</text>
+        <text>ons</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBERUxBWV9ISURFID0gMTAwMAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBLRVlfQUNUSU9OID0gImFjdGlvbiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biBkZWxheUhpZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGluUmVxdWVzdGVkID0gdHJ1ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBwaW5SZXF1ZXN0ZWQgPSB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBhbmQgYSBjaGFuZ2Ugb2YgdGhlIHN0YXR1cyBhbmQgbmF2aWdhdGlvbiBiYXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RUaW1lID0gZmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBTb21lIG9sZGVyIGRldmljZXMgbmVlZHMgYSBzbWFsbCBkZWxheSBiZXR3ZWVuIFVJIHdpZGdldCB1cGRhdGVzCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGZpcnN0VGltZSA9IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKioK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpZGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBkZWxheUhpZGUoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -951,16 +969,16 @@
         <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKiB1c2VyIGludGVyYWN0aW9uIGJlZm9yZSBoaWRpbmcgdGhlIHN5c3RlbSBVSS4K</text>
+        <text encoding="base64">ICAgICAgICAgKiBhbmQgYSBjaGFuZ2Ugb2YgdGhlIHN0YXR1cyBhbmQgbmF2aWdhdGlvbiBiYXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delayHide</last-search>
+      <last-search>ons</last-search>
       <last-offset />
-      <last-pattern>delayHide</last-pattern>
+      <last-pattern>ons</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>Utils</last-substitute>
       <last-dir>1</last-dir>
@@ -968,7 +986,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sendNo</entry>
         <entry>Builder</entry>
         <entry>CHANN</entry>
         <entry>_ID</entry>
@@ -988,6 +1005,7 @@
         <entry>status</entry>
         <entry>500</entry>
         <entry>delayHide</entry>
+        <entry>ons</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
