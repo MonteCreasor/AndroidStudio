@@ -370,7 +370,8 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PeekingAppBarLayout.kt" timestamp="1528417525373">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PeekingAppBarLayout.kt" timestamp="1528422912088">
+        <mark key="'" line="28" column="17" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -579,7 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="17" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/kiosk/KioskFragment.kt" />
       <jump line="189" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/kiosk/KioskFragment.kt" />
       <jump line="82" column="63" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/kiosk/KioskFragment.kt" />
       <jump line="451" column="23" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/kiosk/KioskFragment.kt" />
@@ -679,6 +679,7 @@
       <jump line="98" column="40" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PeekingAppBarLayout.kt" />
       <jump line="178" column="24" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PeekingAppBarLayout.kt" />
       <jump line="176" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PeekingAppBarLayout.kt" />
+      <jump line="28" column="17" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PeekingAppBarLayout.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -887,7 +888,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>lock</text>
+        <text>statusBarVisible</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWNvclZpZXcuc3lzdGVtVWlWaXNpYmlsaXR5ID0KICAgICAgICAgICAgICAgIFZpZXcuU1lTVEVNX1VJX0ZMQUdfTEFZT1VUX0ZVTExTQ1JFRU4gLy9vciBWaWV3LlNZU1RFTV9VSV9GTEFHX0xBWU9VVF9ISURFX05BVklHQVRJT04K</text>
@@ -933,9 +934,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lock</last-search>
+      <last-search>statusBarVisible</last-search>
       <last-offset />
-      <last-pattern>lock</last-pattern>
+      <last-pattern>statusBarVisible</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>Utils</last-substitute>
       <last-dir>1</last-dir>
@@ -943,7 +944,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fullsc</entry>
         <entry>content_con</entry>
         <entry>mHide</entry>
         <entry>hide</entry>
@@ -963,6 +963,7 @@
         <entry>fixed</entry>
         <entry>Lock</entry>
         <entry>lock</entry>
+        <entry>statusBarVisible</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
