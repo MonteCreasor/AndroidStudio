@@ -58,13 +58,13 @@
         <mark key="^" line="52" column="11" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" timestamp="1528655738904">
+      <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" timestamp="1528665681461">
         <mark key="a" line="105" column="59" />
         <mark key="'" line="128" column="55" />
-        <mark key="[" line="350" column="45" />
-        <mark key="]" line="350" column="45" />
-        <mark key="^" line="350" column="45" />
-        <mark key="." line="350" column="45" />
+        <mark key="[" line="264" column="61" />
+        <mark key="]" line="264" column="62" />
+        <mark key="^" line="263" column="52" />
+        <mark key="." line="264" column="62" />
       </file>
       <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/res/layout/kiosk_action_layout.xml" timestamp="1528588559499">
         <mark key="[" line="5" column="24" />
@@ -112,12 +112,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/BlankFragment.kt" timestamp="1528655478994">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/BlankFragment.kt" timestamp="1528665788151">
+        <mark key="'" line="27" column="51" />
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/27.1.1/21d073509c5f8d25a1bf274067fa729a1fba8d75/appcompat-v7-27.1.1-sources.jar!/android/support/v7/view/WindowCallbackWrapper.java" timestamp="1528573022196" />
       <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/res/menu/menu_locked.xml" timestamp="1528588454601">
@@ -345,7 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="46" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" />
       <jump line="149" column="8" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" />
       <jump line="30" column="51" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" />
       <jump line="187" column="12" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" />
@@ -445,10 +444,11 @@
       <jump line="42" column="0" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" />
       <jump line="350" column="43" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" />
       <jump line="128" column="55" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" />
+      <jump line="27" column="51" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/BlankFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZnJhZ21lbnRNYW5hZ2VyID0gc3VwcG9ydEZyYWdtZW50TWFuYWdlcgo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -650,49 +650,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>AsUpEnabled</text>
       </register>
       <register name="/" type="4">
         <text>ANIMATION_DE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBBTklNQVRJT05fREVMQVkgPSAwCgo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBwb3J0QWN0aW9uQmFyISEuc2V0RGlzcGxheUhvbWVBc1VwRW5hYmxlZCgKICAgICAgICAgICAgICAgIHN1cHBvcnRGcmFnbWVudE1hbmFnZXIuYmFja1N0YWNrRW50cnlDb3VudCA+IDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZnJhZ21lbnRNYW5hZ2VyID0gc3VwcG9ydEZyYWdtZW50TWFuYWdlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBISURFX0FOSU1BVElPTl9ERUxBWSA9IDAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBTSE9XX0FOSU1BVElPTl9ERUxBWSA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25CYWNrUHJlc3NlZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxwaGEgPSAwZgo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFscGhhID0gMGYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlci5wb3BCYWNrU3RhY2tJbW1lZGlhdGUoKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFscGhhID0gMWYK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3VwcG9ydEZyYWdtZW50TWFuYWdlci5iYWNrU3RhY2tFbnRyeUNvdW50ID4gMCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBwb3J0QWN0aW9uQmFyISEuc2V0RGlzcGxheVNob3dIb21lRW5hYmxlZChmYWxzZSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYXJzVmlzaWJsZSA9IHNob3cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwcG9ydEFjdGlvbkJhciEhLnNldERpc3BsYXlIb21lQXNVcEVuYWJsZWQoZmFsc2UpCiAgICAgICAgICAgIHN1cHBvcnRBY3Rpb25CYXIhIS5zZXREaXNwbGF5U2hvd0hvbWVFbmFibGVkKGZhbHNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBwb3J0QWN0aW9uQmFyISEuc2V0RGlzcGxheUhvbWVBc1VwRW5hYmxlZChmYWxzZSkKICAgICAgICBzdXBwb3J0QWN0aW9uQmFyISEuc2V0RGlzcGxheVNob3dIb21lRW5hYmxlZChmYWxzZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
