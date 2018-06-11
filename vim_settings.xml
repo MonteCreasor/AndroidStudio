@@ -252,13 +252,13 @@
         <mark key="]" line="18" column="49" />
         <mark key="." line="18" column="49" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" timestamp="1528687933347">
-        <mark key="a" line="293" column="12" />
-        <mark key="'" line="318" column="27" />
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="8" />
-        <mark key="^" line="296" column="43" />
-        <mark key="." line="295" column="8" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" timestamp="1528689380963">
+        <mark key="a" line="290" column="12" />
+        <mark key="'" line="277" column="4" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="^" line="299" column="74" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainViewModel.kt" timestamp="1528581400227">
         <mark key="'" line="321" column="53" />
@@ -294,9 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="12" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" />
-      <jump line="296" column="19" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" />
-      <jump line="331" column="43" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/java/monte/apps/myapplication/FullScreenActivity.kt" />
       <jump line="187" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
       <jump line="199" column="22" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
@@ -394,10 +391,13 @@
       <jump line="205" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
       <jump line="255" column="52" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
       <jump line="318" column="27" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
+      <jump line="166" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
+      <jump line="242" column="37" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
+      <jump line="278" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGFuZGxlci5wb3N0RGVsYXllZChoaWRlQWN0aW9uQmFyUnVubmFibGUsIHBlZWtUaW1lLnRvTG9uZygpKQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -599,58 +599,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>hideActionBar</text>
+        <text>offset =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpZGVBY3Rpb25CYXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNBY3Rpb25CYXJWaXNpYmxlID0gdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGFuZGxlci5wb3N0RGVsYXllZChoaWRlQWN0aW9uQmFyUnVubmFibGUsIHBlZWtUaW1lLnRvTG9uZygpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd0JhcnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IGFwcEJhckxheW91dC50cmFuc2xhdGlvblkgPT0gMGYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGVtcG9yYXJpbHlCZWNvbWluZ1Zpc2libGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNBY3Rpb25CYXJWaXNpYmxlID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpc2liaWxpdHkgPT0gKFZpZXcuU1lTVEVNX1VJX0ZMQUdfRlVMTFNDUkVFTiBvciBWaWV3LlNZU1RFTV9VSV9GTEFHX0hJREVfTkFWSUdBVElPTikK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgb2Zmc2V0ID0gZ2V0U3RhdHVzQmFyU2l6ZSgpLnRvRmxvYXQoKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVtcG9yYXJpbHlCZWNvbWluZ1Zpc2libGUgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dBY3Rpb25CYXIoKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgb2Zmc2V0ID0gMGYK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpZGVBY3Rpb25CYXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8IHZpc2liaWxpdHkgPT0gVmlldy5TWVNURU1fVUlfRkxBR19ISURFX05BVklHQVRJT04K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgb2Zmc2V0ID0gZ2V0U3RhdHVzQmFyU2l6ZSgpLnRvRmxvYXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>hideActionBar</last-search>
+      <last-search>offset =</last-search>
       <last-offset />
-      <last-pattern>hideActionBar</last-pattern>
+      <last-pattern>offset =</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>UI_AN</last-substitute>
       <last-dir>1</last-dir>
@@ -675,9 +675,9 @@
         <entry>observ</entry>
         <entry>container\.add</entry>
         <entry>container\.</entry>
-        <entry>offset =</entry>
         <entry>showActionBar</entry>
         <entry>hideActionBar</entry>
+        <entry>offset =</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
