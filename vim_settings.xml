@@ -106,13 +106,12 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" timestamp="1528762405099">
-        <mark key="a" line="53" column="36" />
-        <mark key="'" line="58" column="16" />
-        <mark key="[" line="70" column="17" />
-        <mark key="]" line="70" column="17" />
-        <mark key="." line="70" column="17" />
-        <mark key="^" line="55" column="11" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" timestamp="1528767002009">
+        <mark key="a" line="14" column="17" />
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="4" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="47" column="4" />
       </file>
       <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/res/menu/menu_locked.xml" timestamp="1528588454601">
         <mark key="[" line="5" column="29" />
@@ -383,15 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
-      <jump line="103" column="28" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
-      <jump line="253" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
-      <jump line="36" column="30" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
-      <jump line="80" column="31" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
-      <jump line="84" column="48" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
-      <jump line="99" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
-      <jump line="20" column="10" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.html" />
-      <jump line="154" column="38" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
       <jump line="3" column="37" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
       <jump line="194" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
       <jump line="46" column="46" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/FullScreenActivity.kt" />
@@ -478,15 +468,24 @@
       <jump line="130" column="38" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
       <jump line="132" column="73" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
       <jump line="225" column="71" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainViewModel.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
       <jump line="48" column="38" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
       <jump line="73" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
       <jump line="58" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
       <jump line="352" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
+      <jump line="105" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
+      <jump line="41" column="18" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
+      <jump line="28" column="10" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
+      <jump line="10" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
+      <jump line="0" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
+      <jump line="15" column="36" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
+      <jump line="25" column="6" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
+      <jump line="11" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -688,58 +687,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>android.sub</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlLmxldCB7CiAgICAgICAgICAgIGFjdGl2aXR5Py5ydW5PblVpVGhyZWFkIHsKICAgICAgICAgICAgICAgIHNuYXBzaG90KGl0KQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbmV4dFBhZ2UgY2FsbGVkOiBwYWdlIGlzIG5vdyAnICsgcGFnZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZWFkT25seTogdHJ1ZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsLmZvcm1Db21wbGV0ZShkYXRhKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRyaWdnZXJlZCB3aGVuIHN1Ym1pdCBidXR0b24gaXMgY2xpY2tlZC4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGFsZXJ0KCdzdWJtaXQgZXhjZXB0aW9uOiAnICsgZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcGFnZSA9IDEK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfSBjYXRjaCAoZSkgewo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBwYWdlID0gMQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGFuZHJvaWQuc3VibWl0KGR0byk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGxldCBkdG8gPSBqc29uLnN0cmluZ2lmeShzdWJtaXNzaW9uKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBwYWdlID0gMAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIHBhZ2UgPSAxCgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2JlZm9yZVN1Ym1pdCBjYWxsZWQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>submit</last-search>
+      <last-search>android.sub</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>android.sub</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>UI_AN</last-substitute>
       <last-dir>1</last-dir>
@@ -747,7 +746,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toast</entry>
         <entry>stopCon</entry>
         <entry>model.s</entry>
         <entry>model\.</entry>
@@ -767,6 +765,7 @@
         <entry>split</entry>
         <entry>takeSnap</entry>
         <entry>submit</entry>
+        <entry>android.sub</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/s//Fragment/g</entry>
