@@ -112,11 +112,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/adapters/LoggingLevelAdapter.kt" timestamp="1528828223216">
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="37" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/adapters/LoggingLevelAdapter.kt" timestamp="1528829027435">
+        <mark key="'" line="27" column="34" />
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="31" column="24" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/values/colors.xml" timestamp="1528677574008">
         <mark key="[" line="6" column="36" />
@@ -550,7 +551,7 @@
         <mark key="." line="3" column="48" />
         <mark key="^" line="3" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528794479117">
+      <file name="/Dummy.txt" timestamp="1528828231449">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/main_fragment.xml" timestamp="1528754310298">
@@ -632,9 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
-      <jump line="15" column="36" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
-      <jump line="25" column="6" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
       <jump line="11" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
       <jump line="52" column="27" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" />
       <jump line="216" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainViewModel.kt" />
@@ -732,10 +730,13 @@
       <jump line="18" column="29" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/Injection.kt" />
       <jump line="163" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainViewModel.kt" />
       <jump line="508" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.5.1/83d32a652a999b15137a30ec153d45c448a8b4e1/timber-4.5.1-sources.jar!/timber/log/Timber.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/adapters/LoggingLevelAdapter.kt" />
+      <jump line="15" column="43" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/adapters/LoggingLevelAdapter.kt" />
+      <jump line="27" column="34" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/adapters/LoggingLevelAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Long</text>
+        <text>_VALUES</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -937,58 +938,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>_VALUES</text>
       </register>
       <register name="/" type="4">
-        <text>Color</text>
+        <text>String</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBMT0dHSU5HX1JFR0VYX1BSRUYgPSAibG9nZ2luZ1JlZ2V4UHJlZiIK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBWQUxVRVMgPSBsaXN0T2YoIlZlcmJvc2UiLCAiRGVidWciLCAiSW5mbyIsICJXYXJuIiwgIkVycm9yIiwgIk5vbmUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHJlZ2V4ID0gcGF0dGVybi50b1JlZ2V4KCkKICAgICAgICAgICAgICAgICAgICAgICAgdGFnICE9IG51bGwgJiYgcmVnZXgubWF0Y2hlcyh0YWcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVkFMVUVTLmZpbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHByb3JpdGllcyA9IGxpc3RPZigiZSIsICJ3IiwgImkiLCAiZCIsICJ2IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBWQUxVRVMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFZBTFVFUy5jb250YWluc0tleSh2YWx1ZSkpIHsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBWQUxVRVMgPSBsaXN0T2YoTG9nLlZFUkJPU0UsIExvZy5ERUJVRywgTG9nLklORk8sIExvZy5XQVJOLCBMb2cuRVJST1IsIDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHJlZ2V4ID0gcGF0dGVybi50b1JlZ2V4KCkKICAgICAgICAgICAgICAgICAgICAgICAgdGFnICE9IG51bGwgJiYgcmVnZXgubWF0Y2hlcyh0YWcpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3VwZXIuaXNMb2dnYWJsZShwcmlvcml0eSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Delay/Variance</text>
       </register>
     </registers>
     <search>
-      <last-search>Color</last-search>
+      <last-search>String</last-search>
       <last-offset />
-      <last-pattern>Color</last-pattern>
+      <last-pattern>String</last-pattern>
       <last-replace>Variance</last-replace>
       <last-substitute>Delay</last-substitute>
       <last-dir>1</last-dir>
@@ -996,7 +997,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Touch</entry>
         <entry>touch</entry>
         <entry>Event</entry>
         <entry>close</entry>
@@ -1016,6 +1016,7 @@
         <entry>MILLI</entry>
         <entry>color</entry>
         <entry>Color</entry>
+        <entry>String</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/Fragment/g</entry>
