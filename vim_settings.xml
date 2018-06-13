@@ -123,6 +123,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/ui/main/MainView.kt" timestamp="1528779361899">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/res/menu/menu_locked.xml" timestamp="1528588454601">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="29" />
@@ -162,13 +168,13 @@
         <mark key="^" line="29" column="35" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" timestamp="1528770938248">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/form/FormFragment.kt" timestamp="1528848464149">
         <mark key="a" line="205" column="17" />
         <mark key="'" line="52" column="27" />
-        <mark key="[" line="220" column="29" />
-        <mark key="]" line="220" column="31" />
-        <mark key="." line="220" column="31" />
-        <mark key="^" line="220" column="31" />
+        <mark key="[" line="219" column="15" />
+        <mark key="]" line="219" column="16" />
+        <mark key="^" line="219" column="16" />
+        <mark key="." line="219" column="16" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsDialogFragment.kt" timestamp="1528843728253">
         <mark key="a" line="259" column="24" />
@@ -177,10 +183,17 @@
         <mark key="]" line="149" column="78" />
         <mark key="." line="149" column="78" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/KioskService.kt" timestamp="1528847222956">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/ui/main/DrawerLayout.kt" timestamp="1528775338140">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="33" column="37" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/KioskService.kt" timestamp="1528847670845">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="36" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="36" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/adapters/EnumCheckedListAdapter.kt" timestamp="1528759344758">
         <mark key="[" line="0" column="0" />
@@ -405,12 +418,13 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" timestamp="1528771193991">
-        <mark key="'" line="22" column="20" />
-        <mark key="[" line="54" column="37" />
-        <mark key="]" line="54" column="37" />
-        <mark key="." line="54" column="37" />
-        <mark key="^" line="56" column="16" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" timestamp="1528848560700">
+        <mark key="a" line="60" column="12" />
+        <mark key="'" line="32" column="11" />
+        <mark key="[" line="50" column="64" />
+        <mark key="]" line="50" column="64" />
+        <mark key="." line="50" column="64" />
+        <mark key="^" line="50" column="64" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/values/settings_strings.xml" timestamp="1528758521458">
         <mark key="[" line="1" column="0" />
@@ -649,7 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="13" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/Settings.kt" />
       <jump line="232" column="21" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/Settings.kt" />
       <jump line="234" column="24" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/Settings.kt" />
       <jump line="236" column="26" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/Settings.kt" />
@@ -749,10 +762,11 @@
       <jump line="132" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/res/layout/settings_dialog_fragment.xml" />
       <jump line="227" column="55" filename="$USER_HOME$/ccs/intake/app/src/main/res/layout/settings_dialog_fragment.xml" />
       <jump line="194" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit-mock/2.3.0/6339eccd61298222f548773bd3f6329727b2c8df/retrofit-mock-2.3.0-sources.jar!/retrofit2/mock/NetworkBehavior.java" />
+      <jump line="32" column="11" filename="$USER_HOME$/ccs/intake/app/src/main/assets/form.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0+IEluamVjdGlvbi5wcm92aWRlS2lvc2tTZXJ2aWNlKCk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBkYXRhID0gSlNPTi5zdHJpbmdpZnkoc3VibWlzc2lvbik7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -954,49 +968,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0+IEluamVjdGlvbi5wcm92aWRlS2lvc2tTZXJ2aWNlKCk=</text>
+        <text>JSON.stringify(submission);</text>
       </register>
       <register name="/" type="4">
         <text>variance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1PQ0tfQVBJX1BSRUYgLT4gSW5qZWN0aW9uLnByb3ZpZGVLaW9za1NlcnZpY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3VibWl0IGNhbGxlZCAnICsgc3VibWlzc2lvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBkYXRhID0gSlNPTi5zdHJpbmdpZnkoc3VibWlzc2lvbik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNsaWVudCA9IGNsaWVudEJ1aWxkZXIuYnVpbGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdWJtaXQganNvbiAnICsgZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkLnRha2VTbmFwc2hvdChwYWdlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRJbnRlcmNlcHRvcihsb2dnaW5nSW50ZXJjZXB0b3IpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3VibWl0RG9uZSBjYWxsZWQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPa0h0dHBDbGllbnQuQnVpbGRlcigpCg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygiVU5VU0VEX1BBUkFNRVRFUiIpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRJbnRlcmNlcHRvcihsb2dnaW5nSW50ZXJjZXB0b3IpCg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygidW51c2VkIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG1vY2spIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIENhY2hlIHZhbHVlcyBmb3IgZGVtbyBhbmQgdGVzdGluZyBvbmx5Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChCdWlsZENvbmZpZy5ERUJVRykgewo=</text>
+        <text encoding="base64">Ly8gICAgdmFyIGNvbmZpZ1NpbmdsZTogU2luZ2xlPENvbmZpZz4gPSBhcGkuZ2V0Q29uZmlnKGRldmljZSkuY2FjaGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
