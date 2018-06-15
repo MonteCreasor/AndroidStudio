@@ -67,7 +67,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/res/anim/fade_in.xml" timestamp="1529025150239">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/res/anim/fade_in.xml" timestamp="1529030706338">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
@@ -248,11 +248,12 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainActivityBase.kt" timestamp="1529030540717">
-        <mark key="[" line="166" column="16" />
-        <mark key="]" line="166" column="45" />
-        <mark key="." line="166" column="45" />
-        <mark key="^" line="166" column="45" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainActivityBase.kt" timestamp="1529032003666">
+        <mark key="'" line="117" column="8" />
+        <mark key="[" line="96" column="8" />
+        <mark key="]" line="96" column="8" />
+        <mark key="." line="96" column="8" />
+        <mark key="^" line="96" column="64" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/xml/pref_security.xml" timestamp="1528680639908">
         <mark key="[" line="22" column="0" />
@@ -499,11 +500,10 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/samples/AndroidFragmentAnimations/app/src/main/java/com/swarmnyc/fragmentanimations/MainActivity.java" timestamp="1529029054966">
-        <mark key="[" line="11" column="51" />
-        <mark key="]" line="11" column="51" />
-        <mark key="." line="11" column="51" />
-        <mark key="^" line="11" column="50" />
+      <file name="$USER_HOME$/ccs/samples/AndroidFragmentAnimations/app/src/main/java/com/swarmnyc/fragmentanimations/MainActivity.java" timestamp="1529031363026">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/values/settings_strings.xml" timestamp="1528758521458">
         <mark key="[" line="1" column="0" />
@@ -624,8 +624,10 @@
         <mark key="." line="40" column="49" />
         <mark key="^" line="40" column="49" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/27.1.1/94732bda44fba11302c58e459b7c1f47e7521bf9/support-fragment-27.1.1-sources.jar!/android/support/v4/app/FragmentManager.java" timestamp="1529028205883">
-        <mark key="'" line="2747" column="21" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/27.1.1/94732bda44fba11302c58e459b7c1f47e7521bf9/support-fragment-27.1.1-sources.jar!/android/support/v4/app/FragmentManager.java" timestamp="1529031639717">
+        <mark key="'" line="3378" column="20" />
+        <mark key="[" line="3378" column="0" />
+        <mark key="]" line="3378" column="58" />
       </file>
       <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/res/layout/menu_locked.xml" timestamp="1528588368343">
         <mark key="[" line="2" column="50" />
@@ -770,8 +772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
-      <jump line="566" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="280" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="502" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="291" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
@@ -870,10 +870,12 @@
       <jump line="11" column="0" filename="$USER_HOME$/ccs/intake/versions.gradle" />
       <jump line="127" column="32" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainActivityBase.kt" />
       <jump line="122" column="31" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainActivityBase.kt" />
+      <jump line="111" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainActivityBase.kt" />
+      <jump line="3378" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/27.1.1/94732bda44fba11302c58e459b7c1f47e7521bf9/support-fragment-27.1.1-sources.jar!/android/support/v4/app/FragmentManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>findFragmentByTag(fragmentTag)</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1075,49 +1077,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>findFragmentByTag(fragmentTag)</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGluZGV4ICA9IGZyYWdtZW50TWFuYWdlci5iYWNrU3RhY2tFbnRyeUNvdW50IC0gMQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFByaW1hcnlOYXZpZ2F0aW9uRnJhZ21lbnQoRnJhZ21lbnQgZikgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0QmFja1N0YWNrRW50cnlBdChmcmFnbWVudE1hbmFnZXIuYmFja1N0YWNrRW50cnlDb3VudCAtIDEpLm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBwb3J0RnJhZ21lbnRNYW5hZ2VyLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zYWN0aW9uLnNldEN1c3RvbUFuaW1hdGlvbnMoUi5hbmltLmZhZGVfaW4sIFIuYW5pbS5mYWRlX291dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjdXJyZW50RnJhZ21lbnQgPSBnZXRDdXJyZW50RnJhZ21lbnQoKQo=</text>
+        <text encoding="base64">CQlnZXRGcmFnbWVudE1hbmFnZXIoKS5zZXRQcmltYXJ5TmF2aWdhdGlvbkZyYWdtZW50KGZyYWdtZW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFByaW1hcnlOYXZpZ2F0aW9uRnJhZ21lbnQoZnJhZ21lbnQpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0Q3VycmVudEZyYWdtZW50KCk6OmNsYXNzLmphdmEgPT0gZnJhZ21lbnQ6OmNsYXNzLmphdmEpIHsKICAgICAgICAgICAgVGltYmVyLmQoInB1c2hGcmFnbWVudDogZnJhZ21lbnQgJG5hbWUgaXMgYWxyZWFkeSBwdXNoZWQiKQogICAgICAgICAgICByZXR1cm4KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzdXBwb3J0RnJhZ21lbnRNYW5hZ2VyLnBvcEJhY2tTdGFjaygpCiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBmcmFnbWVudCA9IE1haW5GcmFnbWVudCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm9ybXNGcmFnbWVudC5OQU1FIC0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2V0UHJpbWFyeU5hdmlnYXRpb25GcmFnbWVudChmcmFnbWVudCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2Nhbm5lckZyYWdtZW50Lk5BTUUgLT4gVW5pdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpbmRGcmFnbWVudEJ5VGFnKCJtYWluIikgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zYWN0aW9uLnNldEN1c3RvbUFuaW1hdGlvbnMoUi5hbmltLmZhZGVfaW4sIFIuYW5pbS5mYWRlX291dCwgUi5hbmltLmZhZGVfaW4sIFIuYW5pbS5mYWRlX291dCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
