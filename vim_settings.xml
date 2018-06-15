@@ -449,12 +449,13 @@
         <mark key="]" line="14" column="38" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" timestamp="1529060635617">
-        <mark key="'" line="803" column="37" />
-        <mark key="[" line="801" column="39" />
-        <mark key="]" line="801" column="40" />
-        <mark key="^" line="801" column="40" />
-        <mark key="." line="801" column="40" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" timestamp="1529061693369">
+        <mark key="a" line="256" column="25" />
+        <mark key="'" line="317" column="28" />
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="." line="302" column="0" />
+        <mark key="^" line="299" column="8" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/menu/menu_unlocked.xml" timestamp="1528837041293">
         <mark key="[" line="3" column="56" />
@@ -619,8 +620,8 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainViewModel.kt" timestamp="1529049231074" />
-      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/scanner_layout.xml" timestamp="1529060503810">
-        <mark key="[" line="23" column="44" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/scanner_layout.xml" timestamp="1529060774492">
+        <mark key="[" line="35" column="40" />
         <mark key="]" line="23" column="44" />
         <mark key="^" line="34" column="41" />
         <mark key="." line="23" column="44" />
@@ -636,8 +637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
-      <jump line="144" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="318" column="17" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="325" column="14" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="134" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
@@ -712,7 +711,6 @@
       <jump line="307" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="431" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="526" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
-      <jump line="310" column="23" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="747" column="41" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="251" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="258" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
@@ -736,10 +734,13 @@
       <jump line="255" column="26" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="265" column="60" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="803" column="37" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
+      <jump line="287" column="28" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
+      <jump line="280" column="31" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
+      <jump line="310" column="28" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9uCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -941,58 +942,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>300</text>
+        <text>fadeIn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbW9ycGhCdXR0b24gPSBtb3JwaFdpZGdldChmYWxzZSwgc3RhcnRCdXR0b24sIHN0YXJ0QnV0dG9uVGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhcmNvZGVPdmVybGF5LmJhY2tncm91bmRDb2xvciA9IGFuaW1hdGVkVmFsdWUgYXMgSW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIG9uCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9PblN0YXJ0IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXcxLmlzVmlzaWJsZSA9IHRydWUKICAgICAgICAgICAgICAgIHZpZXcxLnNjYWxlWCA9IHN0YXJ0VmFsdWUKICAgICAgICAgICAgICAgIHZpZXcxLnNjYWxlWSA9IHN0YXJ0VmFsdWUKICAgICAgICAgICAgICAgIHZpZXcxLmFscGhhID0gc3RhcnRWYWx1ZQoKICAgICAgICAgICAgICAgIHZpZXcyPy5pc1Zpc2libGUgPSB0cnVlCiAgICAgICAgICAgICAgICB2aWV3Mj8uc2NhbGVYID0gc3RhcnRWYWx1ZQogICAgICAgICAgICAgICAgdmlldzI/LnNjYWxlWSA9IHN0YXJ0VmFsdWUKICAgICAgICAgICAgICAgIHZpZXcyPy5hbHBoYSA9IHN0YXJ0VmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZC5SLmNvbG9yLmJhY2tncm91bmRfbGlnaHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZC5SLmNvbG9yLnRyYW5zcGFyZW50Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9ycGhCYXJjb2RlLnN0YXJ0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGVuZENvbG9yID0gQ29udGV4dENvbXBhdC5nZXRDb2xvcihjb250ZXh0LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBtb3JwaEJ1dHRvbi5zdGFydCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhcnRDb2xvciA9IENvbnRleHRDb21wYXQuZ2V0Q29sb3IoY29udGV4dCwgCiAgICAgICAgdmFsIGVuZENvbG9yID0gQ29udGV4dENvbXBhdC5nZXRDb2xvcihjb250ZXh0LAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRCdXR0b24uaXNHb25lID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZC5SLmNvbG9yLmJhY2tncm91bmRfbGlnaHQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHJ1ZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>300</last-search>
+      <last-search>fadeIn</last-search>
       <last-offset />
-      <last-pattern>300</last-pattern>
+      <last-pattern>fadeIn</last-pattern>
       <last-replace>Variance</last-replace>
       <last-substitute>Delay</last-substitute>
       <last-dir>1</last-dir>
@@ -1005,7 +1006,6 @@
         <entry>onBar</entry>
         <entry>model\,</entry>
         <entry>model\.</entry>
-        <entry>fadeIn</entry>
         <entry>faceOut</entry>
         <entry>fade</entry>
         <entry>morph</entry>
@@ -1020,6 +1020,7 @@
         <entry>runEnt</entry>
         <entry>morphW</entry>
         <entry>300</entry>
+        <entry>fadeIn</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/Fragment/g</entry>
