@@ -438,7 +438,8 @@
         <mark key="]" line="35" column="87" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/http/VUEMAService.java" timestamp="1528960934134">
+      <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/http/VUEMAService.java" timestamp="1529037190689">
+        <mark key="'" line="123" column="51" />
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="35" />
         <mark key="." line="88" column="68" />
@@ -507,9 +508,6 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1529023758975">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/res/layout/main_activity_debug.xml" timestamp="1528942773255">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="40" />
@@ -565,6 +563,7 @@
         <mark key="]" line="3" column="56" />
         <mark key="." line="3" column="56" />
       </file>
+      <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/Constants.java" timestamp="1529037217797" />
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/AppBarLayout.java" timestamp="1528390611712">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="12" />
@@ -780,9 +779,6 @@
         <mark key="^" line="81" column="30" />
         <mark key="." line="253" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1529004831768">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/res/layout/activity_fullscreen.xml" timestamp="1528666761128">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -791,9 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
-      <jump line="504" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
-      <jump line="569" column="28" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="250" column="45" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/ui/settings/SettingsDialogFragment.kt" />
       <jump line="274" column="44" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/ui/settings/SettingsDialogFragment.kt" />
       <jump line="342" column="45" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/ui/settings/SettingsDialogFragment.kt" />
@@ -891,6 +884,9 @@
       <jump line="3378" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/27.1.1/94732bda44fba11302c58e459b7c1f47e7521bf9/support-fragment-27.1.1-sources.jar!/android/support/v4/app/FragmentManager.java" />
       <jump line="43" column="46" filename="$USER_HOME$/ccs/intake/app/src/test/java/monte/apps/kiosk/PermissionsTest.kt" />
       <jump line="128" column="19" filename="$USER_HOME$/tools/android/sdk/sources/android-27/java/time/LocalDateTime.java" />
+      <jump line="106" column="44" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/http/VUEMAService.java" />
+      <jump line="122" column="23" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/http/VUEMAService.java" />
+      <jump line="123" column="51" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/http/VUEMAService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1099,7 +1095,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>of(</text>
+        <text>post</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKCJPZmZzZXQgaXM6ICR7KG9mZnNldC50b3RhbFNlY29uZHMudG9GbG9hdCgpIC8gKDYwRiAqIDYwRikpLnRvSW50KCl9IikK</text>
@@ -1145,9 +1141,9 @@
       </register>
     </registers>
     <search>
-      <last-search>of(</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern>of(</last-pattern>
+      <last-pattern>post</last-pattern>
       <last-replace>Variance</last-replace>
       <last-substitute>Delay</last-substitute>
       <last-dir>1</last-dir>
@@ -1155,7 +1151,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mAnimator.cancel</entry>
         <entry>cancel()</entry>
         <entry>cancel</entry>
         <entry>onPause</entry>
@@ -1175,6 +1170,7 @@
         <entry>support</entry>
         <entry encoding="base64">XDxsdE1pbGxpXD4=</entry>
         <entry>of(</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/Fragment/g</entry>
