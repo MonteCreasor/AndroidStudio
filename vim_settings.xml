@@ -511,12 +511,11 @@
         <mark key="]" line="14" column="38" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" timestamp="1529026120409">
-        <mark key="'" line="556" column="12" />
-        <mark key="[" line="570" column="20" />
-        <mark key="]" line="570" column="21" />
-        <mark key="^" line="570" column="21" />
-        <mark key="." line="570" column="21" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" timestamp="1529027266229">
+        <mark key="'" line="406" column="25" />
+        <mark key="[" line="408" column="0" />
+        <mark key="]" line="408" column="0" />
+        <mark key="." line="408" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/menu/menu_unlocked.xml" timestamp="1528837041293">
         <mark key="[" line="3" column="56" />
@@ -737,10 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="50" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/ui/settings/SettingsDialogFragment.kt" />
-      <jump line="43" column="57" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/ui/settings/SettingsDialogFragment.kt" />
-      <jump line="44" column="60" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/ui/settings/SettingsDialogFragment.kt" />
-      <jump line="199" column="0" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/ui/settings/SettingsDialogFragment.kt" />
       <jump line="45" column="66" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="592" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="192" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
@@ -837,10 +832,14 @@
       <jump line="544" column="31" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="553" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
       <jump line="556" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
+      <jump line="165" column="59" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
+      <jump line="276" column="24" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
+      <jump line="262" column="39" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
+      <jump line="406" column="25" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/scanner/ScannerFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBvdmVybGF5Q29udGFpbmVyPy5yZW1vdmVBbGxWaWV3cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1042,58 +1041,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>surfaceView</text>
+        <text>setListen</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblBhdXNlKCkgewogICAgICAgIHN1cGVyLm9uUGF1c2UoKQogICAgICAgIGFuaW1hdG9yPy5jYW5jZWwoKQogICAgICAgIGJhcmNvZGVJbWFnZT8uY2xlYXJBbmltYXRpb24oKQogICAgICAgIC8vc3RvcCgpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hlY2tzIGZvciBHb29nbGUgUGxheSBTZXJ2aWNlcyBpbnN0YWxsYXRpb24gYW5kIHNob3dzIGEgZGlhbG9nIGlmIG5vdCBwcmVzZW50CiAgICAgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBvdmVybGF5Q29udGFpbmVyPy5yZW1vdmVBbGxWaWV3cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBiYXJjb2RlSW1hZ2U/LmlzVmlzaWJsZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZWZ0IGNvcm5lciBvZiB0aGUgdmlldyBiZWZvcmUgdGhlIGZyYWdtZW50IGNsb3Nlcy4K</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25TaGFyZWRQcmVmZXJlbmNlQ2hhbmdlZChzaGFyZWRQcmVmZXJlbmNlczogU2hhcmVkUHJlZmVyZW5jZXMsIGtleTogU3RyaW5nKSB7CiAgICAgICAgd2hlbiAoa2V5KSB7CiAgICAgICAgICAgIFNldHRpbmdzLkNBTUVSQV9GQUNJTkdfUFJFRiAtPiB7CiAgICAgICAgICAgICAgICB2YWwgZmFjaW5nID0gU2V0dGluZ3MuY2FtZXJhRmFjaW5nCiAgICAgICAgICAgICAgICBpZiAodGhpcy5mYWNpbmcgPT0gZmFjaW5nKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGZhY2luZ1NlbGVjdGFibGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZmFjaW5nU2VsZWN0YWJsZSA9IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVZpZXdzKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHdoZW4gKGZhY2luZykgewogICAgICAgICAgICAgICAgICAgICAgICBGUk9OVCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmYWNpbmdTZWxlY3RhYmxlID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0KHR5cGUsIEZST05UKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIFJFQVIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFjaW5nU2VsZWN0YWJsZSA9IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydCh0eXBlLCBSRUFSKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIFNFTEVDVEFCTEUgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFjaW5nU2VsZWN0YWJsZSA9IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVZpZXdzKCkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGUgY2VudGVyZWQgYmFyY29kZSBpbWFnZSBkb2VzIG5vdCBzbmFwIHVwIHRvIHRoZQo=</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25TaGFyZWRQcmVmZXJlbmNlQ2hhbmdlZChzaGFyZWRQcmVmZXJlbmNlczogU2hhcmVkUHJlZmVyZW5jZXMsIGtleTogU3RyaW5nKSB7CiAgICAgICAgd2hlbiAoa2V5KSB7CiAgICAgICAgICAgIFNldHRpbmdzLkNBTUVSQV9GQUNJTkdfUFJFRiAtPiB7CiAgICAgICAgICAgICAgICB2YWwgZmFjaW5nID0gU2V0dGluZ3MuY2FtZXJhRmFjaW5nCiAgICAgICAgICAgICAgICBpZiAodGhpcy5mYWNpbmcgPT0gZmFjaW5nKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGZhY2luZ1NlbGVjdGFibGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZmFjaW5nU2VsZWN0YWJsZSA9IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVZpZXdzKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHdoZW4gKGZhY2luZykgewogICAgICAgICAgICAgICAgICAgICAgICBGUk9OVCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmYWNpbmdTZWxlY3RhYmxlID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0KHR5cGUsIEZST05UKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIFJFQVIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFjaW5nU2VsZWN0YWJsZSA9IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydCh0eXBlLCBSRUFSKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIFNFTEVDVEFCTEUgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFjaW5nU2VsZWN0YWJsZSA9IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVZpZXdzKCkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBIaWRlIHRoZSB2aWV3IGJlZm9yZSByZW1vdmluZyB0aGUgb3ZlcmxheSBzbyB0aGF0Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBWaWV3LnNpemUod2lkdGg6IEludCwgaGVpZ2h0OiBJbnQpIHsKICAgICAgICB2YWwgcGFyYW1zID0gbGF5b3V0UGFyYW1zCiAgICAgICAgcGFyYW1zLndpZHRoID0gd2lkdGgKICAgICAgICBwYXJhbXMuaGVpZ2h0ID0gaGVpZ2h0CiAgICAgICAgcmVxdWVzdExheW91dCgpCiAgICB9Cgo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IERvIEkgcmVhbGx5IG5lZWQgdGhpcz8K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVG9nZ2xlIGZyb250IGFuZCByZWFyIGNhbWVyYXMuCiAgICAgKi8KICAgIHByaXZhdGUgZnVuIGZsaXBDYW1lcmEoKSB7CiAgICAgICAgd2hlbiAoZmFjaW5nKSB7CiAgICAgICAgICAgIFJFQVIgLT4gewogICAgICAgICAgICAgICAgZmFjaW5nID0gRlJPTlQKICAgICAgICAgICAgICAgIHN0YXJ0KHR5cGUsIGZhY2luZykKICAgICAgICAgICAgfQogICAgICAgICAgICBGUk9OVCAtPiB7CiAgICAgICAgICAgICAgICBmYWNpbmcgPSBSRUFSCiAgICAgICAgICAgICAgICBzdGFydCh0eXBlLCBmYWNpbmcpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBFeGNlcHRpb24oImZhY2luZyBzaG91bGQgb25seSBiZSBGUk9OVCBvciBSRUFSIikKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgICogQ09NTUFORFMKICAgICAqLwoKICAgIC8qKgogICAgICogVG9nZ2xlIGZyb250IGFuZCByZWFyIGNhbWVyYXMuCiAgICAgKi8KICAgIHByaXZhdGUgZnVuIGZsaXBDYW1lcmEoKSB7CiAgICAgICAgd2hlbiAoZmFjaW5nKSB7CiAgICAgICAgICAgIFJFQVIgLT4gewogICAgICAgICAgICAgICAgZmFjaW5nID0gRlJPTlQKICAgICAgICAgICAgICAgIHN0YXJ0KHR5cGUsIGZhY2luZykKICAgICAgICAgICAgfQogICAgICAgICAgICBGUk9OVCAtPiB7CiAgICAgICAgICAgICAgICBmYWNpbmcgPSBSRUFSCiAgICAgICAgICAgICAgICBzdGFydCh0eXBlLCBmYWNpbmcpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBFeGNlcHRpb24oImZhY2luZyBzaG91bGQgb25seSBiZSBGUk9OVCBvciBSRUFSIikKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wKCkK</text>
+        <text encoding="base64">ICAgIC8qLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgICogTElGRUNZQ0xFIGhvb2tzLgogICAgICovCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuaW1hdG9yPy5jYW5jZWwoKQogICAgYmFyY29kZUltYWdlPy5jbGVhckFuaW1hdGlvbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>surfaceView</last-search>
+      <last-search>setListen</last-search>
       <last-offset />
-      <last-pattern>surfaceView</last-pattern>
+      <last-pattern>setListen</last-pattern>
       <last-replace>Variance</last-replace>
       <last-substitute>Delay</last-substitute>
       <last-dir>1</last-dir>
@@ -1101,11 +1100,6 @@
     </search>
     <history>
       <history-search>
-        <entry>barcodeImage</entry>
-        <entry>updateV</entry>
-        <entry>alpha = 0</entry>
-        <entry>isGone</entry>
-        <entry>isVisi</entry>
         <entry>1000</entry>
         <entry>toLong</entry>
         <entry>pulse</entry>
@@ -1121,6 +1115,11 @@
         <entry>stop</entry>
         <entry>removeAll</entry>
         <entry>surfaceView</entry>
+        <entry>model\.</entry>
+        <entry>scanComplete</entry>
+        <entry>destroyV</entry>
+        <entry>onScan</entry>
+        <entry>setListen</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/Fragment/g</entry>
