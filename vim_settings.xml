@@ -25,12 +25,11 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1529179695806">
-        <mark key="'" line="379" column="20" />
-        <mark key="[" line="441" column="41" />
-        <mark key="]" line="441" column="0" />
-        <mark key="." line="441" column="0" />
-        <mark key="^" line="440" column="31" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1529180712617">
+        <mark key="'" line="102" column="34" />
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="443" column="40" />
+        <mark key="." line="443" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/res/layout/fragment_blank.xml" timestamp="1528666335802">
         <mark key="[" line="5" column="0" />
@@ -698,13 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="28" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
-      <jump line="36" column="47" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
-      <jump line="89" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
-      <jump line="109" column="37" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
-      <jump line="12" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
-      <jump line="54" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainFragment.kt" />
-      <jump line="54" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="77" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
       <jump line="87" column="29" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
       <jump line="70" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
@@ -798,10 +790,17 @@
       <jump line="226" column="30" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="263" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="379" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="490" column="47" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="101" column="6" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="216" column="10" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="258" column="14" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="261" column="14" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="331" column="10" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="102" column="34" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJuZXR3b3JrX2Nvbm5lY3Rpb24iLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5zZXRBdXRvQ2FuY2VsKHRydWUpOwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1003,58 +1002,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;com.ideallife.healthtablet.DebugMainActivity&quot;);</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>getNo</text>
+        <text>mWakeLock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hZGRBY3Rpb24oUi5kcmF3YWJsZS5pY19zdG9wX2dyZXk2MDAsIAogICAgICAgICAgICAgICAgICAgIGFwcENvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLmJ0bl9zY2FubmluZyksIHBlbmRpbmdJbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5zZXRBdXRvQ2FuY2VsKGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJuZXR3b3JrX2Nvbm5lY3Rpb24iLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5zZXRBdXRvQ2FuY2VsKHRydWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVuZGluZ0ludGVudC5wdXRFeHRyYSgibmV0d29ya19jb25uZWN0aW9uIiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVuZGluZ0ludGVudCA9IFBlbmRpbmdJbnRlbnQuZ2V0QWN0aXZpdHkoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVuZGluZ0ludGVudCA9IFBlbmRpbmdJbnRlbnQuZ2V0QWN0aXZpdHkoYXBwQ29udGV4dDAsICBJbnRlbnQoImNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LkRlYnVnTWFpbkFjdGl2aXR5Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVuZGluZ0ludGVudCA9IFBlbmRpbmdJbnRlbnQuZ2V0U2VydmljZShhcHBDb250ZXh0LCAwLCBpbnRlbnQsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJuZXR3b3JrX2Nvbm5lY3Rpb24iLCB0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gb25IYW5kbGVJbnRlbnQoaW50ZW50OiBJbnRlbnQ/KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVuZGluZ0ludGVudC5wdXRFeHRyYSgibmV0d29ya19jb25uZWN0aW9uIiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVuZGluZ0ludGVudCA9IFBlbmRpbmdJbnRlbnQuZ2V0QWN0aXZpdHkoYXBwQ29udGV4dDAsICBJbnRlbnQoImNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LkRlYnVnTWFpbkFjdGl2aXR5Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVuZGluZ0ludGVudCA9IFBlbmRpbmdJbnRlbnQuZ2V0U2VydmljZShhcHBDb250ZXh0LCAwLCBpbnRlbnQsIDApOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2F0ZXdheVNlcnZpY2Uuc3RhcnQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gb25IYW5kbGVJbnRlbnQoaW50ZW50OiBJbnRlbnQ/KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>getNo</last-search>
+      <last-search>mWakeLock</last-search>
       <last-offset />
-      <last-pattern>getNo</last-pattern>
+      <last-pattern>mWakeLock</last-pattern>
       <last-replace>Variance</last-replace>
       <last-substitute>Delay</last-substitute>
       <last-dir>1</last-dir>
@@ -1062,8 +1061,6 @@
     </search>
     <history>
       <history-search>
-        <entry>obser</entry>
-        <entry>onStop</entry>
         <entry>onS</entry>
         <entry>observe</entry>
         <entry>submittedTime</entry>
@@ -1082,6 +1079,8 @@
         <entry>notify</entry>
         <entry>get</entry>
         <entry>getNo</entry>
+        <entry>monte</entry>
+        <entry>mWakeLock</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/Fragment/g</entry>
