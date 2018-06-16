@@ -25,7 +25,8 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1529170215615">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1529175982354">
+        <mark key="'" line="391" column="67" />
         <mark key="[" line="444" column="16" />
         <mark key="]" line="444" column="17" />
         <mark key="^" line="444" column="17" />
@@ -59,6 +60,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudio/DeviceExplorer/samsung-sm_t820-c486c00acb5807f9/data/data/com.ideallife.healthtablet/shared_prefs/com.ideallife.healthtablet_preferences.xml" timestamp="1529174090593">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
       </file>
       <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/res/values/strings.xml" timestamp="1528691104156">
         <mark key="[" line="7" column="0" />
@@ -743,10 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="470" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
-      <jump line="471" column="21" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
-      <jump line="472" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
-      <jump line="473" column="21" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="503" column="11" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="507" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="23" column="39" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainFragment.kt" />
@@ -843,10 +845,14 @@
       <jump line="341" column="20" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/TodayActivity.java" />
       <jump line="6" column="0" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/.gitignore" />
       <jump line="56" column="13" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/.gitignore" />
+      <jump line="519" column="18" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="547" column="40" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="429" column="45" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="391" column="67" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>e</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1048,10 +1054,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>apk</text>
+        <text>getNo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgdGltZVpvbmUgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpLmdldFRpbWVab25lKCkuZ2V0RGlzcGxheU5hbWUoZmFsc2UsIFRpbWVab25lLlNIT1JUKTsK</text>
@@ -1097,9 +1103,9 @@
       </register>
     </registers>
     <search>
-      <last-search>apk</last-search>
+      <last-search>getNo</last-search>
       <last-offset />
-      <last-pattern>apk</last-pattern>
+      <last-pattern>getNo</last-pattern>
       <last-replace>Variance</last-replace>
       <last-substitute>Delay</last-substitute>
       <last-dir>1</last-dir>
@@ -1107,10 +1113,6 @@
     </search>
     <history>
       <history-search>
-        <entry>presenter</entry>
-        <entry>observer</entry>
-        <entry>observ</entry>
-        <entry>live</entry>
         <entry>obser</entry>
         <entry>onStop</entry>
         <entry>onS</entry>
@@ -1127,6 +1129,10 @@
         <entry>dispose()</entry>
         <entry>disposables</entry>
         <entry>apk</entry>
+        <entry>get</entry>
+        <entry>void get</entry>
+        <entry>notify</entry>
+        <entry>getNo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/Fragment/g</entry>
