@@ -254,6 +254,13 @@
         <mark key="." line="51" column="18" />
         <mark key="^" line="51" column="18" />
       </file>
+      <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/.gitignore" timestamp="1529136111056">
+        <mark key="'" line="56" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/androidTest/java/monte/apps/kiosk/ui/main/ExampleInstrumentedTest.kt" timestamp="1528837074216">
         <mark key="[" line="26" column="53" />
         <mark key="]" line="26" column="53" />
@@ -667,8 +674,8 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529134718781">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1529136134800">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/alerts/DeviceOwnerAlert.kt" timestamp="1528838609307">
         <mark key="[" line="22" column="0" />
@@ -696,13 +703,6 @@
         <mark key="]" line="9" column="43" />
         <mark key="^" line="9" column="43" />
         <mark key="." line="9" column="43" />
-      </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainFragment.kt" timestamp="1529128542683">
-        <mark key="a" line="53" column="17" />
-        <mark key="'" line="65" column="30" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/build.gradle" timestamp="1528940209795">
         <mark key="[" line="12" column="0" />
@@ -750,8 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
-      <jump line="469" column="21" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="470" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="471" column="21" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="472" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
@@ -850,6 +848,8 @@
       <jump line="141" column="32" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/TodayActivity.java" />
       <jump line="253" column="8" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/TodayActivity.java" />
       <jump line="341" column="20" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/TodayActivity.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/.gitignore" />
+      <jump line="56" column="13" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1058,7 +1058,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>disposables</text>
+        <text>apk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgdGltZVpvbmUgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpLmdldFRpbWVab25lKCkuZ2V0RGlzcGxheU5hbWUoZmFsc2UsIFRpbWVab25lLlNIT1JUKTsK</text>
@@ -1104,9 +1104,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disposables</last-search>
+      <last-search>apk</last-search>
       <last-offset />
-      <last-pattern>disposables</last-pattern>
+      <last-pattern>apk</last-pattern>
       <last-replace>Variance</last-replace>
       <last-substitute>Delay</last-substitute>
       <last-dir>1</last-dir>
@@ -1114,7 +1114,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fadeAn</entry>
         <entry>presenter</entry>
         <entry>observer</entry>
         <entry>observ</entry>
@@ -1134,6 +1133,7 @@
         <entry>subscribe</entry>
         <entry>dispose()</entry>
         <entry>disposables</entry>
+        <entry>apk</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/Fragment/g</entry>
