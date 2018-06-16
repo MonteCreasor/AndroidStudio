@@ -25,12 +25,12 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1529177645625">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1529179695806">
         <mark key="'" line="379" column="20" />
-        <mark key="[" line="442" column="34" />
-        <mark key="]" line="442" column="38" />
-        <mark key="." line="442" column="38" />
-        <mark key="^" line="442" column="38" />
+        <mark key="[" line="441" column="41" />
+        <mark key="]" line="441" column="0" />
+        <mark key="." line="441" column="0" />
+        <mark key="^" line="440" column="31" />
       </file>
       <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/res/layout/fragment_blank.xml" timestamp="1528666335802">
         <mark key="[" line="5" column="0" />
@@ -260,7 +260,7 @@
         <mark key="^" line="25" column="34" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/ToggleGatewayProvider.java" timestamp="1529176465324" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/ToggleGatewayProvider.java" timestamp="1529179173323" />
       <file name="$USER_HOME$/ccs/intake/app/build.gradle" timestamp="1529122892154">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -361,6 +361,7 @@
       <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/http/data/TopicAnswer.java" timestamp="1529130374317">
         <mark key="'" line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/ToggleGatewayIntentService.java" timestamp="1529179151368" />
       <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/res/values/dimens.xml" timestamp="1528667731304">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="85" />
@@ -571,7 +572,7 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/AndroidManifest.xml" timestamp="1529172987935">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/AndroidManifest.xml" timestamp="1529179325589">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="33" />
         <mark key="." line="46" column="0" />
@@ -799,8 +800,8 @@
       <jump line="379" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJuZXR3b3JrX2Nvbm5lY3Rpb24iLCB0cnVlKTsK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1002,7 +1003,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>&quot;com.ideallife.healthtablet.DebugMainActivity&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>getNo</text>
@@ -1011,28 +1012,28 @@
         <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hZGRBY3Rpb24oUi5kcmF3YWJsZS5pY19zdG9wX2dyZXk2MDAsIAogICAgICAgICAgICAgICAgICAgIGFwcENvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLmJ0bl9zY2FubmluZyksIHBlbmRpbmdJbnRlbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gb25IYW5kbGVJbnRlbnQoaW50ZW50OiBJbnRlbnQ/KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJuZXR3b3JrX2Nvbm5lY3Rpb24iLCB0cnVlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVuZGluZ0ludGVudC5wdXRFeHRyYSgibmV0d29ya19jb25uZWN0aW9uIiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVuZGluZ0ludGVudCA9IFBlbmRpbmdJbnRlbnQuZ2V0QWN0aXZpdHkoYXBwQ29udGV4dDAsICBJbnRlbnQoImNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LkRlYnVnTWFpbkFjdGl2aXR5Iik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2F0ZXdheVNlcnZpY2Uuc3RhcnQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVuZGluZ0ludGVudCA9IFBlbmRpbmdJbnRlbnQuZ2V0U2VydmljZShhcHBDb250ZXh0LCAwLCBpbnRlbnQsIDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gb25IYW5kbGVJbnRlbnQoaW50ZW50OiBJbnRlbnQ/KSB7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
@@ -1041,7 +1042,7 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2F0ZXdheVNlcnZpY2Uuc3RvcCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2F0ZXdheVNlcnZpY2Uuc3RhcnQodGhpcyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB7Cg==</text>
