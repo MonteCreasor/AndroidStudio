@@ -300,6 +300,9 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/android/monte/settings/app/src/dev/res/layout/main_activity_debug.xml" timestamp="1529262424266">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/ui/main/MainActivity.kt" timestamp="1529106432193">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="22" />
@@ -741,11 +744,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/android/monte/settings/app/src/dev/AndroidManifest.xml" timestamp="1529261215569">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
+      <file name="$USER_HOME$/android/monte/settings/app/src/dev/AndroidManifest.xml" timestamp="1529262361271">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="48" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.java" timestamp="1528972827364">
         <mark key="[" line="25" column="0" />
@@ -1062,7 +1065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="43" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/views/AnswerButtonView.java" />
       <jump line="18" column="24" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/views/QuestionView.java" />
       <jump line="232" column="58" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/views/QuestionView.java" />
       <jump line="38" column="20" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/authenticator/LogoutService.java" />
@@ -1162,10 +1164,11 @@
       <jump line="38" column="26" filename="$USER_HOME$/android/monte/settings/app/src/dev/java/monte/tools/settings/DevMainActivity.kt" />
       <jump line="151" column="35" filename="$USER_HOME$/android/monte/settings/app/src/dev/java/monte/tools/settings/Prefs.kt" />
       <jump line="120" column="17" filename="$USER_HOME$/android/monte/settings/app/src/dev/java/monte/tools/settings/ui/SettingsDialogFragment.kt" />
+      <jump line="7" column="0" filename="$USER_HOME$/android/monte/settings/app/src/dev/res/layout/main_activity_debug.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;.DevApp&quot;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1367,7 +1370,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;.DevApp&quot;</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
