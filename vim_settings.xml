@@ -102,6 +102,12 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/scripts/doze.sh" timestamp="1529194994046">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="34" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/ui/alerts/NoInternetAlert.kt" timestamp="1529176185886">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="85" />
@@ -129,11 +135,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="16" column="68" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" timestamp="1529172621732">
-        <mark key="[" line="465" column="12" />
-        <mark key="]" line="465" column="13" />
-        <mark key="." line="465" column="13" />
       </file>
       <file name="$USER_HOME$/ccs/sandbox/fullscreen/app/src/main/res/values/styles.xml" timestamp="1528440683560">
         <mark key="[" line="9" column="0" />
@@ -331,6 +332,12 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/scripts/wake.sh" timestamp="1529195015953">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="35" />
+        <mark key="^" line="1" column="35" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/build.gradle" timestamp="1528941410795">
         <mark key="[" line="35" column="0" />
@@ -798,8 +805,8 @@
       <jump line="102" column="34" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5zZXRBdXRvQ2FuY2VsKHRydWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>force-idle</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1001,7 +1008,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>force-idle</text>
       </register>
       <register name="/" type="4">
         <text>mWakeLock</text>
