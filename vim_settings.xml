@@ -41,7 +41,7 @@
         <mark key="." line="538" column="48" />
         <mark key="^" line="538" column="47" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/util/PullMessagesReceiver.java" timestamp="1529598679686">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/util/PullMessagesReceiver.java" timestamp="1529601681828">
         <mark key="[" line="23" column="45" />
         <mark key="]" line="26" column="12" />
         <mark key="^" line="26" column="12" />
@@ -88,6 +88,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="13" column="14" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/res/layout/settings_dialog_fragment.xml" timestamp="1529601243278">
+        <mark key="'" line="29" column="51" />
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="70" column="27" />
+        <mark key="." line="70" column="27" />
+        <mark key="^" line="70" column="27" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/values/styles.xml" timestamp="1529393882771">
         <mark key="[" line="10" column="81" />
@@ -221,7 +228,7 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/util/PullMessagesHelper.java" timestamp="1529532269037">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/util/PullMessagesHelper.java" timestamp="1529600902532">
         <mark key="'" line="44" column="49" />
         <mark key="[" line="38" column="64" />
         <mark key="]" line="41" column="11" />
@@ -286,6 +293,7 @@
         <mark key="." line="42" column="45" />
         <mark key="^" line="42" column="45" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessagesService.java" timestamp="1529601056242" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.java" timestamp="1529556869394">
         <mark key="a" line="306" column="0" />
         <mark key="'" line="39" column="48" />
@@ -388,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="52" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="213" column="65" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="227" column="48" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="233" column="15" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
@@ -488,10 +495,11 @@
       <jump line="537" column="40" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="234" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="538" column="83" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="29" column="51" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/res/layout/settings_dialog_fragment.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>it)</text>
+        <text>Skip</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -693,10 +701,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>it)</text>
+        <text>Skip</text>
       </register>
       <register name="/" type="4">
-        <text>no_in</text>
+        <text>Acti</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUxvZ2dpbmcoaXQpCg==</text>
@@ -742,9 +750,9 @@
       </register>
     </registers>
     <search>
-      <last-search>no_in</last-search>
+      <last-search>Acti</last-search>
       <last-offset />
-      <last-pattern>no_in</last-pattern>
+      <last-pattern>Acti</last-pattern>
       <last-replace>Variance</last-replace>
       <last-substitute>Delay</last-substitute>
       <last-dir>1</last-dir>
@@ -752,7 +760,6 @@
     </search>
     <history>
       <history-search>
-        <entry>finish(</entry>
         <entry>FIRS</entry>
         <entry>postDel</entry>
         <entry>removeC</entry>
@@ -772,6 +779,7 @@
         <entry>onF</entry>
         <entry>ConnectionCh</entry>
         <entry>no_in</entry>
+        <entry>Acti</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/Fragment/g</entry>
