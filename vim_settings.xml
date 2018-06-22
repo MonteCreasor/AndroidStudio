@@ -53,6 +53,14 @@
         <mark key="]" line="90" column="8" />
         <mark key="." line="90" column="8" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" timestamp="1529685302188">
+        <mark key="a" line="46" column="37" />
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="59" column="64" />
+        <mark key="]" line="59" column="64" />
+        <mark key="^" line="59" column="64" />
+        <mark key="." line="59" column="64" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" timestamp="1529684027253">
         <mark key="[" line="175" column="38" />
         <mark key="]" line="175" column="38" />
@@ -476,7 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="14" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/util/ConnectionNotification.kt" />
       <jump line="67" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" />
       <jump line="48" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" />
       <jump line="109" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" />
@@ -576,6 +583,7 @@
       <jump line="7" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/release/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="77" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/util/ConnectionNotificationHelper.kt" />
       <jump line="250" column="33" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="48" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -784,10 +792,10 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>do</text>
+        <text>println</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20uaWRlYWxsaWZlLmhlYWx0aGhqanRhYmxldCIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJUQjogaGlkZUFjdGlvbkJhclJ1bm5hYmxlIHRyaWdnZXJlZCwgY2FsbGluZyBoaWRlQWN0aW9uQmFyKCkiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -830,9 +838,9 @@
       </register>
     </registers>
     <search>
-      <last-search>do</last-search>
+      <last-search>println</last-search>
       <last-offset />
-      <last-pattern>do</last-pattern>
+      <last-pattern>println</last-pattern>
       <last-replace>Variance</last-replace>
       <last-substitute>Delay</last-substitute>
       <last-dir>1</last-dir>
@@ -840,7 +848,6 @@
     </search>
     <history>
       <history-search>
-        <entry>finish</entry>
         <entry>tilte</entry>
         <entry>postR</entry>
         <entry>onResume</entry>
@@ -860,6 +867,7 @@
         <entry>AppSettings</entry>
         <entry>Mock</entry>
         <entry>do</entry>
+        <entry>println</entry>
       </history-search>
       <history-cmd>
         <entry>%s/FragmentCompat/Fragment/g</entry>
