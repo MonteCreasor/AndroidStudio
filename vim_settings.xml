@@ -26,12 +26,12 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/InternetConnectonDialogFragment.kt" timestamp="1529625606652">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/InternetConnectonDialogFragment.kt" timestamp="1529626934781">
         <mark key="a" line="150" column="16" />
-        <mark key="'" line="77" column="75" />
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="66" column="29" />
-        <mark key="." line="66" column="28" />
+        <mark key="'" line="66" column="52" />
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="18" column="6" />
         <mark key="^" line="66" column="31" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1529624593251">
@@ -116,12 +116,12 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/res/values/strings.xml" timestamp="1529615155998">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/res/values/strings.xml" timestamp="1529626824448">
         <mark key="'" line="664" column="37" />
-        <mark key="[" line="422" column="0" />
-        <mark key="]" line="422" column="0" />
+        <mark key="[" line="332" column="55" />
+        <mark key="]" line="332" column="56" />
         <mark key="^" line="335" column="112" />
-        <mark key="." line="422" column="0" />
+        <mark key="." line="332" column="56" />
       </file>
       <file name="$USER_HOME$/android/monte/settings/app/src/dev/res/values/colors.xml" timestamp="1529355698171">
         <mark key="[" line="8" column="80" />
@@ -316,6 +316,13 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/ConnectonDialogFragment.kt" timestamp="1529627281173">
+        <mark key="'" line="131" column="25" />
+        <mark key="[" line="109" column="54" />
+        <mark key="]" line="109" column="54" />
+        <mark key="." line="109" column="54" />
+        <mark key="^" line="73" column="37" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/ConnectionChecker.kt" timestamp="1529608865397">
         <mark key="'" line="15" column="3" />
         <mark key="[" line="72" column="35" />
@@ -428,9 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
-      <jump line="371" column="36" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
-      <jump line="93" column="30" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="202" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="384" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="199" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
@@ -528,10 +532,13 @@
       <jump line="31" column="13" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/util/ConnectionNotification.kt" />
       <jump line="79" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="21" column="32" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/res/layout/internet_connection_alert_title.xml" />
+      <jump line="66" column="52" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/InternetConnectonDialogFragment.kt" />
+      <jump line="134" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/ConnectonDialogFragment.kt" />
+      <jump line="123" column="25" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/ConnectonDialogFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>End</text>
+        <text>N</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -733,49 +740,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>End</text>
+        <text>N</text>
       </register>
       <register name="/" type="4">
         <text>mPrefs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ0VuZD0iMTZkcCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9ncmVzc0Jhci52aXNpYmlsaXR5ID0gVmlldy5JTlZJU0lCTEUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZz0iNWRwIgo=</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMDBkcCIK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjVkcCIK</text>
+        <text encoding="base64">ICAgICAgICBnZXRUCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iP2FuZHJvaWQ6YXR0ci8iCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJmaW5pc2hpbmcgJGNvbm5lY3RlZCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJjYW5jZWxsaW5nIHJ1bm5hYmxlIC4uLiIpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAc3R5bGUK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJwb3N0aW5nIHJ1bm5hYmxlIC4uLiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAicmV0dXJuZWQgZnJvbSBwb3N0IHJ1bm5hYmxlIGJ1dCBub3QgeWV0IGNvbm5lY3RlZDogcG9zdGluZyBhbm90aGVyIHJ1bm5hYmxlIikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAicmV0dXJuZWQgZnJvbSBhY3Rpdml0eSBidXQgbm90IHlldCBjb25uZWN0ZWQ6IHBvc3RpbmcgYW5vdGhlciBydW5uYWJsZSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJlZnMgPSBQcmVmZXJlbmNlTWFuYWdlci5nZXREZWZhdWx0U2hhcmVkUHJlZmVyZW5jZXModGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJ1c2VyIGNsaWNrZWQgb24gcG9zaXRpdmUgYnV0dG9uOiBjYW5jZWxsaW5nIHBvc3NpYmxlIHJ1bm5hYmxlIikK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
