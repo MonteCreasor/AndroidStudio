@@ -239,6 +239,14 @@
         <mark key="^" line="57" column="43" />
         <mark key="." line="57" column="35" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/util/PullMessagesHelper.java" timestamp="1529646233134">
+        <mark key="a" line="34" column="29" />
+        <mark key="'" line="43" column="49" />
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="40" column="61" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" timestamp="1529639235700">
         <mark key="'" line="94" column="8" />
         <mark key="[" line="113" column="0" />
@@ -339,13 +347,13 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/ConnectonDialogFragment.kt" timestamp="1529643371075">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/ConnectonDialogFragment.kt" timestamp="1529644630934">
         <mark key="a" line="133" column="36" />
         <mark key="'" line="50" column="26" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="65" />
-        <mark key="^" line="49" column="65" />
-        <mark key="." line="49" column="65" />
+        <mark key="[" line="112" column="62" />
+        <mark key="]" line="112" column="68" />
+        <mark key="^" line="112" column="68" />
+        <mark key="." line="112" column="68" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/ConnectionChecker.kt" timestamp="1529608865397">
         <mark key="'" line="15" column="3" />
@@ -373,11 +381,18 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/util/ConnectionChecker.kt" timestamp="1529642870988">
-        <mark key="[" line="54" column="87" />
-        <mark key="]" line="56" column="27" />
-        <mark key="." line="56" column="27" />
-        <mark key="^" line="56" column="27" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NetworkReceiver.java" timestamp="1529645976489">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/util/ConnectionChecker.kt" timestamp="1529645882673">
+        <mark key="a" line="75" column="6" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="70" column="8" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/NoInternetConnectonDialogFragment.kt" timestamp="1529476766012">
         <mark key="[" line="4" column="59" />
@@ -566,7 +581,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZW1vdmUgdGhlIG5vdGlmaWNhdGlvbiBpZiB0aGVyZSBpcyBub3cgYSB2YWxpZCBjb25uZWN0aW9uLgo=</text>
+        <text encoding="base64">ICogcG9zdGluZyBtdXN0IGJlIGRlY2lkZWQgb24gYSBzZXJ2aWNlIGJ5IHNlcnZpY2UgYmFzaXMuCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -768,49 +783,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>when this dialog closes, udpate the notification</text>
+        <text>If a connection was</text>
       </register>
       <register name="/" type="4">
         <text>isConnected</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIGZ1biBpc0Nvbm5lY3RlZChjb250ZXh0OiBDb250ZXh0KTogQm9vbGVhbiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbk5vdGlmaWNhdGlvbi5jbGVhcihjb250ZXh0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZW1vdmUgdGhlIG5vdGlmaWNhdGlvbiBpZiB0aGVyZSBpcyBub3cgYSB2YWxpZCBjb25uZWN0aW9uLgo=</text>
+        <text encoding="base64">ICogcG9zdGluZyBtdXN0IGJlIGRlY2lkZWQgb24gYSBzZXJ2aWNlIGJ5IHNlcnZpY2UgYmFzaXMuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBEdW1teSBjYWxsIHRvIGNoZWNrIHRoZSBpbnRlcm5ldCBjb25uZWN0aW9uIHdpbGwgYXV0b21hdGljYWxseQo=</text>
+        <text encoding="base64">ICogbm90aWZpY2F0aW9uIGlmIHRoZSBpbnRlcm5ldCB3YXMganVzdCBkaXNjb25uZWN0ZWQuIE5vdGlmaWNhdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhdCB0aGF0Cg==</text>
+        <text encoding="base64">ICogbm8gY29ubmVjdGlvbiBub3RpZmljYXRpb24uIEl0IGRvZXMgbm90LCBob3dldmVyLCBhZGQgc2hvdyBhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICoganVzdCBlc3RhYmxpc2hlZCwgdGhpcyByZWNlaXZlciB3aWxsIGFsc28gcmVtb3ZlIGFueSBleGlzdGluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbk5vdGlmaWNhdGlvbi5jbGVhcihnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRG9uJ3Qgc2hvdyB0aGUgZGlzY29ubmVjdGVkIG5vdGlmaWNhdGlvbiwgc2VydmljZXMgbXVzdCBkbyB0aGF0Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBpc0Nvbm5lY3RlZChjb250ZXh0OiBDb250ZXh0KTogQm9vbGVhbiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbkNoZWNrZXIuY2xlYXJOb3RpZmljYXRpb24oY29udGV4dCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gV2UgYXJlIGNvbm5lY3RlZCBzbyBjbGVhbnVwIGFueSBleGlzdGluZyBubyBpbnRlcm5ldCBub3RpZmljYXRpb24uCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
