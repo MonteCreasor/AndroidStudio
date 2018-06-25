@@ -15,12 +15,12 @@
         <mark key="^" line="60" column="3" />
         <mark key="." line="60" column="3" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/ResSpinnerAdapter.kt" timestamp="1529884730290">
-        <mark key="'" line="21" column="46" />
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="13" column="4" />
+      <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/ResSpinnerAdapter.kt" timestamp="1529884940705">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="78" />
+        <mark key="^" line="12" column="77" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/versions.gradle" timestamp="1529808342848">
         <mark key="'" line="172" column="49" />
@@ -93,11 +93,24 @@
         <mark key="^" line="150" column="43" />
         <mark key="." line="150" column="43" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/IntResSpinnerAdapter.kt" timestamp="1529885165820">
+        <mark key="'" line="4" column="51" />
+        <mark key="[" line="7" column="69" />
+        <mark key="]" line="7" column="69" />
+        <mark key="." line="7" column="69" />
+        <mark key="^" line="7" column="70" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/NetworkVarianceAdapter.kt" timestamp="1529872655152">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/SpinnerAdapter.kt" timestamp="1529886066037">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/EnumSpinnerAdapter.kt" timestamp="1529872373376">
         <mark key="[" line="34" column="0" />
@@ -166,6 +179,12 @@
         <mark key="^" line="147" column="12" />
       </file>
       <file name="$USER_HOME$/android/samples/architecture/u2020/src/main/java/com/jakewharton/u2020/ui/misc/BindableAdapter.java" timestamp="1529868975424" />
+      <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/StringResSpinnerAdapter.kt" timestamp="1529885178332">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/android/samples/architecture/u2020-mvp-kotlin/dependencies.gradle" timestamp="1529789218986">
         <mark key="'" line="30" column="36" />
         <mark key="[" line="74" column="83" />
@@ -185,14 +204,11 @@
         <mark key="." line="20" column="94" />
         <mark key="^" line="20" column="94" />
       </file>
-      <file name="/fragment.java" timestamp="1529872755811">
+      <file name="/fragment.java" timestamp="1529885215054">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/ccs/intake/app/build.gradle" />
-      <jump line="236" column="4" filename="$USER_HOME$/ccs/intake/app/build.gradle" />
-      <jump line="84" column="4" filename="$USER_HOME$/ccs/intake/app/build.gradle" />
       <jump line="88" column="4" filename="$USER_HOME$/ccs/intake/app/build.gradle" />
       <jump line="161" column="13" filename="$USER_HOME$/ccs/intake/app/build.gradle" />
       <jump line="212" column="20" filename="$USER_HOME$/ccs/intake/versions.gradle" />
@@ -290,10 +306,13 @@
       <jump line="15" column="28" filename="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/ResSpinnerAdapter.kt" />
       <jump line="17" column="30" filename="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/ResSpinnerAdapter.kt" />
       <jump line="19" column="46" filename="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/ResSpinnerAdapter.kt" />
+      <jump line="12" column="23" filename="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/ResSpinnerAdapter.kt" />
+      <jump line="10" column="51" filename="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/IntResSpinnerAdapter.kt" />
+      <jump line="30" column="26" filename="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/SpinnerAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bGF6eSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtISEgLy8gaXRlbSBtdXN0IGFsd2F5cyBleGlzdHMK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -495,49 +514,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGF6eSA=</text>
+        <text>getValueName</text>
       </register>
       <register name="/" type="4">
         <text>values</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFic3RyYWN0IGZ1biBiaW5kVmlldyhpdGVtOiBUPywgcG9zaXRpb246IEludCwgdmlldzogVmlldykK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG5hbWVzIGJ5IGxhenkgeyBjb250ZXh0LnJlc291cmNlcy5nZXRTdHJpbmdBcnJheShuYW1lc1Jlc0lkKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVtISEgLy8gaXRlbSBtdXN0IGFsd2F5cyBleGlzdHMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG9wZW4gZnVuIGdldFZhbHVlTmFtZShpdGVtOiBUPyk6IFN0cmluZyA9IGl0ZW0udG9TdHJpbmcoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZXMgCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluaXQgewo=</text>
+        <text encoding="base64">ICAgICAqIERlZmF1bHQganVzdCBjYWxscyB0aGUgaXRlbSdzIFt0b1N0cmluZ10gZnVuY3Rpb24uCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bs/[ ]*\(.*\)\(deps.*\)/    println(&quot;\1'${\2}'&quot;)/</text>
