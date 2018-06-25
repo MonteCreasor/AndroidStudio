@@ -198,12 +198,12 @@
         <mark key="." line="30" column="91" />
         <mark key="^" line="30" column="91" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/debug/AndroidManifest.xml" timestamp="1529965747446">
+      <file name="$USER_HOME$/ccs/intake/app/src/debug/AndroidManifest.xml" timestamp="1529965887896">
         <mark key="'" line="40" column="43" />
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="29" />
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="27" />
         <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="29" />
+        <mark key="." line="40" column="27" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/AndroidManifest.xml" timestamp="1529911207356">
         <mark key="[" line="15" column="22" />
@@ -416,8 +416,8 @@
       <jump line="40" column="43" filename="$USER_HOME$/ccs/intake/app/src/debug/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppY29uPSJAZHJhd2FibGUvZGVidWdfaWNfbGF1bmNoZXIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>drawable</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -619,7 +619,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mipmap</text>
+        <text>drawable</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
