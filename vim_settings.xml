@@ -93,6 +93,12 @@
         <mark key="^" line="22" column="66" />
         <mark key="." line="18" column="54" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/ApplicationComponent.kt" timestamp="1529989886456">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/res/drawable/debug_ic_launcher.xml" timestamp="1529964462402">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="42" />
@@ -188,12 +194,6 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/prod/java/monte/apps/kiosk/App.kt" timestamp="1529982764013">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="44" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/res/layout/debug_app_stub.xml" timestamp="1529985359679">
         <mark key="^" line="0" column="0" />
       </file>
@@ -223,12 +223,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="24" column="42" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" timestamp="1529982675967">
-        <mark key="[" line="335" column="25" />
-        <mark key="]" line="335" column="33" />
-        <mark key="." line="335" column="33" />
-        <mark key="^" line="335" column="33" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/NetworkVarianceAdapter.kt" timestamp="1529886849695">
         <mark key="[" line="8" column="37" />
@@ -300,12 +294,6 @@
         <mark key="." line="175" column="5" />
         <mark key="^" line="175" column="7" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/Prefs.kt" timestamp="1529982352596">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="^" line="120" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/DrawerLayout.java" timestamp="1529900853520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -376,12 +364,6 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/DebugApp.kt" timestamp="1529982777431">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/res/drawable/xxx.xml" timestamp="1529968332240">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="9" />
@@ -444,6 +426,7 @@
       <file name="/fragment.java" timestamp="1529983414028">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/ApplicationModule.kt" timestamp="1529989876553" />
     </filemarks>
     <jumps>
       <jump line="17" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.drawerlayout/drawerlayout/1.0.0-alpha3/3091915df570eb2ff0a8e0298552cba023a9b0bc/drawerlayout-1.0.0-alpha3-sources.jar!/androidx/drawerlayout/widget/DrawerLayout.java" />
@@ -548,8 +531,8 @@
       <jump line="32" column="29" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/Injection.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Module</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -751,7 +734,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>API_ENDPOINT</text>
+        <text>Module</text>
       </register>
       <register name="/" type="4">
         <text>chain</text>
@@ -766,34 +749,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBNT0NLX1VSTCA9ICJodHRwOi8vbW9jay8iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBNT0NLX1VSTCA9ICJodHRwOi8vbW9jay8iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVybCA9IFNldHRpbmdzLmFwaUVuZHBvaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBNT0NLX1VSTCA9ICJodHRwOi8vbW9jay8iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVybCA9IFNldHRpbmdzLmFwaUVuZHBvaW50Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybCA9IENvbnN0YW50cy5BUElfRU5EUE9JTlQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVybC5pc0JsYW5rKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybCA9IENvbnN0YW50cy5BUElfRU5EUE9JTlQK</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bs/[ ]*\(.*\)\(deps.*\)/    println(&quot;\1'${\2}'&quot;)/</text>
