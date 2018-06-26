@@ -48,10 +48,6 @@
         <mark key="^" line="16" column="77" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" timestamp="1530001321791">
-        <mark key="[" line="445" column="0" />
-        <mark key="]" line="445" column="56" />
-      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/res/drawable/debug_launcher.xml" timestamp="1529957788089">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="31" />
@@ -91,12 +87,6 @@
         <mark key="]" line="7" column="69" />
         <mark key="." line="7" column="69" />
         <mark key="^" line="7" column="70" />
-      </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/KioskService.kt" timestamp="1530036815235">
-        <mark key="'" line="22" column="4" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/xml/pref_data_sync.xml" timestamp="1530040750435">
         <mark key="[" line="14" column="33" />
@@ -367,10 +357,6 @@
         <mark key="^" line="63" column="48" />
         <mark key="." line="63" column="48" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" timestamp="1529972837072">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="39" />
-      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/LoggingLevelAdapter.kt" timestamp="1529904405466">
         <mark key="[" line="30" column="89" />
         <mark key="]" line="30" column="91" />
@@ -413,6 +399,12 @@
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/debug/res/layout/settings_dialog_fragment.xml" timestamp="1530043232156">
+        <mark key="'" line="62" column="38" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/Internal.kt" timestamp="1529986814753">
         <mark key="'" line="53" column="8" />
@@ -483,7 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="38" filename="$USER_HOME$/ccs/intake/app/src/main/res/values/strings.xml" />
       <jump line="1" column="28" filename="$USER_HOME$/ccs/intake/app/src/main/res/values/strings.xml" />
       <jump line="405" column="12" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/BaseFragment.kt" />
       <jump line="6" column="15" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/BaseFragment.kt" />
@@ -583,10 +574,11 @@
       <jump line="33" column="55" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="111" column="26" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainFragment.kt" />
       <jump line="552" column="42" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
+      <jump line="62" column="38" filename="$USER_HOME$/ccs/intake/app/src/debug/res/layout/settings_dialog_fragment.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>formioUrl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvV2lkZ2V0LlNldHRpbmdzLlN3aXRjaE92ZXJsYXkiCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -791,55 +783,55 @@
         <text>formioUrl</text>
       </register>
       <register name="/" type="4">
-        <text>startSession</text>
+        <text>Overlay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHQgPSBTZXR0aW5ncy5mb3JtaW9VcmwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRleHQK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvV2lkZ2V0LlNldHRpbmdzLlN3aXRjaE92ZXJsYXkiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRUCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvV2lkZ2V0LlNldHRpbmdzLlN3aXRjaE92ZXJsYXkiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRleHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRUCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXR0aW5ncy5mb3JtaW9VcmwgPSB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHQgPSAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXR0aW5ncy5mb3JtaW9VcmwgPSB2YWx1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBKdXN0IHJlY3JlYXRlIHRoZSBzZXJ2aWNlIHNvIHRoYXQgaXQgd2lsbAogICAgICAgICAgICAgICAgICAgIC8vIGdyYWIgdGhlIGFwcHJvcHJpYXRlIG5ldyBtb2NraW5nIHNldHRpbmdzLgogICAgICAgICAgICAgICAgICAgIGlmICgpCiAgICAgICAgICAgICAgICAgICAgSW5qZWN0aW9uLmtpb3NrU2VydmljZSA9IEluamVjdGlvbi5wcm92aWRlS2lvc2tTZXJ2aWNlKCkKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bs/[ ]*\(.*\)\(deps.*\)/    println(&quot;\1'${\2}'&quot;)/</text>
       </register>
     </registers>
     <search>
-      <last-search>startSession</last-search>
+      <last-search>Overlay</last-search>
       <last-offset />
-      <last-pattern>startSession</last-pattern>
+      <last-pattern>Overlay</last-pattern>
       <last-replace encoding="base64">ICAgIHByaW50bG4oIlwxJyR7XDJ9JyIp</last-replace>
       <last-substitute>[ ]*\(.*\)\(deps.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -847,7 +839,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Picasso</entry>
         <entry>picasso</entry>
         <entry>StringU</entry>
         <entry>params</entry>
@@ -867,6 +858,7 @@
         <entry>SharedP</entry>
         <entry>Click</entry>
         <entry>startSession</entry>
+        <entry>Overlay</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/\\&quot;/</entry>
