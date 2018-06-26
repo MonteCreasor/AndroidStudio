@@ -82,16 +82,19 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/NetworkUtils.kt" timestamp="1529997526326">
+        <mark key="a" line="63" column="0" />
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="60" column="46" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="59" column="15" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/api/KioskApi.kt" timestamp="1529988688640">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="^" line="51" column="19" />
         <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/NetworkUtils.java" timestamp="1529994865478">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/IntResSpinnerAdapter.kt" timestamp="1529885165820">
         <mark key="'" line="4" column="51" />
@@ -386,12 +389,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/UserAgentProvider.kt" timestamp="1529995900080">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/UserAgentProvider.kt" timestamp="1529996005781">
         <mark key="'" line="86" column="24" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="63" column="43" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="63" column="28" />
+        <mark key="]" line="63" column="48" />
+        <mark key="^" line="63" column="48" />
+        <mark key="." line="63" column="48" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/LoggingLevelAdapter.kt" timestamp="1529904405466">
         <mark key="[" line="30" column="89" />
@@ -465,13 +468,21 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="39" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/apps/kiosk/App.kt" timestamp="1529982518757">
+        <mark key="a" line="40" column="0" />
+        <mark key="'" line="9" column="11" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="44" column="5" />
+        <mark key="." line="42" column="48" />
+        <mark key="^" line="42" column="48" />
+      </file>
       <file name="/Dummy.txt" timestamp="1529985324575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/ApplicationModule.kt" timestamp="1529995502686">
-        <mark key="[" line="134" column="27" />
-        <mark key="]" line="134" column="28" />
-        <mark key="." line="134" column="27" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/ApplicationModule.kt" timestamp="1529996220938">
+        <mark key="[" line="136" column="4" />
+        <mark key="]" line="136" column="4" />
+        <mark key="." line="136" column="4" />
         <mark key="^" line="134" column="31" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/DebugApp.kt" timestamp="1529982777431">
@@ -515,7 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="9" filename="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/BaseFragment.kt" />
       <jump line="10" column="26" filename="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/BaseFragment.kt" />
       <jump line="169" column="54" filename="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/BaseFragment.kt" />
       <jump line="245" column="4" filename="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/BaseFragment.kt" />
@@ -615,10 +625,11 @@
       <jump line="50" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/UserAgentProvider.kt" />
       <jump line="51" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/UserAgentProvider.kt" />
       <jump line="80" column="24" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/UserAgentProvider.kt" />
+      <jump line="82" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/NetworkUtils.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFQUF9OQU1FLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -820,7 +831,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.nam</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>userAgent</text>
@@ -829,40 +840,40 @@
         <text encoding="base64">ICAgIEBOYW1lZCgiQXBwbGljYXRpb25Db250ZXh0IikKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGNvbnRleHQ6IENvbnRleHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFQUF9OQU1FLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibm90LWZvdW5kIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh0ZWxlcGhvbnlNYW5hZ2VyID09IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gQW4gaW5zdGFuY2Ugb2YgdGhlIHR5cGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSA8VD4gICAgICAgICAgICAgVGhlIHR5cGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKiBAcGFyYW0gbmV0d29yawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZXJ2aWNlQ29uc3RhbnQgVGhlIG5hbWUgb2YgdGhlIHNlcnZpY2UuIFN1Y2ggYXMge0Bjb2RlIENvbnRleHQuQUxBUk1fU0VSVklDRX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKioK</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bs/[ ]*\(.*\)\(deps.*\)/    println(&quot;\1'${\2}'&quot;)/</text>
