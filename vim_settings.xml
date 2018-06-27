@@ -47,11 +47,6 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/android/samples/architecture/u2020/src/internalDebug/java/com/jakewharton/u2020/ui/debug/DebugView.java" timestamp="1530074763583">
-        <mark key="'" line="274" column="29" />
-        <mark key="[" line="572" column="0" />
-        <mark key="]" line="572" column="48" />
-      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/values/styles.xml" timestamp="1529891753278">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -151,10 +146,6 @@
         <mark key="^" line="46" column="56" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/overlay/FaceOverlay.kt" timestamp="1530073784304">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="113" />
-      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/AndroidManifest.xml" timestamp="1529999418949">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -192,6 +183,7 @@
         <mark key="." line="43" column="56" />
         <mark key="^" line="43" column="56" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/Configuration.java" timestamp="1530121271636" />
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/Settings.kt" timestamp="1530033415796">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -435,6 +427,12 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/BaseConfiguration.java" timestamp="1530121810204">
+        <mark key="[" line="33" column="68" />
+        <mark key="]" line="33" column="68" />
+        <mark key="." line="33" column="68" />
+        <mark key="^" line="33" column="68" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/ApiModule.kt" timestamp="1530071476145">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -473,17 +471,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530072238879">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/ApplicationModule.kt" timestamp="1530071423578">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
         <mark key="^" line="130" column="41" />
-      </file>
-      <file name="$USER_HOME$/android/samples/architecture/u2020/src/internalDebug/res/layout/debug_view_content.xml" timestamp="1530074208650">
-        <mark key="'" line="219" column="33" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/DebugApp.kt" timestamp="1530070792968">
         <mark key="'" line="77" column="0" />
@@ -504,6 +496,7 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="3" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/monte/tools/settings/ui/SettingsFragment.kt" timestamp="1530121176258" />
       <file name="$USER_HOME$/ccs/intake/app/src/debug/res/values/debug_strings.xml" timestamp="1529911405629">
         <mark key="[" line="3" column="39" />
         <mark key="]" line="3" column="57" />
@@ -618,7 +611,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1 - (value * (1 / 100f))</text>
+        <text>&quot;&quot;ilcs.&quot; + BASE_ENDPOINT;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -820,49 +813,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1 - (value * (1 / 100f))</text>
+        <text>&quot;&quot;ilcs.&quot; + BASE_ENDPOINT;</text>
       </register>
       <register name="/" type="4">
         <text>alpha</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRGVidWdWaWV3QmFzZUB0aGlzLmFscGhhID0gMSAtICh2YWx1ZSAqICgxIC8gMTAwZikpCg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgSklMQ1NfQ04gPSAiaWxjcy4iICsgQkFTRV9FTkRQT0lOVDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEZWJ1Z1ZpZXdCYXNlQHRoaXMuZm9yZWdyb3VuZFRpbnRMaXN0ID0gMSAtICh2YWx1ZSAqICgxIC8gMTAwZikpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEpJTENTX0NOID0gImlsY3MuIiArIEJBU0VfRU5EUE9JTlQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRHJhd2FibGVDb21wYXQuc2V0VGludChEZWJ1Z1ZpZXdCYXNlQHRoaXMuYmFja2dyb3VuZCwgMHg1NTAwMDAwMCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEZWJ1Z1ZpZXdCYXNlQHRoaXMuZm9yZWdyb3VuZFRpbnRMaXN0ID0gMSAtICh2YWx1ZSAqICgxIC8gMTAwZikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRHJhd2FibGVDb21wYXQuc2V0VGludChEZWJ1Z1ZpZXdCYXNlQHRoaXMuYmFja2dyb3VuZCwgMHg1NTAwMDAwMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOnRoZW1lPSJAc3R5bGUvU2V0dGluZ3NUaGVtZURhcmsiLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGFuZHJvaWQ6Y29sb3IvdHJhbnNwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOnRoZW1lPSJAc3R5bGUvU2V0dGluZ3NUaGVtZURhcmsiLS0+Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IiNlMjIyIi0tPgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGFuZHJvaWQ6Y29sb3IvdHJhbnNwYXJlbnQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9TZXR0aW5nc1RoZW1lRGFyayIK</text>
+        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IiNlMjIyIi0tPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YWxwaGE9Ii41Igo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9TZXR0aW5nc1RoZW1lRGFyayIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iI2UyMjIiCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YWxwaGE9Ii41Igo=</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bs/[ ]*\(.*\)\(deps.*\)/    println(&quot;\1'${\2}'&quot;)/</text>
