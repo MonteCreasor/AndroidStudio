@@ -23,8 +23,11 @@
         <mark key="." line="0" column="74" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" timestamp="1530163203828">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" timestamp="1530207839864">
+        <mark key="'" line="388" column="37" />
         <mark key="[" line="33" column="16" />
+        <mark key="]" line="33" column="16" />
+        <mark key="." line="33" column="16" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/debug/monte/tools/settings/DebugSettings.kt" timestamp="1529908336488">
         <mark key="[" line="104" column="51" />
@@ -583,11 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="5" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/DebugView.kt" />
-      <jump line="274" column="29" filename="$USER_HOME$/android/samples/architecture/u2020/src/internalDebug/java/com/jakewharton/u2020/ui/debug/DebugView.java" />
-      <jump line="44" column="8" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/AppFragment.kt" />
-      <jump line="122" column="29" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
-      <jump line="125" column="33" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
       <jump line="119" column="58" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
       <jump line="145" column="68" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
       <jump line="295" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
@@ -683,10 +681,15 @@
       <jump line="26" column="16" filename="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/model/ApiModule.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/ccs/intake/app/build/tmp/kapt3/stubs/devRelease/monte/apps/kiosk/di/modules/ApiModule.java" />
       <jump line="27" column="6" filename="$USER_HOME$/ccs/intake/app/src/release/java/monte/apps/kiosk/model/ApiModule.kt" />
+      <jump line="216" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
+      <jump line="229" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
+      <jump line="228" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
+      <jump line="382" column="35" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
+      <jump line="388" column="37" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bGVzOjEuMC4yJwo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -888,10 +891,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>Named</text>
+        <text>HideBars</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnRlc3QucnVsZS5BY3Rpdml0eVRlc3RSdWxlCg==</text>
@@ -937,9 +940,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Named</last-search>
+      <last-search>HideBars</last-search>
       <last-offset />
-      <last-pattern>Named</last-pattern>
+      <last-pattern>HideBars</last-pattern>
       <last-replace encoding="base64">ICAgIHByaW50bG4oIlwxJyR7XDJ9JyIp</last-replace>
       <last-substitute>[ ]*\(.*\)\(deps.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -947,9 +950,6 @@
     </search>
     <history>
       <history-search>
-        <entry>configureW</entry>
-        <entry>adapter</entry>
-        <entry>alpha</entry>
         <entry>inflate</entry>
         <entry>context</entry>
         <entry>!!</entry>
@@ -967,6 +967,9 @@
         <entry>setEnd</entry>
         <entry>: Inte</entry>
         <entry>Named</entry>
+        <entry>hideSystemBars</entry>
+        <entry>showSy</entry>
+        <entry>HideBars</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/\\&quot;/</entry>
