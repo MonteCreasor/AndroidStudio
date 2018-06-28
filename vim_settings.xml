@@ -23,11 +23,11 @@
         <mark key="." line="0" column="74" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" timestamp="1530207839864">
-        <mark key="'" line="388" column="37" />
-        <mark key="[" line="33" column="16" />
-        <mark key="]" line="33" column="16" />
-        <mark key="." line="33" column="16" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" timestamp="1530210015559">
+        <mark key="[" line="198" column="23" />
+        <mark key="]" line="198" column="28" />
+        <mark key="." line="198" column="28" />
+        <mark key="^" line="198" column="28" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/debug/monte/tools/settings/DebugSettings.kt" timestamp="1529908336488">
         <mark key="[" line="104" column="51" />
@@ -586,8 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="58" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
-      <jump line="145" column="68" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
       <jump line="295" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
       <jump line="339" column="27" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
       <jump line="341" column="27" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" />
@@ -686,10 +684,12 @@
       <jump line="228" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
       <jump line="382" column="35" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
       <jump line="388" column="37" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
+      <jump line="357" column="44" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
+      <jump line="173" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/FullScreenActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -891,58 +891,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>HideBars</text>
+        <text>hideS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnRlc3QucnVsZS5BY3Rpdml0eVRlc3RSdWxlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bGVzOjEuMC4yJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZmFjZWJvb2suc3RldGhvOnN0ZXRobzoxLjUuMCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHguYXJjaC5jb3JlOmNvcmUtdGVzdGluZzoyLjAuMC1hbHBoYTEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5vblNpbmdsZVRhcFVwKGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnRlc3QucnVsZS5BY3Rpdml0eVRlc3RSdWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uU2luZ2xlVGFwVXAoZTogTW90aW9uRXZlbnQ/KTogQm9vbGVhbiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnRlc3QucnVsZS5BY3Rpdml0eVRlc3RSdWxlCg==</text>
+        <text encoding="base64">ICAgIHZhciAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5jb24K</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bGVzOjAuNScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIiIpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1cmF0aW9uID0gQU5JTUFUSU9OX0RVUkFUSU9OLnRvTG9uZygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIHRocm93RXhjZXB0aW9ucyA9IHRydWUK</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bGVzOjEuMC4yJwo=</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bs/[ ]*\(.*\)\(deps.*\)/    println(&quot;\1'${\2}'&quot;)/</text>
       </register>
     </registers>
     <search>
-      <last-search>HideBars</last-search>
+      <last-search>hideS</last-search>
       <last-offset />
-      <last-pattern>HideBars</last-pattern>
+      <last-pattern>hideS</last-pattern>
       <last-replace encoding="base64">ICAgIHByaW50bG4oIlwxJyR7XDJ9JyIp</last-replace>
       <last-substitute>[ ]*\(.*\)\(deps.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -950,8 +950,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inflate</entry>
-        <entry>context</entry>
         <entry>!!</entry>
         <entry>Trans</entry>
         <entry>color</entry>
@@ -970,6 +968,8 @@
         <entry>hideSystemBars</entry>
         <entry>showSy</entry>
         <entry>HideBars</entry>
+        <entry>.toLong</entry>
+        <entry>hideS</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/\\&quot;/</entry>
