@@ -373,13 +373,13 @@
         <mark key="." line="32" column="63" />
         <mark key="^" line="32" column="63" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" timestamp="1530263233748">
-        <mark key="a" line="293" column="15" />
-        <mark key="'" line="501" column="36" />
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="^" line="294" column="37" />
-        <mark key="." line="295" column="0" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" timestamp="1530290109919">
+        <mark key="a" line="314" column="71" />
+        <mark key="'" line="313" column="0" />
+        <mark key="[" line="314" column="97" />
+        <mark key="]" line="314" column="97" />
+        <mark key="^" line="314" column="97" />
+        <mark key="." line="314" column="97" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/data/ApiEndpoint.kt" timestamp="1529906628428">
         <mark key="[" line="5" column="11" />
@@ -659,10 +659,6 @@
       <file name="$USER_HOME$/ccs/sandbox/VanillaApp/app/src/main/res/layout/activity_scrolling.xml" timestamp="1530242787667" />
     </filemarks>
     <jumps>
-      <jump line="116" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
-      <jump line="44" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
-      <jump line="46" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
-      <jump line="47" column="21" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="344" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="162" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="200" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
@@ -759,10 +755,14 @@
       <jump line="154" column="35" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="294" column="75" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="500" column="36" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
+      <jump line="461" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
+      <jump line="497" column="49" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
+      <jump line="507" column="45" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
+      <jump line="312" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -964,58 +964,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>ListPref</text>
+        <text>List</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNldHRpbmdzLlNVQk1JU1NJT05fU09VTkQgLT4gU2V0dGluZ3Muc3VibWlzc2lvblNvdW5kID0gbmV3VmFsdWUgYXMgQm9vbGVhbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgaW5kZXggPSBmaW5kSW5kZXhPZlZhbHVlKHZhbHVlLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5lZ2F0aXZlQnV0dG9uVGV4dD0iQG51bGwiCiAgICAgICAgYW5kcm9pZDpwb3NpdGl2ZUJ1dHRvblRleHQ9IkBudWxsIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgaW5kZXggPSBmaW5kSW5kZXhPZlZhbHVlKHZhbHVlLnRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0U3VtbWFyeShpZiAoaW5kZXggPj0gMCkgZW50cmllc1tpbmRleF0gZWxzZSBudWxsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChmaW5kUHJlZmVyZW5jZShTZXR0aW5ncy5TQ0FOTkVSX1NPVU5EX1BSRUYpIGFzPyBTd2l0Y2hQcmVmZXJlbmNlKT8uYXBwbHkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXRTdW1tYXJ5KGlmIChpbmRleCA+PSAwKSBlbnRyaWVzW2luZGV4XSBlbHNlIG51bGwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgaW5kZXggPSBmaW5kSW5kZXhPZlZhbHVlKHZhbHVlLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc0NoZWNrZWQgPSBTZXR0aW5ncy5zdWJtaXNzaW9uU291bmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvblByZWZlcmVuY2VDaGFuZ2VMaXN0ZW5lciA9IHRoaXNAU2V0dGluZ3NQcmVmZXJlbmNlRnJhZ21lbnQK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5lZ2F0aXZlQnV0dG9uVGV4dD0iQG51bGwiCiAgICAgICAgYW5kcm9pZDpwb3NpdGl2ZUJ1dHRvblRleHQ9IkBudWxsIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChmaW5kUHJlZmVyZW5jZShTZXR0aW5ncy5TVUJNSVNTSU9OX1NPVU5EX1BSRUYpIGFzPyBTd2l0Y2hQcmVmZXJlbmNlKT8uYXBwbHkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChmaW5kUHJlZmVyZW5jZShTZXR0aW5ncy5TQ0FOTkVSX1NPVU5EX1BSRUYpIGFzPyBTd2l0Y2hQcmVmZXJlbmNlKT8uYXBwbHkgewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc0NoZWNrZWQgPSBTZXR0aW5ncy5zdWJtaXNzaW9uU291bmQK</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bs/[ ]*\(.*\)\(deps.*\)/    println(&quot;\1'${\2}'&quot;)/</text>
       </register>
     </registers>
     <search>
-      <last-search>ListPref</last-search>
+      <last-search>List</last-search>
       <last-offset />
-      <last-pattern>ListPref</last-pattern>
+      <last-pattern>List</last-pattern>
       <last-replace encoding="base64">ICAgIHByaW50bG4oIlwxJyR7XDJ9JyIp</last-replace>
       <last-substitute>[ ]*\(.*\)\(deps.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1023,7 +1023,6 @@
     </search>
     <history>
       <history-search>
-        <entry>model\.</entry>
         <entry>onScanCom</entry>
         <entry>Settings</entry>
         <entry>header</entry>
@@ -1043,6 +1042,7 @@
         <entry>OnShared</entry>
         <entry>Click</entry>
         <entry>ListPref</entry>
+        <entry>List</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/\\&quot;/</entry>
