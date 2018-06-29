@@ -13,6 +13,9 @@
         <mark key="]" line="8" column="6" />
         <mark key="." line="8" column="6" />
       </file>
+      <file name="/a.dummy" timestamp="1530141397847">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/res/layout/debug_view.xml" timestamp="1530133610226">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="30" />
@@ -372,6 +375,9 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
+      <file name="/fragment.kt" timestamp="1530303450167">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/alerts/CheckBoxAlert.kt" timestamp="1529860053409">
         <mark key="[" line="36" column="32" />
         <mark key="]" line="36" column="32" />
@@ -522,13 +528,13 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" timestamp="1530303074760">
-        <mark key="a" line="301" column="21" />
-        <mark key="'" line="360" column="16" />
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="361" column="0" />
-        <mark key="^" line="360" column="16" />
-        <mark key="." line="361" column="0" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" timestamp="1530303864341">
+        <mark key="a" line="395" column="0" />
+        <mark key="'" line="42" column="16" />
+        <mark key="[" line="376" column="9" />
+        <mark key="]" line="377" column="7" />
+        <mark key="^" line="377" column="7" />
+        <mark key="." line="377" column="7" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainFragment.kt" timestamp="1530250579850">
         <mark key="[" line="84" column="0" />
@@ -559,13 +565,11 @@
         <mark key="^" line="3" column="57" />
         <mark key="." line="3" column="57" />
       </file>
+      <file name="/fragment.java" timestamp="1530291205663">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
-      <jump line="215" column="30" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
-      <jump line="229" column="36" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
-      <jump line="637" column="56" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
-      <jump line="643" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
       <jump line="641" column="21" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
       <jump line="134" column="50" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
       <jump line="224" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
@@ -661,10 +665,15 @@
       <jump line="152" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="125" column="52" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="360" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="348" column="25" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="380" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="425" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="426" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="42" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbHBoYShhbHBoYSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -866,58 +875,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>endColor</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>animate()</text>
+        <text>startButtonLayout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50cmFuc2xhdGlvblkob2Zmc2V0KQogICAgICAgICAgICAgICAgLmFscGhhKGFscGhhKQogICAgICAgICAgICAgICAgLnNldEludGVycG9sYXRvcihBY2NlbGVyYXRlRGVjZWxlcmF0ZUludGVycG9sYXRvcigpKQogICAgICAgICAgICAgICAgLnNldER1cmF0aW9uKEFOSU1BVElPTl9EVVJBVElPTikKICAgICAgICAgICAgICAgIC5kb09uRW5kIHsKICAgICAgICAgICAgICAgICAgICBhcHBCYXJMYXlvdXQudHJhbnNsYXRpb25ZID0gb2Zmc2V0CiAgICAgICAgICAgICAgICAgICAgYXBwQmFyTGF5b3V0LmFscGhhID0gYWxwaGEKICAgICAgICAgICAgICAgICAgICBpZiAoc2hvdyAmJiBtb2RlbC5raW9za01vZGUgJiYgcGVla1RpbWUgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHBvc3REZWxheWVkKHBlZWtUaW1lLCBoaWRlQmFyc1J1bm5hYmxlKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5zdGFydCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVmFsdWVBbmltYXRvci5vZkFyZ2Ioc3RhcnRDb2xvciwgZW5kQ29sb3IpLmFsc28geyBhbmltYXRvciAtPgogICAgICAgICAgICB3aXRoKGFuaW1hdG9yKSB7CiAgICAgICAgICAgICAgICBpbnRlcnBvbGF0b3IgPSBBY2NlbGVyYXRlRGVjZWxlcmF0ZUludGVycG9sYXRvcigpCiAgICAgICAgICAgICAgICBkdXJhdGlvbiA9IEFOSU1BVElPTl9EVVJBVElPTgogICAgICAgICAgICAgICAgYWRkVXBkYXRlTGlzdGVuZXIgewogICAgICAgICAgICAgICAgICAgIHByaW50bG4oIiR7aXQuYW5pbWF0ZWRGcmFjdGlvbn0iKQogICAgICAgICAgICAgICAgICAgIHZhbCBmcmFjdGlvbiA9IGl0LmFuaW1hdGVkRnJhY3Rpb24KICAgICAgICAgICAgICAgICAgICB2YWwgYnV0dG9uQ29sb3IgPSBDb2xvclV0aWxzLmJsZW5kQ29sb3JzKHN0YXJ0Q29sb3IsIGVuZENvbG9yLCBmcmFjdGlvbikKICAgICAgICAgICAgICAgICAgICBzdGFydEJ1dHRvbi5iYWNrZ3JvdW5kVGludExpc3QgPSBDb2xvclN0YXRlTGlzdC52YWx1ZU9mKGJ1dHRvbkNvbG9yKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZG9PbkNhbmNlbCB7CiAgICAgICAgICAgICAgICAgICAgc3RhcnRCdXR0b24uYmFja2dyb3VuZFRpbnRMaXN0ID0gQ29sb3JTdGF0ZUxpc3QudmFsdWVPZihlbmRDb2xvcikKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbHBoYShhbHBoYSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEJ1dHRvbi5yb3RhdGlvblkgPSAyMGYK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdGFydCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9EZXViRHJhd2VyTGF5b3V0Pgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbnRlLmFwcHMua2lvc2suUi5pZC5tYWluQWN0aXZpdHkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cGFja2FnZSBtb250ZS50b29scy5zZXR0aW5ncy51aQoKCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQ29udGV4dAppbXBvcnQgYW5kcm9pZC51dGlsLkF0dHJpYnV0ZVNldAppbXBvcnQgYW5kcm9pZC52aWV3Lk1vdGlvbkV2ZW50CmltcG9ydCBtb250ZS5hcHBzLmtpb3NrLlIuaWQubmF2VmlldwoKLy8gVE9ETzogQWRkIGltcG9ydCBvZiBhcHAgUiBmaWxlCgpjbGFzcyBDdXN0b21EcmF3ZXJMYXlvdXQgQEp2bU92ZXJsb2FkcyBjb25zdHJ1Y3Rvcihjb250ZXh0OiBDb250ZXh0LCBhdHRyczogQXR0cmlidXRlU2V0PyA9IG51bGwsIGRlZlN0eWxlQXR0cjogSW50ID0gMCkKICAgIDogYW5kcm9pZHguZHJhd2VybGF5b3V0LndpZGdldC5EcmF3ZXJMYXlvdXQoY29udGV4dCwgYXR0cnMsIGRlZlN0eWxlQXR0cikgewoKICAgIG92ZXJyaWRlIGZ1biBvblRvdWNoRXZlbnQoZXZlbnQ6IE1vdGlvbkV2ZW50KTogQm9vbGVhbiB7CiAgICAgICAgc3VwZXIub25Ub3VjaEV2ZW50KGV2ZW50KQoKICAgICAgICByZXR1cm4gaWYgKC8qZXZlbnQueCA+IDMwICYmICovZXZlbnQuYWN0aW9uID09IE1vdGlvbkV2ZW50LkFDVElPTl9ET1dOKSB7CiAgICAgICAgICAgIGlzRHJhd2VyT3BlbihuYXZWaWV3KSB8fCBpc0RyYXdlclZpc2libGUobmF2VmlldykKICAgICAgICB9IGVsc2UgdHJ1ZQogICAgfQp9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHN0YXJ0QnV0dG9uLmJhY2tncm91bmRUaW50TGlzdCA9IENvbG9yU3RhdGVMaXN0LnZhbHVlT2YoZW5kQ29sb3IpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbnRlLmFwcHMua2lvc2suUi5pZC5uYXZWaWV3Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZG9PbkNhbmNlbCB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluQWN0aXZpdHkub25Ub3VjaEV2ZW50KGV2ZW50KTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHN0YXJ0QnV0dG9uLmJhY2tncm91bmRUaW50TGlzdCA9IENvbG9yU3RhdGVMaXN0LnZhbHVlT2YoYnV0dG9uQ29sb3IpCg==</text>
       </register>
       <register name=":" type="4">
         <text>'a,'bs/[ ]*\(.*\)\(deps.*\)/    println(&quot;\1'${\2}'&quot;)/</text>
       </register>
     </registers>
     <search>
-      <last-search>animate()</last-search>
+      <last-search>startButtonLayout</last-search>
       <last-offset />
-      <last-pattern>animate()</last-pattern>
+      <last-pattern>startButtonLayout</last-pattern>
       <last-replace encoding="base64">ICAgIHByaW50bG4oIlwxJyR7XDJ9JyIp</last-replace>
       <last-substitute>[ ]*\(.*\)\(deps.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -925,8 +934,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setOn</entry>
-        <entry>Listenerr</entry>
         <entry>onShared</entry>
         <entry>OnShared</entry>
         <entry>Click</entry>
@@ -945,6 +952,8 @@
         <entry>TODO</entry>
         <entry>colorA</entry>
         <entry>animate()</entry>
+        <entry>colorAn</entry>
+        <entry>startButtonLayout</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/\\&quot;/</entry>
