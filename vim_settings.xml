@@ -36,12 +36,11 @@
         <mark key="^" line="242" column="51" />
         <mark key="." line="342" column="31" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" timestamp="1530322575870">
-        <mark key="'" line="215" column="47" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="^" line="108" column="34" />
-        <mark key="." line="224" column="0" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" timestamp="1530323820619">
+        <mark key="'" line="224" column="47" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/sandbox/VanillaApp/app/build.gradle" timestamp="1530242844809" />
       <file name="$USER_HOME$/ccs/intake/app/src/dev/debug/monte/tools/settings/DebugSettings.kt" timestamp="1529908336488">
@@ -380,6 +379,12 @@
         <mark key="]" line="14" column="6" />
         <mark key="." line="14" column="6" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/common/PolicyManager.kt" timestamp="1530250556954">
+        <mark key="'" line="276" column="7" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/common/PermissionFragment.kt" timestamp="1530301016570">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="36" />
@@ -689,12 +694,12 @@
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="62" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/main_fragment.xml" timestamp="1530322929937">
-        <mark key="'" line="32" column="24" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="40" />
-        <mark key="^" line="38" column="39" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/main_fragment.xml" timestamp="1530324023226">
+        <mark key="'" line="27" column="12" />
+        <mark key="[" line="19" column="73" />
+        <mark key="]" line="21" column="76" />
+        <mark key="." line="21" column="76" />
+        <mark key="^" line="21" column="76" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/ApplicationModule.kt" timestamp="1530071423578">
         <mark key="[" line="75" column="0" />
@@ -778,7 +783,6 @@
       <file name="$USER_HOME$/ccs/sandbox/VanillaApp/app/src/main/res/layout/activity_scrolling.xml" timestamp="1530317950067" />
     </filemarks>
     <jumps>
-      <jump line="425" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="426" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="42" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="373" column="26" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
@@ -878,10 +882,11 @@
       <jump line="62" column="50" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="287" column="17" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="215" column="47" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
+      <jump line="17" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/res/layout/main_fragment.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZWxldmF0aW9uPSIxNmRwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1083,58 +1088,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>text =</text>
+        <text>white</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZWxldmF0aW9uPSIxNmRwIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19sb2NrIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvaWNfbG9jayIK</text>
+        <text encoding="base64">ICAgICAqIGtpb3NrIG1vZGUgYWN0aXZlIGFuZCBpbmFjdGl2ZSBjb2xvcnMuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEJ1dHRvblRleHQudGV4dCA9ICIkZW5kQ29sb3IiCg==</text>
+        <text encoding="base64">ICAgICAqIGJldHdlZW4gYSBsb2NrIGltYWdlIGFuZCBhIFtWYWx1ZUFuaW1hdG9yXSB0aGF0IHRyYW5zaXRpb25zIGJldHdlZW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAYW5kcm9pZDpjb2xvci9ibGFjayIK</text>
+        <text encoding="base64">ICAgICAqIHdpdGggYSBncmVlbiBjb2xvciBhbmQgYW5kIGNoYW5nZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBUT0RPOiBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6c3JjQ29tcGF0PSJAYW5kcm9pZDpkcmF3YWJsZS9pY19kaWFsb2dfaW5mbyIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxpcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2FuY2hvckdyYXZpdHk9ImJvdHRvbXxlbmQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxpcEJ1dHRvbgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2FuY2hvcj0iQGlkL2NvbnRhaW5lciIK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9mYWJfbWFyZ2luIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZFRpbnQ9IkBjb2xvci9hY2NlbnQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/scannerStart/start/g</text>
       </register>
     </registers>
     <search>
-      <last-search>text =</last-search>
+      <last-search>white</last-search>
       <last-offset />
-      <last-pattern>text =</last-pattern>
+      <last-pattern>white</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>scannerStart</last-substitute>
       <last-dir>1</last-dir>
@@ -1142,7 +1147,6 @@
     </search>
     <history>
       <history-search>
-        <entry>println</entry>
         <entry>delayHide</entry>
         <entry>animator</entry>
         <entry>anima</entry>
@@ -1162,6 +1166,7 @@
         <entry>start</entry>
         <entry>setText</entry>
         <entry>text =</entry>
+        <entry>white</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/\\&quot;/g</entry>
