@@ -472,12 +472,12 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" timestamp="1530562949236">
-        <mark key="'" line="732" column="4" />
-        <mark key="[" line="212" column="68" />
-        <mark key="]" line="213" column="9" />
-        <mark key="." line="213" column="9" />
-        <mark key="^" line="213" column="9" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" timestamp="1530564556654">
+        <mark key="'" line="790" column="12" />
+        <mark key="[" line="223" column="44" />
+        <mark key="]" line="223" column="55" />
+        <mark key="." line="223" column="55" />
+        <mark key="^" line="223" column="55" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/res/values/styles.xml" timestamp="1530034485352">
         <mark key="[" line="7" column="52" />
@@ -705,14 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="24" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
-      <jump line="532" column="24" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
-      <jump line="383" column="24" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
-      <jump line="390" column="43" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
-      <jump line="409" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
-      <jump line="411" column="40" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
-      <jump line="412" column="22" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
-      <jump line="414" column="40" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="415" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="416" column="19" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="420" column="30" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
@@ -803,12 +795,20 @@
       <jump line="194" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
       <jump line="195" column="18" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
       <jump line="574" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
-      <jump line="208" column="53" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
       <jump line="730" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
+      <jump line="216" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
+      <jump line="222" column="47" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
+      <jump line="146" column="4" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
+      <jump line="208" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
+      <jump line="540" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
+      <jump line="209" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
+      <jump line="533" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
+      <jump line="552" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
+      <jump line="789" column="12" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBSeENvbXBvdW5kQnV0dG9uLgo=</text>
+      <register name="&quot;" type="4">
+        <text>SECONDS</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1010,58 +1010,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG9zdGVkZCA=</text>
+        <text>SECONDS</text>
       </register>
       <register name="/" type="4">
-        <text>Click</text>
+        <text>allowI</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgib25NYXRjaENvbXBsZXRlIGNhbGxlZCBieSAkbmFtZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwb3NhYmxlcy5hZGQoUnhWaWV3LmNsaWNrcyhmbGlwQnV0dG9uKQogICAgICAgICAgICAgICAgLmRlYm91bmNlKDUwMCwgVGltZVVuaXQuU0VDT05EUywgQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZSB7IGZsaXBDYW1lcmEoKSB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSeENvbXBvdW5kQnV0dG9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG1hdGNoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZhZGVPdXRBbmltYXRvckNvdW50ID4gMCkgewogICAgICAgICAgICAgICAgdGhyb3cgRXhjZXB0aW9uKCJXVEY/Pz8iKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGZhZGVPdXRBbmltYXRvckNvdW50KysK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWxsb3dJbnB1dCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgic2V0SW5wdXRTdGF0ZSBjYWxsZWQgYnkgJHdobyAkYWxsb3dJbnB1dCAtPiAkc3RhdGUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25TY2FuQ29tcGxldGUobnVsbCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0SW5wdXRBbGxvd2VkKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWxsb3dJbnB1dCkgewo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0SW5wdXRTdGF0ZShmYWxzZSwgIm9uU2NhbkNvbXBsZXRlIikK</text>
+        <text encoding="base64">ICAgICAgICBzZXRPbkNsaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYWxsb3dJbnB1dCA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93SW5wdXQgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25TY2FuQ29tcGxldGUobnVsbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93SW5wdXQgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWxsb3dJbnB1dCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>Click</last-search>
+      <last-search>allowI</last-search>
       <last-offset />
-      <last-pattern>Click</last-pattern>
+      <last-pattern>allowI</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>white</last-substitute>
       <last-dir>1</last-dir>
@@ -1069,26 +1069,26 @@
     </search>
     <history>
       <history-search>
-        <entry>onNavUp()</entry>
-        <entry>startButton</entry>
-        <entry>startButtonL</entry>
-        <entry>kotlinx</entry>
-        <entry>startSession</entry>
         <entry>sessionStartT</entry>
         <entry>safeRunOn</entry>
         <entry>postDel</entry>
         <entry>observer</entry>
         <entry>onStop</entry>
         <entry>remove</entry>
-        <entry>click</entry>
-        <entry>allowInput</entry>
         <entry>allowInput =</entry>
         <entry>onScanCom</entry>
         <entry>onScanC</entry>
         <entry>onMatchComplete</entry>
         <entry>onMatchC</entry>
         <entry>this is a</entry>
+        <entry>allowIn</entry>
+        <entry>allowInput</entry>
+        <entry>onClic</entry>
+        <entry>onScanComplete</entry>
         <entry>Click</entry>
+        <entry>click</entry>
+        <entry>input</entry>
+        <entry>allowI</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
