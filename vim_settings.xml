@@ -356,11 +356,12 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/main_activity.xml" timestamp="1530637776511">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/main_activity.xml" timestamp="1530638026858">
         <mark key="'" line="24" column="37" />
         <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="38" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="5" column="39" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/ResSpinnerAdapter.kt" timestamp="1529887093888">
         <mark key="'" line="15" column="23" />
@@ -686,13 +687,13 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" timestamp="1530606484338">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" timestamp="1530639062120">
         <mark key="a" line="101" column="4" />
         <mark key="'" line="146" column="16" />
-        <mark key="[" line="336" column="53" />
-        <mark key="]" line="336" column="56" />
-        <mark key="^" line="336" column="56" />
-        <mark key="." line="336" column="56" />
+        <mark key="[" line="353" column="33" />
+        <mark key="]" line="353" column="33" />
+        <mark key="^" line="349" column="38" />
+        <mark key="." line="353" column="41" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainFragment.kt" timestamp="1530566949028">
         <mark key="'" line="102" column="21" />
@@ -849,7 +850,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>fits</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1051,7 +1052,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>fits</text>
       </register>
       <register name="/" type="4">
         <text>showSystemBar</text>
@@ -1060,40 +1061,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50Vmlldy5maXRzU3lzdGVtV2luZG93cyA9IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3Q29tcGF0LnJlcXVlc3RBcHBseUluc2V0cyhjb250ZW50VmlldykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50Vmlldy5maXRzU3lzdGVtV2luZG93cyA9IHRydWUK</text>
+        <text encoding="base64">Ly8gICAgICAgIGZpdHMoUi5pZC5tYWluRnJhZ21lbnRDb25zdHJhaW50TGF5b3V0LCBmaXRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50Vmlldy5maXRzU3lzdGVtV2luZG93cyA9IGZhbHNlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGZpdHMoUi5pZC5zd2lwZVJlZnJlc2gsICFmaXRzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9hY2NlbnQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtLTxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93QmFja2dyb3VuZCI+QGNvbG9yL2NvbnRyb2xfYmFja2dyb3VuZDwvaXRlbT4K</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBmaXRzID0gIXNob3cK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS08aXRlbSBuYW1lPSJhbmRyb2lkOndpbmRvd0JhY2tncm91bmQiPkBjb2xvci9jb250ZW50X2JhY2tncm91bmQ8L2l0ZW0+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0byB0aGUgdmlldyAoc2hpZnRpbmcgaXQgZG93bndhcmQpLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnlEYXJrIj5AY29sb3IvYWxlcnQ8L2l0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZW1vdmVkIGZyb20gdGhlIHZpZXcsIGFuZCB3aGVuIGZhbHNlLCBpbnNldHMgYXJlIGFkZGVkCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS08aXRlbSBuYW1lPSJjb2xvclByaW1hcnlEYXJrIj5AY29sb3IvcHJpbWFyeURhcms8L2l0ZW0+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBOb3RlIHRoYXQgd2hlbiBmaXRzU3lzdGVtV2luZG93cyBpcyB0cnVlLCBpbnNldHMgYXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHBCYXJMYXlvdXQuZml0c1N5c3RlbVdpbmRvd3MgPSBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
