@@ -686,13 +686,13 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" timestamp="1530603762803">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" timestamp="1530606484338">
         <mark key="a" line="101" column="4" />
-        <mark key="'" line="154" column="7" />
-        <mark key="[" line="295" column="8" />
-        <mark key="]" line="295" column="15" />
-        <mark key="." line="295" column="15" />
-        <mark key="^" line="295" column="15" />
+        <mark key="'" line="146" column="16" />
+        <mark key="[" line="336" column="53" />
+        <mark key="]" line="336" column="56" />
+        <mark key="^" line="336" column="56" />
+        <mark key="." line="336" column="56" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainFragment.kt" timestamp="1530566949028">
         <mark key="'" line="102" column="21" />
@@ -746,10 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="40" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
-      <jump line="413" column="40" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
-      <jump line="107" column="41" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
-      <jump line="109" column="34" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
       <jump line="103" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
       <jump line="106" column="41" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
       <jump line="21" column="13" filename="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/java/monte/apps/fullscreen2/FullscreenActivity.kt" />
@@ -846,10 +842,14 @@
       <jump line="154" column="7" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="88" column="34" filename="$USER_HOME$/ccs/intake/app/src/main/res/layout/main_fragment.xml" />
       <jump line="11" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/res/layout/main_fragment.xml" />
+      <jump line="265" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="98" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="145" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="146" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9hY2NlbnQiCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1051,58 +1051,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>println</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>color</text>
+        <text>showSystemBar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2xlYXJzIGFsbCBsaWZlY3ljbGUgQ29tcG9zaXRlRGlzcG9zYWJsZXMuCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50Vmlldy5maXRzU3lzdGVtV2luZG93cyA9IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9hY2NlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICBWaWV3Q29tcGF0LnJlcXVlc3RBcHBseUluc2V0cyhjb250ZW50VmlldykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtLTxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93QmFja2dyb3VuZCI+QGNvbG9yL2NvbnRyb2xfYmFja2dyb3VuZDwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50Vmlldy5maXRzU3lzdGVtV2luZG93cyA9IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS08aXRlbSBuYW1lPSJhbmRyb2lkOndpbmRvd0JhY2tncm91bmQiPkBjb2xvci9jb250ZW50X2JhY2tncm91bmQ8L2l0ZW0+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50Vmlldy5maXRzU3lzdGVtV2luZG93cyA9IGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnlEYXJrIj5AY29sb3IvYWxlcnQ8L2l0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9hY2NlbnQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS08aXRlbSBuYW1lPSJjb2xvclByaW1hcnlEYXJrIj5AY29sb3IvcHJpbWFyeURhcms8L2l0ZW0+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAtLTxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93QmFja2dyb3VuZCI+QGNvbG9yL2NvbnRyb2xfYmFja2dyb3VuZDwvaXRlbT4K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8K</text>
+        <text encoding="base64">ICAgIDwhLS08aXRlbSBuYW1lPSJhbmRyb2lkOndpbmRvd0JhY2tncm91bmQiPkBjb2xvci9jb250ZW50X2JhY2tncm91bmQ8L2l0ZW0+LS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnlEYXJrIj5AY29sb3IvYWxlcnQ8L2l0ZW0+Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJGT1JNUyBGUkFHTUVOVCIK</text>
+        <text encoding="base64">ICAgIDwhLS08aXRlbSBuYW1lPSJjb2xvclByaW1hcnlEYXJrIj5AY29sb3IvcHJpbWFyeURhcms8L2l0ZW0+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0ic3RhcnR8dG9wIgo=</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8K</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>color</last-search>
+      <last-search>showSystemBar</last-search>
       <last-offset />
-      <last-pattern>color</last-pattern>
+      <last-pattern>showSystemBar</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>white</last-substitute>
       <last-dir>1</last-dir>
@@ -1110,8 +1110,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NewtorkC</entry>
-        <entry>RxNetwork</entry>
         <entry>onResume</entry>
         <entry>onResumbe</entry>
         <entry>setKiosk</entry>
@@ -1130,6 +1128,8 @@
         <entry>TODO</entry>
         <entry>back</entry>
         <entry>color</entry>
+        <entry>setKioskMode</entry>
+        <entry>showSystemBar</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
