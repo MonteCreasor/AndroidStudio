@@ -356,12 +356,13 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/main_activity.xml" timestamp="1530638026858">
+      <file name="$USER_HOME$/ccs/intake/app/src/main/res/layout/main_activity.xml" timestamp="1530639703312">
+        <mark key="a" line="27" column="44" />
         <mark key="'" line="24" column="37" />
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="39" />
-        <mark key="^" line="5" column="39" />
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="45" />
+        <mark key="." line="35" column="45" />
+        <mark key="^" line="35" column="45" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/ResSpinnerAdapter.kt" timestamp="1529887093888">
         <mark key="'" line="15" column="23" />
@@ -687,13 +688,12 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" timestamp="1530639062120">
-        <mark key="a" line="101" column="4" />
-        <mark key="'" line="146" column="16" />
-        <mark key="[" line="353" column="33" />
-        <mark key="]" line="353" column="33" />
-        <mark key="^" line="349" column="38" />
-        <mark key="." line="353" column="41" />
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" timestamp="1530640388851">
+        <mark key="a" line="364" column="11" />
+        <mark key="'" line="339" column="23" />
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="73" />
+        <mark key="." line="360" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/main/MainFragment.kt" timestamp="1530566949028">
         <mark key="'" line="102" column="21" />
@@ -747,12 +747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
-      <jump line="106" column="41" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
-      <jump line="21" column="13" filename="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/java/monte/apps/fullscreen2/FullscreenActivity.kt" />
-      <jump line="99" column="36" filename="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/java/monte/apps/fullscreen2/FullscreenActivity.kt" />
-      <jump line="100" column="23" filename="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/java/monte/apps/fullscreen2/FullscreenActivity.kt" />
-      <jump line="112" column="23" filename="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/java/monte/apps/fullscreen2/FullscreenActivity.kt" />
       <jump line="121" column="23" filename="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/java/monte/apps/fullscreen2/FullscreenActivity.kt" />
       <jump line="57" column="0" filename="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/java/monte/apps/fullscreen2/FullscreenActivity.kt" />
       <jump line="34" column="0" filename="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/java/monte/apps/fullscreen2/FullscreenActivity.kt" />
@@ -847,10 +841,16 @@
       <jump line="98" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="145" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="146" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="354" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="362" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="269" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="71" column="8" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="170" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="339" column="23" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fits</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgidmlldzogJHt2aWV3OjpjbGFzcy5qYXZhLnNpbXBsZU5hbWV9IGZpdHM6ICRhZGRJbnNldHMiKQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1052,58 +1052,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fits</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
-        <text>showSystemBar</text>
+        <text>fullscreen</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50Vmlldy5maXRzU3lzdGVtV2luZG93cyA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICBmaXRzKGFwcEJhckxheW91dCwgYWRkSW5zZXRzKQogICAgICAgIGZpdHMoY29udGVudFZpZXcsIGFkZEluc2V0cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgidmlldzogJHt2aWV3OjpjbGFzcy5qYXZhLnNpbXBsZU5hbWV9IGZpdHM6ICRhZGRJbnNldHMiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZpdHMoUi5pZC5tYWluRnJhZ21lbnRDb25zdHJhaW50TGF5b3V0LCBmaXRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBWaWV3Q29tcGF0LnJlcXVlc3RBcHBseUluc2V0cyh2aWV3KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZpdHMoUi5pZC5zd2lwZVJlZnJlc2gsICFmaXRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBmdWxsc2NyZWVuID0gc2hvdwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxzY3JlZW4gPSBzaG93Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBmaXRzID0gIXNob3cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdWxsc2NyZWVuID0gdHJ1ZQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0byB0aGUgdmlldyAoc2hpZnRpbmcgaXQgZG93bndhcmQpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdWxsc2NyZWVuID0gZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZW1vdmVkIGZyb20gdGhlIHZpZXcsIGFuZCB3aGVuIGZhbHNlLCBpbnNldHMgYXJlIGFkZGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdWxsc2NyZWVuID0gdHJ1ZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOb3RlIHRoYXQgd2hlbiBmaXRzU3lzdGVtV2luZG93cyBpcyB0cnVlLCBpbnNldHMgYXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdWxsc2NyZWVuID0gZmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHBCYXJMYXlvdXQuZml0c1N5c3RlbVdpbmRvd3MgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIHZhciBmdWxsc2NyZWVuID0gdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>showSystemBar</last-search>
+      <last-search>fullscreen</last-search>
       <last-offset />
-      <last-pattern>showSystemBar</last-pattern>
+      <last-pattern>fullscreen</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>white</last-substitute>
       <last-dir>1</last-dir>
@@ -1111,11 +1111,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onResume</entry>
-        <entry>onResumbe</entry>
-        <entry>setKiosk</entry>
-        <entry>onStart</entry>
-        <entry>obser</entry>
         <entry>observer</entry>
         <entry>model.de</entry>
         <entry>compositeDis</entry>
@@ -1131,6 +1126,11 @@
         <entry>color</entry>
         <entry>setKioskMode</entry>
         <entry>showSystemBar</entry>
+        <entry>test</entry>
+        <entry>testFab</entry>
+        <entry>setupTest</entry>
+        <entry>setupV</entry>
+        <entry>fullscreen</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
