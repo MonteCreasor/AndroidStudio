@@ -28,6 +28,14 @@
         <mark key="." line="104" column="52" />
         <mark key="^" line="104" column="52" />
       </file>
+      <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/rxCommon/LifecycleCompositeDisposable.kt" timestamp="1530600749363">
+        <mark key="a" line="18" column="18" />
+        <mark key="'" line="74" column="48" />
+        <mark key="[" line="64" column="18" />
+        <mark key="]" line="65" column="8" />
+        <mark key="." line="65" column="8" />
+        <mark key="^" line="65" column="8" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/ApplicationComponent.kt" timestamp="1529989886456">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="25" />
@@ -256,11 +264,12 @@
         <mark key="." line="114" column="55" />
         <mark key="^" line="114" column="55" />
       </file>
-      <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/DebugViewBase.kt" timestamp="1530599742749">
-        <mark key="'" line="408" column="94" />
-        <mark key="[" line="109" column="20" />
-        <mark key="]" line="109" column="20" />
-        <mark key="." line="109" column="20" />
+      <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/DebugViewBase.kt" timestamp="1530599792028">
+        <mark key="'" line="409" column="94" />
+        <mark key="[" line="109" column="31" />
+        <mark key="]" line="109" column="31" />
+        <mark key="." line="109" column="31" />
+        <mark key="^" line="109" column="31" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/Injection.kt" timestamp="1530140357735">
         <mark key="'" line="0" column="0" />
@@ -743,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="26" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="348" column="20" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="349" column="21" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="179" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
@@ -843,10 +851,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="101" column="14" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
       <jump line="100" column="17" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskActivity.kt" />
+      <jump line="76" column="48" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/rxCommon/LifecycleCompositeDisposable.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clear</text>
+        <text>j</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1048,49 +1057,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>clear</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>onDestroy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTYWZlIHRvIGRpc3Bvc2UgaW5zdGVhZCBvZiBqdXN0IGNsZWFyLgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNsZWFyKGV2ZW50OiBMaWZlY3ljbGUuRXZlbnQpIHsKICAgICAgICBtYXBbZXZlbnRdPy5jbGVhcigpCiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBKdXN0IGNsZWFyCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwb3NhYmxlTWFwW2V2ZW50XSA9IG11dGFibGVMaXN0T2YoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3Bvc2FibGVzID0gQ29tcG9zaXRlRGlzcG9zYWJsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAoZXZlbnQpZGRrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3Bvc2FibGVzID0gQ29tcG9zaXRlRGlzcG9zYWJsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwb3NhYmxlTWFwW2V2ZW50XSA9IG11dGFibGVMaXN0T2YoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3Bvc2FibGVzID0gQ29tcG9zaXRlRGlzcG9zYWJsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwb3NhYmxlID0gQ29tcG9zaXRlRGlzcG9zYWJsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmRpc3Bvc2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpdC5pc0Rpc3Bvc2VkKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vblN0b3AoKQo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmZvckVhY2ggewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb3NpdGVEaXNwb3NhYmxlLmNsZWFyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
