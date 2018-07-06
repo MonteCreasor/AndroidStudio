@@ -109,10 +109,10 @@
         <mark key="^" line="27" column="65" />
         <mark key="." line="27" column="65" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/alerts/DeviceIdAlert.kt" timestamp="1530838188797">
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/alerts/DeviceIdAlert.kt" timestamp="1530849577385">
+        <mark key="[" line="72" column="44" />
+        <mark key="]" line="72" column="44" />
+        <mark key="." line="72" column="44" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/adapters/AppFragmentOld.kt" timestamp="1530075529947">
         <mark key="[" line="13" column="0" />
@@ -382,6 +382,11 @@
         <mark key="]" line="17" column="32" />
         <mark key="^" line="17" column="6" />
         <mark key="." line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" timestamp="1530849508521">
+        <mark key="[" line="788" column="57" />
+        <mark key="]" line="788" column="57" />
+        <mark key="." line="788" column="57" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/res/values/strings.xml" timestamp="1530786160480">
         <mark key="[" line="179" column="62" />
@@ -828,9 +833,6 @@
         <mark key="^" line="51" column="29" />
         <mark key="." line="51" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1530821839040">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="75" column="16" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
@@ -936,7 +938,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>s</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1138,7 +1140,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>@file</text>
@@ -1191,7 +1193,7 @@
       <last-offset />
       <last-pattern>@file</last-pattern>
       <last-replace>start</last-replace>
-      <last-substitute>white</last-substitute>
+      <last-substitute>@file</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
