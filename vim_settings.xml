@@ -152,9 +152,6 @@
         <mark key="." line="63" column="11" />
         <mark key="^" line="63" column="11" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/build.gradle" timestamp="1530900023182">
-        <mark key="'" line="102" column="4" />
-      </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/alerts/DeviceIdAlert.kt" timestamp="1530849577385">
         <mark key="[" line="72" column="44" />
         <mark key="]" line="72" column="44" />
@@ -326,13 +323,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugApp.kt" timestamp="1531192513051">
-        <mark key="'" line="2" column="18" />
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="50" />
-        <mark key="." line="20" column="50" />
-        <mark key="^" line="20" column="50" />
-      </file>
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugApp.kt" timestamp="1531251914988" />
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/alerts/Preconditions.kt" timestamp="1530854256577">
         <mark key="[" line="64" column="54" />
         <mark key="]" line="64" column="54" />
@@ -542,6 +533,12 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/HttpClientModule.kt" timestamp="1531252412355">
+        <mark key="'" line="149" column="15" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/common/NavBar.kt" timestamp="1530854552612">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -747,6 +744,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/Categories.kt" timestamp="1531252468636">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/Prefs.kt" timestamp="1529868032738">
         <mark key="[" line="150" column="25" />
@@ -1032,14 +1035,11 @@
         <mark key="^" line="51" column="29" />
         <mark key="." line="51" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1531189420494">
+      <file name="/fragment.java" timestamp="1531252339770">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="548" column="31" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
-      <jump line="549" column="32" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
-      <jump line="550" column="31" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="551" column="32" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="552" column="34" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="573" column="42" filename="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
@@ -1137,10 +1137,13 @@
       <jump line="81" column="4" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugApp.kt" />
       <jump line="9" column="18" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugApp.kt" />
       <jump line="10" column="29" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugApiComponent.kt" />
+      <jump line="145" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/HttpClientModule.kt" />
+      <jump line="148" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/HttpClientModule.kt" />
+      <jump line="149" column="15" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/HttpClientModule.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1345,55 +1348,55 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwoXD4=</text>
+        <text>ApiEndp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QENvbXBvbmVudChtb2R1bGVzID0gWyhBcHBNb2R1bGU6OmNsYXNzKSwgKERlYnVnQXBpTW9kdWxlOjpjbGFzcyldKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biBpbmplY3QoZGVidWdWaWV3QmFzZTogRGVidWdWaWV3QmFzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9AQ29tcG9uZW50KG1vZHVsZXMgPSBbKEFwcE1vZHVsZTo6Y2xhc3MpLCAoRGVidWdBcGlNb2R1bGU6OmNsYXNzKV0pCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Z0FwcENvbXBvbmVudC4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gS2lvc2tTZXJ2aWNlKHJldHJvZml0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IGtrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9AQ29tcG9uZW50KG1vZHVsZXMgPSBbKEFwcE1vZHVsZTo6Y2xhc3MpLCAoRGVidWdBcGlNb2R1bGU6OmNsYXNzKV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRDb252ZXJ0ZXJGYWN0b3J5KGdzb25Db252ZXJ0ZXIpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRDYWxsQWRhcHRlckZhY3RvcnkoUnhKYXZhMkNhbGxBZGFwdGVyRmFjdG9yeS5jcmVhdGUoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jbGllbnQob2tIdHRwQ2xpZW50KQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2V0dGluZ3MuYXBpRW5kcG9pbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5iYXNlVXJsKGFwaUVuZHBvaW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBwcm92aWRlQXBpRW5kcG9pbnQoKTogU3RyaW5nIHsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmV0cm9maXQgPSBSZXRyb2ZpdC5CdWlsZGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwoXD4=</last-search>
+      <last-search>ApiEndp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
+      <last-pattern>ApiEndp</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>Animat</last-substitute>
       <last-dir>1</last-dir>
@@ -1401,7 +1404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>yyyy</entry>
         <entry>date</entry>
         <entry>Token</entry>
         <entry>AES</entry>
@@ -1421,6 +1423,7 @@
         <entry>deviceS</entry>
         <entry>Animat</entry>
         <entry encoding="base64">XDwoXD4=</entry>
+        <entry>ApiEndp</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
