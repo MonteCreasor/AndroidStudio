@@ -13,7 +13,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/apps/kiosk/DebugAppComponent.kt" timestamp="1531186172861">
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/apps/kiosk/DebugAppComponent.kt" timestamp="1531188319709">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -887,14 +887,6 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/ui/DebugViewBase.kt" timestamp="1530889439631">
-        <mark key="a" line="225" column="8" />
-        <mark key="'" line="55" column="47" />
-        <mark key="[" line="270" column="9" />
-        <mark key="]" line="271" column="7" />
-        <mark key="." line="271" column="7" />
-        <mark key="^" line="271" column="7" />
-      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/injection/modules/ApplicationModule.kt" timestamp="1530071423578">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -1001,6 +993,11 @@
         <mark key="]" line="64" column="42" />
         <mark key="." line="65" column="30" />
       </file>
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugApiComponent.kt" timestamp="1531189462966">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/res/values/debug_strings.xml" timestamp="1529911405629">
         <mark key="[" line="3" column="39" />
         <mark key="]" line="3" column="57" />
@@ -1027,7 +1024,7 @@
         <mark key="^" line="51" column="29" />
         <mark key="." line="51" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1531168731647">
+      <file name="/fragment.java" timestamp="1531189420494">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -1135,7 +1132,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9AQ29tcG9uZW50KG1vZHVsZXMgPSBbKEFwcE1vZHVsZTo6Y2xhc3MpLCAoRGVidWdBcGlNb2R1bGU6OmNsYXNzKV0pCg==</text>
+        <text encoding="base64">ICAgIGZ1biBpbmplY3QoZGVidWdWaWV3QmFzZTogRGVidWdWaWV3QmFzZSkK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1337,7 +1334,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1346,40 +1343,40 @@
         <text encoding="base64">QENvbXBvbmVudChtb2R1bGVzID0gWyhBcHBNb2R1bGU6OmNsYXNzKSwgKERlYnVnQXBpTW9kdWxlOjpjbGFzcyldKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9AQ29tcG9uZW50KG1vZHVsZXMgPSBbKEFwcE1vZHVsZTo6Y2xhc3MpLCAoRGVidWdBcGlNb2R1bGU6OmNsYXNzKV0pCg==</text>
+        <text encoding="base64">ICAgIGZ1biBpbmplY3QoZGVidWdWaWV3QmFzZTogRGVidWdWaWV3QmFzZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Z0FwcENvbXBvbmVudC4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IGtrCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Ly9AQ29tcG9uZW50KG1vZHVsZXMgPSBbKEFwcE1vZHVsZTo6Y2xhc3MpLCAoRGVidWdBcGlNb2R1bGU6OmNsYXNzKV0pCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Z0FwcENvbXBvbmVudC4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IGtrCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9AQ29tcG9uZW50KG1vZHVsZXMgPSBbKEFwcE1vZHVsZTo6Y2xhc3MpLCAoRGVidWdBcGlNb2R1bGU6OmNsYXNzKV0pCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2V0dGluZ3MuYXBpRW5kcG9pbnQK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBwcm92aWRlQXBpRW5kcG9pbnQoKTogU3RyaW5nIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2V0dGluZ3MuYXBpRW5kcG9pbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBOYW1lZCgiQXBpRW5kcG9pbnQiKQo=</text>
+        <text encoding="base64">ICAgIGZ1biBwcm92aWRlQXBpRW5kcG9pbnQoKTogU3RyaW5nIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
