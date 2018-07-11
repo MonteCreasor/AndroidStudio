@@ -460,12 +460,12 @@
         <mark key="." line="355" column="37" />
         <mark key="^" line="355" column="37" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugHttpClientModule.kt" timestamp="1531264646198">
-        <mark key="'" line="51" column="37" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="18" column="24" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugHttpClientModule.kt" timestamp="1531267484614">
+        <mark key="'" line="28" column="37" />
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="^" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/ui/adapters/NetworkVarianceAdapter.kt" timestamp="1530889153018">
         <mark key="[" line="7" column="0" />
@@ -1091,7 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="49" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/release/java/monte/apps/kiosk/model/ApiModule.kt" />
       <jump line="40" column="73" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/release/java/monte/apps/kiosk/model/ApiModule.kt" />
       <jump line="41" column="95" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/release/java/monte/apps/kiosk/model/ApiModule.kt" />
       <jump line="42" column="46" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/release/java/monte/apps/kiosk/model/ApiModule.kt" />
@@ -1191,6 +1190,7 @@
       <jump line="16" column="38" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/BaseApp.kt" />
       <jump line="107" column="4" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/HttpClientModule.kt" />
       <jump line="51" column="37" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugHttpClientModule.kt" />
+      <jump line="28" column="37" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugHttpClientModule.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1399,7 +1399,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>End</text>
+        <text>R</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CkBRdWFsaWZpZXIKYW5ub3RhdGlvbiBjbGFzcyBJbnB1dE1ldGhvZE1hbmFnZXIK</text>
@@ -1445,9 +1445,9 @@
       </register>
     </registers>
     <search>
-      <last-search>End</last-search>
+      <last-search>R</last-search>
       <last-offset />
-      <last-pattern>End</last-pattern>
+      <last-pattern>R</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>Animat</last-substitute>
       <last-dir>1</last-dir>
@@ -1455,7 +1455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Owner</entry>
         <entry>isReally</entry>
         <entry>@file</entry>
         <entry>Facto</entry>
@@ -1475,6 +1474,7 @@
         <entry>getS</entry>
         <entry encoding="base64">XDxlaGF2aW9ySW50ZXJjZXB0b3JcPg==</entry>
         <entry>End</entry>
+        <entry>R</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Delay/Variance</entry>
