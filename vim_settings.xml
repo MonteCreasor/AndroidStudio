@@ -65,7 +65,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531446188737">
+      <file name="/Dummy.txt" timestamp="1531452460289">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -150,12 +150,12 @@
         <mark key="]" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/HttpClientModule.kt" timestamp="1531437564702">
-        <mark key="'" line="107" column="4" />
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="0" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/HttpClientModule.kt" timestamp="1531452711675">
+        <mark key="'" line="27" column="2" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="2" />
+        <mark key="." line="26" column="2" />
+        <mark key="^" line="26" column="2" />
       </file>
       <file name="$USER_HOME$/ccs/samples/android-dagger-overrides/gradle/wrapper/gradle-wrapper.properties" timestamp="1530899937278">
         <mark key="[" line="5" column="69" />
@@ -188,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="54" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/apps/kiosk/model/ApiModule.kt" />
       <jump line="108" column="40" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/apps/kiosk/model/ApiModule.kt" />
       <jump line="98" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/apps/kiosk/model/ApiModule.kt" />
       <jump line="68" column="4" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/release/java/monte/apps/kiosk/model/ApiModule.kt" />
@@ -288,10 +287,11 @@
       <jump line="102" column="4" filename="$USER_HOME$/ccs/ccs-intake-app/app/build.gradle" />
       <jump line="19" column="3" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/di/UserAgentProvider.kt" />
       <jump line="100" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/di/UserAgentProvider.kt" />
+      <jump line="27" column="2" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/HttpClientModule.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="g" type="4">
         <keys>
@@ -493,7 +493,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>timber.log.Timber</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>timber</text>
@@ -538,7 +538,7 @@
         <text encoding="base64">ICAgIDwhLS0gUGVybWlzc2lvbnMgcmVxdWlyZWQgdG8gZW5hYmxlIFdJRkkgKGFsc28gbmVlZHMgQUNDRVNTX0NPVVJTRV9MT0NBVElPTikgLS0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>set vb</text>
       </register>
     </registers>
     <search>
@@ -574,17 +574,6 @@
         <entry>timber</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Delay/Variance</entry>
-        <entry>%s/&quot;$/&quot;,/g</entry>
-        <entry>'a,'bs%/imp/hello/</entry>
-        <entry>'a,'bs/imp/xxx/g</entry>
-        <entry>'a,'bs/deps.*$/${\0}/</entry>
-        <entry>'a,'bs/\(^[ ]*\)\(.*\)/\1println(&quot;\2&quot;)/</entry>
-        <entry>'a,'bs/\$/'/</entry>
-        <entry>'a,'bs/\$/'$/</entry>
-        <entry>'a,'bs/&quot;)/'&quot;)/</entry>
-        <entry>'a,'bs/'/\\'/</entry>
-        <entry>'a,'bs/'/\\'/g</entry>
         <entry>'a,'bs/\\//g</entry>
         <entry>w</entry>
         <entry>'a,'bs/[ ]*\(.*\)\(deps.*\)/    println(&quot;\1'${\2}'&quot;)/</entry>
@@ -594,6 +583,17 @@
         <entry>set ic</entry>
         <entry>w DebugHttpClientModule</entry>
         <entry>q!</entry>
+        <entry>noeb</entry>
+        <entry>no eb</entry>
+        <entry>set noeb</entry>
+        <entry encoding="base64">c2V0IA==</entry>
+        <entry>set</entry>
+        <entry>set all</entry>
+        <entry>set errorbells</entry>
+        <entry>set xyz</entry>
+        <entry>set eb?</entry>
+        <entry>set noerrorbells</entry>
+        <entry>set vb</entry>
       </history-cmd>
       <history-expr />
       <history-input />
