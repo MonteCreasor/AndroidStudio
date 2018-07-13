@@ -40,6 +40,13 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugHttpClientModule.kt" timestamp="1531504790750">
+        <mark key="'" line="26" column="43" />
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+        <mark key="^" line="28" column="16" />
+      </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugApiModule.kt" timestamp="1531270031615">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -150,7 +157,7 @@
         <mark key="]" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/HttpClientModule.kt" timestamp="1531454942480">
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/HttpClientModule.kt" timestamp="1531504268656">
         <mark key="'" line="27" column="2" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="11" />
@@ -162,12 +169,12 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/ApiModule.kt" timestamp="1531500604761">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="15" column="7" />
-        <mark key="^" line="15" column="15" />
-        <mark key="." line="15" column="7" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/ApiModule.kt" timestamp="1531503630741">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+        <mark key="." line="36" column="25" />
       </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/logging/TimberReleaseTree.kt" timestamp="1531435184316">
         <mark key="[" line="6" column="0" />
@@ -294,7 +301,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(includes = [HttpClientModule::class])</text>
+        <text>service class.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -496,13 +503,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(includes = [HttpClientModule::class])</text>
+        <text>service class.</text>
       </register>
       <register name="/" type="4">
         <text>timber</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBXaWZpTWFuYWdlciB3aWZpTWFuYWdlciA9IChXaWZpTWFuYWdlcikgY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuV0lGSV9TRVJWSUNFKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ0NTIEFQSSBzZXJ2aWNlIGNsYXNzLgogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBBcGlLZXkK</text>
