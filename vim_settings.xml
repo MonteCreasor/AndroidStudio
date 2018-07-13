@@ -191,6 +191,9 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
+      <file name="$USER_HOME$/tools/android/sdk/platforms/android-28/android.jar!/android/view/View.class" timestamp="1531513272296">
+        <mark key="'" line="2872" column="57" />
+      </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/di/UserAgentProvider.kt" timestamp="1531446235132">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="55" column="24" />
@@ -1056,6 +1059,9 @@
         <mark key="^" line="115" column="18" />
         <mark key="." line="115" column="18" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.0.0-beta01/4f9fa3ac3e96855fea5a3f155eec4a86b6364f5c/appcompat-1.0.0-beta01-sources.jar!/androidx/appcompat/app/AppCompatActivity.java" timestamp="1531513118791">
+        <mark key="'" line="139" column="32" />
+      </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/ui/DebugViewBase.kt" timestamp="1531509837929">
         <mark key="'" line="84" column="4" />
         <mark key="[" line="99" column="17" />
@@ -1149,14 +1155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" />
-      <jump line="376" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" />
-      <jump line="32" column="47" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" />
-      <jump line="36" column="49" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" />
-      <jump line="63" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" />
-      <jump line="383" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" />
-      <jump line="375" column="52" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" />
-      <jump line="373" column="41" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" />
       <jump line="342" column="36" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" />
       <jump line="321" column="33" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" />
       <jump line="64" column="30" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/ui/NonConsumingScrimInsetsFrameLayout.kt" />
@@ -1249,6 +1247,14 @@
       <jump line="83" column="82" filename="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" />
       <jump line="91" column="45" filename="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" />
       <jump line="43" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" />
+      <jump line="138" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.0.0-beta01/4f9fa3ac3e96855fea5a3f155eec4a86b6364f5c/appcompat-1.0.0-beta01-sources.jar!/androidx/appcompat/app/AppCompatActivity.java" />
+      <jump line="139" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.0.0-beta01/4f9fa3ac3e96855fea5a3f155eec4a86b6364f5c/appcompat-1.0.0-beta01-sources.jar!/androidx/appcompat/app/AppCompatActivity.java" />
+      <jump line="35" column="42" filename="$USER_HOME$/tools/android/sdk/platforms/android-28/android.jar!/android/view/View.class" />
+      <jump line="2995" column="23" filename="$USER_HOME$/tools/android/sdk/platforms/android-28/android.jar!/android/view/View.class" />
+      <jump line="2996" column="18" filename="$USER_HOME$/tools/android/sdk/platforms/android-28/android.jar!/android/view/View.class" />
+      <jump line="1018" column="27" filename="$USER_HOME$/tools/android/sdk/platforms/android-28/android.jar!/android/view/View.class" />
+      <jump line="2868" column="54" filename="$USER_HOME$/tools/android/sdk/platforms/android-28/android.jar!/android/view/View.class" />
+      <jump line="2872" column="57" filename="$USER_HOME$/tools/android/sdk/platforms/android-28/android.jar!/android/view/View.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1457,7 +1463,7 @@
         <text>first time</text>
       </register>
       <register name="/" type="4">
-        <text>kotlinx</text>
+        <text>Unhandled</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb3JvdXRpbmVzX2NvcmU6ICJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWNvcmU6JHZlcnNpb25zLmNvcm91dGluZXMiCg==</text>
@@ -1503,9 +1509,9 @@
       </register>
     </registers>
     <search>
-      <last-search>kotlinx</last-search>
+      <last-search>Unhandled</last-search>
       <last-offset />
-      <last-pattern>kotlinx</last-pattern>
+      <last-pattern>Unhandled</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1513,8 +1519,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwoXD4=</entry>
-        <entry>ApiEndp</entry>
         <entry>Named</entry>
         <entry>@Named</entry>
         <entry>getS</entry>
@@ -1533,6 +1537,8 @@
         <entry>coroutines</entry>
         <entry>koltinx</entry>
         <entry>kotlinx</entry>
+        <entry>View</entry>
+        <entry>Unhandled</entry>
       </history-search>
       <history-cmd>
         <entry>'a,'bs/\\//g</entry>
