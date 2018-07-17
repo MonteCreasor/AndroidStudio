@@ -78,6 +78,9 @@
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
       </file>
+      <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" timestamp="1531853854240">
+        <mark key="'" line="42" column="20" />
+      </file>
       <file name="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/res/layout/fragment_blank.xml" timestamp="1530585447487">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -356,7 +359,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="7" column="56" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1531759128344" />
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/StringResSpinnerAdapter.kt" timestamp="1529885178332">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -664,7 +666,6 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1531759128344" />
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/DebugSettings.kt" timestamp="1530325599563">
         <mark key="'" line="158" column="0" />
         <mark key="[" line="100" column="6" />
@@ -1068,8 +1069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/ApiModule.kt" />
-      <jump line="138" column="23" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/AppModule.kt" />
       <jump line="88" column="19" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/AppModule.kt" />
       <jump line="94" column="15" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/AppModule.kt" />
       <jump line="100" column="23" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/AppModule.kt" />
@@ -1168,6 +1167,8 @@
       <jump line="57" column="3" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugDataModule.kt" />
       <jump line="28" column="6" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugDataModule.kt" />
       <jump line="19" column="17" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/DataModule.kt" />
+      <jump line="37" column="13" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
+      <jump line="42" column="20" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1376,7 +1377,7 @@
         <text>class</text>
       </register>
       <register name="/" type="4">
-        <text>HttpUrl</text>
+        <text>Gson</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWw6bWF0ZXJpYWw6MS4wLjAtYmV0YTAxJwo=</text>
@@ -1422,9 +1423,9 @@
       </register>
     </registers>
     <search>
-      <last-search>HttpUrl</last-search>
+      <last-search>Gson</last-search>
       <last-offset />
-      <last-pattern>HttpUrl</last-pattern>
+      <last-pattern>Gson</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1432,7 +1433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>coroutines</entry>
         <entry>koltinx</entry>
         <entry>kotlinx</entry>
         <entry>View</entry>
@@ -1452,6 +1452,7 @@
         <entry>@Inject</entry>
         <entry>provideEnd</entry>
         <entry>HttpUrl</entry>
+        <entry>Gson</entry>
       </history-search>
       <history-cmd>
         <entry>noeb</entry>
