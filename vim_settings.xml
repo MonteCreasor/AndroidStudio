@@ -176,8 +176,8 @@
         <mark key="^" line="27" column="65" />
         <mark key="." line="27" column="65" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" timestamp="1531935532601">
-        <mark key="'" line="72" column="4" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" timestamp="1531936641755">
+        <mark key="'" line="77" column="37" />
         <mark key="[" line="349" column="0" />
         <mark key="]" line="349" column="0" />
         <mark key="^" line="348" column="7" />
@@ -707,6 +707,9 @@
         <mark key="." line="40" column="23" />
         <mark key="^" line="40" column="23" />
       </file>
+      <file name="/fragment.kt" timestamp="1531936533421">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/http/AccountService.java" timestamp="1531889704514">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -1159,7 +1162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="4" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
       <jump line="125" column="4" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/scanner/ScannerFragment.kt" />
       <jump line="48" column="6" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="73" column="4" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
@@ -1259,6 +1261,7 @@
       <jump line="383" column="22" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="396" column="15" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="441" column="27" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
+      <jump line="77" column="37" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1467,7 +1470,7 @@
         <text>snapshots</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>hideProgressRunn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoQnVpbGRDb25maWcuVkVSU0lPTl9DT0RFIDwgQnVpbGQuVkVSU0lPTl9DT0RFUy5NKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgTGVnYWN5QXBpS2V5UHJvdmlkZXIoYWNjb3VudE1hbmFnZXIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgQWNjb3VudE1hbmFnZXJBcGlLZXlQcm92aWRlcihhY2NvdW50TWFuYWdlcik7CiAgICAgICAgfQo=</text>
@@ -1513,9 +1516,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>hideProgressRunn</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>hideProgressRunn</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1523,7 +1526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>provideEnd</entry>
         <entry>HttpUrl</entry>
         <entry>Gson</entry>
         <entry>validateP</entry>
@@ -1543,6 +1545,7 @@
         <entry>Bitmap</entry>
         <entry>Snapshot</entry>
         <entry>delete</entry>
+        <entry>hideProgressRunn</entry>
       </history-search>
       <history-cmd>
         <entry>no eb</entry>
