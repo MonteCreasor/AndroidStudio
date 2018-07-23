@@ -933,6 +933,13 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
+      <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" timestamp="1532365687963">
+        <mark key="'" line="45" column="97" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="131" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/AppFragment.kt" timestamp="1530076603799">
         <mark key="'" line="126" column="40" />
         <mark key="[" line="18" column="11" />
@@ -1194,11 +1201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="52" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/authenticator/ApiKeyProvider.java" />
-      <jump line="339" column="20" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/LoginActivity.java" />
-      <jump line="50" column="60" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/LoginActivity.java" />
-      <jump line="95" column="20" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/LoginActivity.java" />
-      <jump line="68" column="20" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/authenticator/ApiKeyProvider.java" />
       <jump line="29" column="8" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/authenticator/LegacyAccountAuthenticator.kt" />
       <jump line="142" column="45" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
       <jump line="47" column="12" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
@@ -1294,10 +1296,15 @@
       <jump line="117" column="19" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
       <jump line="3" column="14" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
+      <jump line="19" column="16" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
+      <jump line="33" column="71" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
+      <jump line="2" column="44" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
+      <jump line="6" column="114" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
+      <jump line="34" column="97" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFrMl9uS1VBM1FrZExScGVycGY0WE90UGZnOE1wWWtvNy92aWV3P3VzcD1zaGFyaW5nIgo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1499,58 +1506,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>toast</text>
+        <text>www</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluU2RrVmVyc2lvbiAyMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBzdHlsZT0iY29sb3I6IzhkOGQ4ZDtmb250LXNpemU6MTJweCI+PHAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luOjAiPjxhIGhyZWY9InRlbDo2MTMtMzg0LTI2MjkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iY29sb3I6IzhkOGQ4ZDt0ZXh0LWRlY29yYXRpb246bm9uZTtmb250LWZhbWlseTpzYW5zLXNlcmlmIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiPlNob3A6IDYxMy0zODQtMjYyOTwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbnRlLmFwcHMua2lvc2suY29tbW9uLm9hc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFrMl9uS1VBM1FrZExScGVycGY0WE90UGZnOE1wWWtvNy92aWV3P3VzcD1zaGFyaW5nIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWxsYmFjaz8ub25FbnRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogVGhlIGFwcGxpY2F0aW9uIG1hZGUgdG8gYmUgZWFzaWx5IGFjY2Vzc2libGUgYXMgYSBzaW5nbGV0b24uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXNhZmVyZWRpcmVjdHVybD0iaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS91cmw/cT1odHRwczovL3d3dy53aXNlc3RhbXAuY29tL3NpZ25hdHVyZS1pbi1lbWFpbD91dG1fc291cmNlJTNEcHJvbW90aW9uJTI2dXRtX21lZGl1bSUzRHNpZ25hdHVyZSUyNnV0bV9jYW1wYWlnbiUzRGNyZWF0ZV95b3VyX293biZhbXA7c291cmNlPWdtYWlsJmFtcDt1c3Q9MTUzMjQ0ODM0MDU4NTAwMCZhbXA7dXNnPUFGUWpDTkU1anplX0ltVjFLeXA1UXhvTEZwSHMybTcxNmciPkNyZWF0ZSB5b3VyIG93biA8c3BhbiBzdHlsZT0iY29sb3I6I2E1MDMxMCI+ZW1haWwgc2lnbmF0dXJlPC9zcGFuPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iY29sb3I6IzAwMDt0ZXh0LWRlY29yYXRpb246bm9uZSIgdGFyZ2V0PSJfYmxhbmsiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL3d3dy53aXNlc3RhbXAuY29tL3NpZ25hdHVyZS1pbi1lbWFpbD91dG1fc291cmNlPXByb21vdGlvbiZhbXA7dXRtX21lZGl1bT1zaWduYXR1cmUmYW1wO3V0bV9jYW1wYWlnbj1jcmVhdGVfeW91cl9vd24iCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBTZXQgaW4gb25SZXN1bWUoKSBzbyBhbHdheXMgdW5zZXQgaGVyZSBldmVuIGlmIHRoZQogICAgICAgIC8vIG9uUmVzdW1lKCkgb2NjdXJyZWQgZHVyaW5nIGEgcG9zdCBvcGVyYXRpb24uCiAgICAgICAgbG9hZGluZyA9IGZhbHNl</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1fLTg5NzE4OTMwODI1MzY0MzY3MHRleHQiIHN0eWxlPSJwYWRkaW5nLXRvcDoycHgiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>toast</last-search>
+      <last-search>www</last-search>
       <last-offset />
-      <last-pattern>toast</last-pattern>
+      <last-pattern>www</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1558,10 +1565,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ApiKeyProvider</entry>
-        <entry>AccountServiceProvider</entry>
-        <entry>Bitmap</entry>
-        <entry>Snapshot</entry>
         <entry>delete</entry>
         <entry>hideProgressRunn</entry>
         <entry>model\.</entry>
@@ -1578,6 +1581,10 @@
         <entry>onResume</entry>
         <entry>allow</entry>
         <entry>toast</entry>
+        <entry>create</entry>
+        <entry>html</entry>
+        <entry>in_sig</entry>
+        <entry>www</entry>
       </history-search>
       <history-cmd>
         <entry>no eb</entry>
