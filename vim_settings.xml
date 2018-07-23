@@ -933,12 +933,12 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" timestamp="1532365687963">
-        <mark key="'" line="45" column="97" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" timestamp="1532366584169">
+        <mark key="'" line="20" column="118" />
+        <mark key="[" line="20" column="110" />
+        <mark key="]" line="20" column="110" />
         <mark key="^" line="18" column="131" />
-        <mark key="." line="19" column="0" />
+        <mark key="." line="20" column="110" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/AppFragment.kt" timestamp="1530076603799">
         <mark key="'" line="126" column="40" />
@@ -1201,9 +1201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="8" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/authenticator/LegacyAccountAuthenticator.kt" />
-      <jump line="142" column="45" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
-      <jump line="47" column="12" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
       <jump line="2" column="24" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
       <jump line="12" column="10" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/authenticator/LegacyApiKeyProvider.kt" />
       <jump line="52" column="0" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/components/ApplicationComponent.java" />
@@ -1301,10 +1298,13 @@
       <jump line="2" column="44" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
       <jump line="6" column="114" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
       <jump line="34" column="97" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
+      <jump line="26" column="45" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
+      <jump line="18" column="118" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
+      <jump line="20" column="118" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFrMl9uS1VBM1FrZExScGVycGY0WE90UGZnOE1wWWtvNy92aWV3P3VzcD1zaGFyaW5nIgo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1506,10 +1506,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>www</text>
+        <text>CToWUd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBzdHlsZT0iY29sb3I6IzhkOGQ4ZDtmb250LXNpemU6MTJweCI+PHAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luOjAiPjxhIGhyZWY9InRlbDo2MTMtMzg0LTI2MjkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iY29sb3I6IzhkOGQ4ZDt0ZXh0LWRlY29yYXRpb246bm9uZTtmb250LWZhbWlseTpzYW5zLXNlcmlmIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiPlNob3A6IDYxMy0zODQtMjYyOTwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
@@ -1555,9 +1555,9 @@
       </register>
     </registers>
     <search>
-      <last-search>www</last-search>
+      <last-search>CToWUd</last-search>
       <last-offset />
-      <last-pattern>www</last-pattern>
+      <last-pattern>CToWUd</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1565,7 +1565,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>hideProgressRunn</entry>
         <entry>model\.</entry>
         <entry>hideProgressRun</entry>
@@ -1585,6 +1584,7 @@
         <entry>html</entry>
         <entry>in_sig</entry>
         <entry>www</entry>
+        <entry>CToWUd</entry>
       </history-search>
       <history-cmd>
         <entry>no eb</entry>
