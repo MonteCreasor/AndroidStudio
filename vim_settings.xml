@@ -571,12 +571,12 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="73" column="4" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" timestamp="1532455986346">
-        <mark key="'" line="375" column="41" />
-        <mark key="[" line="543" column="28" />
-        <mark key="]" line="544" column="40" />
-        <mark key="." line="544" column="40" />
-        <mark key="^" line="544" column="40" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" timestamp="1532456946879">
+        <mark key="'" line="278" column="4" />
+        <mark key="[" line="375" column="16" />
+        <mark key="]" line="375" column="17" />
+        <mark key="." line="375" column="17" />
+        <mark key="^" line="375" column="17" />
       </file>
       <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/build.gradle" timestamp="1532199270680">
         <mark key="[" line="18" column="16" />
@@ -1209,8 +1209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="48" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
-      <jump line="20" column="54" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
       <jump line="108" column="18" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
       <jump line="48" column="0" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/components/ApplicationComponent.java" />
       <jump line="71" column="21" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/authenticator/AccountAuthenticator.java" />
@@ -1309,10 +1307,12 @@
       <jump line="276" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="373" column="16" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="375" column="41" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
+      <jump line="168" column="45" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
+      <jump line="278" column="4" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJodHRwczovL3d3dy5kcm9wYm94LmNvbS9zL3Ntem43ZnQzc3JqdjdreC9zaWduYXR1cmUucG5nP2RsPTAiCg==</text>
+      <register name="&quot;" type="4">
+        <text>mutableMapOf</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1514,10 +1514,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>mutableMapOf</text>
       </register>
       <register name="/" type="4">
-        <text>snapshot</text>
+        <text>snapshots</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PGltZyBzcmM9Imh0dHBzOi8vd3d3LmRyb3Bib3guY29tL3Mvc216bjdmdDNzcmp2N2t4L3NpZ25hdHVyZS5wbmc/ZGw9MCIvPgo=</text>
@@ -1563,9 +1563,9 @@
       </register>
     </registers>
     <search>
-      <last-search>snapshot</last-search>
+      <last-search>snapshots</last-search>
       <last-offset />
-      <last-pattern>snapshot</last-pattern>
+      <last-pattern>snapshots</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1573,7 +1573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showInputS</entry>
         <entry>LOADING</entry>
         <entry>LOADED</entry>
         <entry>loaded</entry>
@@ -1593,6 +1592,7 @@
         <entry>before</entry>
         <entry>concurrent</entry>
         <entry>snapshot</entry>
+        <entry>snapshots</entry>
       </history-search>
       <history-cmd>
         <entry>no eb</entry>
