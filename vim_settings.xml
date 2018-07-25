@@ -677,11 +677,14 @@
         <mark key="^" line="27" column="65" />
         <mark key="." line="27" column="65" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" timestamp="1532458565922">
-        <mark key="'" line="65" column="19" />
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="0" />
-        <mark key="." line="345" column="0" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" timestamp="1532481810973">
+        <mark key="a" line="279" column="5" />
+        <mark key="s" line="266" column="20" />
+        <mark key="'" line="261" column="7" />
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="531" column="28" />
+        <mark key="^" line="531" column="28" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/adapters/AppFragmentOld.kt" timestamp="1530075529947">
         <mark key="[" line="13" column="0" />
@@ -1208,9 +1211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="81" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
-      <jump line="300" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
-      <jump line="309" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="346" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="367" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="371" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
@@ -1308,10 +1308,13 @@
       <jump line="60" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/assets/form.js" />
       <jump line="21" column="22" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/assets/form.js" />
       <jump line="18" column="9" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/assets/form.js" />
+      <jump line="142" column="6" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
+      <jump line="160" column="51" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
+      <jump line="261" column="7" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKCJhZGRTbmFwc2hvdDogcmVsZWFzaW5nIHNuYXBzaG90U2VtYXBob3JlIikK</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBMb2FkcyBhIGZvcm0gaW50byB0byBob3N0aW5nIHdlYiBwYWdlLgogICAgICovCiAgICBwcml2YXRlIGZ1biBsb2FkRm9ybSgpIHsKICAgICAgICBhbGxvd0lucHV0ID0gZmFsc2UKCiAgICAgICAgaWYgKG1vZGVsLmFuc3dlcnMuaXNCbGFuaygpKSB7CiAgICAgICAgICAgIHdlYlZpZXc/LmV2YWx1YXRlSmF2YXNjcmlwdCgiamF2YXNjcmlwdDpsb2FkRm9ybSgnJHtmb3JtLnVybH0nKTsiKSB7IH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB3ZWJWaWV3Py5ldmFsdWF0ZUphdmFzY3JpcHQoImphdmFzY3JpcHQ6cmVsb2FkRm9ybSgnJHtmb3JtLnVybH0nLCAnJHttb2RlbC5hbnN3ZXJzfScpOyIpIHsgfQogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1516,10 +1519,10 @@
         <text>addSnapshot</text>
       </register>
       <register name="/" type="4">
-        <text>Css</text>
+        <text>load</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKCJhZGRTbmFwc2hvdDogcmVsZWFzaW5nIHNuYXBzaG90U2VtYXBob3JlIikK</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBMb2FkcyBhIGZvcm0gaW50byB0byBob3N0aW5nIHdlYiBwYWdlLgogICAgICovCiAgICBwcml2YXRlIGZ1biBsb2FkRm9ybSgpIHsKICAgICAgICBhbGxvd0lucHV0ID0gZmFsc2UKCiAgICAgICAgaWYgKG1vZGVsLmFuc3dlcnMuaXNCbGFuaygpKSB7CiAgICAgICAgICAgIHdlYlZpZXc/LmV2YWx1YXRlSmF2YXNjcmlwdCgiamF2YXNjcmlwdDpsb2FkRm9ybSgnJHtmb3JtLnVybH0nKTsiKSB7IH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB3ZWJWaWV3Py5ldmFsdWF0ZUphdmFzY3JpcHQoImphdmFzY3JpcHQ6cmVsb2FkRm9ybSgnJHtmb3JtLnVybH0nLCAnJHttb2RlbC5hbnN3ZXJzfScpOyIpIHsgfQogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
@@ -1562,9 +1565,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Css</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern>Css</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1572,7 +1575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>in_sig</entry>
         <entry>www</entry>
         <entry>CToWUd</entry>
         <entry>submit ca</entry>
@@ -1592,6 +1594,7 @@
         <entry>css</entry>
         <entry>loadCss</entry>
         <entry>Css</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
         <entry>no eb</entry>
