@@ -39,7 +39,6 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1532475971055" />
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" timestamp="1530853264420">
         <mark key="'" line="347" column="33" />
         <mark key="[" line="13" column="0" />
@@ -532,7 +531,7 @@
         <mark key="." line="351" column="3" />
         <mark key="^" line="351" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532553688522">
+      <file name="/Dummy.txt" timestamp="1532561565437">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="132" />
         <mark key="." line="0" column="132" />
@@ -626,12 +625,13 @@
         <mark key="." line="104" column="52" />
         <mark key="^" line="104" column="52" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" timestamp="1530854116945">
-        <mark key="'" line="113" column="52" />
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="361" column="0" />
-        <mark key="^" line="153" column="29" />
-        <mark key="." line="361" column="0" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" timestamp="1532561551629">
+        <mark key="a" line="90" column="28" />
+        <mark key="'" line="513" column="28" />
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="36" column="23" />
+        <mark key="." line="36" column="24" />
       </file>
       <file name="$USER_HOME$/apps/trailers/app/src/main/java/monte/apps/trailers/BaseApp.kt" timestamp="1531971070049">
         <mark key="[" line="23" column="0" />
@@ -1234,11 +1234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="7" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
-      <jump line="124" column="35" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
-      <jump line="2768" column="2" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/res/raw/yeshiva_latest" />
-      <jump line="117" column="19" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
       <jump line="3" column="14" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
       <jump line="19" column="16" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
@@ -1334,10 +1329,15 @@
       <jump line="55" column="46" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="420" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="460" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
+      <jump line="90" column="28" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" />
+      <jump line="35" column="15" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" />
+      <jump line="36" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" />
+      <jump line="51" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" />
+      <jump line="513" column="28" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB0aW1lID0gKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnRUaW1lKSAvIDEwMDBMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiU3VibWl0IGNvbXBsZXRlZCBub3JtYWxseSAoZWxhcHNlZCB0aW1lOiAkdGltZSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1539,10 +1539,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>submit(</text>
+        <text>context</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB0aW1lID0gKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnRUaW1lKSAvIDEwMDBMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiU3VibWl0IGNvbXBsZXRlZCBub3JtYWxseSAoZWxhcHNlZCB0aW1lOiAkdGltZSIpCg==</text>
@@ -1588,9 +1588,9 @@
       </register>
     </registers>
     <search>
-      <last-search>submit(</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>submit(</last-pattern>
+      <last-pattern>context</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1598,7 +1598,6 @@
     </search>
     <history>
       <history-search>
-        <entry>submitSn</entry>
         <entry>Semap</entry>
         <entry>form.css</entry>
         <entry>css</entry>
@@ -1618,6 +1617,7 @@
         <entry>showProgressV</entry>
         <entry>hidePro</entry>
         <entry>submit(</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd>
         <entry>no eb</entry>
