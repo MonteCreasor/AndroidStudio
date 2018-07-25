@@ -589,12 +589,9 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="73" column="4" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" timestamp="1532553245234">
-        <mark key="'" line="364" column="9" />
-        <mark key="[" line="364" column="9" />
-        <mark key="]" line="364" column="11" />
-        <mark key="." line="364" column="11" />
-        <mark key="^" line="364" column="11" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" timestamp="1532560482192">
+        <mark key="'" line="460" column="12" />
+        <mark key="^" line="518" column="72" />
       </file>
       <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/build.gradle" timestamp="1532199270680">
         <mark key="[" line="18" column="16" />
@@ -1237,9 +1234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
-      <jump line="63" column="31" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
-      <jump line="85" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
       <jump line="107" column="7" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
       <jump line="124" column="35" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
       <jump line="0" column="0" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/injection/modules/ApiModule.java" />
@@ -1337,10 +1331,13 @@
       <jump line="503" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="515" column="16" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="519" column="16" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
+      <jump line="55" column="46" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
+      <jump line="420" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
+      <jump line="460" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB0aW1lID0gKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnRUaW1lKSAvIDEwMDBMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiU3VibWl0IGNvbXBsZXRlZCBub3JtYWxseSAoZWxhcHNlZCB0aW1lOiAkdGltZSIpCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1542,13 +1539,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>hidePro</text>
+        <text>submit(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0YXRlID0gYWN0aXZpdHlNYW5hZ2VyLmxvY2tUYXNrTW9kZVN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB0aW1lID0gKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnRUaW1lKSAvIDEwMDBMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiU3VibWl0IGNvbXBsZXRlZCBub3JtYWxseSAoZWxhcHNlZCB0aW1lOiAkdGltZSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
@@ -1591,9 +1588,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hidePro</last-search>
+      <last-search>submit(</last-search>
       <last-offset />
-      <last-pattern>hidePro</last-pattern>
+      <last-pattern>submit(</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1601,7 +1598,6 @@
     </search>
     <history>
       <history-search>
-        <entry>submit</entry>
         <entry>submitSn</entry>
         <entry>Semap</entry>
         <entry>form.css</entry>
@@ -1621,6 +1617,7 @@
         <entry>hideProgressRunnable</entry>
         <entry>showProgressV</entry>
         <entry>hidePro</entry>
+        <entry>submit(</entry>
       </history-search>
       <history-cmd>
         <entry>no eb</entry>
