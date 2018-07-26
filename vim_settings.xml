@@ -39,6 +39,7 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1532569960792" />
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/res/layout/debug_view.xml" timestamp="1530853264420">
         <mark key="'" line="347" column="33" />
         <mark key="[" line="13" column="0" />
@@ -372,7 +373,6 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="37" column="11" />
       </file>
-      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1532475971055" />
       <file name="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/res/values/styles.xml" timestamp="1530251042664">
         <mark key="[" line="14" column="47" />
         <mark key="]" line="14" column="47" />
@@ -625,13 +625,13 @@
         <mark key="." line="104" column="52" />
         <mark key="^" line="104" column="52" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" timestamp="1532561551629">
-        <mark key="a" line="90" column="28" />
-        <mark key="'" line="513" column="28" />
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="24" />
-        <mark key="^" line="36" column="23" />
-        <mark key="." line="36" column="24" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" timestamp="1532570046047">
+        <mark key="a" line="93" column="28" />
+        <mark key="'" line="513" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="79" column="28" />
+        <mark key="." line="79" column="28" />
+        <mark key="^" line="79" column="28" />
       </file>
       <file name="$USER_HOME$/apps/trailers/app/src/main/java/monte/apps/trailers/BaseApp.kt" timestamp="1531971070049">
         <mark key="[" line="23" column="0" />
@@ -713,7 +713,6 @@
         <mark key="^" line="0" column="137" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.0.0-beta01/a9b4353a67cfebb94c36605deac8c2b10ce4596f/lifecycle-livedata-core-2.0.0-beta01-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1532537253394" />
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/IntResSpinnerAdapter.kt" timestamp="1529885165820">
         <mark key="'" line="4" column="51" />
         <mark key="[" line="7" column="69" />
@@ -821,7 +820,6 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/7c4445a9e74b30d72c2dc78165a3b68ec26c800c/retrofit2-rxjava2-adapter-1.0.0-sources.jar!/com/jakewharton/retrofit2/adapter/rxjava2/CallObservable.java" timestamp="1532536796304" />
       <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/http/RequestInterceptor.java" timestamp="1531889058618">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="20" />
@@ -1234,7 +1232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="14" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/common/AllowInputFrameLayout.kt" />
       <jump line="19" column="16" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
       <jump line="33" column="71" filename="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/signature.html" />
@@ -1334,10 +1331,11 @@
       <jump line="36" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" />
       <jump line="51" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" />
       <jump line="513" column="28" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" />
+      <jump line="510" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHJvdGF0ZUJ5ID0gMAoK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1548,40 +1546,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB0aW1lID0gKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnRUaW1lKSAvIDEwMDBMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiU3VibWl0IGNvbXBsZXRlZCBub3JtYWxseSAoZWxhcHNlZCB0aW1lOiAkdGltZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHJvdGF0ZUJ5ID0gMAoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gSW4gZGVidWcgbW9kZSwgY29uc2lkZXIgcGlubmluZyBhbmQgZGV2aWNlIG93bmVyIGxvY2sgdG8gYmUgdGhlIHNhbWUgdGhpbmcuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxvY2tlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSW4gZGVidWcgbW9kZSwgY29uc2lkZXIgcGlubmluZyBhbmQgZGV2aWNlIG93bmVyIGxvY2sgdG8gYmUgdGhlIHNhbWUgdGhpbmcuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0YXRlID0gYWN0aXZpdHlNYW5hZ2VyLmxvY2tUYXNrTW9kZVN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxvY2tlZAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0YXRlID0gYWN0aXZpdHlNYW5hZ2VyLmxvY2tUYXNrTW9kZVN0YXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoImxvYWRGb3JtKCkgY2FsbGluZyBqYXZhc2NyaXB0OmxvYWRDc3MoKSIpCiAgICAgICAgICAgIHdlYlZpZXc/LmV2YWx1YXRlSmF2YXNjcmlwdCgiamF2YXNjcmlwdDpsb2FkQ2NzKCcke2Njc1VybH0nKTsiKSB7IH0K</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2FkQ2NzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoImxvYWRGb3JtKCkgY2FsbGluZyBqYXZhc2NyaXB0OmxvYWRDc3MoKSIpCiAgICAgICAgICAgIHdlYlZpZXc/LmV2YWx1YXRlSmF2YXNjcmlwdCgiamF2YXNjcmlwdDpsb2FkQ2NzKCcke2Njc1VybH0nKTsiKSB7IH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
