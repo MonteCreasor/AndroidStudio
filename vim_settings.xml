@@ -708,10 +708,10 @@
         <mark key="^" line="27" column="65" />
         <mark key="." line="27" column="65" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" timestamp="1532625861617">
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" timestamp="1532627524718">
         <mark key="a" line="284" column="5" />
         <mark key="s" line="271" column="20" />
-        <mark key="'" line="524" column="16" />
+        <mark key="'" line="546" column="20" />
         <mark key="[" line="292" column="64" />
         <mark key="]" line="292" column="64" />
         <mark key="^" line="79" column="68" />
@@ -1247,8 +1247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="32" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/assets/form.js" />
-      <jump line="8" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/assets/form.js" />
       <jump line="471" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="67" column="41" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
       <jump line="381" column="23" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
@@ -1347,6 +1345,8 @@
       <jump line="80" column="44" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/Settings.kt" />
       <jump line="240" column="42" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="288" column="25" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
+      <jump line="458" column="4" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
+      <jump line="546" column="20" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1555,7 +1555,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>ccs</text>
+        <text>loadForm()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3NzVXJsLnRvU3RyaW5nKCkK</text>
@@ -1601,9 +1601,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ccs</last-search>
+      <last-search>loadForm()</last-search>
       <last-offset />
-      <last-pattern>ccs</last-pattern>
+      <last-pattern>loadForm()</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1611,7 +1611,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Css</entry>
         <entry>load</entry>
         <entry>loadCcs</entry>
         <entry>loadForm</entry>
@@ -1631,6 +1630,7 @@
         <entry>Url</entry>
         <entry>CCS</entry>
         <entry>ccs</entry>
+        <entry>loadForm()</entry>
       </history-search>
       <history-cmd>
         <entry>set noeb</entry>
