@@ -88,7 +88,7 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/res/xml/pref_data_sync.xml" timestamp="1532572713550">
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/res/xml/pref_data_sync.xml" timestamp="1532624577151">
         <mark key="a" line="9" column="22" />
         <mark key="[" line="23" column="41" />
         <mark key="]" line="23" column="41" />
@@ -182,7 +182,7 @@
         <mark key="^" line="9" column="79" />
         <mark key="." line="9" column="79" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/Settings.kt" timestamp="1532576735404">
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/Settings.kt" timestamp="1532624543449">
         <mark key="'" line="80" column="44" />
         <mark key="[" line="79" column="9" />
         <mark key="]" line="79" column="8" />
@@ -947,13 +947,13 @@
         <mark key="^" line="137" column="24" />
         <mark key="." line="137" column="24" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" timestamp="1532576798496">
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" timestamp="1532625082185">
         <mark key="a" line="231" column="55" />
         <mark key="'" line="288" column="25" />
-        <mark key="[" line="296" column="0" />
-        <mark key="]" line="296" column="53" />
-        <mark key="^" line="240" column="53" />
-        <mark key="." line="296" column="38" />
+        <mark key="[" line="242" column="32" />
+        <mark key="]" line="242" column="32" />
+        <mark key="^" line="241" column="82" />
+        <mark key="." line="242" column="34" />
       </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/ApiModule.kt" timestamp="1531614307003">
         <mark key="'" line="43" column="4" />
@@ -1349,8 +1349,8 @@
       <jump line="288" column="25" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3NzVXJsLnRvU3RyaW5nKCkK</text>
+      <register name="&quot;" type="4">
+        <text>apiEndpoint</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1552,7 +1552,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>API_ENDPOINT</text>
+        <text>apiEndpoint</text>
       </register>
       <register name="/" type="4">
         <text>ccs</text>
