@@ -721,13 +721,13 @@
         <mark key="^" line="27" column="65" />
         <mark key="." line="27" column="65" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" timestamp="1532711820994">
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" timestamp="1532713989688">
         <mark key="s" line="283" column="20" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="^" line="33" column="6" />
-        <mark key="." line="195" column="0" />
+        <mark key="'" line="295" column="8" />
+        <mark key="[" line="319" column="67" />
+        <mark key="]" line="319" column="70" />
+        <mark key="." line="319" column="70" />
+        <mark key="^" line="319" column="70" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/adapters/AppFragmentOld.kt" timestamp="1530075529947">
         <mark key="[" line="13" column="0" />
@@ -1255,8 +1255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" />
-      <jump line="74" column="45" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/res/values/settings.xml" />
       <jump line="377" column="20" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="46" column="19" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="280" column="30" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
@@ -1355,10 +1353,12 @@
       <jump line="253" column="5" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="581" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
+      <jump line="468" column="4" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
+      <jump line="295" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>Css</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1560,37 +1560,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>Css</text>
       </register>
       <register name="/" type="4">
-        <text>fun submit</text>
+        <text>safe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Ym1pdHRpbmcgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKCJsb2FkRm9ybSgpIHJldHVybmVkIGZyb20gamF2YXNjcmlwdDo6bG9hZENzcygnJGNzc1VybCcpIGNhbGwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXJkVmlldy5pc1Zpc2libGUgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5pc05vdEJsYW5rKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNldElkbGVUaW1lcigpCgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0KCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1599,19 +1599,19 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOb3RoaW5nIHRvIGRvIGlmIHBhc3NlZCBKU09OIHN0cmluZyBpcyBlbXB0eQogICAgICAgIGlmIChkYXRhLmlzQmxhbmsoKSkgewogICAgICAgICAgICByZXR1cm4KICAgICAgICB9CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXJkVmlldy5pc1Zpc2libGUgPSBmYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZXQgYSBmbGFnIHRoYXQgdG8gcHJldmVudCBhbnkgcHJvY2Vzc2luZyBvZiBzcHVyaW91cyBjYWxscwogICAgICAgIC8vIChzcGVjaWZpY2FsbHkgY2hhbmdlZCgpIGNhbGwpIGZyb20gdGhlIGphdmFzY3JpcHQgZHVyaW5nIGEKICAgICAgICAvLyBzdWJtaXNzaW9uIG9wZXJhdGlvbi5gCiAgICAgICAgc3VibWl0dGluZyA9IHRydWUKCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>fun submit</last-search>
+      <last-search>safe</last-search>
       <last-offset />
-      <last-pattern>fun submit</last-pattern>
+      <last-pattern>safe</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1619,8 +1619,6 @@
     </search>
     <history>
       <history-search>
-        <entry>runOn</entry>
-        <entry>safe</entry>
         <entry>safeRun</entry>
         <entry>log</entry>
         <entry>ViewClient</entry>
@@ -1639,6 +1637,8 @@
         <entry>submitting</entry>
         <entry>model.state ==</entry>
         <entry>fun submit</entry>
+        <entry encoding="base64">dGhyb3cg</entry>
+        <entry>safe</entry>
       </history-search>
       <history-cmd>
         <entry>set noeb</entry>
