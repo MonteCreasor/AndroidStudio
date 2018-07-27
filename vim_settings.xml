@@ -721,13 +721,13 @@
         <mark key="^" line="27" column="65" />
         <mark key="." line="27" column="65" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" timestamp="1532714844639">
-        <mark key="s" line="283" column="20" />
-        <mark key="'" line="295" column="8" />
-        <mark key="[" line="494" column="15" />
-        <mark key="]" line="494" column="15" />
-        <mark key="." line="494" column="15" />
-        <mark key="^" line="494" column="15" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" timestamp="1532716523473">
+        <mark key="s" line="286" column="20" />
+        <mark key="'" line="351" column="13" />
+        <mark key="[" line="55" column="68" />
+        <mark key="]" line="55" column="68" />
+        <mark key="." line="55" column="68" />
+        <mark key="^" line="55" column="67" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/adapters/AppFragmentOld.kt" timestamp="1530075529947">
         <mark key="[" line="13" column="0" />
@@ -1014,7 +1014,7 @@
         <mark key="^" line="9" column="44" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1532628136685">
+      <file name="/fragment.kt" timestamp="1532715427145">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/http/AccountService.java" timestamp="1531889704514">
@@ -1255,10 +1255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="377" column="20" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
-      <jump line="46" column="19" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
-      <jump line="280" column="30" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
-      <jump line="43" column="15" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/Settings.kt" />
       <jump line="48" column="31" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/Settings.kt" />
       <jump line="80" column="44" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/Settings.kt" />
       <jump line="240" column="42" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
@@ -1355,10 +1351,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="468" column="4" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="295" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
+      <jump line="310" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
+      <jump line="528" column="49" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
+      <jump line="56" column="31" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
+      <jump line="351" column="13" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">dG8g</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1560,13 +1560,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">dG8g</text>
       </register>
       <register name="/" type="4">
-        <text>safe</text>
+        <text>debugging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKCJsb2FkRm9ybSgpIHJldHVybmVkIGZyb20gamF2YXNjcmlwdDo6bG9hZENzcygnJGNzc1VybCcpIGNhbGwiKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -1609,9 +1609,9 @@
       </register>
     </registers>
     <search>
-      <last-search>safe</last-search>
+      <last-search>debugging</last-search>
       <last-offset />
-      <last-pattern>safe</last-pattern>
+      <last-pattern>debugging</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1619,7 +1619,6 @@
     </search>
     <history>
       <history-search>
-        <entry>safeRun</entry>
         <entry>log</entry>
         <entry>ViewClient</entry>
         <entry>loadCcs</entry>
@@ -1639,6 +1638,7 @@
         <entry>fun submit</entry>
         <entry encoding="base64">dGhyb3cg</entry>
         <entry>safe</entry>
+        <entry>debugging</entry>
       </history-search>
       <history-cmd>
         <entry>set noeb</entry>
