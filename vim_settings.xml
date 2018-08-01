@@ -151,6 +151,9 @@
         <mark key="." line="55" column="68" />
         <mark key="^" line="55" column="67" />
       </file>
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/build.gradle" timestamp="1533166279891">
+        <mark key="'" line="96" column="34" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/ui/adapters/AppFragmentOld.kt" timestamp="1530075529947">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -316,7 +319,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="7" column="56" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1532650868999" />
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/StringResSpinnerAdapter.kt" timestamp="1529885178332">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -463,6 +465,12 @@
         <mark key="^" line="137" column="24" />
         <mark key="." line="137" column="24" />
       </file>
+      <file name="$USER_HOME$/client/vanderbilt/image-crawler/app/build.gradle" timestamp="1533166703470">
+        <mark key="[" line="80" column="61" />
+        <mark key="]" line="80" column="74" />
+        <mark key="." line="80" column="74" />
+        <mark key="^" line="80" column="74" />
+      </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" timestamp="1532819709673">
         <mark key="a" line="243" column="55" />
         <mark key="'" line="136" column="23" />
@@ -541,7 +549,6 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1532650868999" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.widget/multislider/1.3/783ba5d8cd73e829ff38c9b35d35f4599f8938a5/multislider-1.3-sources.jar!/io/apptik/widget/MultiSlider.java" timestamp="1532650868999" />
       <file name="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/res/values/styles.xml" timestamp="1530251042664">
         <mark key="[" line="14" column="47" />
@@ -792,10 +799,18 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" timestamp="1532896698488">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
+      <file name="$USER_HOME$/client/vanderbilt/image-crawler/build.gradle" timestamp="1533166591435">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" timestamp="1533166347211">
+        <mark key="a" line="14" column="23" />
+        <mark key="'" line="28" column="5" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="70" />
+        <mark key="." line="20" column="37" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/res/drawable/xxx.xml" timestamp="1529968332240">
         <mark key="[" line="7" column="10" />
@@ -890,9 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
-      <jump line="209" column="39" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
-      <jump line="54" column="17" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="130" column="35" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="132" column="29" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
       <jump line="53" column="16" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/FormFragment.kt" />
@@ -990,10 +1002,13 @@
       <jump line="302" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/MainViewModel.kt" />
       <jump line="124" column="23" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" />
       <jump line="47" column="15" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/ui/DebugViewBase.kt" />
+      <jump line="28" column="5" filename="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" />
+      <jump line="93" column="12" filename="$USER_HOME$/ccs/ccs-intake-app/app/build.gradle" />
+      <jump line="96" column="34" filename="$USER_HOME$/ccs/ccs-intake-app/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>X</text>
+        <text>kotlin_version</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1195,58 +1210,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>X</text>
+        <text>kotlin_version</text>
       </register>
       <register name="/" type="4">
-        <text>fun on</text>
+        <text>anko</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9jZXNzUGhvZW5peC50cmlnZ2VyUmViaXJ0aChjb250ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb2RlICAgICAgIDogdmVyc2lvbk1ham9yICogMTAwMDAgKyB2ZXJzaW9uTWlub3IgKiAxMDAgKyB2ZXJzaW9uUGF0Y2gsCiAgICAgICAgbmFtZSAgICAgICA6ICIke3ZlcnNpb25NYWpvcn0uJHt2ZXJzaW9uTWlub3J9LiR7dmVyc2lvblBhdGNofSIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGtvdGxpbl92ZXJzaW9uID0gJzEuMi41MScKICAgICAgICBhbmtvX3ZlcnNpb24gPSAnMC4xMC41JwogICAgICAgIHN1cHBvcnRfdmVyc2lvbiA9ICcyNi4xLjAnCiAgICAgICAgYXJjaF9jb21wb25lbnRzID0gJzEuMC4wJwogICAgICAgIGNvbnN0cmFpbnRfbGF5b3V0ID0gJzEuMC4yJwogICAgICAgIHBpY2Fzc28gPSAnMi41LjInCiAgICAgICAgZ2xpZGUgPSAnNC4xLjEnCiAgICAgICAgZ3NvbiA9ICcyLjguMCcKICAgICAgICBqdW5pdCA9ICc0LjEyJwogICAgICAgIGVzcHJlc3NvID0gJzMuMC4xJwogICAgICAgIGFubm90YXRpb25zX3ZlcnNpb24gPSAnMTUuMCcKICAgICAgICBjb21tb25zX2lvID0gJzIuNScKICAgICAgICBqc291cF92ZXJzaW9uID0gJzEuMTAuMycKICAgICAgICBsZWFrX2NhbmFyeSA9ICcxLjUuNCcKICAgICAgICBjb3JvdXRpbmVzX3ZlcnNpb24gPSAnMC4xNScKICAgICAgICByeGphdmFfdmVyc2lvbiA9ICcyLjEuNicKICAgICAgICByeGFuZHJvaWRfdmVyc2lvbiA9ICcyLjAuMScKICAgICAgICByeGJpbmRpbmdfdmVyc2lvbiA9ICcyLjAuMCc=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGhlb25peAo=</text>
+        <text encoding="base64">ICAgIGNvZGUgICAgICAgOiB2ZXJzaW9uTWFqb3IgKiAxMDAwMCArIHZlcnNpb25NaW5vciAqIDEwMCArIHZlcnNpb25QYXRjaCwKICAgIG5hbWUgICAgICAgOiAiJHt2ZXJzaW9uTWFqb3J9LiR7dmVyc2lvbk1pbm9yfS4ke3ZlcnNpb25QYXRjaH0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9jZXNzUGhvZW5peC50cmlnZ2VyUmViaXJ0aChjb250ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb2RlICAgICAgIDogdmVyc2lvbk1ham9yICogMTAwMDAgKyB2ZXJzaW9uTWlub3IgKiAxMDAgKyB2ZXJzaW9uUGF0Y2gsCiAgICAgICAgbmFtZSAgICAgICA6ICIke3ZlcnNpb25NYWpvcn0uJHt2ZXJzaW9uTWlub3J9LiR7dmVyc2lvblBhdGNofSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGhlb25peAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9jZXNzUGhvZW5peC50cmlnZ2VyUmViaXJ0aChjb250ZXh0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKiBEZWZhdWx0IGN1c3RvbSBVUkwgaXMgaHR0cDovLzM1LjE2OC4yMi4yOC9DQ1MuS2lvc2svYXBpL3N1cnZleS8gKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwczovL3d3dy5jY3Nlcm1hLmNvbS9DQ1MuS2lvc2svYXBpL3N1cnZleQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwczovL3d3dy5jY3Nlcm1hLmNvbS9DQ1MuS2lvc2svYXBpL3N1cnZleQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fun on</last-search>
+      <last-search>anko</last-search>
       <last-offset />
-      <last-pattern>fun on</last-pattern>
+      <last-pattern>anko</last-pattern>
       <last-replace>start</last-replace>
       <last-substitute>R</last-substitute>
       <last-dir>1</last-dir>
@@ -1254,7 +1269,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reload</entry>
         <entry>onChange</entry>
         <entry>submit</entry>
         <entry>form</entry>
@@ -1274,6 +1288,7 @@
         <entry encoding="base64">XDxwcmVmX3RpdGxlX2Njc191cmxcPg==</entry>
         <entry>fun on\</entry>
         <entry>fun on</entry>
+        <entry>anko</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IA==</entry>
