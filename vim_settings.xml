@@ -289,10 +289,11 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1533270711634">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1533668435063">
+        <mark key="'" line="44" column="16" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/Settings.kt" timestamp="1533273122075">
         <mark key="[" line="6" column="0" />
@@ -1120,9 +1121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="8" filename="$USER_HOME$/client/vanderbilt/ImageCrawler/build.gradle" />
-      <jump line="111" column="36" filename="$USER_HOME$/ccs/ccs-intake-app/app/build.gradle" />
-      <jump line="96" column="44" filename="$USER_HOME$/ccs/ccs-intake-app/app/build.gradle" />
       <jump line="51" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
       <jump line="121" column="23" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
       <jump line="52" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
@@ -1220,10 +1218,13 @@
       <jump line="455" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/ui/DebugViewBase.kt" />
       <jump line="125" column="29" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
+      <jump line="274" column="12" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
+      <jump line="41" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
+      <jump line="44" column="16" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjcmF3bFByb2dyZXNzRmVlZC52YWx1ZSA9IAo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1428,55 +1429,55 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>_v</text>
+        <text>crawlPro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAobGFzdENsaWNrVGltZSA9PSBudWxsIHx8IFN5c3RlbUNsb2NrLmVsYXBzZWRSZWFsdGltZSgpIC0gbGFzdENsaWNrVGltZSA+PSBpbnRlcnZhbCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmF3bFByb2dyZXNzRmVlZC52YWx1ZSA9IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5hbmRyb2lkLnNjaGVkdWxlcnMuQW5kcm9pZFNjaGVkdWxlcnMK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qYWtld2hhcnRvbi5yeGJpbmRpbmcyLndpZGdldC5SeENvbXBvdW5kQnV0dG9uCg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5hbmRyb2lkLnNjaGVkdWxlcnMuQW5kcm9pZFNjaGVkdWxlcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qYWtld2hhcnRvbi5yeGJpbmRpbmcyLnZpZXcuUnhWaWV3Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qYWtld2hhcnRvbi5yeGJpbmRpbmcyLndpZGdldC5SeENvbXBvdW5kQnV0dG9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qYWtld2hhcnRvbi5yeGJpbmRpbmcyLnZpZXcuUnhWaWV3Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVTZGtWZXJzaW9uIGJ1aWxkX3ZlcnNpb25zLmNvbXBpbGVfc2RrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIGJ1aWxkX3ZlcnNpb25zLmJ1aWxkX3Rvb2xzCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVTZGtWZXJzaW9uIGJ1aWxkX3ZlcnNpb25zLmNvbXBpbGVfc2RrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXRTZGtWZXJzaW9uIGJ1aWxkX3ZlcnNpb25zLnRhcmdldF9zZGsK</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIGJ1aWxkX3ZlcnNpb25zLmJ1aWxkX3Rvb2xzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_v</last-search>
+      <last-search>crawlPro</last-search>
       <last-offset />
-      <last-pattern>_v</last-pattern>
+      <last-pattern>crawlPro</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1484,7 +1485,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gson</entry>
         <entry>commons</entry>
         <entry>annotat</entry>
         <entry>annot</entry>
@@ -1504,6 +1504,7 @@
         <entry>/'/&quot;/g</entry>
         <entry>'</entry>
         <entry>_v</entry>
+        <entry>crawlPro</entry>
       </history-search>
       <history-cmd>
         <entry>set vb</entry>
