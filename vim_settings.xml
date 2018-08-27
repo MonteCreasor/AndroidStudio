@@ -171,6 +171,11 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/build.gradle" timestamp="1535398372674">
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="13" column="52" />
+        <mark key="." line="13" column="52" />
+      </file>
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/extensions/fabExt.kt" timestamp="1533348899289">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="9" />
@@ -321,6 +326,12 @@
         <mark key="]" line="41" column="49" />
         <mark key="." line="50" column="55" />
         <mark key="^" line="50" column="55" />
+      </file>
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/buildSrc/build.gradle.kts" timestamp="1535397673221">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="3" column="16" />
       </file>
       <file name="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/res/values/colors.xml" timestamp="1530587847496">
         <mark key="[" line="9" column="26" />
@@ -658,6 +669,12 @@
         <mark key="]" line="104" column="52" />
         <mark key="." line="104" column="52" />
         <mark key="^" line="104" column="52" />
+      </file>
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" timestamp="1535398839246">
+        <mark key="'" line="13" column="21" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/VideoNotificationActivity.java" timestamp="1534209392086">
         <mark key="[" line="76" column="0" />
@@ -1098,6 +1115,11 @@
         <mark key="." line="18" column="18" />
         <mark key="^" line="18" column="18" />
       </file>
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/build.gradle" timestamp="1535397841185">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugMockHttpClientModule.kt" timestamp="1531611233755">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
@@ -1231,7 +1253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="22" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="25" column="21" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="26" column="22" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="27" column="25" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
@@ -1331,11 +1352,11 @@
       <jump line="38" column="26" filename="$USER_HOME$/client/brazil/raw_checkout/code/Framework/mobile/code/Android/Framework/code/app/src/main/java/com/axxiom/framework/communication/HttpAsyncTask.java" />
       <jump line="156" column="8" filename="$USER_HOME$/client/brazil/raw_checkout/code/Android/code/Core/app/src/main/java/com/axxiom/core/DaoManager.java" />
       <jump line="7" column="0" filename="$USER_HOME$/client/brazil/raw_checkout/code/Android/code/models/app/build.gradle" />
+      <jump line="15" column="21" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>int x = 2;
-System.out.println(&quot;X is &quot; + x);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5ydW5CbG9ja2luZwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1537,7 +1558,7 @@ System.out.println(&quot;X is &quot; + x);</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>each</text>
+        <text>x.coroutines.async</text>
       </register>
       <register name="/" type="4">
         <text>Tip</text>
@@ -1545,39 +1566,38 @@ System.out.println(&quot;X is &quot; + x);</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFkZFJlcG9zKHJlcG9zaXRvcmllcykK</text>
       </register>
-      <register name="1" type="4">
-        <text>int x = 2;
-System.out.println(&quot;X is &quot; + x);</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5ydW5CbG9ja2luZwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXRTZGtWZXJzaW9uIDI1Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5leHBlcmltZW50YWwucnVuQmxvY2tpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5TZGtWZXJzaW9uIDE0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5ydW5CbG9ja2luZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20uYXh4aW9tLmdkaXMuc2MiCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5hc3luYwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRDb25maWcgewo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5EZWZlcnJlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjIiCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5Db21tb25Qb29sCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVTZGtWZXJzaW9uIDI1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIH0K</text>
