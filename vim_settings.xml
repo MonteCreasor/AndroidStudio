@@ -676,11 +676,12 @@
         <mark key="." line="104" column="52" />
         <mark key="^" line="104" column="52" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" timestamp="1535404921019">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="19" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" timestamp="1535408988648">
+        <mark key="'" line="62" column="44" />
+        <mark key="[" line="62" column="66" />
+        <mark key="]" line="62" column="69" />
+        <mark key="." line="62" column="69" />
+        <mark key="^" line="62" column="69" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/VideoNotificationActivity.java" timestamp="1534209392086">
         <mark key="[" line="76" column="0" />
@@ -1009,6 +1010,9 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Image.java" timestamp="1535408869784">
+        <mark key="." line="16" column="20" />
+      </file>
       <file name="$USER_HOME$/client/brazil/aidl-example/app/src/main/java/com/afollestad/aidlexample/MainActivity.java" timestamp="1534722328848">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -1261,10 +1265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="22" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
-      <jump line="27" column="25" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
-      <jump line="29" column="27" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
-      <jump line="31" column="28" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="18" column="30" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="28" column="27" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="30" column="21" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
@@ -1361,10 +1361,14 @@
       <jump line="15" column="21" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
       <jump line="45" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/build.gradle" />
       <jump line="57" column="44" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/build.gradle" />
+      <jump line="69" column="31" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
+      <jump line="21" column="20" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
+      <jump line="62" column="44" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Exception(&quot;Cancelling previous crawl to start a new crawl&quot;))</text>
+        <text>t</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1566,58 +1570,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Exception(&quot;Cancelling previous crawl to start a new crawl&quot;))</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>corou</text>
+        <text>await</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmpvYj8uY2FuY2VsKEV4Y2VwdGlvbigiQ2FuY2VsbGluZyBwcmV2aW91cyBjcmF3bCB0byBzdGFydCBhIG5ldyBjcmF3bCIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5jZWwoRXhjZXB0aW9uKCJDYW5jZWxsaW5nIHByZXZpb3VzIGNyYXdsIHRvIHN0YXJ0IGEgbmV3IGNyYXdsIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQWN0aXZlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYW5jZWwoRXhjZXB0aW9uKCJDYW5jZWxsaW5nIHByZXZpb3VzIGNyYXdsIHRvIHN0YXJ0IGEgbmV3IGNyYXdsIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmlsdGVyIHsgaXNBY3RpdmUgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmlsdGVyIHsgaXNBY3RpdmUgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMTsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqb2Iuam9pbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBqb2Iuam9pbigpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5qb2IgPSBqb2IK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>e ../../../../../../../versions.gradle</text>
       </register>
     </registers>
     <search>
-      <last-search>corou</last-search>
+      <last-search>await</last-search>
       <last-offset />
-      <last-pattern>corou</last-pattern>
+      <last-pattern>await</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1625,8 +1629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>glide</entry>
-        <entry>wid</entry>
         <entry>google</entry>
         <entry>core</entry>
         <entry>=</entry>
@@ -1645,6 +1647,8 @@
         <entry>Tip</entry>
         <entry>exp</entry>
         <entry>corou</entry>
+        <entry>crawlPage</entry>
+        <entry>await</entry>
       </history-search>
       <history-cmd>
         <entry>set unmap f</entry>
