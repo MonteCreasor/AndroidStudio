@@ -217,9 +217,10 @@
         <mark key="^" line="9" column="79" />
         <mark key="." line="9" column="79" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/versions.gradle" timestamp="1535401589094">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="34" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/versions.gradle" timestamp="1535421184063">
+        <mark key="a" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="25" column="33" />
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="34" />
       </file>
@@ -333,11 +334,12 @@
         <mark key="." line="50" column="55" />
         <mark key="^" line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/buildSrc/build.gradle.kts" timestamp="1535421112250">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/buildSrc/build.gradle.kts" timestamp="1535421293776">
+        <mark key="'" line="7" column="30" />
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="30" column="10" />
       </file>
       <file name="$USER_HOME$/ccs/sandbox/Fullscreen2/app/src/main/res/values/colors.xml" timestamp="1530587847496">
         <mark key="[" line="9" column="26" />
@@ -1265,7 +1267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="30" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="28" column="27" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="30" column="21" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="32" column="26" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
@@ -1365,10 +1366,11 @@
       <jump line="21" column="20" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
       <jump line="62" column="44" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
+      <jump line="7" column="30" filename="$USER_HOME$/client/vanderbilt/crawler-2018/buildSrc/build.gradle.kts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1570,66 +1572,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>await</text>
+        <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmpvYj8uY2FuY2VsKEV4Y2VwdGlvbigiQ2FuY2VsbGluZyBwcmV2aW91cyBjcmF3bCB0byBzdGFydCBhIG5ldyBjcmF3bCIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkICAgICAgICAgIDogJzMuMy4wLWFscGhhMDcnLAogICAgICAgIGtvdGxpbiAgICAgICAgICAgOiAiMS4zLU0xIiwKICAgICAgICBhbmtvICAgICAgICAgICAgIDogIjAuMTAuNSIsCiAgICAgICAgc3VwcG9ydCAgICAgICAgICA6ICIxLjAuMC1yYzAxIiwKICAgICAgICBjb25zdHJhaW50X2xheW91dDogIjEuMS4yIiwKICAgICAgICBhcmNoX2NvbXBvbmVudHMgIDogIjIuMC4wLXJjMDEiLAogICAgICAgIHZpZXdtb2RlbF9rdHggICAgOiAiMi4wLjAtcmMwMSIsCiAgICAgICAgZ2xpZGUgICAgICAgICAgICA6ICI0LjguMC1TTkFQU0hPVCIsCiAgICAgICAgcGljYXNzbyAgICAgICAgICA6ICIyLjcxODI4IiwKICAgICAgICBnc29uICAgICAgICAgICAgIDogIjIuOC41IiwKICAgICAgICBhbm5vdGF0aW9ucyAgICAgIDogIjEzLjAiLAogICAgICAgIGNvbW1vbnNfaW8gICAgICAgOiAiMjAwMzAyMDMuMDAwNTUwIiwKICAgICAgICBqc291cCAgICAgICAgICAgIDogIjEuMTAuMyIsCiAgICAgICAgbGVha19jYW5hcnkgICAgICA6ICIxLjUuNCIsCiAgICAgICAgY29yb3V0aW5lcyAgICAgICA6ICIwLjI0LjAtZWFwMTMiLAogICAgICAgIHJ4amF2YSAgICAgICAgICAgOiAiMi4xLjYiLAogICAgICAgIHJ4YW5kcm9pZCAgICAgICAgOiAiMi4wLjEiLAogICAgICAgIHJ4YmluZGluZyAgICAgICAgOiAiMi4xLjEiLAogICAgICAgIGVzcHJlc3NvICAgICAgICAgOiAiMy4xLjAtYWxwaGEzIiwKICAgICAgICBva2h0dHAgICAgICAgICAgIDogIjQuOC4wIiwKICAgICAgICBqdW5pdCAgICAgICAgICAgIDogIjQuMTIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQWN0aXZlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5jZWwoRXhjZXB0aW9uKCJDYW5jZWxsaW5nIHByZXZpb3VzIGNyYXdsIHRvIHN0YXJ0IGEgbmV3IGNyYXdsIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQWN0aXZlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYW5jZWwoRXhjZXB0aW9uKCJDYW5jZWxsaW5nIHByZXZpb3VzIGNyYXdsIHRvIHN0YXJ0IGEgbmV3IGNyYXdsIikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmlsdGVyIHsgaXNBY3RpdmUgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmlsdGVyIHsgaXNBY3RpdmUgfQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqb2Iuam9pbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBqb2Iuam9pbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>e ../../../../../../../versions.gradle</text>
+        <text>%s/:/=/g</text>
       </register>
     </registers>
     <search>
-      <last-search>await</last-search>
+      <last-search>:</last-search>
       <last-offset />
-      <last-pattern>await</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>:</last-pattern>
+      <last-replace>=</last-replace>
+      <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>google</entry>
         <entry>core</entry>
         <entry>=</entry>
         <entry>_version</entry>
@@ -1649,9 +1650,9 @@
         <entry>corou</entry>
         <entry>crawlPage</entry>
         <entry>await</entry>
+        <entry>:</entry>
       </history-search>
       <history-cmd>
-        <entry>set unmap f</entry>
         <entry>unmap f</entry>
         <entry encoding="base64">bWFwIGYg</entry>
         <entry encoding="base64">bm1hcCBmIDxDLUY+</entry>
@@ -1671,6 +1672,7 @@
         <entry>w</entry>
         <entry>e ../../../../../../versions.gradle</entry>
         <entry>e ../../../../../../../versions.gradle</entry>
+        <entry>%s/:/=/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
