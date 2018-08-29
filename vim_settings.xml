@@ -226,11 +226,11 @@
         <mark key="^" line="9" column="79" />
         <mark key="." line="9" column="79" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/versions.gradle" timestamp="1535495545077">
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/versions.gradle" timestamp="1535561994456">
         <mark key="a" line="5" column="0" />
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="29" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
         <mark key="^" line="16" column="32" />
       </file>
       <file name="$USER_HOME$/client/brazil/aidl-example/build.gradle" timestamp="1534705097289">
@@ -327,11 +327,11 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/buildSrc/src/main/java/Dependencies.kt" timestamp="1535476860928">
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/buildSrc/src/main/java/Dependencies.kt" timestamp="1535562020694">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/buildSrc/build.gradle.kts" timestamp="1535494841874">
         <mark key="[" line="4" column="1" />
@@ -554,7 +554,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534978811096">
+      <file name="/Dummy.txt" timestamp="1535562570447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="126" />
         <mark key="." line="0" column="126" />
@@ -1168,6 +1168,13 @@
         <mark key="." line="26" column="9" />
         <mark key="^" line="26" column="9" />
       </file>
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" timestamp="1535561892402">
+        <mark key="'" line="433" column="12" />
+        <mark key="[" line="435" column="49" />
+        <mark key="]" line="435" column="49" />
+        <mark key="^" line="435" column="49" />
+        <mark key="." line="435" column="49" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/res/drawable/debug_launcher_broken.xml" timestamp="1529961687325">
         <mark key="[" line="3" column="44" />
         <mark key="]" line="3" column="45" />
@@ -1290,7 +1297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="84" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/build.gradle" />
       <jump line="62" column="86" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/build.gradle" />
       <jump line="63" column="85" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/build.gradle" />
       <jump line="64" column="59" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/build.gradle" />
@@ -1390,6 +1396,7 @@
       <jump line="15" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/20030203.000550/506fc1d8e200a9e664d8befb991d407ae551d7fe/commons-io-20030203.000550.jar!/org/apache/commons/io/FileUtils.class" />
       <jump line="152" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/20030203.000550/506fc1d8e200a9e664d8befb991d407ae551d7fe/commons-io-20030203.000550.jar!/org/apache/commons/io/FileUtils.class" />
       <jump line="41" column="13" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/test/java/edu/vanderbilt/crawler/admin/AssignmentBuilder.java" />
+      <jump line="433" column="12" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1598,7 +1605,7 @@
         <text encoding="base64">IHs=</text>
       </register>
       <register name="/" type="4">
-        <text>copyDir</text>
+        <text>bind(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodXJpLnN0YXJ0c1dpdGgoUGxhdGZvcm0uQVNTRVRTX1VSSV9QUkVGSVgpIAogICAgICAgICAgICAgICAgJiYgIXVyaS5zdGFydHNXaXRoKFBsYXRmb3JtLkFTU0VUU19VUklfUFJFRklYICsgIi8iKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiSW52YWxpZCBVUkkgcGF0aDogIiArIHVyaSk7Cg==</text>
@@ -1644,9 +1651,9 @@
       </register>
     </registers>
     <search>
-      <last-search>copyDir</last-search>
+      <last-search>bind(</last-search>
       <last-offset />
-      <last-pattern>copyDir</last-pattern>
+      <last-pattern>bind(</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -1654,7 +1661,6 @@
     </search>
     <history>
       <history-search>
-        <entry>/'/&quot;/g</entry>
         <entry>'</entry>
         <entry>_v</entry>
         <entry>crawlPro</entry>
@@ -1674,6 +1680,7 @@
         <entry>copy</entry>
         <entry>copyDirectory</entry>
         <entry>copyDir</entry>
+        <entry>bind(</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
