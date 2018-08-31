@@ -560,7 +560,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535599704230">
+      <file name="/Dummy.txt" timestamp="1535746182072">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="126" />
         <mark key="." line="0" column="126" />
@@ -1126,11 +1126,11 @@
         <mark key="." line="2" column="38" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" timestamp="1533349091161">
-        <mark key="[" line="263" column="73" />
-        <mark key="]" line="265" column="31" />
-        <mark key="^" line="265" column="31" />
-        <mark key="." line="263" column="31" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" timestamp="1535746124016">
+        <mark key="'" line="107" column="23" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
       </file>
       <file name="$USER_HOME$/.vimrc" timestamp="1531530791394">
         <mark key="[" line="24" column="11" />
@@ -1179,11 +1179,6 @@
         <mark key="]" line="116" column="33" />
         <mark key="." line="116" column="33" />
         <mark key="^" line="116" column="33" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.8.0/ffc2684f1c6436d3942d82d29a5344942792594/glide-4.8.0-sources.jar!/com/bumptech/glide/request/target/SimpleTarget.java" timestamp="1535574204481">
-        <mark key="a" line="104" column="19" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="109" column="5" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/Constants.kt" timestamp="1530524494439">
         <mark key="[" line="26" column="40" />
@@ -1326,10 +1321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/SettingsDialogFragment.kt" />
-      <jump line="455" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/ui/DebugViewBase.kt" />
-      <jump line="125" column="29" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
-      <jump line="41" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
       <jump line="274" column="12" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="44" column="16" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
@@ -1426,6 +1417,10 @@
       <jump line="299" column="30" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="20" column="12" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
+      <jump line="21" column="34" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" />
+      <jump line="22" column="47" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" />
+      <jump line="105" column="23" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/webview/WebViewActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1631,13 +1626,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>hashMap</text>
+        <text>from(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgYXBwbHkgZnJvbTogJ3ZlcnNpb25zLmdyYWRsZScK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoKGZyb20oYm90dG9tU2hlZXQpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1646,43 +1641,43 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYm90dG9tU2hlZXRCZWhhdmlvdXI6IEJvdHRvbVNoZWV0QmVoYXZpb3I8RnJhbWVMYXlvdXQ+ID0gZnJvbShib3R0b21TaGVldCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcGx5IGZyb206ICd2ZXJzaW9ucy5ncmFkbGUnCiAgICBhZGRSZXBvcyhyZXBvc2l0b3JpZXMpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5rby5kaW1lbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5rby5kaW1lbgo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFkZFJlcG9zKHJlcG9zaXRvcmllcykKCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5ib3R0b21zaGVldC5Cb3R0b21TaGVldEJlaGF2aW9yLioK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IGRkICAgYXBwbHkgZnJvbTogJ3ZlcnNpb25zLmdyYWRsZScK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5ib3R0b21zaGVldC5Cb3R0b21TaGVldEJlaGF2aW9yLioK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gWzEsIG51bWJlciBvZiB0aHJlYWRzXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhlIFVJIHdpbGwgdGhlbiBkaXNwbGF5IHRocmVhZCBpZHMgYXMgaW50ZWdlcnMgaW4gdGhlIHJhbmdlIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hashMap</last-search>
+      <last-search>from(</last-search>
       <last-offset />
-      <last-pattern>hashMap</last-pattern>
+      <last-pattern>from(</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -1690,8 +1685,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ver</entry>
-        <entry>Ver</entry>
         <entry>&quot;$</entry>
         <entry>copy</entry>
         <entry>copyDirectory</entry>
@@ -1710,6 +1703,8 @@
         <entry>threads\.</entry>
         <entry>thread</entry>
         <entry>hashMap</entry>
+        <entry>BottomSheetB</entry>
+        <entry>from(</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
