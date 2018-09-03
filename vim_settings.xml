@@ -537,6 +537,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/client/vanderbilt/examples/recyclerview-selection/app/src/main/java/com/androidkt/recyclerviewselection/MainActivity.java" timestamp="1536014959091" />
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/LoggingModule.kt" timestamp="1531533510264">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -877,6 +878,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/client/vanderbilt/examples/recyclerview-selection/app/src/main/java/com/androidkt/recyclerviewselection/adapter/ItemListAdapter.java" timestamp="1536015070672">
+        <mark key="'" line="35" column="32" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/NetworkDelayAdapter.kt" timestamp="1529886965553">
         <mark key="[" line="3" column="0" />
@@ -1344,7 +1348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="24" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
       <jump line="11" column="39" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
       <jump line="288" column="24" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="175" column="40" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
@@ -1444,6 +1447,7 @@
       <jump line="5907" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/recyclerview-v7/28.0.0-alpha1/6c041bb53cd0ea92cc4edb6b8eeb52b273d051cb/recyclerview-v7-28.0.0-alpha1-sources.jar!/android/support/v7/widget/RecyclerView.java" />
       <jump line="114" column="16" filename="$USER_HOME$/client/vanderbilt/examples/RecyclerViewMultiSelect/app/src/main/java/com/dalvinlabs/recyclerviewmultiselect/Adapter.java" />
       <jump line="313" column="24" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
+      <jump line="35" column="32" filename="$USER_HOME$/client/vanderbilt/examples/recyclerview-selection/app/src/main/java/com/androidkt/recyclerviewselection/adapter/ItemListAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1652,7 +1656,7 @@
         <text>getItemDetails()</text>
       </register>
       <register name="/" type="4">
-        <text>inding</text>
+        <text>selectionTracker</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvbmcgcG9zaXRpb247Cg==</text>
@@ -1698,9 +1702,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inding</last-search>
+      <last-search>selectionTracker</last-search>
       <last-offset />
-      <last-pattern>inding</last-pattern>
+      <last-pattern>selectionTracker</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -1708,7 +1712,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SimpleTarget</entry>
         <entry>getRe</entry>
         <entry>Kotlin</entry>
         <entry>async</entry>
@@ -1728,6 +1731,7 @@
         <entry>createV</entry>
         <entry>onCreate</entry>
         <entry>inding</entry>
+        <entry>selectionTracker</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
