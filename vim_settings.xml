@@ -350,13 +350,13 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1535599614265">
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" timestamp="1536102024230">
         <mark key="a" line="301" column="22" />
-        <mark key="'" line="314" column="30" />
-        <mark key="[" line="285" column="57" />
-        <mark key="]" line="285" column="57" />
-        <mark key="^" line="285" column="56" />
-        <mark key="." line="285" column="57" />
+        <mark key="'" line="177" column="24" />
+        <mark key="[" line="310" column="28" />
+        <mark key="]" line="309" column="37" />
+        <mark key="^" line="309" column="37" />
+        <mark key="." line="309" column="37" />
       </file>
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Android/code/models/settings.gradle" timestamp="1534882001275">
         <mark key="[" line="2" column="63" />
@@ -1357,9 +1357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="27" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
-      <jump line="436" column="28" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
-      <jump line="499" column="38" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
       <jump line="522" column="39" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
       <jump line="38" column="51" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
       <jump line="172" column="16" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/ImageViewAdapter.kt" />
@@ -1457,10 +1454,13 @@
       <jump line="30" column="8" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
       <jump line="421" column="80" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
       <jump line="95" column="12" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
+      <jump line="170" column="41" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
+      <jump line="165" column="35" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
+      <jump line="177" column="24" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1662,28 +1662,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>deta</text>
+        <text>usePost</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB2aWV3SG9sZGVyID0gcmVjeWNsZXJWaWV3LmdldENoaWxkVmlld0hvbGRlcih0aGlzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbWFwcGVkIHZhbHVlLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgaXQgZmFpbGVkIGJlY2F1c2UgdGhlIGl0ZW0gYWxyZWFkeSBoYWQgYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9wZW4gZnVuIHJlcGxhY2VJdGVtKHBvc2l0aW9uOiBJbnQsIGl0ZW06IFQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHdhc0FkZGVkID0gb2xkUmVzb3VyY2UgPT0gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIEtleVByb3ZpZGVyPFZIIDogU2VsZWN0YWJsZVZpZXdIb2xkZXI+KGFkYXB0ZXI6IFJlY3ljbGVyVmlldy5BZGFwdGVyPFZIPikKICAgICAgICA6IEl0ZW1LZXlQcm92aWRlcjxMb25nPihJdGVtS2V5UHJvdmlkZXIuU0NPUEVfTUFQUEVEKSB7CiAgICAgICAgb3ZlcnJpZGUgZnVuIGdldEtleShwb3NpdGlvbjogSW50KSA9IHBvc2l0aW9uLnRvTG9uZygpCiAgICAgICAgb3ZlcnJpZGUgZnVuIGdldFBvc2l0aW9uKGtleTogTG9uZykgPSBrZXkudG9JbnQoKQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHdhc0FkZGVkID0gb2xkUmVzb3VyY2UgPT0gbnVsbAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1692,28 +1692,28 @@
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9wZW4gZnVuIHJlcGxhY2VJdGVtKHBvc2l0aW9uOiBJbnQsIGl0ZW06IFQpIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIEtleVByb3ZpZGVyPFZIIDogU2VsZWN0YWJsZVZpZXdIb2xkZXI+KGFkYXB0ZXI6IFJlY3ljbGVyVmlldy5BZGFwdGVyPFZIPikKICAgICAgICA6IEl0ZW1LZXlQcm92aWRlcjxMb25nPihJdGVtS2V5UHJvdmlkZXIuU0NPUEVfTUFQUEVEKSB7CiAgICAgICAgb3ZlcnJpZGUgZnVuIGdldEtleShwb3NpdGlvbjogSW50KSA9IHBvc2l0aW9uLnRvTG9uZygpCiAgICAgICAgb3ZlcnJpZGUgZnVuIGdldFBvc2l0aW9uKGtleTogTG9uZykgPSBrZXkudG9JbnQoKQogICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deta</last-search>
+      <last-search>usePost</last-search>
       <last-offset />
-      <last-pattern>deta</last-pattern>
+      <last-pattern>usePost</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -1721,7 +1721,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onCreate</entry>
         <entry>inding</entry>
         <entry>OnSelection</entry>
         <entry>gettem</entry>
@@ -1741,6 +1740,7 @@
         <entry>replaceItem</entry>
         <entry>K</entry>
         <entry>deta</entry>
+        <entry>usePost</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
