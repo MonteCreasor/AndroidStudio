@@ -14,11 +14,12 @@
         <mark key="^" line="29" column="27" />
         <mark key="." line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" timestamp="1536176053963">
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" timestamp="1536178061547">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="348" column="0" />
-        <mark key="]" line="348" column="0" />
-        <mark key="." line="348" column="0" />
+        <mark key="[" line="343" column="60" />
+        <mark key="]" line="343" column="67" />
+        <mark key="^" line="343" column="67" />
+        <mark key="." line="343" column="67" />
       </file>
       <file name="$USER_HOME$/ccs/intake/versions.gradle" timestamp="1530786872804">
         <mark key="[" line="7" column="19" />
@@ -1470,8 +1471,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeURhdGFTZXRDaGFuZ2VkKCkK</text>
+      <register name="&quot;" type="4">
+        <text>items.indices.toList())</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1673,49 +1674,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>select(getItemId(position))</text>
+        <text>items.indices.toList())</text>
       </register>
       <register name="/" type="4">
         <text>selectionT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3Rpb25UcmFja2VyISEuc2VsZWN0KGdldEl0ZW1JZChwb3NpdGlvbikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0aW9uVHJhY2tlciEhLnNlbGVjdChnZXRJdGVtSWQoaXQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeURhdGFTZXRDaGFuZ2VkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0aW9uVHJhY2tlciEhLnNlbGVjdChnZXRJdGVtSWQoaXQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZWxlY3QpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9uZ0FycmF5T2YoaXRlbXMuaW5kaWNlcy50b0xpc3QoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3Rpb25UcmFja2VyISEuY2xlYXJTZWxlY3Rpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0aW9uTWFwLmFkZChpdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtcy5pbmRpY2VzLmZvckVhY2ggewogICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3Rpb25NYXAuYWRkKGl0KQogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3Rpb25UcmFja2VyISEuc2VsZWN0KGdldEl0ZW1JZChwb3NpdGlvbikpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeURhdGFTZXRDaGFuZ2VkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdGlvbk1hcC5jbGVhcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZWxlY3QpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3RpZnlJdGVtQ2hhbmdlZChwb3NpdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3Rpb25UcmFja2VyISEuY2xlYXJTZWxlY3Rpb24oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
