@@ -510,12 +510,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/ReflectionHelper.java" timestamp="1536520966896">
-        <mark key="a" line="12" column="0" />
-        <mark key="[" line="56" column="53" />
-        <mark key="]" line="56" column="54" />
-        <mark key="." line="56" column="54" />
-        <mark key="^" line="56" column="54" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/helpers/ReflectionHelper.java" timestamp="1536525596549">
+        <mark key="[" line="121" column="50" />
+        <mark key="]" line="121" column="69" />
+        <mark key="." line="121" column="69" />
+        <mark key="^" line="121" column="69" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/tools/settings/DebugComponent.kt" timestamp="1530144015610">
         <mark key="[" line="4" column="26" />
@@ -713,14 +712,14 @@
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/androidx/recyclerview/widget/RecyclerView.java" timestamp="1536252883117">
         <mark key="'" line="6723" column="11" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" timestamp="1536524485740">
-        <mark key="a" line="105" column="0" />
-        <mark key="b" line="360" column="0" />
-        <mark key="'" line="190" column="28" />
-        <mark key="[" line="98" column="5" />
-        <mark key="]" line="102" column="7" />
-        <mark key="^" line="102" column="7" />
-        <mark key="." line="102" column="7" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" timestamp="1536525681861">
+        <mark key="a" line="109" column="6" />
+        <mark key="b" line="374" column="0" />
+        <mark key="'" line="104" column="24" />
+        <mark key="[" line="125" column="54" />
+        <mark key="]" line="126" column="15" />
+        <mark key="^" line="126" column="15" />
+        <mark key="." line="126" column="15" />
       </file>
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/modules/GlideAppModuleInst.kt" timestamp="1533271287591">
         <mark key="[" line="19" column="15" />
@@ -1399,7 +1398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="35" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="177" column="24" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="35" column="6" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
       <jump line="830" column="11" filename="$USER_HOME$/tools/android/sdk/sources/android-28/java/util/concurrent/ConcurrentHashMap.java" />
@@ -1499,10 +1497,11 @@
       <jump line="6" column="22" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="129" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="190" column="28" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
+      <jump line="103" column="24" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>null</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1704,58 +1703,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>isEm</text>
+        <text>getElem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE51bGxQb2ludGVyRXhjZXB0aW9uKCJDb2xsZWN0aW9uIGlzIG51bGwuIik7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbmplY3RWYWx1ZUludG9GaXJzdE1hdGNoaW5nRmllbGQoCiAgICAgICAgICAgIE9iamVjdCBwYXJlbnRDbGFzcywKICAgICAgICAgICAgT2JqZWN0IGZpZWxkVmFsdWUsCiAgICAgICAgICAgIENsYXNzIGZpZWxkQ2xhc3MsCiAgICAgICAgICAgIFN0cmluZyBuYW1lKSB0aHJvd3MgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB7CiAgICAgICAgRmllbGQgZmllbGQgPSBmaW5kRmlyc3RNYXRjaGluZ0ZpZWxkKHBhcmVudENsYXNzLCBmaWVsZENsYXNzLCBuYW1lKTsKICAgICAgICBpZiAoZmllbGQgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAiVW5hYmxlIHRvIGluamVjdCBmaWVsZCB2YWx1ZSBpbnRvIGNsYXNzIGZpZWxkIG9mIHR5cGUgIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgKyBmaWVsZENsYXNzLmdldE5hbWUoKSk7CiAgICAgICAgfQogICAgICAgIGJvb2xlYW4gd2FzQWNjZXNzaWJsZSA9IGZpZWxkLmlzQWNjZXNzaWJsZSgpOwogICAgICAgIGZpZWxkLnNldEFjY2Vzc2libGUodHJ1ZSk7CiAgICAgICAgZmllbGQuc2V0KHBhcmVudENsYXNzLCBmaWVsZFZhbHVlKTsKICAgICAgICBmaWVsZC5zZXRBY2Nlc3NpYmxlKHdhc0FjY2Vzc2libGUpOwogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE51bGxQb2ludGVyRXhjZXB0aW9uKCJDb2xsZWN0aW9uIGlzIG51bGwuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZC5zZXQoYXJyYXksIGVsZW1lbnRzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiSWxsZWdhbCBDYXBhY2l0eTogIisK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJtRWxlbWVudERhdGEiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0aWFsQ2FwYWNpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdFtdLmNsYXNzLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0aWFsQ2FwYWNpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiSWxsZWdhbCBDYXBhY2l0eTogIisK</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZCBmaWVsZCA9IFJlZmxlY3Rpb25IZWxwZXIuZmluZEZpcnN0TWF0Y2hpbmdGaWVsZCgK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbmplY3RWYWx1ZUludG9GaXJzdE1hdGNoaW5nRmllbGQoCiAgICAgICAgICAgIE9iamVjdCBwYXJlbnRDbGFzcywKICAgICAgICAgICAgT2JqZWN0IGZpZWxkVmFsdWUsCiAgICAgICAgICAgIENsYXNzLi4uIGNsYXNzZXMKICAgICAgICAgICAgKSB0aHJvd3MgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB7CiAgICAgICAgRmllbGQgZmllbGQgPSBmaW5kRmlyc3RNYXRjaGluZ0ZpZWxkKHBhcmVudENsYXNzLCBjbGFzc2VzKTsKICAgICAgICBpZiAoZmllbGQgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAiVW5hYmxlIHRvIGluamVjdCBmaWVsZCB2YWx1ZSBpbnRvIGNsYXNzIGZpZWxkIik7CiAgICAgICAgfQogICAgICAgIGJvb2xlYW4gd2FzQWNjZXNzaWJsZSA9IGZpZWxkLmlzQWNjZXNzaWJsZSgpOwogICAgICAgIGZpZWxkLnNldEFjY2Vzc2libGUodHJ1ZSk7CiAgICAgICAgZmllbGQuc2V0KHBhcmVudENsYXNzLCBmaWVsZFZhbHVlKTsKICAgICAgICBmaWVsZC5zZXRBY2Nlc3NpYmxlKHdhc0FjY2Vzc2libGUpOwogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVW5leHBlY3RlZCBiZWhhdmlvdXI6IHNob3VsZCBvbmx5IHRocm93biBOdWxsUG9pbnRlckV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbmplY3RWYWx1ZUludG9NYXRjaGluZ0ZpZWxkKAogICAgICAgICAgICBPYmplY3QgcGFyZW50Q2xhc3MsCiAgICAgICAgICAgIE9iamVjdCBmaWVsZFZhbHVlLAogICAgICAgICAgICBDbGFzcyBmaWVsZENsYXNzLAogICAgICAgICAgICBTdHJpbmcgbmFtZSkgdGhyb3dzIElsbGVnYWxBY2Nlc3NFeGNlcHRpb24gewogICAgICAgIEZpZWxkIGZpZWxkID0gZmluZEZpcnN0TWF0Y2hpbmdGaWVsZChwYXJlbnRDbGFzcywgZmllbGRDbGFzcywgbmFtZSk7CiAgICAgICAgaWYgKGZpZWxkID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBY2Nlc3NFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgIlVuYWJsZSB0byBpbmplY3QgZmllbGQgdmFsdWUgaW50byBjbGFzcyBmaWVsZCBvZiB0eXBlICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgZmllbGRDbGFzcy5nZXROYW1lKCkpOwogICAgICAgIH0KICAgICAgICBib29sZWFuIHdhc0FjY2Vzc2libGUgPSBmaWVsZC5pc0FjY2Vzc2libGUoKTsKICAgICAgICBmaWVsZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgIGZpZWxkLnNldChwYXJlbnRDbGFzcywgZmllbGRWYWx1ZSk7CiAgICAgICAgZmllbGQuc2V0QWNjZXNzaWJsZSh3YXNBY2Nlc3NpYmxlKTsKICAgIH0KCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFpbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>isEm</last-search>
+      <last-search>getElem</last-search>
       <last-offset />
-      <last-pattern>isEm</last-pattern>
+      <last-pattern>getElem</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -1763,7 +1762,6 @@
     </search>
     <history>
       <history-search>
-        <entry>key</entry>
         <entry>selectionTracker</entry>
         <entry>!!</entry>
         <entry>selectionS</entry>
@@ -1783,6 +1781,7 @@
         <entry>mock</entry>
         <entry>Array</entry>
         <entry>isEm</entry>
+        <entry>getElem</entry>
       </history-search>
       <history-cmd>
         <entry>e ~/.vimrc</entry>
