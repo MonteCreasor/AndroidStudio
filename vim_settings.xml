@@ -716,15 +716,15 @@
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/androidx/recyclerview/widget/RecyclerView.java" timestamp="1536252883117">
         <mark key="'" line="6723" column="11" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" timestamp="1536609722603">
-        <mark key="a" line="249" column="0" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" timestamp="1536611119858">
+        <mark key="a" line="159" column="6" />
         <mark key="b" line="452" column="0" />
         <mark key="d" line="103" column="26" />
         <mark key="'" line="249" column="0" />
-        <mark key="[" line="482" column="7" />
-        <mark key="]" line="483" column="3" />
-        <mark key="." line="483" column="3" />
-        <mark key="^" line="483" column="3" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="99" />
+        <mark key="." line="198" column="0" />
+        <mark key="^" line="161" column="6" />
       </file>
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/modules/GlideAppModuleInst.kt" timestamp="1533271287591">
         <mark key="[" line="19" column="15" />
@@ -1077,7 +1077,8 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="28" column="69" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" timestamp="1536526136582">
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" timestamp="1536610627635">
+        <mark key="'" line="190" column="39" />
         <mark key="[" line="94" column="15" />
         <mark key="]" line="94" column="15" />
         <mark key="." line="94" column="15" />
@@ -1403,7 +1404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="39" filename="$USER_HOME$/client/vanderbilt/examples/RecyclerViewMultiSelect/app/src/main/java/com/dalvinlabs/recyclerviewmultiselect/MainActivity.java" />
       <jump line="241" column="4" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
       <jump line="66" column="16" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
       <jump line="65" column="23" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
@@ -1503,10 +1503,11 @@
       <jump line="100" column="51" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="102" column="55" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="249" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
+      <jump line="190" column="39" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIC8vIFN1cHBvcnQgZnVuY3Rpb25zCiAgICAvLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgogICAgLyoqCiAgICAgKiBIZWxwZXIgdGhhdCB1c2VzIHJlZmxlY3Rpb24gdG8gYWNjZXNzIHRoZSBjb250ZW50cwogICAgICogb2YgdGhlIHByaXZhdGUgT2JqZWN0W10gZmllbGQgIm1FbGVtZW50RGF0YSIuCiAgICAgKi8KICAgIHByaXZhdGUgT2JqZWN0W10gZ2V0RWxlbWVudHMoQXJyYXkgYXJyYXkpIHsKICAgICAgICByZXR1cm4gUmVmbGVjdGlvbkhlbHBlci5maW5kRmlyc3RNYXRjaGluZ0ZpZWxkVmFsdWUoCiAgICAgICAgICAgICAgICBhcnJheSwKICAgICAgICAgICAgICAgIE9iamVjdFtdLmNsYXNzLAogICAgICAgICAgICAgICAgIm1FbGVtZW50RGF0YSIpOwogICAgfQoKICAgIC8qKgogICAgICogSGVscGVyIHRoYXQgdXNlcyByZWZsZWN0aW9uIHRvIHNldCB0aGUgY29udGVudHMKICAgICAqIG9mIHRoZSBwcml2YXRlIE9iamVjdFtdIGZpZWxkICJtRWxlbWVudERhdGEiLgogICAgICovCiAgICBwcml2YXRlIHZvaWQgc2V0RWxlbWVudHMoQXJyYXkgYXJyYXksIE9iamVjdFtdIGVsZW1lbnRzKSB0aHJvd3MgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB7CiAgICAgICAgUmVmbGVjdGlvbkhlbHBlci5pbmplY3RWYWx1ZUludG9NYXRjaGluZ0ZpZWxkKAogICAgICAgICAgICAgICAgYXJyYXksIGVsZW1lbnRzLCBPYmplY3RbXS5jbGFzcywgIm1FbGVtZW50RGF0YSIpOwogICAgfQoKICAgIC8qKgogICAgICogSGVscGVyIHRoYXQgdXNlcyByZWZsZWN0aW9uIHRvIGFjY2VzcyB0aGUgY29udGVudHMKICAgICAqIG9mIHRoZSBwcml2YXRlICJtU2l6ZSIgaW50IGZpZWxkLgogICAgICovCiAgICBwcml2YXRlIGludCBnZXRTaXplKEFycmF5IGFycmF5KSB7CiAgICAgICAgLy9ub2luc3BlY3Rpb24gQ29uc3RhbnRDb25kaXRpb25zCiAgICAgICAgcmV0dXJuIFJlZmxlY3Rpb25IZWxwZXIuZmluZEZpcnN0TWF0Y2hpbmdGaWVsZFZhbHVlKAogICAgICAgICAgICAgICAgYXJyYXksCiAgICAgICAgICAgICAgICBpbnQuY2xhc3MsCiAgICAgICAgICAgICAgICAibVNpemUiKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBSZWZsZWN0aW9uSGVscGVyLmluamVjdFZhbHVlSW50b01hdGNoaW5nRmllbGQoYXJyYXksIG51bGwsIE9iamVjdFtdLmNsYXNzLCAibUVsZW1lbnREYXRhIik7Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1708,37 +1709,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>Duplicates</text>
+        <text>add(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGRBbGwobGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICBSZWZsZWN0aW9uSGVscGVyLmluamVjdFZhbHVlSW50b01hdGNoaW5nRmllbGQoYXJyYXksIG51bGwsIE9iamVjdFtdLmNsYXNzLCAibUVsZW1lbnREYXRhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIC8vIFN1cHBvcnQgZnVuY3Rpb25zCiAgICAvLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgogICAgLyoqCiAgICAgKiBIZWxwZXIgdGhhdCB1c2VzIHJlZmxlY3Rpb24gdG8gYWNjZXNzIHRoZSBjb250ZW50cwogICAgICogb2YgdGhlIHByaXZhdGUgT2JqZWN0W10gZmllbGQgIm1FbGVtZW50RGF0YSIuCiAgICAgKi8KICAgIHByaXZhdGUgT2JqZWN0W10gZ2V0RWxlbWVudHMoQXJyYXkgYXJyYXkpIHsKICAgICAgICByZXR1cm4gUmVmbGVjdGlvbkhlbHBlci5maW5kRmlyc3RNYXRjaGluZ0ZpZWxkVmFsdWUoCiAgICAgICAgICAgICAgICBhcnJheSwKICAgICAgICAgICAgICAgIE9iamVjdFtdLmNsYXNzLAogICAgICAgICAgICAgICAgIm1FbGVtZW50RGF0YSIpOwogICAgfQoKICAgIC8qKgogICAgICogSGVscGVyIHRoYXQgdXNlcyByZWZsZWN0aW9uIHRvIHNldCB0aGUgY29udGVudHMKICAgICAqIG9mIHRoZSBwcml2YXRlIE9iamVjdFtdIGZpZWxkICJtRWxlbWVudERhdGEiLgogICAgICovCiAgICBwcml2YXRlIHZvaWQgc2V0RWxlbWVudHMoQXJyYXkgYXJyYXksIE9iamVjdFtdIGVsZW1lbnRzKSB0aHJvd3MgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB7CiAgICAgICAgUmVmbGVjdGlvbkhlbHBlci5pbmplY3RWYWx1ZUludG9NYXRjaGluZ0ZpZWxkKAogICAgICAgICAgICAgICAgYXJyYXksIGVsZW1lbnRzLCBPYmplY3RbXS5jbGFzcywgIm1FbGVtZW50RGF0YSIpOwogICAgfQoKICAgIC8qKgogICAgICogSGVscGVyIHRoYXQgdXNlcyByZWZsZWN0aW9uIHRvIGFjY2VzcyB0aGUgY29udGVudHMKICAgICAqIG9mIHRoZSBwcml2YXRlICJtU2l6ZSIgaW50IGZpZWxkLgogICAgICovCiAgICBwcml2YXRlIGludCBnZXRTaXplKEFycmF5IGFycmF5KSB7CiAgICAgICAgLy9ub2luc3BlY3Rpb24gQ29uc3RhbnRDb25kaXRpb25zCiAgICAgICAgcmV0dXJuIFJlZmxlY3Rpb25IZWxwZXIuZmluZEZpcnN0TWF0Y2hpbmdGaWVsZFZhbHVlKAogICAgICAgICAgICAgICAgYXJyYXksCiAgICAgICAgICAgICAgICBpbnQuY2xhc3MsCiAgICAgICAgICAgICAgICAibVNpemUiKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGFycmF5LmlzRW1wdHkoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGxpc3QgPSBnZXRJbnB1dFdpdGhEdXBzKG1NYXhUZXN0U2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheTxJbnRlZ2VyPiBhcnJheSA9IG5ldyBBcnJheTw+KDEpOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QxKCkgewo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDb25zdHJ1Y3RvckRvZXNOb3RTZXRTaXplKCkgewo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIEBUZXN0Cg==</text>
@@ -1747,19 +1748,19 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIENvbGxlY3Rpb25zLnNodWZmbGUobGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>Duplicates</last-search>
+      <last-search>add(</last-search>
       <last-offset />
-      <last-pattern>Duplicates</last-pattern>
+      <last-pattern>add(</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>throws</last-substitute>
       <last-dir>1</last-dir>
@@ -1767,7 +1768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>restore</entry>
         <entry>recyclerV</entry>
         <entry>savedIns</entry>
         <entry>hell</entry>
@@ -1787,6 +1787,7 @@
         <entry>ExpectedE</entry>
         <entry>throws</entry>
         <entry>Duplicates</entry>
+        <entry>add(</entry>
       </history-search>
       <history-cmd>
         <entry>e ~/.vimrc</entry>
