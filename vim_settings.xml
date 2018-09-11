@@ -715,15 +715,14 @@
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/androidx/recyclerview/widget/RecyclerView.java" timestamp="1536252883117">
         <mark key="'" line="6723" column="11" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" timestamp="1536680570564">
-        <mark key="a" line="60" column="0" />
-        <mark key="b" line="459" column="0" />
-        <mark key="d" line="110" column="26" />
-        <mark key="'" line="246" column="29" />
-        <mark key="[" line="56" column="24" />
-        <mark key="]" line="56" column="24" />
-        <mark key="." line="56" column="24" />
-        <mark key="^" line="56" column="24" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" timestamp="1536682540714">
+        <mark key="b" line="461" column="0" />
+        <mark key="d" line="113" column="26" />
+        <mark key="'" line="124" column="8" />
+        <mark key="[" line="123" column="22" />
+        <mark key="]" line="123" column="22" />
+        <mark key="." line="123" column="22" />
+        <mark key="^" line="119" column="32" />
       </file>
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/modules/GlideAppModuleInst.kt" timestamp="1533271287591">
         <mark key="[" line="19" column="15" />
@@ -1403,8 +1402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="23" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
-      <jump line="238" column="26" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="123" column="16" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="651" column="30" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="649" column="8" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
@@ -1503,10 +1500,12 @@
       <jump line="245" column="50" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="73" column="4" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="239" column="29" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
+      <jump line="64" column="59" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
+      <jump line="124" column="8" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>super.equals(o);</text>
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1708,58 +1707,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>super.equals(o);</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>mInputWithC</text>
+        <text>getInputWithClones</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE9iamVjdD4gaW5wdXQgPSBtUmFuZG9tSW5wdXRXaXRoTm9EdXBzOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGxvbmcgaSA9IDA7IGkgPCBzaXplIC8gMjsgaSsrKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9uZyB2YWx1ZSA9IG5ldyBMb25nKGJhc2UgKyAoaSAtIHNpemUgLyAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGxvbmcgaSA9IHNpemUgLyAyOyBpIDwgc2l6ZTsgaSsrKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IHZhbHVlID0gbmV3IE9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYmFzZSA9IDEwMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE9iamVjdD4gaW5wdXQgPSBtUmFuZG9tSW5wdXRXaXRoRHVwczsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIFRlc3RPYmplY3QgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3QgbykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfQogICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGNsb25lcyA9IGdldElucHV0V2l0aENsb25lcygyMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZEFsbChsaXN0Mik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYm94ZWQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZEFsbChsaXN0MSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJhbmRvbSgpLmxvbmdzKG1NYXhUZXN0U2l6ZSwgMCwgbU1heFRlc3RTaXplIC8gMikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oc2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxPYmplY3Q+IG1SYW5kb21JbnB1dFdpdGhEdXBzID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3QodG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>mInputWithC</last-search>
+      <last-search>getInputWithClones</last-search>
       <last-offset />
-      <last-pattern>mInputWithC</last-pattern>
+      <last-pattern>getInputWithClones</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>throws</last-substitute>
       <last-dir>1</last-dir>
@@ -1767,7 +1766,6 @@
     </search>
     <history>
       <history-search>
-        <entry>compositieUn</entry>
         <entry>omposite</entry>
         <entry>onCreate</entry>
         <entry>unregis</entry>
@@ -1787,6 +1785,7 @@
         <entry>mRandomIn</entry>
         <entry>Long</entry>
         <entry>mInputWithC</entry>
+        <entry>getInputWithClones</entry>
       </history-search>
       <history-cmd>
         <entry>e ~/.vimrc</entry>
