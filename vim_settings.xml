@@ -720,14 +720,13 @@
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/androidx/recyclerview/widget/RecyclerView.java" timestamp="1536252883117">
         <mark key="'" line="6723" column="11" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" timestamp="1536772664134">
-        <mark key="a" line="197" column="0" />
-        <mark key="b" line="461" column="0" />
-        <mark key="'" line="540" column="65" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="^" line="214" column="47" />
-        <mark key="." line="223" column="0" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" timestamp="1536775780910">
+        <mark key="b" line="469" column="0" />
+        <mark key="'" line="595" column="4" />
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="279" column="3" />
+        <mark key="^" line="279" column="3" />
+        <mark key="." line="279" column="3" />
       </file>
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/modules/GlideAppModuleInst.kt" timestamp="1533271287591">
         <mark key="[" line="19" column="15" />
@@ -1407,7 +1406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="33" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="641" column="8" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/main/MainActivity.kt" />
       <jump line="65" column="31" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
       <jump line="63" column="8" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/KotlinCoroutineCrawler.kt" />
@@ -1507,10 +1505,11 @@
       <jump line="42" column="33" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="584" column="47" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="512" column="65" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
+      <jump line="593" column="4" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoYXJyYXkuaW5kZXhPZihudWxsKSwgLTEpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogSGVscGVyIHRoYXQgdXNlcyByZWZsZWN0aW9uIHRvIGFjY2VzcyB0aGUgY29udGVudHMKICAgICAqIG9mIHRoZSBwcml2YXRlIE9iamVjdFtdIGZpZWxkICJtRWxlbWVudERhdGEiLgogICAgICovCiAgICBwcml2YXRlIE9iamVjdFtdIGdldEVsZW1lbnRzKEFycmF5IGFycmF5KSB7CiAgICAgICAgcmV0dXJuIFJlZmxlY3Rpb25IZWxwZXIuZmluZEZpcnN0TWF0Y2hpbmdGaWVsZFZhbHVlKAogICAgICAgICAgICAgICAgYXJyYXksCiAgICAgICAgICAgICAgICBPYmplY3RbXS5jbGFzcywKICAgICAgICAgICAgICAgICJtRWxlbWVudERhdGEiKTsKICAgIH0KCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1712,16 +1711,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mInputWithNoDups</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>Mixed</text>
+        <text encoding="base64">IGdldA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0SW5kZXhPZigpIHsKICAgICAgICBMaXN0PE9iamVjdD4gaW5wdXQgPSBtSW5wdXRXaXRoTm9EdXBzOwogICAgICAgIEFycmF5PE9iamVjdD4gYXJyYXkgPSBuZXcgQXJyYXk8PihpbnB1dCk7CgogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYXJyYXkuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgT2JqZWN0IG9iamVjdCA9IGlucHV0LmdldChpKTsKICAgICAgICAgICAgaW50IGluZGV4RXhwZWN0ZWQgPSBpbnB1dC5pbmRleE9mKG9iamVjdCk7CiAgICAgICAgICAgIGludCBpbmRleFJldHVybmVkID0gYXJyYXkuaW5kZXhPZihvYmplY3QpOwogICAgICAgICAgICBhc3NlcnRTYW1lKGluZGV4RXhwZWN0ZWQsIGluZGV4UmV0dXJuZWQpOwogICAgICAgIH0KCiAgICAgICAgYXNzZXJ0RXF1YWxzKGFycmF5LmluZGV4T2YobnVsbCksIC0xKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydE5vdEVxdWFscygtMSwgaW5kZXhSZXR1cm5lZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoYXJyYXkuaW5kZXhPZihudWxsKSwgLTEpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogSGVscGVyIHRoYXQgdXNlcyByZWZsZWN0aW9uIHRvIGFjY2VzcyB0aGUgY29udGVudHMKICAgICAqIG9mIHRoZSBwcml2YXRlIE9iamVjdFtdIGZpZWxkICJtRWxlbWVudERhdGEiLgogICAgICovCiAgICBwcml2YXRlIE9iamVjdFtdIGdldEVsZW1lbnRzKEFycmF5IGFycmF5KSB7CiAgICAgICAgcmV0dXJuIFJlZmxlY3Rpb25IZWxwZXIuZmluZEZpcnN0TWF0Y2hpbmdGaWVsZFZhbHVlKAogICAgICAgICAgICAgICAgYXJyYXksCiAgICAgICAgICAgICAgICBPYmplY3RbXS5jbGFzcywKICAgICAgICAgICAgICAgICJtRWxlbWVudERhdGEiKTsKICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1730,40 +1729,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RJbmRleE9mRXhpc3RpbmdOb25leGlzdGVudE51bGxWYWx1ZSgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEJlY2F1c2UgdGhpcyAK</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4UmV0dXJuZWQgPSBhcnJheS5pbmRleE9mKG9iamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvYmplY3QgIT0gbnVsbCAmJiBpbmRleFJldHVybmVkID09IC0xKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKC0xLCBpbmRleEV4cGVjdGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VHJ1ZShvYmplY3QgPT0gbnVsbCAmJiBpbmRleFJldHVybmVkICE9IC0xIHx8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4RXhwZWN0ZWQgPSBpbnB1dC5pbmRleE9mKG9iamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4UmV0dXJuZWQgPSBhcnJheS5pbmRleE9mKG9iamVjdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>Mixed</last-search>
+      <last-search encoding="base64">IGdldA==</last-search>
       <last-offset />
-      <last-pattern>Mixed</last-pattern>
+      <last-pattern encoding="base64">IGdldA==</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>throws</last-substitute>
       <last-dir>1</last-dir>
@@ -1771,7 +1770,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Array</entry>
         <entry>isEm</entry>
         <entry>getElem</entry>
         <entry>ExpectedE</entry>
@@ -1791,6 +1789,7 @@
         <entry>4</entry>
         <entry>size</entry>
         <entry>Mixed</entry>
+        <entry encoding="base64">IGdldA==</entry>
       </history-search>
       <history-cmd>
         <entry>e ~/.vimrc</entry>
