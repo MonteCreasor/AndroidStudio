@@ -725,14 +725,14 @@
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/androidx/recyclerview/widget/RecyclerView.java" timestamp="1536252883117">
         <mark key="'" line="6723" column="11" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" timestamp="1536802542794">
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" timestamp="1536803847726">
         <mark key="a" line="605" column="6" />
         <mark key="b" line="725" column="0" />
-        <mark key="'" line="457" column="16" />
-        <mark key="[" line="257" column="12" />
-        <mark key="]" line="257" column="18" />
-        <mark key="^" line="257" column="18" />
-        <mark key="." line="257" column="18" />
+        <mark key="'" line="426" column="22" />
+        <mark key="[" line="102" column="57" />
+        <mark key="]" line="103" column="3" />
+        <mark key="^" line="103" column="3" />
+        <mark key="." line="103" column="3" />
       </file>
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/modules/GlideAppModuleInst.kt" timestamp="1533271287591">
         <mark key="[" line="19" column="15" />
@@ -1415,7 +1415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="52" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="349" column="43" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="352" column="28" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="353" column="52" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
@@ -1515,10 +1514,11 @@
       <jump line="434" column="16" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="441" column="16" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="457" column="16" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
+      <jump line="426" column="22" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rangeCheck</text>
+        <text>mArrayMock</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1720,13 +1720,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rangeCheck</text>
+        <text>mArrayMock</text>
       </register>
       <register name="/" type="4">
         <text>testAdd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdCByYW5nZUNoZWNrCiAgICAgKi8KCg==</text>
+        <text encoding="base64">ICAgICAgICAobmV3IEFycmF5PD4oKSkuc2V0KDAsIG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogVGVzdCByYW5nZUNoZWNrCiAgICAgKi8KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdFJhbmdlQ2hlY2tPbmx5VXNlc1NpemVNZW1iZXIoKSB0aHJvd3MgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB7CiAgICAgICAgaW50IGZha2VTaXplID0gMTA7CiAgICAgICAgQXJyYXk8T2JqZWN0PiBhcnJheSA9IG5ldyBBcnJheTw+KGZha2VTaXplKTsKCiAgICAgICAgLy8gU2V0IHNpemUgdG8gYW4gYXJiaXRyYXJ5IHZhbHVlIGV2ZW4gdGhvdWdoIHRoZXJlCiAgICAgICAgLy8gYXJlIG5vIGJhY2tpbmcgZWxlbWVudHMgaW4gdGhpcyBlbXB0eSBhcnJheTsgcmFuZ2VDaGVjawogICAgICAgIC8vIHNob3VsZCBub3Qgb25seSBjYXJlIGFib3V0IG1TaXplIGFuZCBub3QgdGhlIGNvbnRlbnRzIG9mCiAgICAgICAgLy8gdGhlIGJhY2tpbmcgZWxlbWVudCBkYXRhLgogICAgICAgIHNldFNpemUoYXJyYXksIGZha2VTaXplKTsKCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBmYWtlU2l6ZTsgaSsrKSB7CiAgICAgICAgICAgIC8vIFNob3VsZCBuZXZlciB0aHJvdyBhbiBleGNlcHRpb24uCiAgICAgICAgICAgIGFycmF5LnJhbmdlQ2hlY2soaSk7CiAgICAgICAgfQogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0UmFuZ2VDaGVja09uRW1wdHlBcnJheSgpIHsKICAgICAgICBtRXhjZXB0aW9uLmV4cGVjdChJbmRleE91dE9mQm91bmRzRXhjZXB0aW9uLmNsYXNzKTsKICAgICAgICAobmV3IEFycmF5PD4oKSkucmFuZ2VDaGVjaygwKTsKICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdFJhbmdlQ2hlY2tJbmRleEJlbG93TG93ZXJCb3VuZCgpIHsKICAgICAgICBtRXhjZXB0aW9uLmV4cGVjdChJbmRleE91dE9mQm91bmRzRXhjZXB0aW9uLmNsYXNzKTsKICAgICAgICAobmV3IEFycmF5PD4obU1peGVkSW5wdXQpKS5yYW5nZUNoZWNrKC0xKTsKICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdFJhbmdlQ2hlY2tJbmRleEFib3ZlVXBwZXJCb3VuZCgpIHsKICAgICAgICBtRXhjZXB0aW9uLmV4cGVjdChJbmRleE91dE9mQm91bmRzRXhjZXB0aW9uLmNsYXNzKTsKICAgICAgICAobmV3IEFycmF5PD4obU1peGVkSW5wdXQpKS5yYW5nZUNoZWNrKG1NaXhlZElucHV0LnNpemUoKSk7CiAgICB9Cgo=</text>
