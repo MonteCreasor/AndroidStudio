@@ -863,13 +863,13 @@
         <mark key="^" line="0" column="137" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest7.java" timestamp="1536888233628">
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest7.java" timestamp="1536894125740">
         <mark key="a" line="114" column="7" />
-        <mark key="'" line="871" column="26" />
-        <mark key="[" line="93" column="19" />
-        <mark key="]" line="93" column="23" />
-        <mark key="." line="93" column="23" />
+        <mark key="'" line="850" column="26" />
+        <mark key="[" line="506" column="0" />
+        <mark key="]" line="506" column="0" />
         <mark key="^" line="93" column="23" />
+        <mark key="." line="506" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/KioskService.kt" timestamp="1530557938779">
         <mark key="[" line="32" column="0" />
@@ -1108,6 +1108,12 @@
         <mark key="]" line="11" column="27" />
         <mark key="." line="11" column="27" />
         <mark key="^" line="28" column="69" />
+      </file>
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" timestamp="1536894025990">
+        <mark key="'" line="32" column="6" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/data/ApiEndpoint.kt" timestamp="1529906628428">
         <mark key="[" line="5" column="11" />
@@ -1420,7 +1426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="44" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="533" column="40" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="536" column="27" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
       <jump line="538" column="20" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/current_assignment/ArrayTest7.java" />
@@ -1520,10 +1525,11 @@
       <jump line="11" column="17" filename="$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/Collection.class" />
       <jump line="83" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" />
       <jump line="86" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" />
+      <jump line="32" column="6" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1725,13 +1731,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mSize</text>
       </register>
       <register name="/" type="4">
         <text>addAll</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGFkZEFsbChBcnJheTxFPiBhKSB7CiAgICAgICAgaWYgKGEgPT0gbnVsbCkKICAgICAgICAgICAgdGhyb3cgbmV3IE51bGxQb2ludGVyRXhjZXB0aW9uKCJUaGUgYXJndW1lbnQgY2Fubm90IGJlIG51bGwiKTsKCiAgICAgICAgLy8gVE9ETyAtLSB5b3UgZmlsbCBpbiBoZXJlLgogICAgICAgIGVuc3VyZUNhcGFjaXR5SW50ZXJuYWwobVNpemUgKyBhLnNpemUoKSk7CgogICAgICAgIFN5c3RlbS5hcnJheWNvcHkoYS5tRWxlbWVudERhdGEsIDAsIG1FbGVtZW50RGF0YSwgbVNpemUsIGEubVNpemUpOwogICAgICAgIG1TaXplICs9IGEubVNpemU7CgogICAgICAgIHJldHVybiBhLm1TaXplID4gMDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KGEubUVsZW1lbnREYXRhLCAwLCBtRWxlbWVudERhdGEsIG1TaXplLCBhLm1TaXplKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1743,19 +1749,19 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYS5tU2l6ZSAhPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoYXJyYXlTcHksIHRpbWVzKGlucHV0LnNpemUoKSkpLmFkZChhbnkoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtU2l6ZSArPSBhLm1TaXplOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcnJheVNweS5hZGRBbGwoaW5wdXQpOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KGEubUVsZW1lbnREYXRhLCAwLCBtRWxlbWVudERhdGEsIG1TaXplLCBhLm1TaXplKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGUgdGVzdAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1764,10 +1770,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbnN1cmVDYXBhY2l0eUludGVybmFsKG1TaXplICsgYS5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheTxPYmplY3Q+IGFycmF5U3B5ID0gc3B5KG5ldyBBcnJheTw+KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGFkZEFsbDIoQXJyYXk8RT4gYSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE9iamVjdD4gaW5wdXQgPSBtU2h1ZmZsZWRNaXhlZElucHV0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
