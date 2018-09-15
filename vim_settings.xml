@@ -183,8 +183,8 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest8.java" timestamp="1536983729826">
-        <mark key="'" line="113" column="25" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest8.java" timestamp="1537031229388">
+        <mark key="'" line="180" column="0" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -1077,8 +1077,8 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="28" column="69" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" timestamp="1536984246673">
-        <mark key="'" line="177" column="21" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" timestamp="1537031360510">
+        <mark key="'" line="501" column="11" />
         <mark key="[" line="483" column="0" />
         <mark key="]" line="483" column="0" />
         <mark key="." line="483" column="0" />
@@ -1392,12 +1392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="19" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" />
-      <jump line="917" column="8" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest7.java" />
-      <jump line="986" column="12" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest7.java" />
-      <jump line="603" column="4" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest7.java" />
-      <jump line="616" column="41" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest7.java" />
-      <jump line="619" column="37" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest7.java" />
       <jump line="985" column="17" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest7.java" />
       <jump line="994" column="17" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest7.java" />
       <jump line="996" column="8" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest7.java" />
@@ -1492,6 +1486,12 @@
       <jump line="61" column="17" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest8.java" />
       <jump line="89" column="17" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest8.java" />
       <jump line="113" column="25" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest8.java" />
+      <jump line="180" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/utils/ArrayTest8.java" />
+      <jump line="530" column="20" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" />
+      <jump line="498" column="11" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" />
+      <jump line="492" column="5" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" />
+      <jump line="504" column="16" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" />
+      <jump line="501" column="11" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/utils/Array.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1700,7 +1700,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>stream()</text>
+        <text>grad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBTaG91bGQgbm90IGNhbGwgaXRlcmF0b3IoKQogICAgICAgIHZlcmlmeShhMSwgbmV2ZXIoKSkuaXRlcmF0b3IoKTsK</text>
@@ -1742,13 +1742,13 @@
         <text encoding="base64">Ly8gICAgICAgIFN0cmVhbSBzdHJlYW0gPSBBcnJheXMuc3RyZWFtKG1FbGVtZW50RGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>stream()</last-search>
+      <last-search>grad</last-search>
       <last-offset />
-      <last-pattern>stream()</last-pattern>
+      <last-pattern>grad</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>throws</last-substitute>
       <last-dir>1</last-dir>
@@ -1756,8 +1756,6 @@
     </search>
     <history>
       <history-search>
-        <entry>array\.add(</entry>
-        <entry>addAll(</entry>
         <entry>NullPointer</entry>
         <entry>throws</entry>
         <entry>[0]</entry>
@@ -1776,11 +1774,12 @@
         <entry>forEach</entry>
         <entry>forEach(</entry>
         <entry>stream()</entry>
+        <entry>ugrad</entry>
+        <entry>grad</entry>
       </history-search>
       <history-cmd>
         <entry>e ~/.vimrc</entry>
         <entry>rew</entry>
-        <entry>set ic</entry>
         <entry>map</entry>
         <entry>'a,./=/:/g</entry>
         <entry>g/=/:/</entry>
@@ -1798,6 +1797,7 @@
         <entry>set</entry>
         <entry>q!</entry>
         <entry>'a,'b //</entry>
+        <entry>set ic</entry>
       </history-cmd>
       <history-expr />
       <history-input />
