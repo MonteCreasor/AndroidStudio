@@ -116,6 +116,7 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/ccs/ccs-intake-app/app/build.gradle" timestamp="1537154142795" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gradle.properties" timestamp="1534786450608">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="26" />
@@ -407,11 +408,11 @@
         <mark key="^" line="26" column="59" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/app/build.gradle" timestamp="1537149565641">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/build.gradle" timestamp="1537154100688">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="27" />
         <mark key="^" line="85" column="0" />
-        <mark key="." line="89" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/clip2" timestamp="1532636871474">
         <mark key="[" line="0" column="0" />
@@ -631,9 +632,6 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1535500810138">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Android/code/ServicoCampo/build.gradle" timestamp="1534901257345">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="26" />
@@ -780,10 +778,10 @@
         <mark key="^" line="0" column="137" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/cur/PalantiriSimulator/build.gradle" timestamp="1537149489349">
+      <file name="$USER_HOME$/cur/PalantiriSimulator/build.gradle" timestamp="1537153802873">
         <mark key="[" line="12" column="60" />
-        <mark key="]" line="12" column="60" />
-        <mark key="." line="12" column="60" />
+        <mark key="]" line="12" column="61" />
+        <mark key="." line="12" column="61" />
         <mark key="^" line="12" column="60" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/KioskService.kt" timestamp="1530557938779">
@@ -1216,6 +1214,9 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="3" column="45" />
       </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/AUTOGRADER_SUBMISSION/unit-test-feedback.txt" timestamp="1537153950717">
+        <mark key="'" line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/db/Device.kt" timestamp="1529806209838">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1332,7 +1333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="64" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/build.gradle" />
       <jump line="70" column="64" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/build.gradle" />
       <jump line="71" column="68" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/build.gradle" />
       <jump line="72" column="65" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/build.gradle" />
@@ -1432,10 +1432,11 @@
       <jump line="66" column="36" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" />
       <jump line="42" column="8" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/asyncTask/AsyncBeingTest.java" />
       <jump line="43" column="28" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/FairSemaphoreWhiteBoxCOTest.java" />
+      <jump line="13" column="13" filename="$USER_HOME$/cur/PalantiriSimulator/AUTOGRADER_SUBMISSION/unit-test-feedback.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CnRhc2sgYXBwVGVzdChncm91cDogIl9fbW9udGVfXyIpIHsKICAgIGFmdGVyRXZhbHVhdGUgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vICAgICAgICBkZWYgcmVzdWx0ID0gdGFza3MuZmluZEFsbCB7IHRhc2sgLT4gdGFzay5uYW1lID09ICJtb2NrYWJsZUFuZHJvaWRKYXIiIHx8IHRhc2submFtZSA9PSAiY3JlYXRlTW9ja2FibGVKYXIifQogICAgICAgICAgICAvLyAgICAgICAgcHJpbnRsbigiZmluZEFsbCByZXR1cm5lZCAkcmVzdWx0IikKCiAgICAgICAgICAgIHRhc2tzLmVhY2ggewogICAgICAgICAgICAgICAgcHJpbnRsbigiVEFTSzogJGl0IikKICAgICAgICAgICAgfQogICAgICAgICAgICBkZXBlbmRzT24oIjphcHA6Y3JlYXRlTW9ja2FibGVKYXIiKQogICAgICAgICAgICBwcmludGxuKCJyb290IFNVQ0NFU1MhISEiKQogICAgICAgIH0gY2F0Y2ggKFRocm93YWJsZSB0KSB7CiAgICAgICAgICAgIHByaW50bG4oInJvb3QgRVhDRVBUSU9OISEhICR0IikKICAgICAgICB9CiAgICB9Cn0K</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWthcHQnCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1640,55 +1641,55 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>verify</text>
+        <text>FAIL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJpZnkobUxvY2tNb2NrLCB0aW1lcygxKSkubG9jaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnRhc2sgYXBwVGVzdChncm91cDogIl9fbW9udGVfXyIpIHsKICAgIGFmdGVyRXZhbHVhdGUgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vICAgICAgICBkZWYgcmVzdWx0ID0gdGFza3MuZmluZEFsbCB7IHRhc2sgLT4gdGFzay5uYW1lID09ICJtb2NrYWJsZUFuZHJvaWRKYXIiIHx8IHRhc2submFtZSA9PSAiY3JlYXRlTW9ja2FibGVKYXIifQogICAgICAgICAgICAvLyAgICAgICAgcHJpbnRsbigiZmluZEFsbCByZXR1cm5lZCAkcmVzdWx0IikKCiAgICAgICAgICAgIHRhc2tzLmVhY2ggewogICAgICAgICAgICAgICAgcHJpbnRsbigiVEFTSzogJGl0IikKICAgICAgICAgICAgfQogICAgICAgICAgICBkZXBlbmRzT24oIjphcHA6Y3JlYXRlTW9ja2FibGVKYXIiKQogICAgICAgICAgICBwcmludGxuKCJyb290IFNVQ0NFU1MhISEiKQogICAgICAgIH0gY2F0Y2ggKFRocm93YWJsZSB0KSB7CiAgICAgICAgICAgIHByaW50bG4oInJvb3QgRVhDRVBUSU9OISEhICR0IikKICAgICAgICB9CiAgICB9Cn0K</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWthcHQnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXV0b2dyYWRlciAtIGRvIG5vdCByZW1vdmUKLy8gVGhpcyBhcHBseSBzdGF0ZW1lbnQgTVVTVCBiZSBiZSBkZWNsYXJlZCBhZnRlciB0aGUgYW5kcm9pZCBibG9jay4KYXBwbHkgcGx1Z2luOiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyLnBsdWdpbicKCnRhc2sgYXBwVGVzdChncm91cDogIl9fbW9udGVfXyIpIHsKICAgIGFmdGVyRXZhbHVhdGUgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vICAgICAgICBkZWYgcmVzdWx0ID0gdGFza3MuZmluZEFsbCB7IHRhc2sgLT4gdGFzay5uYW1lID09ICJtb2NrYWJsZUFuZHJvaWRKYXIiIHx8IHRhc2submFtZSA9PSAiY3JlYXRlTW9ja2FibGVKYXIifQogICAgICAgICAgICAvLyAgICAgICAgcHJpbnRsbigiZmluZEFsbCByZXR1cm5lZCAkcmVzdWx0IikKCiAgICAgICAgICAgIHRhc2tzLmVhY2ggewogICAgICAgICAgICAgICAgcHJpbnRsbigiVEFTSzogJGl0IikKICAgICAgICAgICAgfQogICAgICAgICAgICBkZXBlbmRzT24oIjphcHA6Y3JlYXRlTW9ja2FibGVKYXIiKQogICAgICAgICAgICBwcmludGxuKCJyb290IFNVQ0NFU1MhISEiKQogICAgICAgIH0gY2F0Y2ggKFRocm93YWJsZSB0KSB7CiAgICAgICAgICAgIHByaW50bG4oInJvb3QgRVhDRVBUSU9OISEhICR0IikKICAgICAgICB9CiAgICB9Cn0K</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWFuZHJvaWQnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnRhc2sgYXBwVGVzdChncm91cDogIl9fbW9udGVfXyIpIHsKICAgIGFmdGVyRXZhbHVhdGUgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vICAgICAgICBkZWYgcmVzdWx0ID0gdGFza3MuZmluZEFsbCB7IHRhc2sgLT4gdGFzay5uYW1lID09ICJtb2NrYWJsZUFuZHJvaWRKYXIiIHx8IHRhc2submFtZSA9PSAiY3JlYXRlTW9ja2FibGVKYXIifQogICAgICAgICAgICAvLyAgICAgICAgcHJpbnRsbigiZmluZEFsbCByZXR1cm5lZCAkcmVzdWx0IikKCiAgICAgICAgICAgIHRhc2tzLmVhY2ggewogICAgICAgICAgICAgICAgcHJpbnRsbigiVEFTSzogJGl0IikKICAgICAgICAgICAgfQogICAgICAgICAgICBkZXBlbmRzT24oIjphcHA6Y3JlYXRlTW9ja2FibGVKYXIiKQogICAgICAgICAgICBwcmludGxuKCJyb290IFNVQ0NFU1MhISEiKQogICAgICAgIH0gY2F0Y2ggKFRocm93YWJsZSB0KSB7CiAgICAgICAgICAgIHByaW50bG4oInJvb3QgRVhDRVBUSU9OISEhICR0IikKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vIFJlcXVpcmVkIGJ5IFZhbmRlcmJpbHQgYXV0b2dyYWRlciAtIGRvIG5vdCByZW1vdmUKLy8gVGhpcyBhcHBseSBzdGF0ZW1lbnQgTVVTVCBiZSBiZSBkZWNsYXJlZCBhZnRlciB0aGUgYW5kcm9pZCBibG9jay4KYXBwbHkgcGx1Z2luOiAnZWR1LnZhbmRlcmJpbHQuZ3JhZGVyLnBsdWdpbicKCnRhc2sgYXBwVGVzdChncm91cDogIl9fbW9udGVfXyIpIHsKICAgIGFmdGVyRXZhbHVhdGUgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vICAgICAgICBkZWYgcmVzdWx0ID0gdGFza3MuZmluZEFsbCB7IHRhc2sgLT4gdGFzay5uYW1lID09ICJtb2NrYWJsZUFuZHJvaWRKYXIiIHx8IHRhc2submFtZSA9PSAiY3JlYXRlTW9ja2FibGVKYXIifQogICAgICAgICAgICAvLyAgICAgICAgcHJpbnRsbigiZmluZEFsbCByZXR1cm5lZCAkcmVzdWx0IikKCiAgICAgICAgICAgIHRhc2tzLmVhY2ggewogICAgICAgICAgICAgICAgcHJpbnRsbigiVEFTSzogJGl0IikKICAgICAgICAgICAgfQogICAgICAgICAgICBkZXBlbmRzT24oIjphcHA6Y3JlYXRlTW9ja2FibGVKYXIiKQogICAgICAgICAgICBwcmludGxuKCJyb290IFNVQ0NFU1MhISEiKQogICAgICAgIH0gY2F0Y2ggKFRocm93YWJsZSB0KSB7CiAgICAgICAgICAgIHByaW50bG4oInJvb3QgRVhDRVBUSU9OISEhICR0IikKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBSdWxlCiAgICBwdWJsaWMgTW9ja2l0b1J1bGUgbW9ja2l0b1J1bGUgPSBNb2NraXRvSlVuaXQucnVsZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDbGFzczw/PiB0eXBlID0gZmllbGQuZ2V0VHlwZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBSdWxlCiAgICBwdWJsaWMgTW9ja2l0b1J1bGUgbW9ja2l0b1J1bGUgPSBNb2NraXRvSlVuaXQucnVsZSgpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAib3JnLm1vY2tpdG86bW9ja2l0by1jb3JlOiR2ZXJzaW9ucy5tb2NraXRvIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDbGFzczw/PiB0eXBlID0gZmllbGQuZ2V0VHlwZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vaGFuZGxlci5tYXZlbiB7IHVybCAnaHR0cHM6Ly9vc3Muc29uYXR5cGUub3JnL2NvbnRlbnQvcmVwb3NpdG9yaWVzL3NuYXBzaG90cycgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>verify</last-search>
+      <last-search>FAIL</last-search>
       <last-offset />
-      <last-pattern>verify</last-pattern>
+      <last-pattern>FAIL</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -1696,7 +1697,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mContext</entry>
         <entry>Tip</entry>
         <entry>exp</entry>
         <entry>corou</entry>
@@ -1716,6 +1716,7 @@
         <entry>Any</entry>
         <entry>any</entry>
         <entry>verify</entry>
+        <entry>FAIL</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
