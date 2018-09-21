@@ -37,10 +37,16 @@
         <mark key="." line="0" column="74" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/app/build.gradle" timestamp="1537555176520">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="41" />
-        <mark key="." line="9" column="41" />
+      <file name="$USER_HOME$/client/brazil/aidl-example/app/src/main/AndroidManifest.xml" timestamp="1537556642484">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/client/brazil/aidl-example/app/build.gradle" timestamp="1537556603544">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="41" />
       </file>
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Framework/mobile/code/Android/Framework/code/gradle/wrapper/gradle-wrapper.properties" timestamp="1534877287276">
@@ -345,6 +351,12 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="32" />
       </file>
+      <file name="$USER_HOME$/client/brazil/aidl-example/server/src/main/AndroidManifest.xml" timestamp="1537555416704">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="37" />
+      </file>
       <file name="$USER_HOME$/client/brazil/aidl-example/receiver/src/main/aidl/axxiom/demo/IMainService.aidl" timestamp="1537553219308">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="16" />
@@ -563,6 +575,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/client/brazil/aidl-example/app/src/main/java/demo/client/MainActivity.kt" timestamp="1537556721455">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/model/LoggingModule.kt" timestamp="1531533510264">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -679,7 +696,7 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1537554011971">
+      <file name="/fragment.java" timestamp="1537556515524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Android/code/ServicoCampo/build.gradle" timestamp="1534901257345">
@@ -810,10 +827,10 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/server/build.gradle" timestamp="1537555188286">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="41" />
-        <mark key="." line="9" column="41" />
+      <file name="$USER_HOME$/client/brazil/aidl-example/server/build.gradle" timestamp="1537556618987">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="41" />
       </file>
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Android/code/Core/gradlew-linux" timestamp="1534883978735">
@@ -1473,8 +1490,8 @@
       <jump line="5" column="39" filename="$USER_HOME$/client/brazil/aidl-example/app/src/main/java/demo/binders/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>aidlexample</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGRlbW8uY2xpZW50LlIK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1676,7 +1693,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>aidlexample</text>
+        <text>binders</text>
       </register>
       <register name="/" type="4">
         <text>Intent</text>
@@ -1685,40 +1702,40 @@
         <text encoding="base64">ICAgIHByaXZhdGUgY29tLmFmb2xsZXN0YWQuYWlkbGV4YW1wbGUuSU1haW5TZXJ2aWNlIG1TZXJ2aWNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSJ0cnVlIgo=</text>
+        <text encoding="base64">aW1wb3J0IGRlbW8uY2xpZW50LlIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHBhY2thZ2UgPSBhaWRsLmNvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSJ0cnVlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIHBhY2thZ2UgPSBhaWRsLmNvbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigicHJvamVjdD0kaXQiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigicHJvamVjdD0kaXQiKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIGFpZGxGaWxlID0gZmlsZSgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGFpZGxGaWxlID0gZmlsZSgK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
