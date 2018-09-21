@@ -16,6 +16,15 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings />
+      </entry>
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="SvnDiffSettings">
@@ -29,8 +38,8 @@
     <option name="PLACES_MAP">
       <entry key="ChangesView">
         <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
       <entry key="Default">
@@ -39,6 +48,9 @@
           <option name="SHOW_INDENT_LINES" value="true" />
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
+      </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
       </entry>
     </option>
   </component>
