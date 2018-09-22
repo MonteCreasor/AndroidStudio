@@ -629,7 +629,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537485082124">
+      <file name="/Dummy.txt" timestamp="1537638230182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="126" />
         <mark key="." line="0" column="126" />
@@ -1126,6 +1126,13 @@
         <mark key="^" line="137" column="24" />
         <mark key="." line="137" column="24" />
       </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" timestamp="1537638224073">
+        <mark key="'" line="1223" column="55" />
+        <mark key="[" line="1223" column="55" />
+        <mark key="]" line="1220" column="40" />
+        <mark key="^" line="1220" column="40" />
+        <mark key="." line="1223" column="55" />
+      </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/settings/SettingsActivity.kt" timestamp="1533771496665">
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
@@ -1396,12 +1403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="71" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/build.gradle" />
-      <jump line="9" column="51" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/build.gradle" />
-      <jump line="10" column="67" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/build.gradle" />
-      <jump line="12" column="72" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/build.gradle" />
-      <jump line="166" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/screens/settings/SettingsDialogFragment.kt" />
-      <jump line="455" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/ui/DebugViewBase.kt" />
       <jump line="125" column="29" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/adapters/MultiSelectAdapter.kt" />
       <jump line="274" column="12" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/viewmodels/MainViewModel.kt" />
@@ -1496,10 +1497,16 @@
       <jump line="15" column="42" filename="$USER_HOME$/client/brazil/aidl-example/app/src/main/java/com/afollestad/aidlexample/MainActivity.java" />
       <jump line="57" column="36" filename="$USER_HOME$/client/brazil/aidl-example/app/src/main/java/com/afollestad/aidlexample/MainActivity.kt" />
       <jump line="5" column="39" filename="$USER_HOME$/client/brazil/aidl-example/app/src/main/java/demo/binders/MainActivity.kt" />
+      <jump line="1210" column="61" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1212" column="32" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1213" column="20" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1220" column="40" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1222" column="43" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
+      <jump line="1223" column="55" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/app/ui/screens/main/SimulationView.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyOC4wLjIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1701,10 +1708,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>binders</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>Intent</text>
+        <text>size</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgY29tLmFmb2xsZXN0YWQuYWlkbGV4YW1wbGUuSU1haW5TZXJ2aWNlIG1TZXJ2aWNlOwo=</text>
@@ -1750,9 +1757,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Intent</last-search>
+      <last-search>size</last-search>
       <last-offset />
-      <last-pattern>Intent</last-pattern>
+      <last-pattern>size</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -1760,7 +1767,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Any</entry>
         <entry>any</entry>
         <entry>verify</entry>
         <entry>FAIL</entry>
@@ -1780,6 +1786,7 @@
         <entry>Fore</entry>
         <entry>onnection</entry>
         <entry>Intent</entry>
+        <entry>size</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
