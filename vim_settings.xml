@@ -437,7 +437,7 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/imagecrawler/crawler/platform/JavaImage.java" timestamp="1537562816080">
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/imagecrawler/crawler/platform/JavaImage.java" timestamp="1537562907126">
         <mark key="'" line="106" column="20" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="36" />
@@ -658,7 +658,7 @@
         <mark key="]" line="74" column="17" />
         <mark key="." line="74" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537559355734">
+      <file name="/Dummy.txt" timestamp="1537564123937">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/authenticator/KeyProvider.kt" timestamp="1531885396310">
@@ -933,6 +933,9 @@
         <mark key="]" line="11" column="72" />
         <mark key="." line="11" column="72" />
         <mark key="^" line="11" column="72" />
+      </file>
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawler/crawlers/framework/ImageCrawler.java" timestamp="1537563001078">
+        <mark key="'" line="30" column="52" />
       </file>
       <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/core/UserAgentProvider.kt" timestamp="1529995165767">
         <mark key="[" line="89" column="0" />
@@ -1481,8 +1484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="23" filename="$USER_HOME$/client/vanderbilt/CS891-2018/solutions/assignments/assignment1b/app/src/main/java/edu/vandy/utils/Assignment.java" />
-      <jump line="138" column="29" filename="$USER_HOME$/client/vanderbilt/CS891-2018/solutions/assignments/assignment1b/app/src/test/java/edu/vandy/imagecrawler/utils/ArrayTests.java" />
       <jump line="148" column="52" filename="$USER_HOME$/client/vanderbilt/CS891-2018/solutions/assignments/assignment1b/app/src/test/java/edu/vandy/imagecrawler/utils/ArrayTests.java" />
       <jump line="188" column="48" filename="$USER_HOME$/client/vanderbilt/CS891-2018/solutions/assignments/assignment1b/app/src/test/java/edu/vandy/imagecrawler/utils/ArrayTests.java" />
       <jump line="458" column="38" filename="$USER_HOME$/client/vanderbilt/CS891-2018/solutions/assignments/assignment1b/app/src/test/java/edu/vandy/imagecrawler/utils/ArrayTests.java" />
@@ -1581,6 +1582,8 @@
       <jump line="104" column="8" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/imagecrawler/crawler/platform/JavaImage.java" />
       <jump line="105" column="8" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/imagecrawler/crawler/platform/JavaImage.java" />
       <jump line="106" column="20" filename="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/imagecrawler/crawler/platform/JavaImage.java" />
+      <jump line="84" column="48" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawler/crawlers/framework/ImageCrawler.java" />
+      <jump line="30" column="52" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawler/crawlers/framework/ImageCrawler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1789,7 +1792,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>BufferedImage</text>
+        <text>PlatformImage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliOiR2ZXJzaW9ucy5rb3RsaW4iCiAgICBpbXBsZW1lbnRhdGlvbiAib3JnLmpzb3VwOmpzb3VwOiR2ZXJzaW9ucy5qc291cCIKICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zOmFubm90YXRpb25zOiR2ZXJzaW9ucy5hbm5vdGF0aW9ucyIKICAgIGltcGxlbWVudGF0aW9uICJjb21tb25zLWlvOmNvbW1vbnMtaW86JHZlcnNpb25zLmNvbW1vbnNfaW8iCiAgICBpbXBsZW1lbnRhdGlvbiAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLXJlZmxlY3Q6JHZlcnNpb25zLmtvdGxpbiIKICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWNvcmU6JHZlcnNpb25zLmNvcm91dGluZXMiCiAgICBpbXBsZW1lbnRhdGlvbiAiaW8ucmVhY3RpdmV4LnJ4amF2YTI6cnhqYXZhOiR2ZXJzaW9ucy5yeGphdmEiCiAgICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi10ZXN0LWp1bml0OiR2ZXJzaW9ucy5rb3RsaW4iCiAgICB0ZXN0SW1wbGVtZW50YXRpb24gIm9yZy5tb2NraXRvOm1vY2tpdG8tY29yZTokdmVyc2lvbnMubW9ja2l0byIKICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAianVuaXQ6anVuaXQ6JHZlcnNpb25zLmp1bml0Igo=</text>
@@ -1835,9 +1838,9 @@
       </register>
     </registers>
     <search>
-      <last-search>BufferedImage</last-search>
+      <last-search>PlatformImage</last-search>
       <last-offset />
-      <last-pattern>BufferedImage</last-pattern>
+      <last-pattern>PlatformImage</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>throws</last-substitute>
       <last-dir>1</last-dir>
@@ -1845,7 +1848,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FUCK</entry>
         <entry>assigm</entry>
         <entry>ArrayList</entry>
         <entry>NoSuch</entry>
@@ -1865,6 +1867,7 @@
         <entry>rxjava2</entry>
         <entry>mockito</entry>
         <entry>BufferedImage</entry>
+        <entry>PlatformImage</entry>
       </history-search>
       <history-cmd>
         <entry>e ~/.vimrc</entry>
