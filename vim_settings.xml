@@ -513,11 +513,12 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" timestamp="1537760391576">
-        <mark key="[" line="766" column="34" />
-        <mark key="]" line="766" column="34" />
-        <mark key="^" line="766" column="34" />
-        <mark key="." line="766" column="34" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" timestamp="1537767388933">
+        <mark key="'" line="383" column="17" />
+        <mark key="[" line="956" column="77" />
+        <mark key="]" line="956" column="77" />
+        <mark key="^" line="956" column="77" />
+        <mark key="." line="956" column="77" />
       </file>
       <file name="$USER_HOME$/client/vanderbilt/examples/RecyclerViewMultiSelect/build.gradle" timestamp="1536000504142">
         <mark key="[" line="9" column="55" />
@@ -831,6 +832,7 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="23" column="28" />
       </file>
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/platform/AndroidPlatform.kt" timestamp="1537766947952" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/common/src/main/java/com/ideallife/healthtablet/common/Constants.kt" timestamp="1534004137063">
         <mark key="[" line="10" column="52" />
         <mark key="]" line="10" column="3" />
@@ -1489,9 +1491,6 @@
       <file name="$USER_HOME$/client/vanderbilt/crawler/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/admin/AssignmentBuilder.java" timestamp="1537761249500" />
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/client/vanderbilt/CS891-assignment-1b/app/src/test/java/edu/vandy/imagecrawler/utils/ArrayTests.java" />
-      <jump line="110" column="54" filename="$USER_HOME$/client/vanderbilt/CS891-assignment-1b/app/src/test/java/edu/vandy/imagecrawler/utils/ArrayTests.java" />
-      <jump line="112" column="26" filename="$USER_HOME$/client/vanderbilt/CS891-assignment-1b/app/src/test/java/edu/vandy/imagecrawler/utils/ArrayTests.java" />
       <jump line="113" column="59" filename="$USER_HOME$/client/vanderbilt/CS891-assignment-1b/app/src/test/java/edu/vandy/imagecrawler/utils/ArrayTests.java" />
       <jump line="118" column="41" filename="$USER_HOME$/client/vanderbilt/CS891-assignment-1b/app/src/test/java/edu/vandy/imagecrawler/utils/ArrayTests.java" />
       <jump line="0" column="29" filename="$USER_HOME$/client/vanderbilt/CS891-assignment-1b/app/src/main/java/edu/vandy/imagecrawler/utils/Array.java" />
@@ -1589,6 +1588,9 @@
       <jump line="6" column="22" filename="$USER_HOME$/client/vanderbilt/image-crawler/app/build.gradle" />
       <jump line="12" column="26" filename="$USER_HOME$/client/vanderbilt/image-crawler/app/build.gradle" />
       <jump line="7" column="23" filename="$USER_HOME$/client/vanderbilt/image-crawler/app/build.gradle" />
+      <jump line="923" column="17" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="955" column="67" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
+      <jump line="383" column="17" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Cache.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1797,7 +1799,7 @@
         <text encoding="base64">ICAgIC8vVE9ETzptb250ZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>28</text>
+        <text>new Item</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHVyaSA9IHVyaS5yZXBsYWNlKCIvLy8iLCAiLy8iKTsK</text>
@@ -1843,9 +1845,9 @@
       </register>
     </registers>
     <search>
-      <last-search>28</last-search>
+      <last-search>new Item</last-search>
       <last-offset />
-      <last-pattern>28</last-pattern>
+      <last-pattern>new Item</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>throws</last-substitute>
       <last-dir>1</last-dir>
@@ -1853,8 +1855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>refect</entry>
-        <entry>reflect</entry>
         <entry>-core</entry>
         <entry>rxjava2</entry>
         <entry>mockito</entry>
@@ -1873,6 +1873,8 @@
         <entry>isaAndroidPo</entry>
         <entry>isAndroidPro</entry>
         <entry>28</entry>
+        <entry>toString</entry>
+        <entry>new Item</entry>
       </history-search>
       <history-cmd>
         <entry>e ~/.vimrc</entry>
