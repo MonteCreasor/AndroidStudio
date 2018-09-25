@@ -460,13 +460,11 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="41" />
       </file>
-      <file name="$USER_HOME$/cur/grader/examples/DemoApp-Android-Studio-v3/build.gradle" timestamp="1537851712400">
-        <mark key="a" line="58" column="27" />
-        <mark key="'" line="115" column="30" />
-        <mark key="[" line="36" column="9" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="37" column="7" />
-        <mark key="^" line="37" column="7" />
+      <file name="$USER_HOME$/cur/grader/examples/DemoApp-Android-Studio-v3/build.gradle" timestamp="1537853886174">
+        <mark key="[" line="101" column="25" />
+        <mark key="]" line="101" column="30" />
+        <mark key="." line="101" column="30" />
+        <mark key="^" line="101" column="30" />
       </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/common/NavBar.kt" timestamp="1530854552612">
         <mark key="[" line="8" column="0" />
@@ -1778,8 +1776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="12" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
-      <jump line="194" column="4" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="195" column="21" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="215" column="25" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
       <jump line="225" column="50" filename="$USER_HOME$/client/vanderbilt/crawler-2018/build.gradle" />
@@ -1878,10 +1874,12 @@
       <jump line="89" column="27" filename="$USER_HOME$/cur/grader/examples/DemoApp-Android-Studio-v3/build.gradle" />
       <jump line="93" column="42" filename="$USER_HOME$/cur/grader/examples/DemoApp-Android-Studio-v3/build.gradle" />
       <jump line="98" column="30" filename="$USER_HOME$/cur/grader/examples/DemoApp-Android-Studio-v3/build.gradle" />
+      <jump line="38" column="31" filename="$USER_HOME$/cur/grader/examples/DemoApp-Android-Studio-v3/build.gradle" />
+      <jump line="34" column="12" filename="$USER_HOME$/cur/grader/examples/DemoApp-Android-Studio-v3/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>files(dir)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2083,49 +2081,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>files(dir)</text>
       </register>
       <register name="/" type="4">
         <text>subpro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oJG5hbWU6ICRpdCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZnJvbSBmaWxlcyhkaXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIG5hbWUgPSBwcm9qZWN0Lm5hbWUK</text>
+        <text encoding="base64">dGFzayB4eHgodHlwZTogSmFyKSB7CiAgICBjbGFzc2lmaWVyID0gJ3Rlc3RzJwogICAgc3VicHJvamVjdHMgeyB4IC0+CiAgICAgICAgYWZ0ZXJFdmFsdWF0ZSB7CiAgICAgICAgICAgIHByaW50bG4oInggPSAkeCIpCiAgICAgICAgICAgIGRlZiBmb3VuZCA9IHgudGFza3MuZmluZEJ5TmFtZSgndGVzdENsYXNzZXMnKQogICAgICAgICAgICBpZiAoZm91bmQpIHsKICAgICAgICAgICAgICAgIHByaW50bG4oIi0+Pj4+Pj4+Pj4+Pj4+Pj46ICR4Lm5hbWUgaGFzIHRhc2sgJ3Rlc3RDbGFzc2VzJyIpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">dGFzayB4eHgoKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFmdGVyRXZhbHVhdGUgewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhZnRlckV2YWx1YXRlIHsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiQkVGT1JFIEVWQUxVQVRFIFNVQlBST0pFQ1Q6ICRuYW1lIGhhcyB0YXNrICd0ZXN0Q2xhc3NlcyciKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3VicHJvamVjdHMge30K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZm91bmQxKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgZm91bmQxID0gdGFza3MuZmluZEJ5TmFtZSgndGVzdENsYXNzZXMnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
