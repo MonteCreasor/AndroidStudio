@@ -279,10 +279,10 @@
         <mark key="^" line="9" column="79" />
         <mark key="." line="9" column="79" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/build.gradle" timestamp="1537912871682">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
+      <file name="$USER_HOME$/client/brazil/aidl-example/build.gradle" timestamp="1537915917139">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugMockAppComponent.kt" timestamp="1531785169753">
@@ -820,10 +820,13 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/build.gradle" timestamp="1537912772582">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/build.gradle" timestamp="1537916565938">
+        <mark key="a" line="38" column="0" />
+        <mark key="'" line="55" column="76" />
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="29" />
+        <mark key="." line="43" column="29" />
+        <mark key="^" line="43" column="29" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/assets/form.html" timestamp="1530516106733">
         <mark key="[" line="19" column="0" />
@@ -1548,7 +1551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="8" filename="$USER_HOME$/client/brazil/raw_checkout/code/Framework/mobile/code/Android/Framework/code/app/src/main/java/com/axxiom/framework/communication/HttpAsyncTask.java" />
       <jump line="95" column="35" filename="$USER_HOME$/client/brazil/raw_checkout/code/Framework/mobile/code/Android/Framework/code/app/src/main/java/com/axxiom/framework/communication/HttpAsyncTask.java" />
       <jump line="110" column="124" filename="$USER_HOME$/client/brazil/raw_checkout/code/Framework/mobile/code/Android/Framework/code/app/src/main/java/com/axxiom/framework/communication/HttpAsyncTask.java" />
       <jump line="38" column="26" filename="$USER_HOME$/client/brazil/raw_checkout/code/Framework/mobile/code/Android/Framework/code/app/src/main/java/com/axxiom/framework/communication/HttpAsyncTask.java" />
@@ -1648,10 +1650,11 @@
       <jump line="15" column="46" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/DemoService.kt" />
       <jump line="29" column="39" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="41" column="27" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
+      <jump line="48" column="76" filename="$USER_HOME$/client/brazil/aidl-example/server-0/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>objectPath</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1853,49 +1856,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>objectPath</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2VydmljZUludGVudCA9IEludGVudCgpLnNldENvbXBvbmVudChDb21wb25lbnROYW1lKCJkZW1vLnNlcnZlciIsICJkZW1vLnNlcnZlci5EZW1vU2VydmljZSIpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBwYXJzZWRQYXRoID0gImRlbW8uYmluZGVycyIucmVwbGFjZSgnLicsICcvJykKICAgIGRlZiBvYmplY3RQYXRoID0gIiR7cC5wcm9qZWN0RGlyfS9zcmMvbWFpbi9haWRsLyRwYXJzZWRQYXRoL09iamVjdCR0YWciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNlcnZpY2U6IElEZW1vU2VydmljZT8gPSBudWxsCiAgICB2YXIgaXRlcmF0aW9uID0gMAoK</text>
+        <text encoding="base64">ICAgIGRlZiBwYXJzZWRQYXRoID0gImRlbW8uYmluZGVycyIucmVwbGFjZSgnLicsICcvJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZXJ2aWNlSW50ZW50ID0gSW50ZW50KCkuc2V0Q29tcG9uZW50KENvbXBvbmVudE5hbWUoImRlbW8uc2VydmVyIiwgImRlbW8uc2VydmVyLkRlbW9TZXJ2aWNlIikpCg==</text>
+        <text encoding="base64">ZGVmIEJJTkRFUl9QQUNLQUdFID0gImRlbW8uYmluZGVycyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBpdGVyYXRpb24gPSAwOwo=</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAxOyBpIDwgQklOREVSX0NPVU5UOyBpKyspIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlZiBCSU5ERVJfQ09VTlQgPSAxMAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgZmlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZSgpIHsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oInByb2plY3Q9JHAgcm9vdERpcj0ke3AucHJvamVjdERpcn0iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
