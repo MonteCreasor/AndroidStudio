@@ -663,7 +663,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538023435102">
+      <file name="/Dummy.txt" timestamp="1538024679189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1492,11 +1492,14 @@
         <mark key="^" line="44" column="29" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/res/layout/activity_main.xml" timestamp="1538023389367">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="34" column="3" />
-        <mark key="^" line="34" column="3" />
-        <mark key="." line="34" column="3" />
+      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/res/layout/activity_main.xml" timestamp="1538025323775">
+        <mark key="a" line="34" column="18" />
+        <mark key="'" line="32" column="34" />
+        <mark key="[" line="56" column="39" />
+        <mark key="m" line="5" column="43" />
+        <mark key="]" line="56" column="40" />
+        <mark key="^" line="56" column="41" />
+        <mark key="." line="56" column="40" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/db/Device.kt" timestamp="1529806209838">
         <mark key="[" line="6" column="0" />
@@ -1572,13 +1575,12 @@
         <mark key="^" line="52" column="45" />
         <mark key="." line="52" column="46" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" timestamp="1538019895280">
-        <mark key="a" line="27" column="22" />
-        <mark key="'" line="78" column="12" />
-        <mark key="[" line="180" column="23" />
-        <mark key="]" line="180" column="23" />
-        <mark key="^" line="144" column="55" />
-        <mark key="." line="180" column="23" />
+      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" timestamp="1538025891775">
+        <mark key="'" line="39" column="16" />
+        <mark key="[" line="58" column="21" />
+        <mark key="]" line="59" column="7" />
+        <mark key="." line="59" column="7" />
+        <mark key="^" line="59" column="7" />
       </file>
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Android/code/models/gradle.properties" timestamp="1534870937133">
         <mark key="[" line="15" column="15" />
@@ -1618,9 +1620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="20" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
-      <jump line="50" column="0" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
-      <jump line="19" column="15" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/DemoService.kt" />
       <jump line="39" column="15" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/DemoService.kt" />
       <jump line="6" column="14" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/DemoService.kt" />
       <jump line="18" column="23" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/DemoService.kt" />
@@ -1661,7 +1660,6 @@
       <jump line="117" column="0" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="104" column="14" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="28" column="0" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
-      <jump line="29" column="31" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="34" column="65" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="88" column="47" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="105" column="51" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
@@ -1718,10 +1716,14 @@
       <jump line="53" column="18" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="78" column="12" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="33" column="4" filename="$USER_HOME$/client/brazil/aidl-example/server-0/build.gradle" />
+      <jump line="31" column="34" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/res/layout/activity_main.xml" />
+      <jump line="69" column="16" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
+      <jump line="29" column="7" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
+      <jump line="39" column="16" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Rebind C</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZW1vU2VydmljZSEhCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1923,58 +1925,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Rebind C</text>
+        <text encoding="base64">ID09IG51bGwpIHs=</text>
       </register>
       <register name="/" type="4">
-        <text>fuck</text>
+        <text>demoS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICA8QnV0dG9uCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9idXR0b24iCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkJ1dHRvbiIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBkZW1vU2VydmljZSEhCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkJ1dHRvbiIvPgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J1dHRvbiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaSBpbiAxLi5OVU1fQklOREVSUykgewogICAgICAgICAgICAgICAgICAgIHZhbCBiaW5kZXIgPSBkZW1vU2VydmljZS5nZXRCaW5kZXIoaSkhIQogICAgICAgICAgICAgICAgICAgIGNhY2hlQmluZGVyKGJpbmRlcikKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxCdXR0b24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkJ1dHRvbiIvPgo=</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Igo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBsb2coIlNlcnZpY2UgZGlzY29ubmVjdGVkIGZvciBjb21wb25lbnQgJG5hbWUuIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J1dHRvbiIK</text>
+        <text encoding="base64">Ly8gICAgICAgIG92ZXJyaWRlIGZ1biBvblNlcnZpY2VEaXNjb25uZWN0ZWQobmFtZTogQ29tcG9uZW50TmFtZSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>fuck</last-search>
+      <last-search>demoS</last-search>
       <last-offset />
-      <last-pattern>fuck</last-pattern>
+      <last-pattern>demoS</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -1982,8 +1984,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bindSe</entry>
-        <entry>bindToService</entry>
         <entry>\.\.</entry>
         <entry>useBinder</entry>
         <entry>Click</entry>
@@ -2002,6 +2002,8 @@
         <entry>BINDER_PREF</entry>
         <entry>AIDL_</entry>
         <entry>fuck</entry>
+        <entry>onResume</entry>
+        <entry>demoS</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
