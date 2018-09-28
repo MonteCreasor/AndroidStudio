@@ -189,10 +189,11 @@
         <mark key="^" line="41" column="18" />
         <mark key="." line="41" column="18" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/binders/BinderFactory.kt" timestamp="1538148153279">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/binders/BinderFactory.kt" timestamp="1538157908374">
+        <mark key="a" line="28" column="25" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="78" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/EnumSpinnerAdapter.kt" timestamp="1529872373376">
         <mark key="[" line="34" column="0" />
@@ -1165,10 +1166,11 @@
         <mark key="^" line="75" column="23" />
         <mark key="." line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/test/java/demo/binders/BinderFactoryTest.kt" timestamp="1538114168991">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/test/java/demo/binders/BinderFactoryTest.kt" timestamp="1538158084816">
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="22" column="44" />
+        <mark key="." line="22" column="44" />
+        <mark key="^" line="22" column="44" />
       </file>
       <file name="$USER_HOME$/client/brazil/aidl-example/client2/src/main/java/demo/client2/MainActivity.kt" timestamp="1537909471755">
         <mark key="[" line="38" column="5" />
@@ -1232,7 +1234,6 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/demo/binders/IBinder1.java" timestamp="1538101521756" />
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/AppModule.java" timestamp="1530143765236">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="22" />
@@ -1734,8 +1735,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhY2hlQmluZGVyKGFueSkK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1937,49 +1938,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>binder::class.java</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>BASE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIElCaW5kZXIgZ2V0QmluZGVyKGludCBpZCk7Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRJbnRlcmZhY2VOYW1lRnJvbUlkKGlkOiBTdHJpbmcpID0gIiRCSU5ERVJfUEFDS0FHRS5JJEJJTkRFUl9CQVNFTkFNRSRpZCIKICAgIGZ1biBnZXRDbGFzc05hbWVGcm9tSWQoaWQ6IFN0cmluZykgPSAiJEJJTkRFUl9QQUNLQUdFLiRCSU5ERVJfQkFTRU5BTUUkaWQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhY2hlQmluZGVyKGFueSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludGVyZmFjZU1hcFtjbHNdID0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBhbnkgPSBpZmFjZSBhcyBJSW50ZXJmYWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJmYWNlTWFwW2Nsc10gPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBpZmFjZSA9IGltcGw/Lmludm9rZShiaW5kZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xzLmdldE1ldGhvZChjbHMubmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1ldGhvZE5hbWUgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0dWJDbGFzcyA9IENsYXNzLmZvck5hbWUoIiR7Y2xzLm5hbWV9LlN0dWIiKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNscyA9IENsYXNzLmZvck5hbWUoZ2V0SW50ZXJmYWNlTmFtZUZyb21JZChpLnRvU3RyaW5nKCkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiaW5kZXIgaXMgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0dWJDbHNzID0gQ2xhc3MuZm9yTmFtZShnZXRJbnRlcmZhY2VOYW1lRnJvbUlkKGkudG9TdHJpbmcoKSkpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjbHMgPSBiaW5kZXI6OmNsYXNzLmphdmEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0dWJDbGFzc05hbWUgPSBjbHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB4ID0gaW1wbCBhcyBJQmluZGVyMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHkgPSAiZGVtby5iaW5kZXJzLklCaW5kZXIxLlN0dWIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
