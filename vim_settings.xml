@@ -279,6 +279,13 @@
         <mark key="^" line="9" column="79" />
         <mark key="." line="9" column="79" />
       </file>
+      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/binders/BinderMap.kt" timestamp="1538110042004">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+      </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/tools/settings/DebugMockAppComponent.kt" timestamp="1531785169753">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -484,14 +491,6 @@
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
-      </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/DemoService.kt" timestamp="1538015156529">
-        <mark key="a" line="20" column="16" />
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="31" />
-        <mark key="^" line="43" column="31" />
-        <mark key="." line="43" column="31" />
       </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/form/clip2" timestamp="1532636871474">
         <mark key="[" line="0" column="0" />
@@ -736,10 +735,6 @@
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
-      </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/client-1/src/main/java/demo/client1/MainActivity.kt" timestamp="1538016978093">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="61" />
       </file>
       <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/build.gradle" timestamp="1532199270680">
         <mark key="[" line="17" column="16" />
@@ -1577,11 +1572,11 @@
       <file name="_windows/path.macros.xml" timestamp="1537549804523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/binders/Mapper.kt" timestamp="1538107935612">
-        <mark key="[" line="11" column="50" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="12" column="42" />
+      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/binders/Mapper.kt" timestamp="1538108851039">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/alerts/SetPinAlert.kt" timestamp="1530854158123">
         <mark key="[" line="52" column="46" />
@@ -1635,8 +1630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="36" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
-      <jump line="76" column="8" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="71" column="15" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="171" column="20" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="78" column="12" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
@@ -1735,10 +1728,12 @@
       <jump line="106" column="30" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="70" column="0" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="104" column="20" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
+      <jump line="14" column="41" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/binders/BinderMap.kt" />
+      <jump line="8" column="13" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/binders/BinderMap.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>Function</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1940,67 +1935,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>Function</text>
       </register>
       <register name="/" type="4">
-        <text>linkToDeath</text>
+        <text>Function</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1hcC5wdXQoSUJpbmRlcjE6OmNsYXNzLmphdmEsIG9iamVjdDogRnVuY3Rpb248SUJpbmRlciwgQmluZGVyMT4gewo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeCA9IG1hcFtJQmluZGVyMTo6Y2xhc3MuamF2YV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYjEgPSBmMShiaW5kZXIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB2YWwgZjEgPSBtYXBbSUJpbmRlcjE6OmNsYXNzLmphdmFdCiAgICAgICAgdmFsIGYyID0gbWFwW0lCaW5kZXIyOjpjbGFzcy5qYXZhXQogICAgICAgIAogICAgICAgIHZhbCBiMSA9IGYxKGJpbmRlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGdW5jdGlvbmRkago=</text>
+        <text encoding="base64">ICAgIHZhciBtYXAyID0gSGFzaE1hcDxDbGFzczwqPiwgKElCaW5kZXIpIC0+ICo+KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8JCX0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8JCQl9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8JCQkJcmV0dXJuIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8JCQlwdWJsaWMgSUJpbmRlcjEgc2VsZWN0KElCaW5kZXIgaUJpbmRlcikgewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8JCQlAT3ZlcnJpZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>linkToDeath</last-search>
+      <last-search>Function</last-search>
       <last-offset />
-      <last-pattern>linkToDeath</last-pattern>
+      <last-pattern>Function</last-pattern>
       <last-replace>=</last-replace>
-      <last-substitute>:</last-substitute>
+      <last-substitute>linkToDeath</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>connection = null</entry>
-        <entry>demoService</entry>
         <entry>disconnect</entry>
         <entry>bindService</entry>
         <entry>Excep</entry>
@@ -2019,6 +2012,8 @@
         <entry encoding="base64">QWRkaW5nIA==</entry>
         <entry>Adding</entry>
         <entry>linkToDeath</entry>
+        <entry>1</entry>
+        <entry>Function</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
