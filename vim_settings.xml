@@ -193,12 +193,12 @@
         <mark key="^" line="41" column="18" />
         <mark key="." line="41" column="18" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/binders/BinderFactory.kt" timestamp="1538177962733">
-        <mark key="a" line="22" column="0" />
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="36" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="10" column="36" />
+      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/binders/BinderFactory.kt" timestamp="1538179427847">
+        <mark key="'" line="54" column="7" />
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/EnumSpinnerAdapter.kt" timestamp="1529872373376">
         <mark key="[" line="34" column="0" />
@@ -1666,8 +1666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="29" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
-      <jump line="1" column="0" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="46" column="0" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="118" column="16" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="96" column="16" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
@@ -1766,10 +1764,12 @@
       <jump line="81" column="25" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/test/java/demo/binders/BinderFactoryTest.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/test/java/demo/binders/BinderFactoryTest.kt" />
       <jump line="42" column="0" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/test/java/demo/binders/BinderFactoryTest.kt" />
+      <jump line="11" column="37" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/binders/BinderFactory.kt" />
+      <jump line="54" column="7" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/binders/BinderFactory.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB4ID0gbWV0aG9kLmludm9rZShiaW5kZXIpIGFzIElCaW5kZXIK</text>
+      <register name="&quot;" type="4">
+        <text>IBinder</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1971,58 +1971,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>IBinder</text>
       </register>
       <register name="/" type="4">
-        <text>className</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGNsYXNzTmFtZSA9IEJpbmRlckZhY3RvcnkuZ2V0Q2xhc3NOYW1lRnJvbUlkKGlkLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB4ID0gbWV0aG9kLmludm9rZShiaW5kZXIpIGFzIElCaW5kZXIK</text>
+        <text encoding="base64">ICAgIHZhbCBCSU5ERVJfQ09VTlQgPSBOVU1fQklOREVSUwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjYWNoZQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluaXQgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRlbW8uQ29uc3RhbnRzCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBpdGVyYXRvcigpOiBJdGVyYXRvcjxTdHJpbmc+ID0gY2FjaGUua2V5cy5pdGVyYXRvcigpCiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgIHZhbCBtYXAgPSBtdXRhYmxlTWFwT2Y8U3RyaW5nLCBBbnk+KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhciBjYWNoZSA9IG11dGFibGVNYXBPZjxTdHJpbmcsIEFueT4oKQoKICAgIHZhbCBCSU5ERVJfQ09VTlQgPSBOVU1fQklOREVSUwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>className</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>className</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>linkToDeath</last-substitute>
       <last-dir>1</last-dir>
@@ -2030,7 +2030,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getAllBind</entry>
         <entry>getB</entry>
         <entry>asInt</entry>
         <entry encoding="base64">QWRkaW5nIA==</entry>
@@ -2050,6 +2049,7 @@
         <entry>new</entry>
         <entry>Proxy</entry>
         <entry>className</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
