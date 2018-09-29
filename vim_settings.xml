@@ -703,7 +703,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538159330285">
+      <file name="/Dummy.txt" timestamp="1538182623920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1619,12 +1619,13 @@
         <mark key="^" line="52" column="45" />
         <mark key="." line="52" column="46" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" timestamp="1538181627717">
-        <mark key="a" line="139" column="54" />
-        <mark key="'" line="210" column="37" />
-        <mark key="[" line="210" column="48" />
-        <mark key="]" line="210" column="48" />
-        <mark key="." line="210" column="48" />
+      <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" timestamp="1538183037718">
+        <mark key="a" line="140" column="54" />
+        <mark key="'" line="240" column="45" />
+        <mark key="[" line="257" column="37" />
+        <mark key="]" line="257" column="46" />
+        <mark key="." line="257" column="46" />
+        <mark key="^" line="257" column="46" />
       </file>
       <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/test/java/demo/binders/IBinderX.java" timestamp="1538167840558">
         <mark key="[" line="0" column="0" />
@@ -1669,7 +1670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="12" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="100" column="16" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="72" column="4" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="75" column="8" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
@@ -1769,10 +1769,11 @@
       <jump line="53" column="8" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="247" column="46" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="210" column="37" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
+      <jump line="240" column="45" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text>FOCUS</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -1974,58 +1975,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text>FOCUS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Y2FsbGVkIGZvciA=</text>
+        <text>useBinder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGNsYXNzTmFtZSA9IEJpbmRlckZhY3RvcnkuZ2V0Q2xhc3NOYW1lRnJvbUlkKGlkLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmluZGVyRmFjdG9yeS5mb3JFYWNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmluZGVycwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBCSU5ERVJfQ09VTlQgPSBOVU1fQklOREVSUwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmluZGVyRmFjdG9yeS51c2VCaW5kZXJzKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQK</text>
+        <text encoding="base64">ICAgICAgICBsb2coIiR7YmluZGVyLm5hbWV9LnBpbmcgcmV0dXJuZWQgLT4gJHJlc3VsdCIpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBpdGVyYXRvcigpOiBJdGVyYXRvcjxTdHJpbmc+ID0gY2FjaGUua2V5cy5pdGVyYXRvcigpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBFeGNlcHRpb24oImRlbW9TZXJ2aWNlIGJpbmRlciByZXR1cm5lZCB1bmtub3duIGJpbmRlciBvYmplY3QiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXAgPSBtdXRhYmxlTWFwT2Y8U3RyaW5nLCBBbnk+KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAgLT4gSUJpbmRlcjEwLlN0dWIuYXNJbnRlcmZhY2UoYmluZGVyKS5waW5nKCJCaW5kZXIxMCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Y2FsbGVkIGZvciA=</last-search>
+      <last-search>useBinder</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Y2FsbGVkIGZvciA=</last-pattern>
+      <last-pattern>useBinder</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>linkToDeath</last-substitute>
       <last-dir>1</last-dir>
@@ -2033,7 +2034,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">QWRkaW5nIA==</entry>
         <entry>Adding</entry>
         <entry>linkToDeath</entry>
         <entry>1</entry>
@@ -2053,6 +2053,7 @@
         <entry>cache</entry>
         <entry>kill</entry>
         <entry encoding="base64">Y2FsbGVkIGZvciA=</entry>
+        <entry>useBinder</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
