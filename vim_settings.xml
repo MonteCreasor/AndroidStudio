@@ -1892,6 +1892,12 @@
         <mark key="^" line="44" column="29" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/client/brazil/demo/server-0/src/main/java/demo/server/MainService.kt" timestamp="1538288346451">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="56" column="14" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/model/db/Device.kt" timestamp="1529806209838">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -2161,8 +2167,8 @@
       <jump line="28" column="36" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>binders.keys.forEach {</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2364,58 +2370,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>binders.keys.forEach {</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>binders\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJkZW1vLmNvbW1vbi5NYWluQWN0aXZpdHkiCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIuTWFpbkFjdGl2aXR5Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIuTWFpbkFjdGl2aXR5Igo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYmluZGVycyA9IENvbmN1cnJlbnRIYXNoTWFwPEludCwgQW55PigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy50ZXh0ID0gdGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5tYXRoLmxvZwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlcyA9IGpvaW5Ub1N0cmluZygiLyIpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2coaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBpZCA9IGludGVudC5leHRyYXMhIS5nZXRJbnQoU0VSVklDRV9JTlRFTlRfSURfS0VZKQogICAgICAgICAgICAgICAgaWYgKGlkID09IDApIHsKICAgICAgICAgICAgICAgICAgICBCaW5kZXJGYWN0b3J5KCkKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIGNsYXNzTmFtZSA9ICIkQklOREVSX1BBQ0tBR0UuJEJJTkRFUl9CQVNFTkFNRSRpZCIKICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgib25CaW5kKCRjbGFzc05hbWUpIikKCiAgICAgICAgICAgICAgICAgICAgdmFyIGJpbmRlciA9IGJpbmRlcnNbaWRdCiAgICAgICAgICAgICAgICAgICAgaWYgKGJpbmRlciA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJvbkJpbmQoJGNsYXNzTmFtZSkgLT4gcmV0dXJuaW5nIG5ldyBiaW5kZXIiKQogICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZGVyID0gbmV3QmluZGVyKGlkKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZGVyc1tpZF0gPSBiaW5kZXIKICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZShlLCAib25CaW5kKCRjbGFzc05hbWUpIC0+IHVuYWJsZSB0byBjcmVhdGUgYmluZGVyIGluc3RhbmNlIikKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKCJvbkJpbmQoJGNsYXNzTmFtZSkgLT4gcmV0dXJuaW5nIGNhY2hlZCBiaW5kZXIiKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBiaW5kZXIgYXMgSUJpbmRlcgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgb3V0cHV0ID0gbGlzdC5qb2luVG9TdHJpbmcoIi8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBvdXRwdXQgPSBsaXN0LmpvaW5Ub1N0cmluZygiLyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaW5kZXJGYWN0b3J5KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>binders\.</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>binders\.</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>Obse</last-substitute>
       <last-dir>1</last-dir>
@@ -2423,11 +2429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getAllB</entry>
-        <entry>postV</entry>
-        <entry>println</entry>
-        <entry>runOnUiT</entry>
-        <entry>getAllBinders</entry>
         <entry>linkToDeath</entry>
         <entry>warn</entry>
         <entry>error</entry>
@@ -2443,6 +2444,11 @@
         <entry>Timber</entry>
         <entry>Adding</entry>
         <entry>log</entry>
+        <entry>cacheB</entry>
+        <entry>binders.put</entry>
+        <entry>\.put</entry>
+        <entry>bindres.</entry>
+        <entry>binders\.</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
