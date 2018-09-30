@@ -1278,12 +1278,13 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538337264472">
-        <mark key="a" line="153" column="0" />
-        <mark key="j" line="164" column="7" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538338178170">
+        <mark key="'" line="129" column="83" />
+        <mark key="j" line="175" column="7" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="119" column="44" />
       </file>
       <file name="$USER_HOME$/client/brazil/AIDLDemo/AIDLClient/gradle/wrapper/gradle-wrapper.properties" timestamp="1534732033045">
         <mark key="[" line="5" column="69" />
@@ -2039,9 +2040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="16" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" />
-      <jump line="173" column="12" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" />
-      <jump line="193" column="16" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="208" column="16" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="60" column="20" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="137" column="13" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" />
@@ -2139,10 +2137,13 @@
       <jump line="111" column="29" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="94" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="3" column="23" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="234" column="29" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="112" column="19" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="127" column="83" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5kZXJGYWN0b3J5ID0gSUJpbmRlckZhY3RvcnkuU3R1Yi5hc0ludGVyZmFjZShzZXJ2aWNlKSEhCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2344,58 +2345,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>binder</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
-        <text>Intent</text>
+        <text>binderName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGlmICghQXBwLmluc3RhbmNlLmJpbmRTZXJ2aWNlKGludGVudCwgY29ubmVjdGlvbiEhLCBmbGFncykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgRXhjZXB0aW9uKCJiaW5kVG9TZXJ2aWNlIGZhaWxlZCIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgVGltYmVyLmUoImJpbmRTZXJ2aWNlKCkgdGhyZXcgZXhjZXB0aW9uICRlIikKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5kZXJGYWN0b3J5ID0gSUJpbmRlckZhY3RvcnkuU3R1Yi5hc0ludGVyZmFjZShzZXJ2aWNlKSEhCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIXNlcnZpY2UuaXNCaW5kZXJBbGl2ZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcnJvcigiT25TZXJ2aWNlQ29ubmVjdGVkIHJlY2VpdmVkIGEgREVBRCBCSU5ERVIiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgbGlua1RvRGVhdGgobmFtZSwgc2VydmljZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzTmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBmbGFncyA9IFNFUlZJQ0VfRkxBR1MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzTmFtZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBmbGFncyA9IFNFUlZJQ0VfRkxBR1MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhY2hlQmluZGVyKHNlcnZpY2UpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhY2hlQmluZGVyKHNlcnZpY2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNhc2NhZGVCaW5kaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgbGlua1RvRGVhdGgobmFtZSwgc2VydmljZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Intent</last-search>
+      <last-search>binderName</last-search>
       <last-offset />
-      <last-pattern>Intent</last-pattern>
+      <last-pattern>binderName</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>Obse</last-substitute>
       <last-dir>1</last-dir>
@@ -2403,8 +2404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>All</entry>
-        <entry>getAllBin</entry>
         <entry>bindAll</entry>
         <entry>getAll</entry>
         <entry>success</entry>
@@ -2423,6 +2422,8 @@
         <entry>bindS</entry>
         <entry>unbind</entry>
         <entry>Intent</entry>
+        <entry>cacheBinder</entry>
+        <entry>binderName</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
