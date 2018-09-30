@@ -102,6 +102,7 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/client/brazil/demo/common/src/main/aidl/demo/binders/IBinderFactory.aidl" timestamp="1538261732222" />
       <file name="$USER_HOME$/ccs/intake/app/src/main/java/monte/apps/kiosk/services/camera/RxCamera.kt" timestamp="1530599572676">
         <mark key="[" line="220" column="0" />
         <mark key="]" line="220" column="0" />
@@ -555,6 +556,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/os/IBinder.java" timestamp="1538270777809">
+        <mark key="'" line="311" column="72" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/EnumCheckedListAdapter.kt" timestamp="1529904136409">
         <mark key="[" line="18" column="54" />
         <mark key="]" line="18" column="54" />
@@ -829,11 +833,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1538263788551">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/client/40au/vu-ema-master/MyDay-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/authenticator/KeyProvider.kt" timestamp="1531885396310">
         <mark key="[" line="5" column="10" />
@@ -1344,6 +1343,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/0.30.0/2e63b9abe5992cdc96155e5b8d23b8da11c713b2/kotlinx-coroutines-core-common-0.30.0-sources.jar!/Builders.common.kt" timestamp="1538271092151" />
       <file name="$USER_HOME$/client/vanderbilt/image-crawler/gradle/wrapper/gradle-wrapper.properties" timestamp="1533231963343">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -1372,11 +1372,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/client/brazil/demo/binders.gradle" timestamp="1538262312887">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Android/Prototypes/MensagingProviderCore/framework/src/main/res/values/styles.xml" timestamp="1534888278236">
         <mark key="[" line="9" column="20" />
@@ -1629,11 +1624,12 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538270296951">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
+      <file name="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538271057575">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="216" column="28" />
+        <mark key="]" line="217" column="11" />
+        <mark key="." line="217" column="11" />
+        <mark key="^" line="217" column="11" />
       </file>
       <file name="$USER_HOME$/client/brazil/examples/todoapp/gradle/wrapper/gradle-wrapper.properties" timestamp="1537980926187">
         <mark key="[" line="5" column="69" />
@@ -2025,11 +2021,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="16" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
-      <jump line="225" column="32" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
-      <jump line="88" column="16" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
-      <jump line="116" column="8" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
-      <jump line="150" column="28" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="80" column="45" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="176" column="32" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="64" column="8" filename="$USER_HOME$/client/brazil/aidl-example/server-0/src/main/java/demo/server/MainActivity.kt" />
@@ -2125,10 +2116,15 @@
       <jump line="18" column="45" filename="$USER_HOME$/client/brazil/demo/server-0/src/main/java/demo/server/MainActivity.kt" />
       <jump line="40" column="11" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/BinderHelper.kt" />
       <jump line="148" column="0" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="300" column="5" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/os/IBinder.java" />
+      <jump line="254" column="41" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/os/IBinder.java" />
+      <jump line="261" column="88" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/os/IBinder.java" />
+      <jump line="290" column="67" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/os/IBinder.java" />
+      <jump line="311" column="72" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/os/IBinder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2330,58 +2326,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">ID09IExvb3Blci5teUxvb3BlcigpKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>use</text>
+        <text>flags</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2l0aENvbnRleHQoTWFpbikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlLnVubGlua1RvRGVhdGgodGhpcywgMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXVuY2ggewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBydW5PblVpVGhyZWFkIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPkNsaWVudCAzPC9wdWJsaWNzdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXNwYXRjaGVycy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQmluZCBCIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXVuY2goQW5kcm9pZCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>use</last-search>
+      <last-search>flags</last-search>
       <last-offset />
-      <last-pattern>use</last-pattern>
+      <last-pattern>flags</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>linkToDeath</last-substitute>
       <last-dir>1</last-dir>
@@ -2402,13 +2398,13 @@
         <entry>:server</entry>
         <entry>pkg</entry>
         <entry encoding="base64">ZmxhZ3MgPSA=</entry>
-        <entry>flags</entry>
         <entry>demoBinderF</entry>
         <entry>callBind</entry>
         <entry>updatev</entry>
         <entry>updateV</entry>
         <entry>sue</entry>
         <entry>use</entry>
+        <entry>flags</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
