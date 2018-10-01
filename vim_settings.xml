@@ -1272,12 +1272,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538350877150">
-        <mark key="a" line="209" column="47" />
-        <mark key="'" line="25" column="22" />
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538422585578">
+        <mark key="a" line="27" column="16" />
+        <mark key="'" line="27" column="30" />
         <mark key="j" line="113" column="7" />
-        <mark key="[" line="33" column="19" />
-        <mark key="]" line="33" column="25" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="45" column="0" />
         <mark key="." line="33" column="25" />
         <mark key="^" line="33" column="25" />
       </file>
@@ -1470,7 +1470,6 @@
         <mark key="^" line="221" column="57" />
         <mark key="." line="221" column="57" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/settings.gradle" timestamp="1538364003716" />
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Framework/mobile/code/Android/Framework/code/gradlew-linux" timestamp="1534884075880">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1598,7 +1597,6 @@
         <mark key="^" line="7" column="70" />
         <mark key="." line="7" column="70" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/server-0/src/main/java/demo/service/BinderFactory.kt" timestamp="1538419257913" />
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Android/code/SymmetricDs/app/build.gradle" timestamp="1534900006717">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -2025,7 +2023,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="33" filename="$USER_HOME$/client/brazil/demo/server-0/src/main/java/demo/service/BinderFactory.kt" />
       <jump line="30" column="8" filename="$USER_HOME$/client/brazil/demo/server-0/src/main/java/demo/service/BinderFactory.kt" />
       <jump line="34" column="8" filename="$USER_HOME$/client/brazil/demo/server-0/src/main/java/demo/service/BinderFactory.kt" />
       <jump line="39" column="8" filename="$USER_HOME$/client/brazil/demo/server-0/src/main/java/demo/service/BinderFactory.kt" />
@@ -2125,10 +2122,11 @@
       <jump line="148" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/demo/binders/IBinder165.java" />
       <jump line="35" column="106" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/demo/binders/IBinder165.java" />
       <jump line="25" column="22" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="27" column="30" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGJpbmRlcnMgPSBtdXRhYmxlTGlzdE9mPEFueT4oKQoKICAgIHZhbCBsaXZlTG9nID0gTXV0YWJsZUxpdmVEYXRhPFN0cmluZz4oKQogICAgdmFsIGxpdmVDb25uZWN0aW9uU3RhdGUgPSBNdXRhYmxlTGl2ZURhdGE8U3RhdGU+KCkKICAgIHZhciBzdGF0ZSA9IFN0YXRlKGZhbHNlLCAwLCAwKQogICAgdmFsIGxvZyA9IG11dGFibGVMaXN0T2Y8U3RyaW5nPigpCiAgICB2YXIgc3RyYXRlZ3kgPSBGQUNUT1JZX0lOVEVOVF9BQ1RJT04KICAgIHZhbCBiYXJyaWVyID0gQ3ljbGljQmFycmllcigyKQogICAgdmFsIHJlYmluZGVyOiBUaHJlYWQ/ID0gbnVsbAoKICAgIGRhdGEgY2xhc3MgU3RhdGUodmFsIGNvbm5lY3RlZDogQm9vbGVhbiwgdmFsIHRvdGFsOiBJbnQsIHZhbCBhbGl2ZTogSW50KQoKICAgIHZhbCBJQmluZGVyLm5hbWU6IFN0cmluZwogICAgICAgIGdldCgpID0gdGhpczo6Y2xhc3MuamF2YS5zaW1wbGVOYW1lCgogICAgcHJpdmF0ZSB2YXIgYmluZGVyRmFjdG9yeTogSUJpbmRlckZhY3Rvcnk/ID0gbnVsbAoKICAgIHByaXZhdGUgdmFyIGNvbm5lY3Rpb246IFNlcnZpY2VDb25uZWN0aW9uPyA9IG51bGwKCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2333,10 +2331,10 @@
         <text>provided</text>
       </register>
       <register name="/" type="4">
-        <text>rebind</text>
+        <text>binderF</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJwcm9qZWN0LmRlcGVuZGVuY2llcyB7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGJpbmRlcnMgPSBtdXRhYmxlTGlzdE9mPEFueT4oKQoKICAgIHZhbCBsaXZlTG9nID0gTXV0YWJsZUxpdmVEYXRhPFN0cmluZz4oKQogICAgdmFsIGxpdmVDb25uZWN0aW9uU3RhdGUgPSBNdXRhYmxlTGl2ZURhdGE8U3RhdGU+KCkKICAgIHZhciBzdGF0ZSA9IFN0YXRlKGZhbHNlLCAwLCAwKQogICAgdmFsIGxvZyA9IG11dGFibGVMaXN0T2Y8U3RyaW5nPigpCiAgICB2YXIgc3RyYXRlZ3kgPSBGQUNUT1JZX0lOVEVOVF9BQ1RJT04KICAgIHZhbCBiYXJyaWVyID0gQ3ljbGljQmFycmllcigyKQogICAgdmFsIHJlYmluZGVyOiBUaHJlYWQ/ID0gbnVsbAoKICAgIGRhdGEgY2xhc3MgU3RhdGUodmFsIGNvbm5lY3RlZDogQm9vbGVhbiwgdmFsIHRvdGFsOiBJbnQsIHZhbCBhbGl2ZTogSW50KQoKICAgIHZhbCBJQmluZGVyLm5hbWU6IFN0cmluZwogICAgICAgIGdldCgpID0gdGhpczo6Y2xhc3MuamF2YS5zaW1wbGVOYW1lCgogICAgcHJpdmF0ZSB2YXIgYmluZGVyRmFjdG9yeTogSUJpbmRlckZhY3Rvcnk/ID0gbnVsbAoKICAgIHByaXZhdGUgdmFyIGNvbm5lY3Rpb246IFNlcnZpY2VDb25uZWN0aW9uPyA9IG51bGwKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
@@ -2379,9 +2377,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rebind</last-search>
+      <last-search>binderF</last-search>
       <last-offset />
-      <last-pattern>rebind</last-pattern>
+      <last-pattern>binderF</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>Obse</last-substitute>
       <last-dir>1</last-dir>
@@ -2389,7 +2387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bindServer</entry>
         <entry>bind</entry>
         <entry>bindS</entry>
         <entry>unbind</entry>
@@ -2409,6 +2406,7 @@
         <entry>lock</entry>
         <entry>throw</entry>
         <entry>rebind</entry>
+        <entry>binderF</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
