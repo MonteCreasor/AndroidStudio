@@ -1272,9 +1272,9 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538431614927">
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538446808994">
         <mark key="a" line="152" column="8" />
-        <mark key="'" line="73" column="20" />
+        <mark key="'" line="34" column="8" />
         <mark key="j" line="113" column="7" />
         <mark key="[" line="152" column="0" />
         <mark key="]" line="174" column="5" />
@@ -2023,7 +2023,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="8" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="226" column="0" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="147" column="8" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="51" column="35" filename="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/MainActivity.kt" />
@@ -2096,7 +2095,6 @@
       <jump line="189" column="26" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="202" column="30" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="208" column="30" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
-      <jump line="210" column="30" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="215" column="26" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="249" column="18" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="259" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
@@ -2104,7 +2102,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="246" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="36" column="14" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
-      <jump line="245" column="34" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="132" column="50" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/demo/binders/IBinder165.java" />
       <jump line="145" column="53" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/demo/binders/IBinder165.java" />
       <jump line="146" column="25" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/demo/binders/IBinder165.java" />
@@ -2116,13 +2113,16 @@
       <jump line="35" column="106" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/demo/binders/IBinder165.java" />
       <jump line="25" column="22" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="27" column="30" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
-      <jump line="34" column="33" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="64" column="25" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="87" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="316" column="27" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="209" column="96" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="216" column="62" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="73" column="20" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="187" column="16" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="210" column="28" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="245" column="20" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="34" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2331,7 +2331,7 @@
         <text>provided</text>
       </register>
       <register name="/" type="4">
-        <text>bindAll</text>
+        <text>barrier</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1biBmYWN0b3J5QmluZCgpIHsKICAgICAgICB2YWwgdG90YWwgPSBCaW5kZXJIZWxwZXIuQklOREVSX0NPVU5UCiAgICAgICAgaW5mbygiQmluZGluZyAkdG90YWwgYmluZGVycyAuLi4iKQoKICAgICAgICBiaW5kZXJGYWN0b3J5Py5hcHBseSB7CiAgICAgICAgICAgIGlmICghYXNCaW5kZXIoKS5pc0JpbmRlckFsaXZlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBFeGNlcHRpb24oImJpbmRlckZhY3RvcnkgRElFRCBkdXJpbmcgYmluZCBhbGwgcmVxdWVzdC4iKQogICAgICAgICAgICB9CgogICAgICAgICAgICBmb3IgKGlkIGluIDEuLnRvdGFsKSB7CiAgICAgICAgICAgICAgICB2YWwgY2xhc3NOYW1lID0gQmluZGVySGVscGVyLmdldENsYXNzTmFtZUZyb21JZChpZC50b1N0cmluZygpKQogICAgICAgICAgICAgICAgdmFsIGJpbmRlciA9IGdldEJpbmRlcihjbGFzc05hbWUpCiAgICAgICAgICAgICAgICB2YWwgaW50ZXJmYWNlTmFtZSA9IEJpbmRlckhlbHBlci5nZXRJbnRlcmZhY2VOYW1lRnJvbUlkKGlkLnRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICB2YWwgaW5zdGFuY2UgPSBCaW5kZXJIZWxwZXIuYXNJbnRlcmZhY2U8SUludGVyZmFjZT4oaW50ZXJmYWNlTmFtZSwgYmluZGVyKQogICAgICAgICAgICAgICAgY2FjaGVCaW5kZXIoaW5zdGFuY2UpCiAgICAgICAgICAgIH0KICAgICAgICB9ID86IGVycm9yKCJDYW4ndCBnZXQgYWxsIGJpbmRlcnM6IG5vdCBjb25uZWN0ZWQgdG8gZGVtbyBzZXJ2aWNlIikKCiAgICAgICAgdmFsIGNvdW50ID0gYmluZGVycy5jb3VudCgpCiAgICAgICAgaW5mbygiQmluZGluZyBSZXN1bHRzOiAkY291bnQvJHRvdGFsIHN1Y2NlZWRlZCIpCgogICAgICAgIHVwZGF0ZVVJKCkKICAgIH0K</text>
@@ -2377,9 +2377,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bindAll</last-search>
+      <last-search>barrier</last-search>
       <last-offset />
-      <last-pattern>bindAll</last-pattern>
+      <last-pattern>barrier</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>Obse</last-substitute>
       <last-dir>1</last-dir>
@@ -2387,7 +2387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cacheBinder</entry>
         <entry>binderName</entry>
         <entry>when (str</entry>
         <entry>cascade</entry>
@@ -2407,6 +2406,7 @@
         <entry>clearB</entry>
         <entry>await</entry>
         <entry>bindAll</entry>
+        <entry>barrier</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
