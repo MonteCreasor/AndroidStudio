@@ -2377,7 +2377,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>updateUI</text>
+        <text>putIfA</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5mbygibGlua1RvRGVhdGggY2FsbGVkIGZvciAke3NlcnZpY2UuaW50ZXJmYWNlRGVzY3JpcHRvciIpCg==</text>
@@ -2423,9 +2423,9 @@
       </register>
     </registers>
     <search>
-      <last-search>updateUI</last-search>
+      <last-search>putIfA</last-search>
       <last-offset />
-      <last-pattern>updateUI</last-pattern>
+      <last-pattern>putIfA</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>Obse</last-substitute>
       <last-dir>1</last-dir>
@@ -2433,7 +2433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lock</entry>
         <entry>throw</entry>
         <entry>rebind</entry>
         <entry>binderF</entry>
@@ -2453,6 +2452,7 @@
         <entry>linkTo</entry>
         <entry>linkToD</entry>
         <entry>updateUI</entry>
+        <entry>putIfA</entry>
       </history-search>
       <history-cmd>
         <entry>unmap f</entry>
