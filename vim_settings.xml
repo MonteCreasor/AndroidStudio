@@ -76,12 +76,12 @@
         <mark key="^" line="16" column="12" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/test/java/demo/common/MainViewModelTest.kt" timestamp="1538687516777">
-        <mark key="'" line="32" column="26" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="16" column="7" />
-        <mark key="^" line="16" column="7" />
-        <mark key="." line="16" column="7" />
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/test/java/demo/common/MainViewModelTest.kt" timestamp="1538696470803">
+        <mark key="'" line="33" column="26" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="48" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="63" column="42" />
       </file>
       <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainActivity.kt" timestamp="1538685461076">
         <mark key="[" line="34" column="57" />
@@ -325,13 +325,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/server-0/src/main/AndroidManifest.xml" timestamp="1538527761080">
-        <mark key="a" line="36" column="26" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="43" column="64" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/alerts/Preconditions.kt" timestamp="1531511541661">
         <mark key="[" line="206" column="0" />
         <mark key="]" line="206" column="0" />
@@ -411,6 +404,12 @@
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/dump-services.sh" timestamp="1538696743563">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="64" />
+        <mark key="^" line="1" column="64" />
+        <mark key="." line="1" column="64" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/java/monte/apps/kiosk/logging/TimberTree.kt" timestamp="1530050200109">
         <mark key="[" line="17" column="20" />
@@ -939,13 +938,6 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/BinderHelper.kt" timestamp="1538589512397">
-        <mark key="a" line="28" column="34" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="68" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-      </file>
       <file name="$USER_HOME$/ccs/sandbox/VanillaApp/app/src/main/java/monte/apps/vanillaapp/ScrollingActivity.kt" timestamp="1530291408965">
         <mark key="[" line="35" column="73" />
         <mark key="]" line="36" column="19" />
@@ -1117,6 +1109,12 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/kill-service.sh" timestamp="1538696819099">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+        <mark key="." line="1" column="41" />
       </file>
       <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/client-1/build.gradle" timestamp="1538364067978">
         <mark key="[" line="17" column="0" />
@@ -2217,7 +2215,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SECONDS</text>
+        <text>.com.tavianator.servicerestart</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2419,28 +2417,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SECONDS</text>
+        <text>.com.tavianator.servicerestart</text>
       </register>
       <register name="/" type="4">
         <text>connect()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+IEVYQ0VQVElPTiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKFRocmVhZC5jdXJyZW50VGhyZWFkKCkubmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmRkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBwcmludGxuKCJ0cnkiKQogICAgICAgIH0gY2F0Y2goZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHByaW50bG4oImV4Y2VwdGlvbiIpCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgcHJpbnRsbigiZmluYWxseSIpCiAgICAgICAgfQogICAgICAgIAogICAgICAgIHByaW50bG4obmV4dCkKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMge30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2449,22 +2447,22 @@
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29ubmVjdGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBwcmludGxuKCJ0cnkiKQogICAgICAgIH0gY2F0Y2goZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHByaW50bG4oImV4Y2VwdGlvbiIpCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgcHJpbnRsbigiZmluYWxseSIpCiAgICAgICAgfQogICAgICAgIAogICAgICAgIHByaW50bG4obmV4dCkKICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZW1hcGhvcmUuYWNxdWlyZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jay53YWl0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/;//g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2518,8 +2516,8 @@
         <entry>e ../../../../../../../versions.gradle</entry>
         <entry>%s/:/=/g</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>%s/;//g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
