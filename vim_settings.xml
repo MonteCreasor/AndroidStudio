@@ -1322,7 +1322,8 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538709337359">
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538714610321">
+        <mark key="'" line="35" column="8" />
         <mark key="[" line="88" column="53" />
         <mark key="]" line="88" column="53" />
         <mark key="^" line="88" column="53" />
@@ -2115,7 +2116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="63" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/demo/binders/IBinder165.java" />
       <jump line="121" column="16" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/demo/binders/IBinder165.java" />
       <jump line="133" column="22" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/demo/binders/IBinder165.java" />
       <jump line="148" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/demo/binders/IBinder165.java" />
@@ -2185,7 +2185,6 @@
       <jump line="53" column="12" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="115" column="11" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
-      <jump line="35" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="220" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="163" column="37" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="216" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
@@ -2215,6 +2214,8 @@
       <jump line="315" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="61" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="260" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="81" column="20" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="35" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2423,7 +2424,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>connec</text>
+        <text>get(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uOiAgPSBvYmplY3QgOiBTeW5jaHJvbml6ZWRTZXJ2aWNlQ29ubmVjdGlvbigpIHsK</text>
@@ -2469,9 +2470,9 @@
       </register>
     </registers>
     <search>
-      <last-search>connec</last-search>
+      <last-search>get(</last-search>
       <last-offset />
-      <last-pattern>connec</last-pattern>
+      <last-pattern>get(</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -2479,8 +2480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>link</entry>
-        <entry>linkToDeath</entry>
         <entry>putIfA</entry>
         <entry>linkTo</entry>
         <entry>linkToD</entry>
@@ -2499,6 +2498,8 @@
         <entry>CASC</entry>
         <entry>actionBind</entry>
         <entry>connec</entry>
+        <entry>compute</entry>
+        <entry>get(</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIGYg</entry>
