@@ -740,6 +740,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/DaoServiceConnection.kt" timestamp="1538698717754">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/Prefs.kt" timestamp="1529868032738">
         <mark key="[" line="150" column="25" />
         <mark key="]" line="150" column="43" />
@@ -1318,12 +1323,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538687745566">
-        <mark key="'" line="49" column="20" />
-        <mark key="[" line="123" column="12" />
-        <mark key="]" line="123" column="13" />
-        <mark key="^" line="123" column="13" />
-        <mark key="." line="123" column="13" />
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538698801970">
+        <mark key="'" line="39" column="38" />
+        <mark key="[" line="443" column="27" />
+        <mark key="]" line="443" column="32" />
+        <mark key="." line="443" column="32" />
+        <mark key="^" line="443" column="32" />
       </file>
       <file name="$USER_HOME$/client/brazil/AIDLDemo/AIDLClient/gradle/wrapper/gradle-wrapper.properties" timestamp="1534732033045">
         <mark key="[" line="5" column="69" />
@@ -2112,7 +2117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="28" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="189" column="26" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="202" column="30" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="208" column="30" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
@@ -2212,10 +2216,11 @@
       <jump line="59" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="120" column="11" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="47" column="20" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="39" column="38" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.com.tavianator.servicerestart</text>
+        <text>Any</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2417,7 +2422,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.com.tavianator.servicerestart</text>
+        <text>Any</text>
       </register>
       <register name="/" type="4">
         <text>connect()</text>
@@ -2426,40 +2431,40 @@
         <text encoding="base64">ICAgICAgICBwcmludGxuKFRocmVhZC5jdXJyZW50VGhyZWFkKCkubmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlubmVyIGNsYXNzIE15U2VydmljZUNvbm5lY3Rpb24gOiBTZXJ2aWNlQ29ubmVjdGlvbiB7CgogICAgICAgIHByaXZhdGUgdmFyIGNvbm5lY3RlZCA9IGZhbHNlCiAgICAgICAgcHJpdmF0ZSB2YWwgbG9jayA9IEFueSgpCgogICAgICAgIG92ZXJyaWRlIGZ1biBvblNlcnZpY2VDb25uZWN0ZWQobmFtZTogQ29tcG9uZW50TmFtZSwgYmluZGVyOiBJQmluZGVyKSB7CiAgICAgICAgICAgIGNvbm5lY3RlZCA9IHRydWUKCiAgICAgICAgICAgIHN5bmNocm9uaXplZChsb2NrKSB7CiAgICAgICAgICAgICAgICBsb2NrLm5vdGlmeUFsbCgpCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIG92ZXJyaWRlIGZ1biBvblNlcnZpY2VEaXNjb25uZWN0ZWQobmFtZTogQ29tcG9uZW50TmFtZSkgewogICAgICAgICAgICBjb25uZWN0ZWQgPSBmYWxzZQogICAgICAgIH0KCiAgICAgICAgQFRocm93cyhJbnRlcnJ1cHRlZEV4Y2VwdGlvbjo6Y2xhc3MpCiAgICAgICAgZnVuIHdhaXRVbnRpbENvbm5lY3RlZCgpIHsKICAgICAgICAgICAgaWYgKCFjb25uZWN0ZWQpIHsKICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZChsb2NrKSB7CiAgICAgICAgICAgICAgICAgICAgbG9jay53YWl0KCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICB9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE15U2VydmljZUNvbm5lY3Rpb24gaW1wbGVtZW50cyBTZXJ2aWNlQ29ubmVjdGlvbiB7CgogICAgcHJpdmF0ZSBib29sZWFuIGNvbm5lY3RlZCA9IGZhbHNlOwogICAgcHJpdmF0ZSBPYmplY3QgbG9jayA9IG5ldyBPYmplY3QoKTsKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uU2VydmljZUNvbm5lY3RlZChDb21wb25lbnROYW1lIG5hbWUsIElCaW5kZXIgYmluZGVyKSB7CiAgICAgICAgY29ubmVjdGVkID0gdHJ1ZTsKCiAgICAgICAgc3luY2hyb25pemVkIChsb2NrKSB7CiAgICAgICAgICAgIGxvY2subm90aWZ5QWxsKCk7CiAgICAgICAgfQogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25TZXJ2aWNlRGlzY29ubmVjdGVkKENvbXBvbmVudE5hbWUgbmFtZSkgewogICAgICAgIGNvbm5lY3RlZCA9IGZhbHNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHdhaXRVbnRpbENvbm5lY3RlZCgpIHRocm93cyBJbnRlcnJ1cHRlZEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKCFjb25uZWN0ZWQpIHsKICAgICAgICAgICAgc3luY2hyb25pemVkIChsb2NrKSB7CiAgICAgICAgICAgICAgICBsb2NrLndhaXQoKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCn0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBwcmludGxuKCJ0cnkiKQogICAgICAgIH0gY2F0Y2goZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHByaW50bG4oImV4Y2VwdGlvbiIpCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgcHJpbnRsbigiZmluYWxseSIpCiAgICAgICAgfQogICAgICAgIAogICAgICAgIHByaW50bG4obmV4dCkKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
