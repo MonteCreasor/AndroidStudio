@@ -994,9 +994,6 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1538682991977">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Android/code/ServicoCampo/build.gradle" timestamp="1534901257345">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="26" />
@@ -1327,12 +1324,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538970312494">
-        <mark key="a" line="127" column="19" />
-        <mark key="[" line="136" column="20" />
-        <mark key="]" line="136" column="21" />
-        <mark key="^" line="136" column="21" />
-        <mark key="." line="136" column="21" />
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538972452306">
+        <mark key="'" line="106" column="8" />
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="20" />
+        <mark key="^" line="41" column="19" />
+        <mark key="." line="41" column="20" />
       </file>
       <file name="$USER_HOME$/client/brazil/AIDLDemo/AIDLClient/gradle/wrapper/gradle-wrapper.properties" timestamp="1534732033045">
         <mark key="[" line="5" column="69" />
@@ -1726,7 +1723,7 @@
         <mark key="^" line="0" column="58" />
         <mark key="." line="0" column="58" />
       </file>
-      <file name="/fragment.kt" timestamp="1538673874826">
+      <file name="/fragment.kt" timestamp="1538972048469">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2129,7 +2126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="124" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="132" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="256" column="57" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
@@ -2229,10 +2225,11 @@
       <jump line="37" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/ReflectionHelper.java" />
       <jump line="41" column="33" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/ReflectionHelper.java" />
       <jump line="50" column="34" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/ReflectionHelper.java" />
+      <jump line="103" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2434,58 +2431,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>getType</text>
+        <text>loop = true</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG5leHQgPSBxdWV1ZS5qYXZhQ2xhc3MuZ2V0RGVjbGFyZWRNZXRob2QoIm5leHQiKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBJQmluZGVyLm5hbWU6IFN0cmluZwogICAgICAgIGdldCgpID0gaW50ZXJmYWNlRGVzY3JpcHRvcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBJQmluZGVyIGV4dGVuc2lvbiBmb3IgYWNjZXNzIHRvIGEgd29yZHkgZmllbGQgKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcXVldWUuamF2YUNsYXNzLmRlY2xhcmVkRmllbGRzLmZpbHRlciB7aXQudHlwZSA9PSAibmV4dCJ9IC5maXJzdE9yTnVsbCgpCg==</text>
+        <text encoding="base64">ICAgIHZhciBkaWFsb2c6IEFsZXJ0RGlhbG9nPyA9IG51bGwKICAgIHZhbCBjb250ZXh0OiBDb250ZXh0IGdldCgpID0gQXBwLmluc3RhbmNlCiAgICB2YXIgbG9vcCA9IGZhbHNlCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXROZXh0TWV0aG9kKHF1ZXVlOiBNZXNzYWdlUXVldWUpOiBNZXRob2Q/IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgbmV4dCA9IHF1ZXVlLmphdmFDbGFzcy5nZXRNZXRob2QoIm5leHQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZygiWyR7VGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pZH1dIGNvbm5lY3QgbG9jayBhY3F1aXJlZCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChjb25uZWN0aW9uIGFzIFN5bmNocm9uaXplZFNlcnZpY2VDb25uZWN0aW9uKS53YWl0VW50aWxDb25uZWN0ZWQoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgbmV4dCA9IHF1ZXVlLmphdmFDbGFzcy5nZXRNZXRob2QoIm5leHQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZygiWyR7VGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pZH1dIGNvbm5lY3QgbG9jayB3YWl0IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamF2YUNsYXNzLmRlY2xhcmVkRmllbGRzLmZpbHRlciB7aXQudHlwZSA9PSAibmV4dCJ9IC5maXJzdE9yTnVsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpc01haW5UaHJlYWQpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getType</last-search>
+      <last-search>loop = true</last-search>
       <last-offset />
-      <last-pattern>getType</last-pattern>
+      <last-pattern>loop = true</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -2493,8 +2490,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CASC</entry>
-        <entry>actionBind</entry>
         <entry>connec</entry>
         <entry>compute</entry>
         <entry>get(</entry>
@@ -2513,6 +2508,8 @@
         <entry>type</entry>
         <entry>setAccess</entry>
         <entry>getType</entry>
+        <entry>loop = tarue</entry>
+        <entry>loop = true</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIGYg</entry>
