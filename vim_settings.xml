@@ -311,10 +311,10 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/build.gradle" timestamp="1538704134768">
-        <mark key="[" line="34" column="40" />
-        <mark key="]" line="34" column="41" />
-        <mark key="." line="34" column="41" />
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/build.gradle" timestamp="1538966077839">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/client/brazil/aidl-example/clientbase/src/main/java/demo/client/base/MainServiceBase.kt" timestamp="1538243862158">
         <mark key="[" line="11" column="8" />
@@ -1322,13 +1322,11 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538962927142">
-        <mark key="a" line="50" column="16" />
-        <mark key="'" line="101" column="20" />
-        <mark key="[" line="101" column="56" />
-        <mark key="]" line="101" column="56" />
-        <mark key="." line="101" column="56" />
-        <mark key="^" line="101" column="56" />
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1538966138196">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="99" column="24" />
       </file>
       <file name="$USER_HOME$/client/brazil/AIDLDemo/AIDLClient/gradle/wrapper/gradle-wrapper.properties" timestamp="1534732033045">
         <mark key="[" line="5" column="69" />
@@ -2117,7 +2115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/aidl/demo/service/ITest2.aidl" />
       <jump line="1" column="25" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/aidl/demo/service/ITest2.aidl" />
       <jump line="128" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="174" column="34" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
@@ -2217,10 +2214,11 @@
       <jump line="501" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/0.30.0/2e63b9abe5992cdc96155e5b8d23b8da11c713b2/kotlinx-coroutines-core-common-0.30.0-sources.jar!/Job.kt" />
       <jump line="111" column="16" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="101" column="20" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="85" column="43" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>server</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2422,49 +2420,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>server</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>super</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iZGVtby5zZXJ2ZXIuYWN0aW9uLkZBQ1RPUlkiLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgU3RhdGUodmFsIGNvbm5lY3RlZDogQm9vbGVhbiwgdmFsIHRvdGFsOiBJbnQsIHZhbCBhbGl2ZTogSW50KQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LmNvcmU6Y29yZS1rdHg6MS4wLjAnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LmNvcmU6Y29yZS1rdHg6MS4wLjAnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLndhaXRVbnRpbENvbm5lY3RlZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBIYW5kbGVyKCkucG9zdERlbGF5ZWQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZVVJKCkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRpYWxvZzogQWxlcnREaWFsb2cgPSBidWlsZGVyLmNyZWF0ZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVjayAoaW50ZW50ICE9IG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlhbG9nLnNob3coKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
