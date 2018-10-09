@@ -143,13 +143,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1539033254415">
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" timestamp="1539050255584">
         <mark key="a" line="56" column="16" />
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="205" column="78" />
-        <mark key="^" line="205" column="78" />
+        <mark key="'" line="232" column="12" />
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
+        <mark key="^" line="283" column="0" />
       </file>
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/platform/Platform.java" timestamp="1535501680478">
         <mark key="[" line="19" column="0" />
@@ -466,6 +466,11 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
       </file>
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/BinderHelper.kt" timestamp="1539050264204">
+        <mark key="a" line="34" column="27" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="42" />
+      </file>
       <file name="$USER_HOME$/client/brazil/aidl-example/server-0/src/test/java/demo/binders/IBinderX.java" timestamp="1538167840558">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -489,9 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
-      <jump line="163" column="37" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
-      <jump line="63" column="46" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="57" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="64" column="37" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="10" column="20" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/test/java/demo/common/MainViewModelTest.java" />
@@ -589,10 +591,13 @@
       <jump line="20" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="375" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="158" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="206" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="231" column="12" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
+      <jump line="232" column="12" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SERVICE_CLASS)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgY2xzID0gQ2xhc3MuZm9yTmFtZShjbGFzc05hbWUpCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -797,55 +802,55 @@
         <text>SERVICE_CLASS)</text>
       </register>
       <register name="/" type="4">
-        <text>intent</text>
+        <text>getBinder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVjayhuYW1lICE9IG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2xzID0gQ2xhc3MuZm9yTmFtZShjbGFzc05hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBpbnRlcmZhY2VOYW1lID0gQmluZGVySGVscGVyLmdldEludGVyZmFjZU5hbWVGcm9tSWQoaWQudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgIHZhbCBpbnN0YW5jZSA9IEJpbmRlckhlbHBlci5hc0ludGVyZmFjZTxJSW50ZXJmYWNlPihpbnRlcmZhY2VOYW1lLCBiaW5kZXIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlVUkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uU2VydmljZURpc2Nvbm5lY3RlZChuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlVUkoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZVVJKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uU2VydmljZURpc2Nvbm5lY3RlZChuYW1lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRlcnMuY2xlYXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZVVJKCkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRlckZhY3RvcnkgPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRlcnMuY2xlYXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRlckZhY3RvcnkgPSBudWxsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9vcGluZyA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9vcGluZyA9IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>intent</last-search>
+      <last-search>getBinder</last-search>
       <last-offset />
-      <last-pattern>intent</last-pattern>
+      <last-pattern>getBinder</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -853,8 +858,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nchecked</entry>
-        <entry>private</entry>
         <entry>type</entry>
         <entry>setAccess</entry>
         <entry>getType</entry>
@@ -873,6 +876,8 @@
         <entry>isMain</entry>
         <entry>bindS</entry>
         <entry>intent</entry>
+        <entry>binder</entry>
+        <entry>getBinder</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIGYg</entry>
