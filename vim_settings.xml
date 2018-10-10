@@ -202,11 +202,11 @@
         <mark key="^" line="41" column="18" />
         <mark key="." line="41" column="18" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1.java" timestamp="1539211279631">
-        <mark key="[" line="221" column="24" />
-        <mark key="]" line="221" column="24" />
-        <mark key="." line="221" column="24" />
-        <mark key="^" line="62" column="3" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1.java" timestamp="1539211990400">
+        <mark key="[" line="230" column="46" />
+        <mark key="]" line="230" column="47" />
+        <mark key="^" line="230" column="47" />
+        <mark key="." line="230" column="47" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/dev/java/monte/tools/settings/ui/adapters/EnumSpinnerAdapter.kt" timestamp="1529872373376">
         <mark key="[" line="34" column="0" />
@@ -866,12 +866,14 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/webCrawlTests/ForkJoinCrawler1TestKotlin.kt" timestamp="1539211184223">
-        <mark key="'" line="142" column="31" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="125" column="10" />
-        <mark key="^" line="125" column="10" />
-        <mark key="." line="125" column="10" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/webCrawlTests/ForkJoinCrawler1TestKotlin.kt" timestamp="1539212682421">
+        <mark key="a" line="188" column="8" />
+        <mark key="'" line="143" column="0" />
+        <mark key="j" line="186" column="12" />
+        <mark key="[" line="208" column="83" />
+        <mark key="]" line="209" column="11" />
+        <mark key="^" line="209" column="11" />
+        <mark key="." line="209" column="11" />
       </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/debug/java/monte/apps/kiosk/DebugAppComponent.kt" timestamp="1531188319709">
         <mark key="[" line="8" column="0" />
@@ -1761,7 +1763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Desktop/doug/ForkJoinCrawler1.java" />
       <jump line="53" column="42" filename="$USER_HOME$/Desktop/doug/ForkJoinCrawler1.java" />
       <jump line="52" column="8" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1Test.kt" />
       <jump line="99" column="26" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1Test.kt" />
@@ -1861,10 +1862,11 @@
       <jump line="87" column="12" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/webCrawlTests/ForkJoinCrawler1TestKotlin.kt" />
       <jump line="177" column="31" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/webCrawlTests/ForkJoinCrawler1TestKotlin.kt" />
       <jump line="141" column="31" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/webCrawlTests/ForkJoinCrawler1TestKotlin.kt" />
+      <jump line="143" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/webCrawlTests/ForkJoinCrawler1TestKotlin.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2066,66 +2068,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>Process</text>
+        <text>doAn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBtb2NrVGFza0xpc3QgPSB0cmFuc2Zvcm1zLm1hcCB7IF8gLT4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgcmVhbFRhc2sgPSBpbnZvY2F0aW9uLmFyZ3VtZW50c1swXSBhcyBGb3JrSm9pbkNyYXdsZXIxLlBlcmZvcm1UcmFuc2Zvcm1UYXNrCi8vICAgICAgICAgICAgLy8gTWFrZSBzdXJlIHRoYXQgdGhlIHRhc2sgaXMgYmVpbmcgY3JlYXRlZCB3aXRoIHRoZSBleHBlY3RlZCBpbWFnZQovLyAgICAgICAgICAgIGFzc2VydFNhbWUobW9ja0ltYWdlLCByZWFsVGFzay5tSW1hZ2UpCi8vCi8vICAgICAgICAgICAgLy8gTWFrZSBzdXJlIHRoYXQgdGhlIHRhc2sgaXMgYmVpbmcgY3JlYXRlZCB3aXRoIHRoZSBleHBlY3RlZCB0cmFuc2Zvcm0KLy8gICAgICAgICAgICBhc3NlcnRTYW1lKHRyYW5zZm9ybXNbaW5kZXgrK10sIHJlYWxUYXNrLm1UcmFuc2Zvcm0pCi8vCi8vICAgICAgICAgICAgLy8gQWRkIGEgbmV3IG1vY2sgdGFzayB0byB0aGUgc3BlY2lhbCB0YXNrIGxpc3Qgd2hvc2UgaXRlcmF0b3Igd2lsbCBiZQovLyAgICAgICAgICAgIC8vIHJldHVybmVkIGluIHRoZSBzZWNvbmQgZm9yIGVhY2ggbG9vcCBhbmQgZWFjaCBvZiB0aGVzZSBtb2NrIHRhc2tzCi8vICAgICAgICAgICAgLy8gd2lsbCB1c2VkIHRvIGRldGVjdCBjYWxscyB0aGVpciBqb2luKCkgbWV0aG9kcy4KLy8gICAgICAgICAgICB2YWwgbW9ja1Rhc2sgPSBtb2NrKEZvcmtKb2luQ3Jhd2xlcjEuUGVyZm9ybVRyYW5zZm9ybVRhc2s6OmNsYXNzLmphdmEpLmFsc28gewovLyAgICAgICAgICAgICAgICAvLyBXaGVuIHRoaXMgdGFza3Mgam9pbiBtZXRob2QgaXMgY2FsbGVkLCByZXR1cm4gYSBub24gbnVsbCB2YWx1ZS4KLy8gICAgICAgICAgICAgICAgYHdoZW5gKGl0LmpvaW4oKSkudGhlblJldHVybihtb2NrSW1hZ2UpCi8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIHRhc2tMaXN0LmFkZChtb2NrVGFzaykKLy8KLy8gICAgICAgICAgICBtb2NrVGFzawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFyZ3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBgd2hlbmAobW9ja0ltYWdlVGFza3MpLmFkZChhbnkoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgYSByZWFsIGVtcHR5IFByb2Nlc3NJbWFnZVRhc2tMaXN0CiAgICAgICAgdmFsIHRhc2tMaXN0ID0gbXV0YWJsZUxpc3RPZjxGb3JrSm9pblRhc2s8SW1hZ2U+PigpCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9LmB3aGVuYAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgYSByZWFsIGVtcHR5IFByb2Nlc3NJbWFnZVRhc2tMaXN0CiAgICAgICAgdmFsIHRhc2tMaXN0ID0gbXV0YWJsZUxpc3RPZjxGb3JrSm9pblRhc2s8SW1hZ2U+PigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9ja1Rhc2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgYSByZWFsIGVtcHR5IFByb2Nlc3NJbWFnZVRhc2tMaXN0CiAgICAgICAgdmFsIHRhc2tMaXN0ID0gbXV0YWJsZUxpc3RPZjxGb3JrSm9pblRhc2s8SW1hZ2U+PigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgYSByZWFsIGVtcHR5IFByb2Nlc3NJbWFnZVRhc2tMaXN0CiAgICAgICAgdmFsIHRhc2tMaXN0ID0gbXV0YWJsZUxpc3RPZjxGb3JrSm9pblRhc2s8SW1hZ2U+PigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza0xpc3QuYWRkKG1vY2tUYXNrKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0udG9MaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGB3aGVuYChpdC5qb2luKCkpLnRoZW5SZXR1cm4obW9ja0ltYWdlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFdoZW4gdGhpcyB0YXNrcyBqb2luIG1ldGhvZCBpcyBjYWxsZWQsIHJldHVybiBhIG5vbiBudWxsIHZhbHVlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Process</last-search>
+      <last-search>doAn</last-search>
       <last-offset />
-      <last-pattern>Process</last-pattern>
+      <last-pattern>doAn</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>throws</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>input type:</entry>
         <entry>setField</entry>
         <entry>Crawler()</entry>
         <entry>applyTrn</entry>
@@ -2145,6 +2146,7 @@
         <entry>size</entry>
         <entry>mockTaskL</entry>
         <entry>Process</entry>
+        <entry>doAn</entry>
       </history-search>
       <history-cmd>
         <entry>g/=/:/</entry>
