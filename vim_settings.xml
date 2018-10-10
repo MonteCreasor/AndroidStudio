@@ -430,6 +430,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" timestamp="1539147482747">
+        <mark key="a" line="155" column="35" />
+        <mark key="'" line="180" column="21" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="165" column="0" />
+      </file>
       <file name="$USER_HOME$/client/brazil/demo/common/src/main/java/demo/common/ConnectionState.kt" timestamp="1538266957719">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -500,7 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="8" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="27" column="16" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="37" column="16" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
       <jump line="39" column="16" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/common/src/main/java/demo/common/MainViewModel.kt" />
@@ -600,10 +605,11 @@
       <jump line="73" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgrTest.java" />
       <jump line="74" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgrTest.java" />
       <jump line="75" column="12" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/executorService/ExecutorServiceMgrTest.java" />
+      <jump line="180" column="21" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobU1hbmFnZXJNb2NrKS5iZWdpbkJlaW5nVGhyZWFkUG9vbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBiZWluZ01hbmFnZXIubUJlaW5nVGhyZWFkcyA9CiAgICAgICAgICAgICAgICBJbnRTdHJlYW0ucmFuZ2VDbG9zZWQoMSwgQkVJTkdfQ09VTlQpCiAgICAgICAgICAgICAgICAgICAgICAgIC5tYXBUb09iaih1bnVzZWQgLT4gbW9jayhUaHJlYWQuY2xhc3MpKQogICAgICAgICAgICAgICAgICAgICAgICAucGVlayh0aHJlYWQgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb05vdGhpbmcoKS53aGVuKHRocmVhZCkuam9pbigpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cgo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -811,7 +817,7 @@
         <text>when(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobU1hbmFnZXJNb2NrKS5iZWdpbkJlaW5nVGhyZWFkUG9vbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBiZWluZ01hbmFnZXIubUJlaW5nVGhyZWFkcyA9CiAgICAgICAgICAgICAgICBJbnRTdHJlYW0ucmFuZ2VDbG9zZWQoMSwgQkVJTkdfQ09VTlQpCiAgICAgICAgICAgICAgICAgICAgICAgIC5tYXBUb09iaih1bnVzZWQgLT4gbW9jayhUaHJlYWQuY2xhc3MpKQogICAgICAgICAgICAgICAgICAgICAgICAucGVlayh0aHJlYWQgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb05vdGhpbmcoKS53aGVuKHRocmVhZCkuam9pbigpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBmaWVsZC5zZXQocGFyZW50Q2xhc3MsIGZpZWxkVmFsdWUpOwogICAgICAgIGZpZWxkLnNldEFjY2Vzc2libGUod2FzQWNjZXNzaWJsZSk7Cg==</text>
