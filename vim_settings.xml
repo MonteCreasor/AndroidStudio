@@ -201,7 +201,7 @@
         <mark key="^" line="41" column="18" />
         <mark key="." line="41" column="18" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1.java" timestamp="1539140282984">
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1.java" timestamp="1539140607858">
         <mark key="a" line="121" column="23" />
         <mark key="'" line="290" column="24" />
         <mark key="[" line="0" column="0" />
@@ -781,12 +781,12 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/ForkJoinCrawler1Test.kt" timestamp="1539140224827">
-        <mark key="'" line="75" column="8" />
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="35" />
-        <mark key="^" line="74" column="59" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/ForkJoinCrawler1Test.kt" timestamp="1539141050552">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="79" column="19" />
       </file>
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/ui/views/ProgressFab.kt" timestamp="1533320071149">
         <mark key="[" line="129" column="54" />
@@ -1655,11 +1655,11 @@
         <mark key="^" line="26" column="41" />
         <mark key="." line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" timestamp="1539136264734">
-        <mark key="[" line="382" column="4" />
-        <mark key="]" line="382" column="9" />
-        <mark key="." line="382" column="9" />
-        <mark key="^" line="382" column="9" />
+      <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/framework/ImageCrawler.java" timestamp="1539141008720">
+        <mark key="[" line="512" column="4" />
+        <mark key="]" line="512" column="10" />
+        <mark key="." line="512" column="10" />
+        <mark key="^" line="512" column="10" />
       </file>
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/alerts/SetPinAlert.kt" timestamp="1530854158123">
         <mark key="[" line="52" column="46" />
@@ -1735,8 +1735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="22" filename="$USER_HOME$/client/brazil/gds/code/Android/code/models/app/src/main/java/com/axxiom/gdis/models/DaoManager.kt" />
-      <jump line="192" column="38" filename="$USER_HOME$/client/brazil/gds/code/Android/code/models/app/src/main/java/com/axxiom/gdis/models/DaoManager.kt" />
       <jump line="236" column="24" filename="$USER_HOME$/client/brazil/gds/code/Android/code/models/app/src/main/java/com/axxiom/gdis/models/DaoManager.kt" />
       <jump line="81" column="23" filename="$USER_HOME$/client/brazil/gds/code/Android/code/Core/app/src/main/java/com/axxiom/core/service/DaoService.kt" />
       <jump line="17" column="19" filename="$USER_HOME$/client/brazil/gds/code/Android/code/Core/app/src/main/java/com/axxiom/core/service/DaoService.kt" />
@@ -1835,10 +1833,12 @@
       <jump line="267" column="24" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1.java" />
       <jump line="290" column="24" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1.java" />
       <jump line="75" column="8" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/ForkJoinCrawler1Test.kt" />
+      <jump line="73" column="7" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/ForkJoinCrawler1Test.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/ForkJoinCrawler1Test.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2040,49 +2040,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.thenReturn(&quot;foobar&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBsYXRlaW5pdCB2YXIgdHJhbnNmb3JtOiBUcmFuc2Zvcm0KCiAgICBASW5qZWN0TW9ja3MKICAgIGxhdGVpbml0IHZhciBtb2NrQ3Jhd2xlcjogRm9ya0pvaW5DcmF3bGVyMQoK</text>
+        <text encoding="base64">ICAgICAgICBgd2hlbmAobW9ja1RyYW5mb3JtZXIubmFtZSkudGhlblJldHVybigiZm9vYmFyIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbW9ja0NyYXdsZXIgPSBtb2NrKEZvcmtKb2luQ3Jhd2xlcjEuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrLmNvbXB1dGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuZXZlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1vY2tDcmF3bGVyISEK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tDcmF3bGVyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGB3aGVuYChtb2NrVGFza3M/LmFkZChhbnkoKSkpLnRoZW4K</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIGxvZwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRvQ2FsbFJlYWxNZXRob2QoKS5gd2hlbmAobW9ja1Rhc2spLmNvbXB1dGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3RNb2Nrcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
