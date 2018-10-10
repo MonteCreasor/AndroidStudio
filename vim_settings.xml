@@ -194,6 +194,12 @@
         <mark key="]" line="13" column="51" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/build.gradle" timestamp="1539150020684">
+        <mark key="[" line="50" column="34" />
+        <mark key="]" line="50" column="45" />
+        <mark key="." line="50" column="45" />
+        <mark key="^" line="50" column="45" />
+      </file>
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Android/code/GestorEquipe/build.gradle" timestamp="1534900636648">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -608,8 +614,8 @@
       <jump line="180" column="21" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/beings/runnableThreads/RunnableThreadsMgrTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiZWluZ01hbmFnZXIubUJlaW5nVGhyZWFkcyA9CiAgICAgICAgICAgICAgICBJbnRTdHJlYW0ucmFuZ2VDbG9zZWQoMSwgQkVJTkdfQ09VTlQpCiAgICAgICAgICAgICAgICAgICAgICAgIC5tYXBUb09iaih1bnVzZWQgLT4gbW9jayhUaHJlYWQuY2xhc3MpKQogICAgICAgICAgICAgICAgICAgICAgICAucGVlayh0aHJlYWQgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb05vdGhpbmcoKS53aGVuKHRocmVhZCkuam9pbigpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>AsyncCallback</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -811,7 +817,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SERVICE_CLASS)</text>
+        <text>AsyncCallback</text>
       </register>
       <register name="/" type="4">
         <text>when(</text>
