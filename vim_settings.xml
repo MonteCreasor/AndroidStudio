@@ -828,8 +828,8 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" timestamp="1539831715861">
-        <mark key="'" line="42" column="0" />
+      <file name="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" timestamp="1539837190628">
+        <mark key="'" line="77" column="64" />
         <mark key="^" line="95" column="2" />
       </file>
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/localCrawlTests/ForkJoin1CrawlerLocalTest.java" timestamp="1537898456919">
@@ -899,7 +899,6 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/server-0/build.gradle" timestamp="1539823932016" />
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/extensions/ViewExt.kt" timestamp="1533447264545">
         <mark key="[" line="153" column="49" />
         <mark key="]" line="153" column="50" />
@@ -1762,7 +1761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="54" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/ForkJoinCrawler1Test.kt" />
       <jump line="208" column="45" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/ForkJoinCrawler1Test.kt" />
       <jump line="290" column="43" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/ForkJoinCrawler1Test.kt" />
       <jump line="297" column="21" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/test/java/edu/vanderbilt/imagecrawler/allTests/ForkJoinCrawler1Test.kt" />
@@ -1862,6 +1860,7 @@
       <jump line="64" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" />
       <jump line="36" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" />
       <jump line="42" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" />
+      <jump line="77" column="64" filename="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2070,7 +2069,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>stetho</text>
+        <text>gson</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGV0aG8gICAgICAgICAgICAgICAgICAgIDogIjEuNS4wIiwK</text>
@@ -2116,9 +2115,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stetho</last-search>
+      <last-search>gson</last-search>
       <last-offset />
-      <last-pattern>stetho</last-pattern>
+      <last-pattern>gson</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>Array</last-substitute>
       <last-dir>1</last-dir>
@@ -2126,7 +2125,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2</entry>
         <entry>ArrayL</entry>
         <entry>List</entry>
         <entry>makrFork</entry>
@@ -2146,6 +2144,7 @@
         <entry>kotlin</entry>
         <entry>dex</entry>
         <entry>stetho</entry>
+        <entry>gson</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
