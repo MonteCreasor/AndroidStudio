@@ -267,6 +267,13 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/build.gradle" timestamp="1539824668382">
+        <mark key="a" line="33" column="26" />
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
       <file name="$USER_HOME$/client/brazil/raw_checkout/code/Android/code/GestorEquipe/build.gradle" timestamp="1538795311852">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="31" />
@@ -884,6 +891,7 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/client/brazil/aidl-ipc-demo/server-0/build.gradle" timestamp="1539823932016" />
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/app/src/main/java/edu/vanderbilt/crawler/extensions/ViewExt.kt" timestamp="1533447264545">
         <mark key="[" line="153" column="49" />
         <mark key="]" line="153" column="50" />
@@ -1749,7 +1757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="15" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1.java" />
       <jump line="101" column="33" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1.java" />
       <jump line="105" column="17" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1.java" />
       <jump line="109" column="15" filename="$USER_HOME$/client/vanderbilt/crawler-2018/image-crawler/src/main/java/edu/vanderbilt/imagecrawler/crawlers/ForkJoinCrawler1.java" />
@@ -1849,10 +1856,11 @@
       <jump line="799" column="29" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/MOUnused.java" />
       <jump line="13" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/concurrentMapFairSemaphore/MOUnused.java" />
       <jump line="15" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/build.gradle" />
+      <jump line="33" column="0" filename="$USER_HOME$/client/brazil/aidl-ipc-demo/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CnRhc2sgdGVzdEdldE1vY2thYmxlSmFyKCkgewogICAgZG9GaXJzdCB7CiAgICAgICAgZGVmIHByb2ogPSBwcm9qZWN0KCc6c2VydmVyLTAnKQogICAgICAgIGFzc2VydCBwcm9qCiAgICAgICAgZGVmIHBsdWdpbiA9IHByb2oucGx1Z2lucy5maW5kUGx1Z2luKCdjb20uYW5kcm9pZC5hcHBsaWNhdGlvbicpCiAgICAgICAgYXNzZXJ0IHBsdWdpbgogICAgICAgIHBsdWdpbi5wcm9wZXJ0aWVzLmVhY2ggewogICAgICAgICAgICBwcmludGxuIGl0CiAgICAgICAgfQogICAgICAgIGRlZiBqYXIxID0gcGx1Z2luLmV4dGVuc2lvbi5nZXRNb2NrYWJsZUFuZHJvaWRKYXIoKQogICAgICAgIGFzc2VydCBqYXIxCiAgICAgICAgcHJpbnRsbiAiSkFSMSA+Pj4+Pj4+Pj4+Pj4+Pj4+PiAiICsgamFyMQoKICAgICAgICBkZWYgamFyMiA9IHByb2ouYW5kcm9pZC5nZXRNb2NrYWJsZUFuZHJvaWRKYXIoKQogICAgICAgIGFzc2VydCBqYXIyCiAgICAgICAgcHJpbnRsbiAiSkFSMiA+Pj4+Pj4+Pj4+Pj4+Pj4+PiAiICsgamFyMgogICAgfQp9</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2054,49 +2062,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIFRlbXBvcmFyeSBncmFkZXIgaW5zdGFsbGVyIHN0dWIgLSBtdXN0IGJlIHJlbW92ZWQ=</text>
+        <text encoding="base64">amFyMSA=</text>
       </register>
       <register name="/" type="4">
         <text>TestClass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zLmNsYXNzcGF0aCB7CiAgICAgICAgcmVzb2x1dGlvblN0cmF0ZWd5IHsKICAgICAgICAgICAgY2FjaGVEeW5hbWljVmVyc2lvbnNGb3IgMCwgJ3NlY29uZHMnCiAgICAgICAgICAgIGNhY2hlQ2hhbmdpbmdNb2R1bGVzRm9yIDAsICdzZWNvbmRzJwogICAgICAgIH0KICAgIH0KCiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIGpjZW50ZXIoKQogICAgICAgIG1hdmVuTG9jYWwoKQogICAgICAgIGdvb2dsZSgpCiAgICB9CgogICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICBjbGFzc3BhdGggJ2VkdS52YW5kZXJiaWx0LmdyYWRlcjpncmFkbGUtcGx1Z2luOjEuNC42MjAzLVNOQVBTSE9UJwogICAgICAgIGNsYXNzcGF0aCAnY29tLmFuZHJvaWQudG9vbHMuYnVpbGQ6Z3JhZGxlOjMuMi4xJwogICAgICAgIGNsYXNzcGF0aCAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLWdyYWRsZS1wbHVnaW46JHZlcnNpb25zLmtvdGxpbiIKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgamFyMgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnRhc2sgdGVzdEdldE1vY2thYmxlSmFyKCkgewogICAgZG9GaXJzdCB7CiAgICAgICAgZGVmIHByb2ogPSBwcm9qZWN0KCc6c2VydmVyLTAnKQogICAgICAgIGFzc2VydCBwcm9qCiAgICAgICAgZGVmIHBsdWdpbiA9IHByb2oucGx1Z2lucy5maW5kUGx1Z2luKCdjb20uYW5kcm9pZC5hcHBsaWNhdGlvbicpCiAgICAgICAgYXNzZXJ0IHBsdWdpbgogICAgICAgIHBsdWdpbi5wcm9wZXJ0aWVzLmVhY2ggewogICAgICAgICAgICBwcmludGxuIGl0CiAgICAgICAgfQogICAgICAgIGRlZiBqYXIxID0gcGx1Z2luLmV4dGVuc2lvbi5nZXRNb2NrYWJsZUFuZHJvaWRKYXIoKQogICAgICAgIGFzc2VydCBqYXIxCiAgICAgICAgcHJpbnRsbiAiSkFSMSA+Pj4+Pj4+Pj4+Pj4+Pj4+PiAiICsgamFyMQoKICAgICAgICBkZWYgamFyMiA9IHByb2ouYW5kcm9pZC5nZXRNb2NrYWJsZUFuZHJvaWRKYXIoKQogICAgICAgIGFzc2VydCBqYXIyCiAgICAgICAgcHJpbnRsbiAiSkFSMiA+Pj4+Pj4+Pj4+Pj4+Pj4+PiAiICsgamFyMgogICAgfQp9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVG9wLWxldmVsIGJ1aWxkIGZpbGUgd2hlcmUgeW91IGNhbiBhZGQgY29uZmlndXJhdGlvbiBvcHRpb25zIGNvbW1vbiB0byBhbGwgc3ViLXByb2plY3RzL21vZHVsZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICI+Pj4+Pj4+Pj4+Pj4+Pj4+PiIgKyBtb2NrYWJsZUphcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2VkdS52YW5kZXJiaWx0LmdyYWRlcjpncmFkbGUtcGx1Z2luOjEuNC42MjAzLVNOQVBTSE9UJwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja2FibGVKYXIxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbW9ja2FibGVKYXIxID0gYW5kcm9pZC5hbmRyb2lkLmdldE1vY2thYmxlQW5kcm9pZEphcigpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcHJvai5hbmRyb2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVDaGFuZ2luZ01vZHVsZXNGb3IgMCwgJ3NlY29uZHMnCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja2FibGVKYXIyCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVEeW5hbWljVmVyc2lvbnNGb3IgMCwgJ3NlY29uZHMnCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbW9ja2FibGVKYXIyID0gYW5kcm9pZC5nZXRNb2NrYWJsZUFuZHJvaWRKYXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvbHV0aW9uU3RyYXRlZ3kgewo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgYW5kcm9pZC5oYXNQcm9wZXJ0eSgnYXBwbGljYXRpb25WYXJpYW50cycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
