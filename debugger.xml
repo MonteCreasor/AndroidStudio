@@ -83,6 +83,15 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="char[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.sun.org.apache.xpath.internal.operations.String" />
+      </Renderer>
+    </CustomRenderers>
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
