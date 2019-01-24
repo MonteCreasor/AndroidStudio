@@ -888,8 +888,8 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" timestamp="1548367588464">
-        <mark key="'" line="48" column="76" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" timestamp="1548367606194">
+        <mark key="'" line="20" column="61" />
         <mark key="[" line="104" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="104" column="0" />
@@ -1065,11 +1065,11 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/common/src/main/java/com/ideallife/healthtablet/common/Constants.kt" timestamp="1547774360132">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="53" />
-        <mark key="^" line="16" column="53" />
-        <mark key="." line="16" column="53" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/common/src/main/java/com/ideallife/healthtablet/common/Constants.kt" timestamp="1548367636323">
+        <mark key="[" line="16" column="72" />
+        <mark key="]" line="16" column="72" />
+        <mark key="^" line="16" column="72" />
+        <mark key="." line="16" column="72" />
       </file>
       <file name="$USER_HOME$/ccs/intake/app/src/debug/res/layout/debug_activity.xml" timestamp="1530076779930">
         <mark key="[" line="7" column="0" />
@@ -1870,7 +1870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="11" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="207" column="15" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="210" column="47" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="240" column="15" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/debug/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
@@ -1967,13 +1966,14 @@
       <jump line="185" column="47" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" />
       <jump line="217" column="41" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" />
       <jump line="19" column="80" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" />
-      <jump line="20" column="69" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" />
       <jump line="41" column="76" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" />
       <jump line="48" column="76" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" />
+      <jump line="120" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" />
+      <jump line="20" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/NotificationHelper.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBwZW5kaW5nSW50ZW50ID0KICAgICAgICAgICAgICAgICAgICAgICAgSW50ZW50KGFwcENvbnRleHQsIFRvZ2dsZUdhdGV3YXlJbnRlbnRTZXJ2aWNlOjpjbGFzcy5qYXZhKS5sZXQgeyBub3RpZmljYXRpb25JbnRlbnQgLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBlbmRpbmdJbnRlbnQuZ2V0QWN0aXZpdHkoYXBwQ29udGV4dCwgMCwgbm90aWZpY2F0aW9uSW50ZW50LCAwKQogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgdmFsIG5vdGlmaWNhdGlvbjogTm90aWZpY2F0aW9uID0gTm90aWZpY2F0aW9uLkJ1aWxkZXIodGhpcywgQ0hBTk5FTF9ERUZBVUxUX0lNUE9SVEFOQ0UpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRDb250ZW50VGl0bGUodGl0bGUpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRDb250ZW50VGV4dChtZXNzYWdlKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0U21hbGxJY29uKGljb25JZCkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldENvbnRlbnRJbnRlbnQocGVuZGluZ0ludGVudCkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldFRpY2tlcigiVGlja2VyIHRleHQiKQogICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>common</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -2175,13 +2175,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>R.drawable.icon)</text>
+        <text>common</text>
       </register>
       <register name="/" type="4">
-        <text>ID</text>
+        <text>CHANNEL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uRk9SRUdST1VORF9TRVJWSUNFIiAvPgo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uaWRlYWxsaWZlLmhlYWx0aHRhYmxldC5jb21tb24K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBwZW5kaW5nSW50ZW50ID0KICAgICAgICAgICAgICAgICAgICAgICAgSW50ZW50KGFwcENvbnRleHQsIFRvZ2dsZUdhdGV3YXlJbnRlbnRTZXJ2aWNlOjpjbGFzcy5qYXZhKS5sZXQgeyBub3RpZmljYXRpb25JbnRlbnQgLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBlbmRpbmdJbnRlbnQuZ2V0QWN0aXZpdHkoYXBwQ29udGV4dCwgMCwgbm90aWZpY2F0aW9uSW50ZW50LCAwKQogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgdmFsIG5vdGlmaWNhdGlvbjogTm90aWZpY2F0aW9uID0gTm90aWZpY2F0aW9uLkJ1aWxkZXIodGhpcywgQ0hBTk5FTF9ERUZBVUxUX0lNUE9SVEFOQ0UpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRDb250ZW50VGl0bGUodGl0bGUpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRDb250ZW50VGV4dChtZXNzYWdlKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0U21hbGxJY29uKGljb25JZCkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldENvbnRlbnRJbnRlbnQocGVuZGluZ0ludGVudCkKICAgICAgICAgICAgICAgICAgICAgICAgLnNldFRpY2tlcigiVGlja2VyIHRleHQiKQogICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICAgICAgICAgCg==</text>
@@ -2224,9 +2224,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ID</last-search>
+      <last-search>CHANNEL</last-search>
       <last-offset />
-      <last-pattern>ID</last-pattern>
+      <last-pattern>CHANNEL</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -2234,7 +2234,6 @@
     </search>
     <history>
       <history-search>
-        <entry>annel</entry>
         <entry>chan</entry>
         <entry>nel</entry>
         <entry>Notification\.</entry>
@@ -2254,6 +2253,7 @@
         <entry>notificationId</entry>
         <entry>notificationId:</entry>
         <entry>ID</entry>
+        <entry>CHANNEL</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
