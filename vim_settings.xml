@@ -47,13 +47,12 @@
         <mark key="." line="43" column="8" />
         <mark key="^" line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/PairingHelper.java" timestamp="1548725044261">
-        <mark key="a" line="444" column="61" />
-        <mark key="'" line="346" column="4" />
-        <mark key="[" line="448" column="24" />
-        <mark key="]" line="448" column="24" />
-        <mark key="^" line="449" column="23" />
-        <mark key="." line="448" column="24" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/PairingHelper.java" timestamp="1548726640556">
+        <mark key="'" line="347" column="4" />
+        <mark key="[" line="358" column="0" />
+        <mark key="]" line="358" column="42" />
+        <mark key="^" line="358" column="41" />
+        <mark key="." line="358" column="41" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/AndroidManifest.xml" timestamp="1548548324216">
         <mark key="[" line="43" column="55" />
@@ -97,6 +96,11 @@
         <mark key="." line="15" column="31" />
       </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1548720656855" />
+      <file name="/Dummy.txt" timestamp="1548727315667">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/build.gradle" timestamp="1548710381980">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -297,7 +301,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Upgrade from target SDK 25 to target SDK 28 and migration to androidx support libraries completed (development).
+Testing is still required on all platforms.
+TODO: Legacy notification sound code still exists (uses deprecated calls)and needs to be upgraded to SDK 28.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -499,49 +505,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>setPair</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIFRoaXMgbWV0aG9kIHdpbGwgbmV2ZXIgd29yayBzaW5jZSBpdCByZXF1aXJlcyBCTFVFVE9PVEhfQURNSU4gcGVybWlzc2lvbiBhbmQKICAgICAqIHRoZSBwZXJtaXNzaW9uIHJlcXVpcmVzIHRoZSBhcHBsaWNhdGlvbiB0byBiZSBpbnN0YWxsZWQgYXMgYSBzeXN0ZW0gYXBwICh3aGljaAogICAgICogaXMgbm90IHRoZSBjYXNlIGZvciB0aGlzIEhlYWx0aFRhYmxldCBhcHApLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhpcyBpcyBiYWQgbGVnYWN5IGNvZGUgLi4uCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQkxVRVRPT1RIX1BSSVZJTEVHRUQiIC8+Cg==</text>
+      <register name="1" type="4">
+        <text>Upgrade from target SDK 25 to target SDK 28 and migration to androidx support libraries completed (development).
+Testing is still required on all platforms.
+TODO: Legacy notification sound code still exists (uses deprecated calls)and needs to be upgraded to SDK 28.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQkxVRVRPT1RIX1BSSVZJTEVHRUQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQkxVRVRPT1RIX0FETUlOIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQ2FuIG5ldmVyIHdvcmsgd2l0aG91dCBCTFVFVE9PVEhfUFJJVklMRUdFRCBwZXJtaXNzaW9uCiAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBCdWlsZC5WRVJTSU9OX0NPREVTLk4pCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIENhbiBuZXZlciB3b3JrIHdpdGhvdXQgQkxVRVRPT1RIX1BSSVZJTEVHRUQgcGVybWlzc2lvbgogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb25maXJtCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IEJ1aWxkLlZFUlNJT05fQ09ERVMuTikKICAgICAgICB7CiAgICAgICAgICAgIC8vIENhbiBuZXZlciB3b3JrIHdpdGhvdXQgQkxVRVRPT1RIX1BSSVZJTEVHRUQgcGVybWlzc2lvbgogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBkZXZpY2UK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5LSVRLQVQpIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9yZXR1cm4gZGV2aWNlLnNldFBhaXJpbmdDb25maXJtYXRpb24oY29uZmlybSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
