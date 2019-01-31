@@ -46,6 +46,7 @@
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/java/text/DateFormat.java" timestamp="1548728042722">
         <mark key="'" line="82" column="3" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/res/values/strings.xml" timestamp="1548959547296" />
       <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1548947939772" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/models/ParcelableReading.java" timestamp="1548956021807" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/HealthConsumerApplication.java" timestamp="1548543805048">
@@ -82,7 +83,7 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" timestamp="1548958829670">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" timestamp="1548958992575">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="144" column="73" />
         <mark key="]" line="144" column="74" />
@@ -138,13 +139,12 @@
         <mark key="." line="5" column="70" />
         <mark key="^" line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/util/MedicationReminderHelperTest.kt" timestamp="1548957182116">
-        <mark key="a" line="16" column="0" />
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="24" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/util/MedicationReminderHelperTest.kt" timestamp="1548959810545">
+        <mark key="a" line="12" column="0" />
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1548957109020">
         <mark key="[" line="0" column="0" />
@@ -254,7 +254,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>InstrumentationRunner</text>
+        <text>InstrumentationRegistry.getInstrumentation().context</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -456,49 +456,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>InstrumentationRunner</text>
+        <text>InstrumentationRegistry.getInstrumentation().context</text>
       </register>
       <register name="/" type="4">
         <text>kapt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICJhbmRyb2lkeC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IEluc3RydW1lbnRhdGlvblJlZ2lzdHJ5LmdldEluc3RydW1lbnRhdGlvbigpLmNvbnRleHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnN0cnVtZW50YXRpb25SZWdpc3RyeS5nZXRJbnN0cnVtZW50YXRpb24oKS50YXJnZXRDb250ZXh0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRlU3R1YnMgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgIHZhbCBub3RpZmljYXRpb25UaXRsZSA9IGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLm5vdGlmaWNhdGlvbl90aXRsZV9yZW1pbmRlcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a2FwdCB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LlIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL2lsLXNlcnZpY2VzLmphcicpCiAgICBpbXBsZW1lbnRhdGlvbiBmaWxlcygnbGlicy9ncmFwaHZpZXcuamFyJykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKDEgPT0gMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NkZAo=</text>
+        <text encoding="base64">ICAgIGZ1biBkdW1teVRlc3QoKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
