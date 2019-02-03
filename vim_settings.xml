@@ -14,12 +14,12 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" timestamp="1549051076988">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="119" column="41" />
-        <mark key="]" line="120" column="58" />
-        <mark key="^" line="120" column="58" />
-        <mark key="." line="120" column="58" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" timestamp="1549165802608">
+        <mark key="'" line="118" column="4" />
+        <mark key="[" line="120" column="31" />
+        <mark key="]" line="120" column="32" />
+        <mark key="^" line="120" column="39" />
+        <mark key="." line="120" column="32" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/Assignment_1B_ReentrantSpinLockTest.java" timestamp="1548709974947">
         <mark key="'" line="245" column="15" />
@@ -29,6 +29,11 @@
         <mark key="]" line="43" column="8" />
         <mark key="." line="43" column="8" />
         <mark key="^" line="27" column="9" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il_services/build.gradle" timestamp="1549165648861">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/AndroidManifest.xml" timestamp="1549051264339">
         <mark key="'" line="27" column="4" />
@@ -45,6 +50,9 @@
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/ClearUserDataActivity.java" timestamp="1548739154124">
         <mark key="'" line="107" column="39" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/settings.gradle" timestamp="1549165537768">
+        <mark key="[" line="0" column="40" />
       </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/Assignment_1B_SpinLockHashMapMgrTest.java" timestamp="1549142245114">
         <mark key="'" line="35" column="13" />
@@ -152,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="15" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/Assignment_1B_ReentrantSpinLockTest.java" />
-      <jump line="210" column="13" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/Assignment_1B_ReentrantSpinLockTest.java" />
       <jump line="212" column="13" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/Assignment_1B_ReentrantSpinLockTest.java" />
       <jump line="220" column="19" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/Assignment_1B_ReentrantSpinLockTest.java" />
       <jump line="240" column="13" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/Assignment_1B_ReentrantSpinLockTest.java" />
@@ -252,10 +258,12 @@
       <jump line="58" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" />
       <jump line="131" column="11" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/SpinLockHashMapMgr.java" />
       <jump line="35" column="13" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/spinLockHashMap/Assignment_1B_SpinLockHashMapMgrTest.java" />
+      <jump line="140" column="53" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
+      <jump line="118" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ssssssssss</text>
+        <text>gatewaylib</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -457,13 +465,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ssssssssss</text>
+        <text>gatewaylib</text>
       </register>
       <register name="/" type="4">
-        <text>release</text>
+        <text>service</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGl0bGUgPSBkZXZpY2UuZmluZE9iamVjdChCeS50ZXh0KGV4cGVjdGVkVGl0bGUpKQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpnYXRld2F5bGliJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly99Cg==</text>
@@ -506,9 +514,9 @@
       </register>
     </registers>
     <search>
-      <last-search>release</last-search>
+      <last-search>service</last-search>
       <last-offset />
-      <last-pattern>release</last-pattern>
+      <last-pattern>service</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -516,8 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DateF</entry>
-        <entry>NotificationCompat</entry>
         <entry>mAlam</entry>
         <entry>alarm</entry>
         <entry>getReceiverIntent</entry>
@@ -536,6 +542,8 @@
         <entry>Receiver</entry>
         <entry>releasee</entry>
         <entry>release</entry>
+        <entry>gson</entry>
+        <entry>service</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
