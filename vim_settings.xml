@@ -26,6 +26,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/AndroidManifest.xml" timestamp="1549914884892">
+        <mark key="[" line="181" column="80" />
+        <mark key="]" line="181" column="80" />
+        <mark key="^" line="181" column="80" />
+        <mark key="." line="181" column="80" />
+      </file>
       <file name="$USER_HOME$/client/40au/vu-ema-master/myday-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/WebViewActivity.java" timestamp="1549832188635">
         <mark key="[" line="483" column="0" />
         <mark key="]" line="483" column="0" />
@@ -121,16 +127,13 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="122" column="17" />
       </file>
-      <file name="$USER_HOME$/client/40au/vu-ema-master/myday-yeshiva/app/build.gradle" timestamp="1549833092772">
-        <mark key="'" line="96" column="52" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
       <file name="$USER_HOME$/cur/PalantiriSimulator/build.gradle" timestamp="1549227738038">
         <mark key="[" line="11" column="55" />
         <mark key="]" line="11" column="55" />
         <mark key="." line="11" column="55" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" timestamp="1549914291761">
+        <mark key="'" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il_services/src/main/java/com/ideallife/models/security/InvalidLoginCredentialsException.java" timestamp="1549577847314">
         <mark key="[" line="27" column="0" />
@@ -147,8 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="29" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/ReentrantLockHashMapSimpleSemaphoreMgr.java" />
-      <jump line="18" column="42" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/ReentrantLockHashMapSimpleSemaphoreMgr.java" />
       <jump line="176" column="27" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/Assignment_2B_ReentrantLockHashMapSimpleSemaphoreMgrTest.java" />
       <jump line="188" column="16" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/main/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/ReentrantLockHashMapSimpleSemaphoreMgr.java" />
       <jump line="178" column="0" filename="$USER_HOME$/cur/PalantiriSimulator/app/src/test/java/edu/vandy/simulator/managers/palantiri/reentrantLockHashMapSimpleSemaphore/Assignment_2B_ReentrantLockHashMapSimpleSemaphoreMgrTest.java" />
@@ -247,10 +248,12 @@
       <jump line="480" column="24" filename="$USER_HOME$/client/40au/vu-ema-master/myday-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/TodayActivity.java" />
       <jump line="120" column="40" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
       <jump line="123" column="57" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
+      <jump line="3" column="22" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
+      <jump line="12" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIGJ1aWxkX3ZlcnNpb25zLmJ1aWxkX3Rvb2xzCg==</text>
+      <register name="&quot;" type="4">
+        <text>using the</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -452,10 +455,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>using the</text>
       </register>
       <register name="/" type="4">
-        <text>gcm</text>
+        <text>.broadcast</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNT0NLX1BBU1NXT1JEMSA9ICJydXNzbzExNjUiOwo=</text>
@@ -501,9 +504,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gcm</last-search>
+      <last-search>.broadcast</last-search>
       <last-offset />
-      <last-pattern>gcm</last-pattern>
+      <last-pattern>.broadcast</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -511,7 +514,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createC</entry>
         <entry>core</entry>
         <entry>kot</entry>
         <entry>apiEndpoint</entry>
@@ -531,6 +533,7 @@
         <entry>fabric</entry>
         <entry>onCre</entry>
         <entry>gcm</entry>
+        <entry>.broadcast</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
