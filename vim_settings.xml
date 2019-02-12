@@ -89,7 +89,6 @@
         <mark key="^" line="325" column="72" />
         <mark key="." line="325" column="72" />
       </file>
-      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1549996637432" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NetworkReceiver.java" timestamp="1549993551550">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="34" />
@@ -104,6 +103,13 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/ToggleGatewayProvider.kt" timestamp="1550005287382">
+        <mark key="'" line="83" column="16" />
+        <mark key="[" line="84" column="27" />
+        <mark key="]" line="84" column="29" />
+        <mark key="^" line="84" column="29" />
+        <mark key="." line="84" column="29" />
       </file>
       <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1549996637432" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/build.gradle" timestamp="1550003659008">
@@ -123,11 +129,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/HealthTabletToggleGatewayProvider.kt" timestamp="1550004452651">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="66" />
-        <mark key="^" line="14" column="66" />
-        <mark key="." line="14" column="66" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/HealthTabletToggleGatewayProvider.kt" timestamp="1550005526712">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" timestamp="1550003791048">
         <mark key="'" line="284" column="0" />
@@ -137,12 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="33" filename="$USER_HOME$/ccs/ccs-intake-app/app/build.gradle" />
-      <jump line="424" column="41" filename="$USER_HOME$/client/40au/vu-ema-master/myday-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/TodayActivity.java" />
-      <jump line="446" column="8" filename="$USER_HOME$/client/40au/vu-ema-master/myday-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/TodayActivity.java" />
-      <jump line="476" column="8" filename="$USER_HOME$/client/40au/vu-ema-master/myday-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/TodayActivity.java" />
-      <jump line="480" column="24" filename="$USER_HOME$/client/40au/vu-ema-master/myday-yeshiva/app/src/main/java/edu/vanderbilt/ema/yeshiva/ui/activities/TodayActivity.java" />
-      <jump line="120" column="40" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
       <jump line="123" column="57" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
       <jump line="3" column="22" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
       <jump line="12" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
@@ -237,10 +237,16 @@
       <jump line="327" column="22" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/AndroidGateway.java" />
       <jump line="138" column="42" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
       <jump line="34" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/ErrorLoggedReceiver.kt" />
+      <jump line="55" column="54" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/ToggleGatewayProvider.kt" />
+      <jump line="84" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/ToggleGatewayProvider.kt" />
+      <jump line="18" column="23" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/ToggleGatewayProvider.kt" />
+      <jump line="22" column="18" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/ToggleGatewayProvider.kt" />
+      <jump line="28" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/ToggleGatewayProvider.kt" />
+      <jump line="83" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/ToggleGatewayProvider.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJvdmlkZXJTdWJjbGFzcyA9IEhlYWx0aFRhYmxldFRvZ2dsZUdhdGV3YXlQcm92aWRlcjo6Y2xhc3MuamF2YQo=</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -442,58 +448,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Context</text>
+        <text>run</text>
       </register>
       <register name="/" type="4">
-        <text>onDes</text>
+        <text>setButtonInfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgdmFsIEFDVElPTiA9ICJhbmRyb2lkLmFwcHdpZGdldC5hY3Rpb24uQVBQV0lER0VUX1VQREFURSIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJvdmlkZXJTdWJjbGFzcyA9IEhlYWx0aFRhYmxldFRvZ2dsZUdhdGV3YXlQcm92aWRlcjo6Y2xhc3MuamF2YQo=</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHN1cGVyLm9uUmVjZWl2ZShjb250ZXh0LCBpbnRlbnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgb3ZlcnJpZGUgZnVuIG9uUmVjZWl2ZShjb250ZXh0OiBDb250ZXh0PywgaW50ZW50OiBJbnRlbnQ/KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbEJyb2FkY2FzdE1hbmFnZXIuZ2V0SW5zdGFuY2UoY29udGV4dCkKICAgICAgICAgICAgICAgIC5yZWdpc3RlclJlY2VpdmVyKHRoaXMsIEludGVudEZpbHRlcihBQ1RJT04pKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIG1Qcm92aWRlclN1YmNsYXNzID0gSGVhbHRoVGFibGV0VG9nZ2xlR2F0ZXdheVByb3ZpZGVyOjpjbGFzcy5qYXZhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbEJyb2FkY2FzdE1hbmFnZXIuZ2V0SW5zdGFuY2UoY29udGV4dCkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApICAgICAgICBMb2NhbEJyb2FkY2FzdE1hbmFnZXIuZ2V0SW5zdGFuY2UoY29udGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlbnQoY29udGV4dCwgVG9nZ2xlR2F0ZXdheUludGVudFNlcnZpY2U6OmNsYXNzLmphdmEpLmxldCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQGF1dGhvciBwc2hhZGx5bgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsLnNlbmRFcnJvckJyb2FkY2FzdCh0aGlzLCAiTU9OVEUiLCAiQ2FsbGluZyBzZW5kRXJyb3JCcm9hZGNhc3QgZnJvbSBHYXRld2F5U2VydmljZS5vbkRlc3Ryb3kiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzUnVubmluZykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onDes</last-search>
+      <last-search>setButtonInfo</last-search>
       <last-offset />
-      <last-pattern>onDes</last-pattern>
+      <last-pattern>setButtonInfo</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -501,8 +507,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SharedPref</entry>
-        <entry>mAdapter</entry>
         <entry>onStop</entry>
         <entry>registerRe</entry>
         <entry>Dest</entry>
@@ -521,6 +525,8 @@
         <entry>unreg</entry>
         <entry>regi</entry>
         <entry>onDes</entry>
+        <entry>mProvider</entry>
+        <entry>setButtonInfo</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
