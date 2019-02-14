@@ -55,7 +55,7 @@
       <file name="/Dummy.txt" timestamp="1550164703771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/res/values/strings.xml" timestamp="1550167737395">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/res/values/strings.xml" timestamp="1550168603895">
         <mark key="'" line="677" column="21" />
         <mark key="[" line="674" column="69" />
         <mark key="]" line="675" column="3" />
@@ -80,13 +80,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NotificationBase.kt" timestamp="1550166412431">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NotificationBase.kt" timestamp="1550168789269">
         <mark key="a" line="97" column="6" />
-        <mark key="'" line="79" column="4" />
-        <mark key="[" line="121" column="41" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="48" column="20" />
-        <mark key="." line="55" column="0" />
+        <mark key="'" line="114" column="39" />
+        <mark key="[" line="122" column="24" />
+        <mark key="]" line="122" column="24" />
+        <mark key="^" line="117" column="45" />
+        <mark key="." line="122" column="24" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/ToggleGatewayProvider.kt" timestamp="1550079183384">
         <mark key="[" line="28" column="0" />
@@ -153,9 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1795" column="33" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Notification.java" />
-      <jump line="1816" column="62" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Notification.java" />
-      <jump line="1832" column="30" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Notification.java" />
       <jump line="2056" column="33" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Notification.java" />
       <jump line="2884" column="29" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Notification.java" />
       <jump line="68" column="19" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/media/AudioAttributes.java" />
@@ -253,10 +250,13 @@
       <jump line="69" column="72" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NotificationBase.kt" />
       <jump line="77" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NotificationBase.kt" />
       <jump line="79" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NotificationBase.kt" />
+      <jump line="37" column="34" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NotificationBase.kt" />
+      <jump line="105" column="15" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NotificationBase.kt" />
+      <jump line="114" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NotificationBase.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -458,10 +458,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>getOreo</text>
+        <text>channel.id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE5vdGlmaWNhdGlvbi5ERUZBVUxUX1NPVU5EIG9yIE5vdGlmaWNhdGlvbi5ERUZBVUxUX1ZJQlJBVEUpLAo=</text>
@@ -507,9 +507,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getOreo</last-search>
+      <last-search>channel.id</last-search>
       <last-offset />
-      <last-pattern>getOreo</last-pattern>
+      <last-pattern>channel.id</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -517,7 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DEFAULT</entry>
         <entry>SOUND</entry>
         <entry>AudioAtt</entry>
         <entry>name</entry>
@@ -537,6 +536,7 @@
         <entry>aa</entry>
         <entry>channel.name</entry>
         <entry>getOreo</entry>
+        <entry>channel.id</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
