@@ -35,19 +35,22 @@
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/NotificationManager.java" timestamp="1550084753191">
         <mark key="'" line="291" column="38" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.java" timestamp="1550355955935">
+        <mark key="'" line="40" column="24" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/ui/BaseActivity.java" timestamp="1550275135343">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="112" column="8" />
         <mark key="]" line="112" column="8" />
         <mark key="." line="112" column="8" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550355357756">
-        <mark key="a" line="70" column="12" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550355730047">
+        <mark key="a" line="150" column="42" />
         <mark key="'" line="74" column="47" />
-        <mark key="[" line="148" column="5" />
-        <mark key="]" line="149" column="3" />
-        <mark key="^" line="149" column="3" />
-        <mark key="." line="149" column="3" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="^" line="161" column="15" />
+        <mark key="." line="161" column="15" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/VideoNotificationActivity.java" timestamp="1550264041015">
         <mark key="'" line="203" column="14" />
@@ -179,8 +182,9 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/DebugSettings.kt" timestamp="1550349247037">
         <mark key="'" line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessagesService.java" timestamp="1550355369308">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessagesService.java" timestamp="1550355453262">
         <mark key="a" line="136" column="0" />
+        <mark key="'" line="31" column="26" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
@@ -214,6 +218,7 @@
         <mark key="^" line="13" column="46" />
         <mark key="." line="13" column="13" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" timestamp="1550355539914" />
       <file name="/Dummy.txt" timestamp="1550274990806">
         <mark key="[" line="0" column="0" />
       </file>
@@ -275,9 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NotificationHelper.kt" />
-      <jump line="438" column="76" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" />
-      <jump line="37" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" />
       <jump line="210" column="30" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" />
       <jump line="274" column="30" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" />
       <jump line="305" column="21" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" />
@@ -375,10 +377,13 @@
       <jump line="63" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/util/PullMessagesHelper.java" />
       <jump line="109" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessagesService.java" />
       <jump line="72" column="47" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="136" column="5" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessagesService.java" />
+      <jump line="31" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessagesService.java" />
+      <jump line="40" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBvbkV2ZW50TWFpblRocmVhZChSZWdpc3RyYXRpb25TZXJ2aWNlSGVscGVyLkdldFNlc3Npb25FdmVudCBldmVudCkKICAgIHsKICAgICAgICBpZiAoZXZlbnQuaXNTdWNjZXNzKCkpCiAgICAgICAgewogICAgICAgICAgICAvLyBSZXRyaWV2ZWQgbmV3IHNlc3Npb24sIG5vdyB1cGRhdGUgbWVzc2FnZSBsaXN0CiAgICAgICAgICAgIE1lc3NhZ2luZ0FwaVNlcnZpY2UuZ2V0RnV0dXJlTWVzc2FnZXModGhpcywgbVVzZXIsIE1lc3NhZ2luZ0FwaVNlcnZpY2UuREVGQVVMVF9GVVRVUkVfTUVTU0FHRVNfTE9PS1VQX0RBVEUpOwogICAgICAgIH0KCiAgICAgICAgZG9TdG9wKCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgb25FdmVudE1haW5UaHJlYWQoTm9OZXR3b3JrQ29ubmVjdGlvbkV2ZW50IGV2ZW50KQogICAgewogICAgICAgIGlmIChldmVudC5nZXRSZXF1ZXN0VHlwZSgpID09IE5vTmV0d29ya0Nvbm5lY3Rpb25FdmVudC5SZXF1ZXN0VHlwZS5BdXRob3JpemF0aW9uCiAgICAgICAgICAgICAgICB8fCBldmVudC5nZXRSZXF1ZXN0VHlwZSgpID09IE5vTmV0d29ya0Nvbm5lY3Rpb25FdmVudC5SZXF1ZXN0VHlwZS5NZXNzYWdlcykKICAgICAgICB7CiAgICAgICAgICAgIGRvU3RvcCgpOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgdm9pZCBvbkV2ZW50TWFpblRocmVhZChOb0FwaUNvbm5lY3Rpb25FdmVudCBldmVudCkKICAgIHsKICAgICAgICBpZihldmVudC5nZXRSZXF1ZXN0VHlwZSgpID09IE5vQXBpQ29ubmVjdGlvbkV2ZW50LlJlcXVlc3RUeXBlLkF1dGhvcml6YXRpb24pCiAgICAgICAgewogICAgICAgICAgICBkb1N0b3AoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBvbkV2ZW50TWFpblRocmVhZChldmVudDogUmVnaXN0cmF0aW9uU2VydmljZUhlbHBlci5HZXRTZXNzaW9uRXZlbnQpIHsKICAgICAgICBpZiAoZXZlbnQuaXNTdWNjZXNzKSB7CiAgICAgICAgICAgIC8vIFJldHJpZXZlZCBuZXcgc2Vzc2lvbiwgbm93IHVwZGF0ZSBtZXNzYWdlIGxpc3QKICAgICAgICAgICAgTWVzc2FnaW5nQXBpU2VydmljZS5nZXRGdXR1cmVNZXNzYWdlcyh0aGlzLCBtVXNlciwgTWVzc2FnaW5nQXBpU2VydmljZS5ERUZBVUxUX0ZVVFVSRV9NRVNTQUdFU19MT09LVVBfREFURSkKICAgICAgICB9CgogICAgICAgIGRvU3RvcCgpCiAgICB9Cgo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -583,10 +588,10 @@
         <text>job</text>
       </register>
       <register name="/" type="4">
-        <text>TASK_I</text>
+        <text>complete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWJlci5sb2cuVGltYmVyCg==</text>
+        <text encoding="base64">ICAgIGZ1biBvbkV2ZW50TWFpblRocmVhZChldmVudDogUmVnaXN0cmF0aW9uU2VydmljZUhlbHBlci5HZXRTZXNzaW9uRXZlbnQpIHsKICAgICAgICBpZiAoZXZlbnQuaXNTdWNjZXNzKSB7CiAgICAgICAgICAgIC8vIFJldHJpZXZlZCBuZXcgc2Vzc2lvbiwgbm93IHVwZGF0ZSBtZXNzYWdlIGxpc3QKICAgICAgICAgICAgTWVzc2FnaW5nQXBpU2VydmljZS5nZXRGdXR1cmVNZXNzYWdlcyh0aGlzLCBtVXNlciwgTWVzc2FnaW5nQXBpU2VydmljZS5ERUZBVUxUX0ZVVFVSRV9NRVNTQUdFU19MT09LVVBfREFURSkKICAgICAgICB9CgogICAgICAgIGRvU3RvcCgpCiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBvbkV2ZW50TWFpblRocmVhZChSZWdpc3RyYXRpb25TZXJ2aWNlSGVscGVyLkdldFNlc3Npb25FdmVudCBldmVudCkKICAgIHsKICAgICAgICBpZiAoZXZlbnQuaXNTdWNjZXNzKCkpCiAgICAgICAgewogICAgICAgICAgICAvLyBSZXRyaWV2ZWQgbmV3IHNlc3Npb24sIG5vdyB1cGRhdGUgbWVzc2FnZSBsaXN0CiAgICAgICAgICAgIE1lc3NhZ2luZ0FwaVNlcnZpY2UuZ2V0RnV0dXJlTWVzc2FnZXModGhpcywgbVVzZXIsIE1lc3NhZ2luZ0FwaVNlcnZpY2UuREVGQVVMVF9GVVRVUkVfTUVTU0FHRVNfTE9PS1VQX0RBVEUpOwogICAgICAgIH0KCiAgICAgICAgZG9TdG9wKCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgb25FdmVudE1haW5UaHJlYWQoTm9OZXR3b3JrQ29ubmVjdGlvbkV2ZW50IGV2ZW50KQogICAgewogICAgICAgIGlmIChldmVudC5nZXRSZXF1ZXN0VHlwZSgpID09IE5vTmV0d29ya0Nvbm5lY3Rpb25FdmVudC5SZXF1ZXN0VHlwZS5BdXRob3JpemF0aW9uCiAgICAgICAgICAgICAgICB8fCBldmVudC5nZXRSZXF1ZXN0VHlwZSgpID09IE5vTmV0d29ya0Nvbm5lY3Rpb25FdmVudC5SZXF1ZXN0VHlwZS5NZXNzYWdlcykKICAgICAgICB7CiAgICAgICAgICAgIGRvU3RvcCgpOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgdm9pZCBvbkV2ZW50TWFpblRocmVhZChOb0FwaUNvbm5lY3Rpb25FdmVudCBldmVudCkKICAgIHsKICAgICAgICBpZihldmVudC5nZXRSZXF1ZXN0VHlwZSgpID09IE5vQXBpQ29ubmVjdGlvbkV2ZW50LlJlcXVlc3RUeXBlLkF1dGhvcml6YXRpb24pCiAgICAgICAgewogICAgICAgICAgICBkb1N0b3AoKTsKICAgICAgICB9CiAgICB9Cg==</text>
@@ -629,9 +634,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TASK_I</last-search>
+      <last-search>complete</last-search>
       <last-offset />
-      <last-pattern>TASK_I</last-pattern>
+      <last-pattern>complete</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -639,8 +644,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spe</entry>
-        <entry>mSpee</entry>
         <entry>textToSpeech</entry>
         <entry>Silence</entry>
         <entry>KEY</entry>
@@ -659,6 +662,8 @@
         <entry>Log</entry>
         <entry>Debug</entry>
         <entry>TASK_I</entry>
+        <entry>mUser</entry>
+        <entry>complete</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
