@@ -23,10 +23,11 @@
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/PendingIntent.java" timestamp="1550182617651">
         <mark key="'" line="105" column="25" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/util/PullMessagesHelper.java" timestamp="1550341558712">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/util/PullMessagesHelper.java" timestamp="1550341879287">
+        <mark key="a" line="34" column="0" />
         <mark key="'" line="56" column="4" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="83" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="38" column="13" />
       </file>
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/media/AudioAttributes.java" timestamp="1550256390544">
         <mark key="'" line="673" column="52" />
@@ -36,6 +37,10 @@
         <mark key="]" line="60" column="48" />
         <mark key="^" line="60" column="48" />
         <mark key="." line="60" column="48" />
+      </file>
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/AlarmManager.java" timestamp="1550341660023">
+        <mark key="[" line="704" column="0" />
+        <mark key="]" line="704" column="71" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/ClearUserDataActivity.java" timestamp="1550156649110">
         <mark key="[" line="114" column="9" />
@@ -55,18 +60,12 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/ui/BaseActivity.java" timestamp="1550275135343">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="112" column="8" />
-        <mark key="]" line="112" column="8" />
-        <mark key="." line="112" column="8" />
-      </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550341574792">
-        <mark key="'" line="128" column="47" />
-        <mark key="[" line="94" column="8" />
-        <mark key="]" line="94" column="17" />
-        <mark key="^" line="94" column="17" />
-        <mark key="." line="94" column="17" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550342579861">
+        <mark key="'" line="142" column="47" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="90" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="123" column="12" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/VideoNotificationActivity.java" timestamp="1550264041015">
         <mark key="'" line="203" column="14" />
@@ -76,12 +75,6 @@
       </file>
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/content/pm/PackageManager.java" timestamp="1550177823583">
         <mark key="'" line="3081" column="38" />
-      </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/MedicationReminderHelper.kt" timestamp="1550270235579">
-        <mark key="'" line="64" column="101" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1550339888203" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/NoInternetConnectionIntentService.java" timestamp="1550180396105">
@@ -179,12 +172,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/app/NotificationCompatBuilder.java" timestamp="1550256438184">
         <mark key="'" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/fragments/MainFragment.java" timestamp="1550275185864">
-        <mark key="'" line="395" column="48" />
-        <mark key="[" line="363" column="16" />
-        <mark key="]" line="363" column="16" />
-        <mark key="." line="363" column="16" />
       </file>
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/speech/tts/TextToSpeech.java" timestamp="1550275891051">
         <mark key="'" line="1251" column="13" />
@@ -304,8 +291,8 @@
       <jump line="126" column="47" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bG9uZyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKEFwcC5pbnN0YW5jZS5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuSk9CX1NDSEVEVUxFUl9TRVJWSUNFKSBhcyBKb2JTY2hlZHVsZXIpCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -507,58 +494,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9uZyA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>oll</text>
+        <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgbG9uZyBQVUxMX0lOVEVSVkFMID0gQWxhcm1NYW5hZ2VyLklOVEVSVkFMX0ZJRlRFRU5fTUlOVVRFUzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKEFwcC5pbnN0YW5jZS5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuSk9CX1NDSEVEVUxFUl9TRVJWSUNFKSBhcyBKb2JTY2hlZHVsZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5zZXRNaW5pbXVtTGF0ZW5jeShpbnRlcnZhbCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5zZXRPdmVycmlkZURlYWRsaW5lKGludGVydmFsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmtEdXJhdGlvbiA9ICIxIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iU2NoZWR1bGVyISEuc2NoZWR1bGUoYnVpbGRlci5idWlsZCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KHdvcmtEdXJhdGlvbikpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGludGVydmFsID0gcHVsbEludGVydmFsICogMTAwMEwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHdvcmtEdXJhdGlvbiA9IG1EdXJhdGlvblRpbWVFZGl0VGV4dC5nZXRUZXh0KCkudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJ1aWxkZXIgPSBKb2JJbmZvLkJ1aWxkZXIoUFVMTF9NRVNTQUdFX0pPQl9JRCwgbVNlcnZpY2VDb21wb25lbnQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmtEdXJhdGlvbiA9ICIxIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJlcXVpcmVzQW55Q29ubmVjdGl2aXR5ID0gbUFueUNvbm5lY3Rpdml0eVJhZGlvQnV0dG9uLmlzQ2hlY2tlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KHdvcmtEdXJhdGlvbikpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>oll</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>oll</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -566,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(id)</entry>
         <entry>buildNewM</entry>
         <entry>stop</entry>
         <entry>send</entry>
@@ -586,6 +572,7 @@
         <entry>mSer</entry>
         <entry>Frequen</entry>
         <entry>oll</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
