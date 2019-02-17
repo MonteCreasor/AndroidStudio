@@ -37,13 +37,13 @@
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="38" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550416768895">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550417896998">
         <mark key="a" line="98" column="37" />
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="52" />
-        <mark key="." line="215" column="0" />
-        <mark key="^" line="77" column="39" />
+        <mark key="[" line="105" column="66" />
+        <mark key="]" line="107" column="69" />
+        <mark key="." line="107" column="69" />
+        <mark key="^" line="107" column="69" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/VideoNotificationActivity.java" timestamp="1550264041015">
         <mark key="'" line="203" column="14" />
@@ -206,6 +206,7 @@
         <mark key="^" line="13" column="46" />
         <mark key="." line="13" column="13" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" timestamp="1550417650536" />
       <file name="$USER_HOME$/client/ideal-life/sandbox/kotlin-coroutines-master/kotlin-coroutines-end/build.gradle" timestamp="1550358816231">
         <mark key="[" line="19" column="30" />
         <mark key="]" line="19" column="30" />
@@ -361,8 +362,8 @@
       <jump line="48" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGpvYlBhcmFtczogSm9iUGFyYW1ldGVycz8gPSBudWxsCg==</text>
+      <register name="&quot;" type="4">
+        <text>Create a session, get messages once session is returned</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -564,13 +565,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>just wait for next periodic job.</text>
+        <text>Create a session, get messages once session is returned</text>
       </register>
       <register name="/" type="4">
         <text>getSy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcCgpCg==</text>
+        <text encoding="base64">ICAgIGZ1biBvbkV2ZW50TWFpblRocmVhZChldmVudDogUmVnaXN0cmF0aW9uU2VydmljZUhlbHBlci5HZXRTZXNzaW9uRXZlbnQpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGpvYlBhcmFtczogSm9iUGFyYW1ldGVycz8gPSBudWxsCg==</text>
