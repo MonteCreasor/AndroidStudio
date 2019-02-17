@@ -37,12 +37,13 @@
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="38" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550415857970">
-        <mark key="'" line="188" column="71" />
-        <mark key="[" line="46" column="42" />
-        <mark key="]" line="46" column="42" />
-        <mark key="." line="46" column="42" />
-        <mark key="^" line="46" column="42" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550416768895">
+        <mark key="a" line="98" column="37" />
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="52" />
+        <mark key="." line="215" column="0" />
+        <mark key="^" line="77" column="39" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/VideoNotificationActivity.java" timestamp="1550264041015">
         <mark key="'" line="203" column="14" />
@@ -258,9 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="62" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="92" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="46" column="5" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="325" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/NotificationHelper.kt" />
       <jump line="20" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
@@ -358,10 +356,13 @@
       <jump line="196" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="203" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="188" column="71" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="105" column="37" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="251" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="48" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Sm9iRmluaXNoZWRMaXN0ZW5lciA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGpvYlBhcmFtczogSm9iUGFyYW1ldGVycz8gPSBudWxsCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -563,7 +564,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Sm9iRmluaXNoZWRMaXN0ZW5lciA=</text>
+        <text>just wait for next periodic job.</text>
       </register>
       <register name="/" type="4">
         <text>getSy</text>
@@ -572,40 +573,40 @@
         <text encoding="base64">ICAgICAgICAgICAgc3RvcCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRPdmVycmlkZURlYWRsaW5lKDEpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGpvYlBhcmFtczogSm9iUGFyYW1ldGVycz8gPSBudWxsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRNaW5pbXVtTGF0ZW5jeSgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9iU2NoZWR1bGVyLnNjaGVkdWxlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRPdmVycmlkZURlYWRsaW5lKDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUmV0cmlldmVkIG5ldyBzZXNzaW9uLCBub3cgdXBkYXRlIG1lc3NhZ2UgbGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRNaW5pbXVtTGF0ZW5jeSgxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnaW5nQXBpU2VydmljZS5nZXRGdXR1cmVNZXNzYWdlcyh0aGlzLCAsIE1lc3NhZ2luZ0FwaVNlcnZpY2UuREVGQVVMVF9GVVRVUkVfTUVTU0FHRVNfTE9PS1VQX0RBVEUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iU2NoZWR1bGVyLnNjaGVkdWxlKCkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQuc2Vzc2lvbi51c2VyUHJvZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUmV0cmlldmVkIG5ldyBzZXNzaW9uLCBub3cgdXBkYXRlIG1lc3NhZ2UgbGlzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9iRmluaXNoZWQoam9iUGFyYW1zLCBmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnaW5nQXBpU2VydmljZS5nZXRGdXR1cmVNZXNzYWdlcyh0aGlzLCAsIE1lc3NhZ2luZ0FwaVNlcnZpY2UuREVGQVVMVF9GVVRVUkVfTUVTU0FHRVNfTE9PS1VQX0RBVEUpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblN0b3BKb2IocGFyYW1zOiBKb2JQYXJhbWV0ZXJzKTogQm9vbGVhbiB7CiAgICAgICAgVGltYmVyLmQoIm9uU3RvcEpvYiAke3BhcmFtcy5qb2JJZH0iKQogICAgICAgIGNvcm91dGluZUpvYi5jYW5jZWwoKQogICAgICAgIC8vIFJldHVybiBmYWxzZSB0byBkcm9wIHRoZSBqb2IuCiAgICAgICAgLy8gVE9ETzogc2hvdWxkIHRoZSBqb2IgYmUgdG90YWxseSBkcm9wcGVkIG9yIGp1c3Qgb25lIGpvYiBpbnRlcnZhbCBza2lwcGVkLgogICAgICAgIHJldHVybiBmYWxzZQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQuc2Vzc2lvbi51c2VyUHJvZmlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iRmluaXNoZWQoam9iUGFyYW1zLCBmYWxzZSkK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
