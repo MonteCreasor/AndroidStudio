@@ -72,11 +72,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="118" column="119" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550503862785">
-        <mark key="'" line="34" column="18" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550504856781">
+        <mark key="'" line="245" column="8" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="75" column="61" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessagesService.java" timestamp="1550448727630">
         <mark key="a" line="134" column="0" />
@@ -353,14 +354,14 @@
       <jump line="207" column="67" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="249" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="116" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="247" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="117" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="251" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="33" column="18" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="247" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRFeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -562,31 +563,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Timber</text>
+        <text>jobFinished</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgam9iU2NoZWR1bGVyLmNhbmNlbChKT0JfSUQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRFeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoImNvcm91dGluZSBibG9jayBlbmRlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZXNjaGVkdWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRFeAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoImNvcm91dGluZSBibG9jayBlbmRlZCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChBcHBTZXR0aW5ncy5tb2NraW5nICYmIEFwcFNldHRpbmdzLnNraXBBY3RpdmF0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgZGVidWcoIlB1bGwgbWVzc2FnZSAke2lmIChpc09uZVNob3RKb2IocGFyYW1zKSkgIm9uZSBzaG90IiBlbHNlICJwZXJpb2RpYyJ9IGpvYiBmaW5pc2hlZCB3aXRoIGEgbW9ja2VkIGEgc3VjY2VzcyIpCiAgICAgICAgICAgICAgICAgICAgZmFsc2UKICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
@@ -595,25 +596,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChBcHBTZXR0aW5ncy5tb2NraW5nICYmIEFwcFNldHRpbmdzLnNraXBBY3RpdmF0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgZGVidWcoIlB1bGwgbWVzc2FnZSAke2lmIChpc09uZVNob3RKb2IocGFyYW1zKSkgIm9uZSBzaG90IiBlbHNlICJwZXJpb2RpYyJ9IGpvYiBmaW5pc2hlZCB3aXRoIGEgbW9ja2VkIGEgc3VjY2VzcyIpCiAgICAgICAgICAgICAgICAgICAgZmFsc2UKICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChBcHBTZXR0aW5ncy5tb2NraW5nICYmIEFwcFNldHRpbmdzLnNraXBBY3RpdmF0aW9uKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>Timber</last-search>
+      <last-search>jobFinished</last-search>
       <last-offset />
-      <last-pattern>Timber</last-pattern>
+      <last-pattern>jobFinished</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -621,7 +622,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mUserS</entry>
         <entry>mAct</entry>
         <entry>intent</entry>
         <entry>getSess</entry>
@@ -641,6 +641,7 @@
         <entry>speak</entry>
         <entry>debug</entry>
         <entry>Timber</entry>
+        <entry>jobFinished</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
