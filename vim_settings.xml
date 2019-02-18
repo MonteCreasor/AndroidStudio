@@ -28,11 +28,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="118" column="119" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550512903328">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550514225701">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="226" column="38" />
+        <mark key="." line="226" column="38" />
+        <mark key="^" line="226" column="38" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/sandbox/kotlin-coroutines-master/kotlin-coroutines-start/gradle/wrapper/gradle-wrapper.properties" timestamp="1550358634925">
         <mark key="[" line="5" column="70" />
@@ -221,7 +222,7 @@
         <mark key="." line="20" column="12" />
       </file>
       <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1550500161794" />
-      <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/job/JobInfo.java" timestamp="1550509965522">
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/job/JobInfo.java" timestamp="1550514340134">
         <mark key="a" line="284" column="22" />
         <mark key="'" line="292" column="48" />
         <mark key="[" line="1381" column="0" />
@@ -269,7 +270,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="117" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1550510702853">
+      <file name="/fragment.java" timestamp="1550514366199">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -376,8 +377,8 @@
       <jump line="292" column="48" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/job/JobInfo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9udGUudGVzdChqb2JJbmZvKQo=</text>
+      <register name="&quot;" type="4">
+        <text>isOneShotJob</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -579,49 +580,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Fields</text>
+        <text>isOneShotJob</text>
       </register>
       <register name="/" type="4">
         <text>service</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGaWVsZFtdIGRlY2xhcmVkRmllbGRzID0gam9iSW5mby5nZXRDbGFzcygpLmdldERlY2xhcmVkRmllbGRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFuZWVkc1Jlc2NoZWR1bGUgJiYgcGFyYW1zLmV4dHJhcy5nZXRCb29sZWFuKEtFWV9PTkVfU0hPVCwgZmFsc2UpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9udGUudGVzdChqb2JJbmZvKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4dHJhcy5nZXRCb29sZWFuKEtFWV9PTkVfU0hPVCwgZmFsc2UpKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JJbmZvLmdldENsYXNzKCkubQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9udGUudGVzdChqb2JJbmZvKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1ldGhvZHMgPSBqb2JJbmZvLmphdmFDbGFzcy5kZWNsYXJlZE1ldGhvZHMK</text>
+        <text encoding="base64">ICAgICAgICBqb2JJbmZvLmdldENsYXNzKCkubQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGZpZWxkcyA9IGpvYkluZm8uamF2YUNsYXNzLmZpZWxkcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1ldGhvZHMgPSBqb2JJbmZvLmphdmFDbGFzcy5kZWNsYXJlZE1ldGhvZHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRlY2FybGVkRmllbGRzID0gam9iSW5mby5qYXZhQ2xhc3MuZGVjbGFyZWRGaWVsZHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGZpZWxkcyA9IGpvYkluZm8uamF2YUNsYXNzLmZpZWxkcwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRlY2FybGVkRmllbGRzID0gam9iSW5mby5qYXZhQ2xhc3MuZGVjbGFyZWRGaWVsZHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgZmllbGRzID0gam9iSW5mby5qYXZhQ2xhc3MuZGVjbGFyZWRNZXRob2RzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgZmllbGRzID0gam9iSW5mbzo6Y2xhc3MuamF2YS5kZWNsYXJlZEZpZWxkcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgZmllbGRzID0gam9iSW5mby5qYXZhQ2xhc3MuZGVjbGFyZWRNZXRob2RzCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
