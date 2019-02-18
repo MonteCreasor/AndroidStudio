@@ -72,13 +72,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="118" column="119" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550500803541">
-        <mark key="a" line="269" column="7" />
-        <mark key="'" line="222" column="28" />
-        <mark key="[" line="271" column="5" />
-        <mark key="]" line="269" column="56" />
-        <mark key="^" line="270" column="29" />
-        <mark key="." line="269" column="56" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1550501498186">
+        <mark key="'" line="76" column="16" />
+        <mark key="[" line="100" column="15" />
+        <mark key="]" line="100" column="18" />
+        <mark key="." line="100" column="18" />
+        <mark key="^" line="100" column="18" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessagesService.java" timestamp="1550448727630">
         <mark key="a" line="134" column="0" />
@@ -259,9 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="35" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="73" column="0" filename="$USER_HOME$/client/ideal-life/sandbox/kotlin-coroutines-master/kotlin-coroutines-start/app/build.gradle" />
       <jump line="27" column="52" filename="$USER_HOME$/client/ideal-life/sandbox/kotlin-coroutines-master/kotlin-coroutines-start/app/build.gradle" />
       <jump line="18" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/build.gradle" />
       <jump line="142" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
@@ -359,10 +355,13 @@
       <jump line="48" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/ui/SettingsFragment.kt" />
       <jump line="76" column="74" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/ui/SettingsFragment.kt" />
       <jump line="220" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="267" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="213" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="82" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>false</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -564,28 +563,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>pull</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgZChATm9uTmxzIFN0cmluZyBtZXNzYWdlLCBPYmplY3QuLi4gYXJncykgewogICAgVFJFRV9PRl9TT1VMUy5kKG1lc3NhZ2UsIGFyZ3MpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygiUHVsbCBtZXNzYWdlICR7aWYgKGlzT25lU2hvdEpvYihwYXJhbXMpKSAib25lIHNob3QiIGVsc2UgInBlcmlvZGljIn0gam9iIHN0YXJ0ZWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVFJFRV9PRl9TT1VMUy5kKG1lc3NhZ2UsIGFyZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBzaG91bGQgdGhlIGpvYiBiZSB0b3RhbGx5IGRyb3BwZWQgb3IganVzdCBvbmUgam9iIGludGVydmFsIHNraXBwZWQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkKEBOb25ObHMgU3RyaW5nIG1lc3NhZ2UsIE9iamVjdC4uLiBhcmdzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZXR1cm4gZmFsc2UgdG8gZHJvcCB0aGUgam9iLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgZChATm9uTmxzIFN0cmluZyBtZXNzYWdlLCBPYmplY3QuLi4gYXJncykgewo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygiUHVsbCBtZXNzYWdlIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -594,28 +593,28 @@
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3BlZWNoSGVscGVyLnNwZWFrKCJTY2hlZHVsaW5nIGEgbmV3IHBlcmlvZGljIHB1bGwgbWVzc2FnZSBqb2IiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoIlB1bGwgbWVzc2FnZSBwZXJpb2RpYyBqb2Igc3RhcnRlZCIpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBNSU5fUFVMTF9JTlRFUlZBTCA9IDUwMDBMCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBpbnRlcnZhbCA9IG1heChNSU5fUE9MTF9JTlRFUlZBTCwgdGV4dC50b0ludCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNPbmVTaG90Sm9iKHBhcmFtcykpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>pull</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>pull</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -623,8 +622,6 @@
     </search>
     <history>
       <history-search>
-        <entry>launchDa</entry>
-        <entry>saveMe</entry>
         <entry>getSy</entry>
         <entry>mUserS</entry>
         <entry>mAct</entry>
@@ -643,6 +640,8 @@
         <entry>Speech</entry>
         <entry>MIN_POLL</entry>
         <entry>pull</entry>
+        <entry>speak</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
