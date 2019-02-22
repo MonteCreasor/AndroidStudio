@@ -8,8 +8,9 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/app/NotificationManagerCompat.java" timestamp="1550854543732">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/app/NotificationManagerCompat.java" timestamp="1550856508795">
         <mark key="'" line="652" column="39" />
+        <mark key="[" line="61" column="2" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/App.kt" timestamp="1550708549032">
         <mark key="[" line="16" column="0" />
@@ -81,8 +82,8 @@
         <mark key="." line="304" column="94" />
         <mark key="^" line="304" column="27" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" timestamp="1550855114672">
-        <mark key="'" line="363" column="8" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" timestamp="1550855901429">
+        <mark key="'" line="190" column="35" />
         <mark key="[" line="134" column="41" />
         <mark key="]" line="134" column="57" />
         <mark key="." line="134" column="57" />
@@ -109,7 +110,7 @@
         <mark key="^" line="174" column="8" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" timestamp="1550854105820">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" timestamp="1550855895598">
         <mark key="'" line="343" column="0" />
         <mark key="[" line="219" column="0" />
         <mark key="]" line="219" column="0" />
@@ -140,11 +141,10 @@
         <mark key="." line="214" column="0" />
         <mark key="^" line="202" column="21" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/AndroidManifest.xml" timestamp="1550852375550">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="34" column="61" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/AndroidManifest.xml" timestamp="1550857175559">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="40" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/settings.gradle" timestamp="1550769489661">
         <mark key="[" line="0" column="20" />
@@ -157,6 +157,12 @@
         <mark key="]" line="31" column="11" />
         <mark key="^" line="31" column="11" />
         <mark key="." line="31" column="11" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/AndroidManifest.xml" timestamp="1550857163948">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/receivers/ErrorLoggedReceiver.kt" timestamp="1550853000684">
         <mark key="[" line="52" column="0" />
@@ -251,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="32" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/speech/tts/TextToSpeech.java" />
       <jump line="298" column="34" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/speech/tts/TextToSpeech.java" />
       <jump line="299" column="55" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/speech/tts/TextToSpeech.java" />
       <jump line="301" column="32" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/speech/tts/TextToSpeech.java" />
@@ -351,10 +356,11 @@
       <jump line="81" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="194" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="204" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="190" column="35" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LnV0aWwuU3BlZWNoSGVscGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9hcHBfbmFtZSIK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -556,58 +562,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>settings</text>
       </register>
       <register name="/" type="4">
-        <text>Timber</text>
+        <text>tag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZpY2F0aW9uTWFuYWdlckNvbXBhdC5ub3RpZnkoaWQsIG5vdGlmaWNhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9hcHBfbmFtZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LnV0aWwuU3BlZWNoSGVscGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhbm5lcj0iTU9OVEUiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LnV0aWwuU3BlZWNoSGVscGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25NYW5hZ2VyQ29tcGF0Lm5vdGlmeSgiYXNkZiIsIGlkLCBub3RpZmljYXRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm90aWZpY2F0aW9uQ29tcGF0LkJ1aWxkZXIoY29udGV4dCwgTm90aWZpY2F0aW9uSGVscGVyLkNoYW5uZWxJbmZvLlJFTUlOREVSLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25NYW5hZ2VyQ29tcGF0Lm5vdGlmeSgiYXNkZiIsIGlkLCBub3RpZmljYXRpb24pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm90aWZpY2F0aW9uQ29tcGF0LkJ1aWxkZXIoY29udGV4dCwgTm90aWZpY2F0aW9uSGVscGVyLkNoYW5uZWxJbmZvLlJFTUlOREVSLmlkKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IGlzIHRoZSBjYXRlZ29yeSB1c2VkIHRvIGNhbmNlbCB0aGUgY29ubmVjdGlvbiBub3RpZmljYXRpb24gbmVjZXNzYXJ5IGFueW1vcmU/Pz8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IGlzIHRoZSBjYXRlZ29yeSB1c2VkIHRvIGNhbmNlbCB0aGUgY29ubmVjdGlvbiBub3RpZmljYXRpb24gbmVjZXNzYXJ5IGFueW1vcmU/Pz8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsLnNlbmRFcnJvckJyb2FkY2FzdCh0aGlzLCAiTU9OVEUiLCAiRXJyb3JNZXNzYWdlUmVjZWl2ZXIgdGVzdCAoc3RhcnRQb2xsaW5nKSEiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>Timber</last-search>
+      <last-search>tag</last-search>
       <last-offset />
-      <last-pattern>Timber</last-pattern>
+      <last-pattern>tag</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -629,12 +635,12 @@
         <entry>Connection</entry>
         <entry>startAc</entry>
         <entry>MONTE</entry>
-        <entry>tag</entry>
         <entry>\.notify</entry>
         <entry>display</entry>
         <entry>Conn</entry>
         <entry>debug</entry>
         <entry>Timber</entry>
+        <entry>tag</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
