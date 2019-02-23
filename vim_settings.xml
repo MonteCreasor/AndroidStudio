@@ -8,10 +8,6 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.0.1/ae10d2e1965b944830c2c2aaf154765ceb32e0bc/core-1.0.1-sources.jar!/androidx/core/app/NotificationManagerCompat.java" timestamp="1550856508795">
-        <mark key="'" line="652" column="39" />
-        <mark key="[" line="61" column="2" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/MainActivity.java" timestamp="1550858930748">
         <mark key="'" line="137" column="76" />
         <mark key="[" line="55" column="20" />
@@ -101,6 +97,12 @@
         <mark key="'" line="4570" column="30" />
       </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1550870264369" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/LogUtils.java" timestamp="1550950921399">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="17" />
+      </file>
       <file name="/Dummy.txt" timestamp="1550949109667">
         <mark key="[" line="0" column="0" />
       </file>
@@ -155,12 +157,12 @@
         <mark key="^" line="97" column="21" />
         <mark key="." line="97" column="21" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" timestamp="1550950006625">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" timestamp="1550950099953">
         <mark key="'" line="27" column="44" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
+        <mark key="[" line="570" column="15" />
+        <mark key="]" line="570" column="16" />
         <mark key="^" line="570" column="17" />
-        <mark key="." line="28" column="0" />
+        <mark key="." line="570" column="16" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/SpeechHelper.kt" timestamp="1550947043546">
         <mark key="a" line="127" column="53" />
@@ -187,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="40" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/MainActivity.java" />
       <jump line="123" column="29" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/MainActivity.java" />
       <jump line="137" column="76" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/MainActivity.java" />
       <jump line="294" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
@@ -284,13 +285,14 @@
       <jump line="30" column="41" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
       <jump line="378" column="81" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
       <jump line="14" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
+      <jump line="570" column="15" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
       <jump line="28" column="41" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
       <jump line="376" column="81" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
       <jump line="27" column="44" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LnV0aWwuTG9nVXRpbHM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -492,7 +494,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Log.e(LOGTAG, &quot;</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>Log</text>
