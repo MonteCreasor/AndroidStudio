@@ -112,13 +112,14 @@
         <mark key="." line="304" column="94" />
         <mark key="^" line="304" column="27" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" timestamp="1550943154549">
-        <mark key="'" line="220" column="51" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="75" />
-        <mark key="." line="113" column="42" />
-        <mark key="^" line="113" column="42" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" timestamp="1550945493143">
+        <mark key="'" line="267" column="0" />
+        <mark key="[" line="83" column="81" />
+        <mark key="]" line="83" column="81" />
+        <mark key="^" line="83" column="111" />
+        <mark key="." line="83" column="81" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/res/xml/preferences.xml" timestamp="1550945486492" />
       <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1550870264369" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/ConnectionChecker.kt" timestamp="1550853446749">
         <mark key="'" line="65" column="12" />
@@ -138,12 +139,13 @@
         <mark key="^" line="18" column="69" />
         <mark key="." line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/SpeechHelper.kt" timestamp="1550943692412">
-        <mark key="'" line="84" column="13" />
-        <mark key="[" line="63" column="17" />
-        <mark key="]" line="63" column="17" />
-        <mark key="^" line="63" column="17" />
-        <mark key="." line="63" column="17" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/SpeechHelper.kt" timestamp="1550944048184">
+        <mark key="a" line="134" column="8" />
+        <mark key="'" line="173" column="27" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="144" column="36" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Activity.java" timestamp="1550853947518">
         <mark key="'" line="4917" column="13" />
@@ -163,10 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4898" column="16" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Activity.java" />
-      <jump line="4900" column="12" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Activity.java" />
-      <jump line="4904" column="12" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Activity.java" />
-      <jump line="4909" column="23" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Activity.java" />
       <jump line="4916" column="13" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Activity.java" />
       <jump line="4917" column="13" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Activity.java" />
       <jump line="345" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" />
@@ -263,10 +261,14 @@
       <jump line="20" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/SpeechHelper.kt" />
       <jump line="138" column="27" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/SpeechHelper.kt" />
       <jump line="75" column="13" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/SpeechHelper.kt" />
+      <jump line="173" column="27" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/SpeechHelper.kt" />
+      <jump line="94" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" />
+      <jump line="95" column="29" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" />
+      <jump line="265" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -468,61 +470,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>isAv</text>
+        <text>speak</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBKdm1TdGF0aWMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpc1NwZWVjaEVuYWJsZWQK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGlzIGhhbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRUb1NwZWVjaD8uc3BlYWsobWVzc2FnZSwgVGV4dFRvU3BlZWNoLlFVRVVFX0FERCwgbnVsbCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIHRoaXMgY29ubmVjdGlvbiB3aWxsIHN1Y2NlZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBTdXBwcmVzcygiREVQUkVDQVRJT04iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIElmIHRoZSBkZXZpY2UgaGFzIHRoZSBzcGVlY2ggZW5naW5lIGZpbGVzIGluc3RhbGxlZCwgdGhlbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEtlZXAgYXJvdW5kIGp1c3QgaW4gY2FzZSBzb21lb25lIGRlY2lkZXMgdG8gcmVkdWNlIHRoZSBtaW5TZGsgYmVsb3cgTE9MTElQT1AuCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIHdpbGwgbm90IGJlIGFibGUgdG8gY2FsbGluZyBzdGFydEluc3RhbGxBY3Rpdml0eUZvclJlc3VsdC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIFNpbGVudGx5IHRyeSB0byBjb25uZWN0IHRvIHNwZWVjaCBlbmdpbmUgZm9yIHNlcnZpY2VzIHRoYXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRUb1NwZWVjaD8uc3BlYWsobWVzc2FnZSwgVGV4dFRvU3BlZWNoLlFVRVVFX0FERCwgbnVsbCwgIlVUVEVSQU5DRV9JRF8keysrdXR0ZXJhbmNlSWR9IikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBCdWlsZC5WRVJTSU9OX0NPREVTLkxPTExJUE9QKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFN1cHByZXNzTGludCgiT2Jzb2xldGVTZGtJbnQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>isAv</last-search>
+      <last-search>speak</last-search>
       <last-offset />
-      <last-pattern>isAv</last-pattern>
+      <last-pattern>speak</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -530,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Conn</entry>
         <entry>debug</entry>
         <entry>Timber</entry>
         <entry>tag</entry>
@@ -550,6 +551,7 @@
         <entry>queu</entry>
         <entry>isAvailable</entry>
         <entry>isAv</entry>
+        <entry>speak</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
