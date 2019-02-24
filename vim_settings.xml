@@ -57,11 +57,11 @@
         <mark key="]" line="81" column="52" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/res/values/strings.xml" timestamp="1551040635301">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/res/values/strings.xml" timestamp="1551043562211">
         <mark key="'" line="477" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="274" column="47" />
+        <mark key="]" line="274" column="48" />
+        <mark key="." line="274" column="48" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" timestamp="1550951234329">
         <mark key="'" line="23" column="47" />
@@ -157,13 +157,13 @@
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="84" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/notifications/NotificationHelperTest.kt" timestamp="1551042748056">
-        <mark key="a" line="71" column="0" />
-        <mark key="'" line="127" column="51" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="^" line="177" column="90" />
-        <mark key="." line="137" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/notifications/NotificationHelperTest.kt" timestamp="1551043848582">
+        <mark key="a" line="110" column="16" />
+        <mark key="'" line="130" column="51" />
+        <mark key="[" line="140" column="48" />
+        <mark key="]" line="140" column="56" />
+        <mark key="^" line="140" column="56" />
+        <mark key="." line="140" column="56" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/DataAccess.java" timestamp="1550951209336">
         <mark key="'" line="546" column="15" />
@@ -301,8 +301,8 @@
       <jump line="127" column="51" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/notifications/NotificationHelperTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkVGl0bGUsIHRpdGxlLnRleHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>StartsWith</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -504,52 +504,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>StartsWith</text>
       </register>
       <register name="/" type="4">
         <text>getS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb3RpZmljYXRpb25IZWxwZXIuYnVpbGRQb2xsaW5nTm90aWZpY2F0aW9uKG1lc3NhZ2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0KGlzTm90aWZpY2F0aW9uV2l0aFRleHRWaXNpYmxlKGV4cGVjdGVkVGl0bGUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkVGl0bGUsIHRpdGxlLnRleHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VHJ1ZShkZXZpY2Uud2FpdChVbnRpbC5oYXNPYmplY3QoQnkudGV4dChleHBlY3RlZFRpdGxlKSksIFNIT1dfVElNRU9VVCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRpdGxlID0gZGV2aWNlLmZpbmRPYmplY3QoQnkudGV4dChleHBlY3RlZFRpdGxlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VHJ1ZShkZXZpY2Uub3Blbk5vdGlmaWNhdGlvbigpKQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VHJ1ZShkZXZpY2Uud2FpdChVbnRpbC5oYXNPYmplY3QoQnkudGV4dChleHBlY3RlZFRpdGxlKSksIFNIT1dfVElNRU9VVCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm90aWZpY2F0aW9uIG5vdGlmaWNhdGlvbiA9IE5vdGlmaWNhdGlvbkhlbHBlci5idWlsZFBvbGxpbmdOb3RpZmljYXRpb24obWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VHJ1ZShkZXZpY2Uud2FpdChVbnRpbC5oYXNPYmplY3QoQnkudGV4dChleHBlY3RlZFRpdGxlKSksIFNIT1dfVElNRU9VVCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZpY2F0aW9uLmV4dHJhcy5nZXRJbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VHJ1ZShkZXZpY2Uub3Blbk5vdGlmaWNhdGlvbigpKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VHJ1ZShkZXZpY2Uud2FpdChVbnRpbC5oYXNPYmplY3QoQnkudGV4dChleHBlY3RlZFRpdGxlKSksIFNIT1dfVElNRU9VVCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VHJ1ZShkZXZpY2Uub3Blbk5vdGlmaWNhdGlvbigpKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RpbGxTaG93aW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnRlc3QudWlhdXRvbWF0b3IuVWlPYmplY3QK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhcnRUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
