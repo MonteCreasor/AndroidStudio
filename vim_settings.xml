@@ -64,10 +64,11 @@
         <mark key="." line="41" column="32" />
       </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1551019417966" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/notifications/MedicationReminderHelperTest.kt" timestamp="1551021406126">
-        <mark key="a" line="27" column="14" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="76" column="64" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/notifications/MedicationReminderHelperTest.kt" timestamp="1551025139523">
+        <mark key="a" line="88" column="0" />
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="81" column="52" />
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/res/values/strings.xml" timestamp="1550966654452">
@@ -198,13 +199,13 @@
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="84" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/notifications/NotificationHelperTest.kt" timestamp="1551024204283">
-        <mark key="a" line="62" column="18" />
-        <mark key="'" line="70" column="77" />
-        <mark key="[" line="98" column="43" />
-        <mark key="]" line="98" column="43" />
-        <mark key="." line="98" column="43" />
-        <mark key="^" line="98" column="43" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/notifications/NotificationHelperTest.kt" timestamp="1551025336133">
+        <mark key="a" line="57" column="8" />
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="71" column="12" />
+        <mark key="]" line="72" column="11" />
+        <mark key="." line="72" column="11" />
+        <mark key="^" line="72" column="11" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/DataAccess.java" timestamp="1550951209336">
         <mark key="'" line="546" column="15" />
@@ -245,9 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="47" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.7.1/8426e1daf26a6f9adef55a150f3d3ee944da39d/timber-4.7.1-sources.jar!/timber/log/Timber.java" />
-      <jump line="22" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.7.1/8426e1daf26a6f9adef55a150f3d3ee944da39d/timber-4.7.1-sources.jar!/timber/log/Timber.java" />
-      <jump line="505" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.7.1/8426e1daf26a6f9adef55a150f3d3ee944da39d/timber-4.7.1-sources.jar!/timber/log/Timber.java" />
       <jump line="507" column="81" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.7.1/8426e1daf26a6f9adef55a150f3d3ee944da39d/timber-4.7.1-sources.jar!/timber/log/Timber.java" />
       <jump line="523" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.7.1/8426e1daf26a6f9adef55a150f3d3ee944da39d/timber-4.7.1-sources.jar!/timber/log/Timber.java" />
       <jump line="70" column="21" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlLogger.java" />
@@ -345,10 +343,13 @@
       <jump line="57" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" />
       <jump line="160" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" />
       <jump line="70" column="77" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/notifications/NotificationHelperTest.kt" />
+      <jump line="39" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/notifications/NotificationHelperTest.kt" />
+      <jump line="27" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/notifications/MedicationReminderHelperTest.kt" />
+      <jump line="72" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/androidTest/java/com/ideallife/healthtablet/notifications/NotificationHelperTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>...</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -550,61 +551,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>...</text>
       </register>
       <register name="/" type="4">
-        <text>mtts</text>
+        <text>hideMed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkVGV4dCwgdGV4dC50ZXh0LnJlcGxhY2UoIlxuIiwgIiAiKSkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbm90aWZpY2F0aW9uU3RhY2tTY3JvbGxlciA9IFVpU2VsZWN0b3IoKS5wYWNrYWdlTmFtZSgiY29tLmFuZHJvaWQuc3lzdGVtdWkiKQogICAgICAgICAgICAgICAgLmNsYXNzTmFtZSgiYW5kcm9pZC52aWV3LlZpZXdHcm91cCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3BlZWNoLnR0cy5UZXh0VG9TcGVlY2g7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmNsaWNrKEJ5KGVudHJ5KSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVGV4dFRvU3BlZWNoIG10dHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2xhc3NOYW1lKCJhbmRyb2lkLnZpZXcuVmlld0dyb3VwIikK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtdHRzID0gbmV3IFRleHRUb1NwZWVjaChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgdGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG5vdGlmaWNhdGlvblN0YWNrU2Nyb2xsZXIgPSBVaVNlbGVjdG9yKCkudGV4dCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBvblN0YXJ0Q29tbWFuZC4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmcm9tIEdhdGV3YXlSZWNlaXZlciwgYW5kIGNhbGxpbmcgc3RhcnRTZXJ2aWNlKCkgd2lsbCBnbyBkaXJlY3RseSBpbnRvCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNsZWFyQWxsTm90aWZpY2F0aW9ucygpIHsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtZXRob2Qgd2lsbCBiZSBieXBhc3NlZCBvbiBlYWNoIGNhbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGlzIGlzIGNhbGxlZCB3aGVuIHRoZSBzZXJ2aWNlIGlzIGNyZWF0ZWQgZm9yIHRoZSBmaXJzdCB0aW1lLiAgT25jZSBydW5uaW5nLCB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGVhckFsbC5jbGljaygpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LnV0aWwuU3BlZWNoSGVscGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2xlYXJBbGw6IFVpT2JqZWN0MiA9IHVpRGV2aWNlLmZpbmRPYmplY3QoQnkucmVzKGNsZWFyQWxsTm90aWZpY2F0aW9uUmVzKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25IZWxwZXIuc3RvcFRleHRUb1NwZWVjaEVuZ2luZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB1aURldmljZS53YWl0KFVudGlsLmhhc09iamVjdChCeS50ZXh0U3RhcnRzV2l0aChleHBlY3RlZEFwcE5hbWUpKSwgdGltZW91dCkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>mtts</last-search>
+      <last-search>hideMed</last-search>
       <last-offset />
-      <last-pattern>mtts</last-pattern>
+      <last-pattern>hideMed</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -612,7 +613,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Device</entry>
         <entry>UiD</entry>
         <entry>run</entry>
         <entry>context</entry>
@@ -632,6 +632,7 @@
         <entry>expectedTest</entry>
         <entry>Speech</entry>
         <entry>mtts</entry>
+        <entry>hideMed</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
