@@ -24,10 +24,6 @@
       <file name="/a.dummy" timestamp="1551213222738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/sandbox/quickstart-android/messaging/app/src/main/java/com/google/firebase/quickstart/fcm/kotlin/MainActivity.kt" timestamp="1551203559988">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="55" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/res/values/eula.xml" timestamp="1551040630443">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="1" column="0" />
@@ -53,6 +49,7 @@
         <mark key="]" line="113" column="31" />
         <mark key="." line="113" column="31" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/sandbox/friendlychat-android/android/build.gradle" timestamp="1551215403879" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/EnterReadingFragment.java" timestamp="1551194923168">
         <mark key="[" line="213" column="66" />
         <mark key="]" line="213" column="66" />
@@ -128,12 +125,10 @@
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" timestamp="1551138486802">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="^" line="140" column="17" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" timestamp="1551215447688">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/receivers/GCMBroadcastReceiver.java" timestamp="1551139965923">
         <mark key="[" line="15" column="0" />
@@ -201,6 +196,11 @@
         <mark key="." line="73" column="23" />
         <mark key="^" line="73" column="23" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/build.gradle" timestamp="1551215454592">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/sandbox/quickstart-android/messaging/app/src/main/java/com/google/firebase/quickstart/fcm/java/MyWorker.java" timestamp="1551197043941" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/Constants.ktx" timestamp="1551194624296" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/DataAccess.java" timestamp="1551194911878">
@@ -233,13 +233,6 @@
       <file name="$USER_HOME$/client/ideal-life/sandbox/quickstart-android/messaging/README.md" timestamp="1551197493456" />
     </filemarks>
     <jumps>
-      <jump line="203" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/Preferences.java" />
-      <jump line="205" column="22" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/Preferences.java" />
-      <jump line="210" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/Preferences.java" />
-      <jump line="212" column="22" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/Preferences.java" />
-      <jump line="90" column="69" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/Preferences.java" />
-      <jump line="106" column="27" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/Preferences.java" />
-      <jump line="108" column="30" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/Preferences.java" />
       <jump line="113" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/LogService.java" />
       <jump line="29" column="46" filename="$USER_HOME$/client/ideal-life/sandbox/quickstart-android/messaging/app/src/main/AndroidManifest.xml" />
       <jump line="38" column="37" filename="$USER_HOME$/client/ideal-life/sandbox/quickstart-android/messaging/app/src/main/AndroidManifest.xml" />
@@ -333,10 +326,17 @@
       <jump line="86" column="118" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/api/FcmApiService.kt" />
       <jump line="127" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/api/FcmApiService.kt" />
       <jump line="79" column="106" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/api/FcmApiService.kt" />
+      <jump line="140" column="56" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
+      <jump line="21" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
+      <jump line="6" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
+      <jump line="7" column="9" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
+      <jump line="10" column="37" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
+      <jump line="14" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
+      <jump line="19" column="7" filename="$USER_HOME$/client/ideal-life/health-tablet/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2lvLmZhYnJpYy50b29sczpncmFkbGU6MS4yNC40Jwo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -541,58 +541,58 @@
         <text encoding="base64">bGF0ZWluaXQg</text>
       </register>
       <register name="/" type="4">
-        <text>TAG</text>
+        <text>fabric</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNsYXNzIEZjbVJlZ2lzdHJhdGlvbkV2ZW50IDogRXZlbnRCdXNFdmVudCB7CiAgICAgICAgdmFyIGZjbUlkOiBTdHJpbmcgPSAiIgoKICAgICAgICBjb25zdHJ1Y3RvcihzdWNjZXNzOiBCb29sZWFuKSA6IHN1cGVyKHN1Y2Nlc3MpCgogICAgICAgIGNvbnN0cnVjdG9yKGZjbUlkOiBTdHJpbmcpIDogc3VwZXIodHJ1ZSkgewogICAgICAgICAgICB0aGlzLmZjbUlkID0gZmNtSWQKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2lvLmZhYnJpYy50b29sczpncmFkbGU6MS4yNC40Jwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNsYXNzcGF0aCAnaW8uZmFicmljLnRvb2xzOmdyYWRsZToxLjI3LjEnCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5mY21JZCA9IGZjbUlkCg==</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICdodHRwczovL21hdmVuLmZhYnJpYy5pby9wdWJsaWMnIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdHJ1Y3RvcihmY21JZDogU3RyaW5nKSA6IHN1cGVyKHRydWUpIHsK</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gRm9yIEZhYnJpYwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZmNtSWQ6IFN0cmluZyA9ICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgRGF0YUNsYXNzKHZhbCBzdWNjZXNzOiBCb29sZWFuKSA6IEV2ZW50QnVzRXZlbnQoc3VjY2Vzcykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>TAG</last-search>
+      <last-search>fabric</last-search>
       <last-offset />
-      <last-pattern>TAG</last-pattern>
+      <last-pattern>fabric</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -600,7 +600,6 @@
     </search>
     <history>
       <history-search>
-        <entry>C2D</entry>
         <entry>WAKE</entry>
         <entry>G2</entry>
         <entry>2D</entry>
@@ -620,6 +619,7 @@
         <entry>gcm</entry>
         <entry>user</entry>
         <entry>TAG</entry>
+        <entry>fabric</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
