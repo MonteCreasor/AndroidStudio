@@ -109,12 +109,6 @@
         <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/sandbox/quickstart-android/messaging/app/src/main/java/com/google/firebase/quickstart/fcm/kotlin/MyWorker.kt" timestamp="1551197056072" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/api/GcmApiService.java" timestamp="1551205463382">
-        <mark key="[" line="132" column="69" />
-        <mark key="]" line="132" column="73" />
-        <mark key="^" line="132" column="73" />
-        <mark key="." line="132" column="73" />
-      </file>
       <file name="/Dummy.txt" timestamp="1551134689843">
         <mark key="[" line="0" column="0" />
       </file>
@@ -274,7 +268,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Firebase</text>
+        <text>get new gcm id and send to server for initial registration</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -476,7 +470,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Firebase</text>
+        <text>get new gcm id and send to server for initial registration</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
