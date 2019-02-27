@@ -133,6 +133,9 @@
         <mark key="." line="61" column="32" />
       </file>
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/bluetooth/BluetoothDevice.java" timestamp="1551294356034" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/GatewayActivity.java" timestamp="1551296842028">
+        <mark key="^" line="145" column="44" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65bd9b7fcbb2314c76460abbc2e9ec97/jars/classes.jar!/com/google/firebase/messaging/FirebaseMessagingService.class" timestamp="1551140497007">
         <mark key="'" line="63" column="69" />
       </file>
@@ -157,7 +160,7 @@
         <mark key="'" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1551287725053" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" timestamp="1551295040929">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" timestamp="1551296914217">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="26" column="48" />
@@ -307,8 +310,8 @@
       <jump line="116" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkFycmF5Owo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -510,7 +513,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pin</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>createBond</text>
@@ -519,43 +522,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2YXRlVGFibGV0KGNvZGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkFycmF5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbnRlbnRGaWx0ZXIoUGFpcmluZ1JlcXVlc3QuQUNUSU9OX1BBSVJJTkdfUkVRVUVTVCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaW52b2tlKGRldmljZSwgcGluQnl0ZXMpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkFycmF5Owo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0TWV0aG9kKFNFVF9QSU5fTUVUSE9ELCBuZXcgQ2xhc3NbXXtBcnJheS5uZXdJbnN0YW5jZShieXRlLmNsYXNzLCA0KS5nZXRDbGFzcygpfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaW52b2tlKGRldmljZSwgcGluQnl0ZXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmdldENsYXNzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0TWV0aG9kKFNFVF9QSU5fTUVUSE9ELCBuZXcgQ2xhc3NbXXtBcnJheS5uZXdJbnN0YW5jZShieXRlLmNsYXNzLCA0KS5nZXRDbGFzcygpfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTRVRfUElOX01FVEhPRCA9ICJzZXRQaW4iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmdldENsYXNzKCkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLnNldAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTRVRfUElOX01FVEhPRCA9ICJzZXRQaW4iOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLnNldAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
