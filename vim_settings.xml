@@ -105,6 +105,9 @@
         <mark key="^" line="111" column="72" />
         <mark key="." line="297" column="0" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" timestamp="1551293603901">
+        <mark key="." line="384" column="89" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/sandbox/friendlychat-android/android/app/src/main/java/com/google/firebase/codelab/friendlychat/MainActivity.java" timestamp="1551216294535">
         <mark key="'" line="430" column="23" />
       </file>
@@ -129,6 +132,7 @@
         <mark key="^" line="61" column="32" />
         <mark key="." line="61" column="32" />
       </file>
+      <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/bluetooth/BluetoothDevice.java" timestamp="1551294356034" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65bd9b7fcbb2314c76460abbc2e9ec97/jars/classes.jar!/com/google/firebase/messaging/FirebaseMessagingService.class" timestamp="1551140497007">
         <mark key="'" line="63" column="69" />
       </file>
@@ -153,11 +157,11 @@
         <mark key="'" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1551287725053" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" timestamp="1551289394635">
-        <mark key="'" line="20" column="36" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" timestamp="1551295040929">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="26" column="48" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/HealthRecordFragment.java" timestamp="1551218445960">
         <mark key="'" line="86" column="12" />
@@ -170,9 +174,9 @@
         <mark key="." line="28" column="9" />
         <mark key="^" line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingHelper.java" timestamp="1551289730684">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingHelper.java" timestamp="1551295050547">
         <mark key="a" line="250" column="16" />
-        <mark key="'" line="250" column="16" />
+        <mark key="'" line="116" column="61" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -201,10 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="22" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/FcmServiceHelper.java" />
-      <jump line="30" column="36" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/FcmService.kt" />
-      <jump line="137" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/api/FcmApiService.kt" />
-      <jump line="93" column="34" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/ClearUserDataActivity.java" />
       <jump line="20" column="50" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/ClearUserDataActivity.java" />
       <jump line="18" column="55" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/ClearUserDataActivity.java" />
       <jump line="86" column="118" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/api/FcmApiService.kt" />
@@ -299,12 +299,16 @@
       <jump line="25" column="48" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" />
       <jump line="27" column="44" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" />
       <jump line="19" column="32" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" />
-      <jump line="20" column="36" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" />
       <jump line="250" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingHelper.java" />
+      <jump line="16" column="51" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" />
+      <jump line="20" column="50" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" />
+      <jump line="202" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingHelper.java" />
+      <jump line="342" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingHelper.java" />
+      <jump line="116" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2YXRlVGFibGV0KGNvZGUpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkFycmF5Owo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -506,61 +510,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>pin</text>
       </register>
       <register name="/" type="4">
-        <text>PIN</text>
+        <text>createBond</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2YXRlVGFibGV0KGNvZGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkFycmF5Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaW52b2tlKGRldmljZSwgcGluQnl0ZXMpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0TWV0aG9kKFNFVF9QSU5fTUVUSE9ELCBuZXcgQ2xhc3NbXXtBcnJheS5uZXdJbnN0YW5jZShieXRlLmNsYXNzLCA0KS5nZXRDbGFzcygpfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLmdldENsYXNzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluaXQgewo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTRVRfUElOX01FVEhPRCA9ICJzZXRQaW4iOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcGlDbGllbnQgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlLnNldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdvb2dsZUFwaUNsaWVudC5CdWlsZGVyKGNvbnRleHQpCiAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRDb25uZWN0aW9uQ2FsbGJhY2tzKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRPbkNvbm5lY3Rpb25GYWlsZWRMaXN0ZW5lcih0aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAuYWRkQXBpKExvY2F0aW9uU2VydmljZXMuQVBJKQogICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWN0aXZpdHlDb21wYXQuY2hlY2tTZWxmUGVybWlzc2lvbihhY3Rpdml0eSwgQUNDRVNTX0ZJTkVfTE9DQVRJT04pID09IFBFUk1JU1NJT05fR1JBTlRFRCAmJgo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>PIN</last-search>
+      <last-search>createBond</last-search>
       <last-offset />
-      <last-pattern>PIN</last-pattern>
+      <last-pattern>createBond</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -568,10 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getInstance</entry>
-        <entry>string.</entry>
-        <entry>rash</entry>
-        <entry>gcmS</entry>
         <entry>%s</entry>
         <entry>instance = null</entry>
         <entry>mUser =</entry>
@@ -588,6 +588,10 @@
         <entry>mPairingRe</entry>
         <entry>mDevicesToPair</entry>
         <entry>PIN</entry>
+        <entry>Pin</entry>
+        <entry>setPin</entry>
+        <entry>28</entry>
+        <entry>createBond</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
