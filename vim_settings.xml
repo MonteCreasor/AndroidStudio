@@ -221,10 +221,11 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="22" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/logging/TimberDebugTree.kt" timestamp="1551370834015">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/logging/TimberDebugTree.kt" timestamp="1551372268488">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="44" />
+        <mark key="^" line="24" column="44" />
+        <mark key="." line="24" column="44" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/util/SpeechHelper.kt" timestamp="1551302484668">
         <mark key="'" line="124" column="20" />
@@ -340,8 +341,8 @@
       <jump line="146" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/ui/BaseFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>logging</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -543,52 +544,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ForceCrash</text>
+        <text>logging</text>
       </register>
       <register name="/" type="4">
         <text>Force</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkxvZ05vdFRpbWJlciIpCiAgICBvdmVycmlkZSBmdW4gbG9nKHByaW9yaXR5OiBJbnQsIHRhZzogU3RyaW5nPywgbWVzc2FnZTogU3RyaW5nLCB0OiBUaHJvd2FibGU/KSB7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ2dpbmc6IEJvb2xlYW4KICAgICAgICBnZXQoKSA9IHByZWZzLmdldEJvb2xlYW4oTE9HR0lOR19QUkVGLCBmYWxzZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENyYXNobHl0aWNzLmxvZygiJG1lc3NhZ2U6ICR7dC5tZXNzYWdlfSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3Jhc2hseXRpY3MubG9nKHByaW9yaXR5LCB0YWcsIG1lc3NhZ2UpCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgQ3Jhc2hseXRpY3MubG9nKCIkbWVzc2FnZTogJHt0Lm1lc3NhZ2V9IikKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIENyYXNobHl0aWNzLmxvZyhtZXNzYWdlKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBsb2cocHJpb3JpdHk6IEludCwgdGFnOiBTdHJpbmc/LCBtZXNzYWdlOiBTdHJpbmcsIHQ6IFRocm93YWJsZT8pIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHJpb3JpdHkgPT0gRVJST1IpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkxvZ05vdFRpbWJlciIpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZXBvcnQgY2F1Z2h0IGV4Y2VwdGlvbnMgdG8gQ3Jhc2hseXRpY3MuCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYW5ub3RhdGlvbi5TdXBwcmVzc0xpbnQK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkNyYXNoIFJlcG9ydGluZyIgLz4K</text>
+        <text encoding="base64">Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJzdGFydHxjZW50ZXJfdmVydGljYWwiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
