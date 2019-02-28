@@ -76,17 +76,12 @@
         <mark key="]" line="1" column="90" />
         <mark key="." line="437" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" timestamp="1551381519453">
-        <mark key="'" line="323" column="27" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="70" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/data/api/LoggingApiService.java" timestamp="1551368810506">
         <mark key="'" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1551386810393" />
-      <file name="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1551387700300">
-        <mark key="'" line="286" column="36" />
+      <file name="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" timestamp="1551388717640">
+        <mark key="'" line="289" column="43" />
         <mark key="[" line="166" column="19" />
         <mark key="]" line="166" column="19" />
         <mark key="^" line="340" column="10" />
@@ -128,7 +123,7 @@
       <file name="$USER_HOME$/client/ideal-life/sandbox/quickstart-android/messaging/app/src/main/AndroidManifest.xml" timestamp="1551198102970">
         <mark key="'" line="52" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1551387709593">
+      <file name="/fragment.java" timestamp="1551388632330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" timestamp="1551385229273">
@@ -139,9 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="50" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" />
-      <jump line="202" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingHelper.java" />
-      <jump line="342" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingHelper.java" />
       <jump line="116" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingHelper.java" />
       <jump line="195" column="58" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/GatewayActivity.java" />
       <jump line="10" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingRequest.java" />
@@ -238,7 +230,10 @@
       <jump line="546" column="37" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/AndroidGateway/androidGateway/src/main/java/com/ideallife/android/fragments/MainFragment.java" />
       <jump line="29" column="4" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/AndroidGateway/androidGateway/src/main/java/com/ideallife/android/MainActivity.java" />
       <jump line="217" column="33" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/MainActivity.java" />
-      <jump line="286" column="36" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="160" column="4" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="286" column="21" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="436" column="25" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
+      <jump line="289" column="43" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -447,7 +442,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>void stop</text>
+        <text>Dest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGNoZWNrU2VsZlBlcm1pc3Npb24oQUNDRVNTX0ZJTkVfTE9DQVRJT04pICE9IFBFUk1JU1NJT05fR1JBTlRFRCkK</text>
@@ -496,9 +491,9 @@
       </register>
     </registers>
     <search>
-      <last-search>void stop</last-search>
+      <last-search>Dest</last-search>
       <last-offset />
-      <last-pattern>void stop</last-pattern>
+      <last-pattern>Dest</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -506,8 +501,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Logging</entry>
-        <entry>Post</entry>
         <entry>lega</entry>
         <entry>theme</entry>
         <entry>style</entry>
@@ -526,6 +519,8 @@
         <entry>onCreate</entry>
         <entry>BOOT</entry>
         <entry>void stop</entry>
+        <entry>cancel</entry>
+        <entry>Dest</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
