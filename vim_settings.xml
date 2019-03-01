@@ -76,13 +76,13 @@
         <mark key="'" line="1972" column="12" />
       </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1551386810393" />
-      <file name="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.kt" timestamp="1551475220385">
-        <mark key="a" line="40" column="29" />
-        <mark key="'" line="133" column="12" />
-        <mark key="[" line="109" column="22" />
-        <mark key="]" line="109" column="22" />
-        <mark key="^" line="109" column="22" />
-        <mark key="." line="109" column="22" />
+      <file name="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.kt" timestamp="1551477174496">
+        <mark key="a" line="110" column="17" />
+        <mark key="'" line="261" column="25" />
+        <mark key="[" line="277" column="24" />
+        <mark key="]" line="277" column="24" />
+        <mark key="^" line="119" column="68" />
+        <mark key="." line="277" column="24" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/HealthTabletStudio/AndroidGateway/androidGateway/src/main/java/com/ideallife/android/MainActivity.java" timestamp="1551384727544">
         <mark key="'" line="30" column="4" />
@@ -157,7 +157,7 @@
       <file name="/fragment.java" timestamp="1551457970508">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" timestamp="1551459210880">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/GatewayService.java" timestamp="1551476209631">
         <mark key="a" line="234" column="8" />
         <mark key="'" line="60" column="4" />
         <mark key="[" line="234" column="0" />
@@ -165,8 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="0" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
-      <jump line="388" column="17" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="398" column="16" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="405" column="16" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
       <jump line="469" column="16" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.java" />
@@ -265,10 +263,12 @@
       <jump line="43" column="16" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.kt" />
       <jump line="44" column="41" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.kt" />
       <jump line="126" column="12" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.kt" />
+      <jump line="111" column="17" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.kt" />
+      <jump line="259" column="25" filename="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>!</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -470,61 +470,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>adapter</text>
+        <text>Error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5zZXRDaGFubmVsSWQoQ0hBTk5FTF9JRCk7IC8vIENoYW5uZWwgSUQK</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZWNlaXZlciBjYWxsZWQgd2hlbiBlYWNoIGRldmljZSBzY2FuIGNvbXBsZXRlcy4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvU3RvcChnZXRTdHJpbmcoUi5zdHJpbmcuYmx1ZXRvb3RoX3VuYXZhaWxhYmxlKSkK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmROb3RpZmljYXRpb24oZ2V0U3RyaW5nKFIuc3RyaW5nLmJsdWV0b290aF91bmF2YWlsYWJsZSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFkYXB0ZXIgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGV2aWNlcyA9IG11dGFibGVMaXN0T2Y8Qmx1ZXRvb3RoRGV2aWNlPigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV2aWNlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlciA9IEJsdWV0b290aEFkYXB0ZXIuZ2V0RGVmYXVsdEFkYXB0ZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9Db25uZWN0aXZpdHkgPSBDb25uZWN0aW9uQ2hlY2tlci5pc05vQ29ubmVjdGlvbih0aGlzQEdhdGV3YXlTZXJ2aWNlKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZWdpc3RlciByZWNlaXZlciB0byBpbnRlcmNlcHQgYnJvYWRjYXN0cyBmcm9tIGxvY2FsIGJyb2FkY2FzdCBtYW5hZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>adapter</last-search>
+      <last-search>Error</last-search>
       <last-offset />
-      <last-pattern>adapter</last-pattern>
+      <last-pattern>Error</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -532,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AlarmM</entry>
         <entry>mtts</entry>
         <entry>loca</entry>
         <entry>op</entry>
@@ -552,6 +551,7 @@
         <entry>pollingTa</entry>
         <entry>pairedDevices</entry>
         <entry>adapter</entry>
+        <entry>Error</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
