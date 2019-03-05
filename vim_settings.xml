@@ -22,9 +22,6 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/GatewayInitializer.java" timestamp="1551736131911">
-        <mark key="'" line="6" column="13" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/AndroidGMConversation.java" timestamp="1551735991543">
         <mark key="'" line="302" column="15" />
         <mark key="[" line="287" column="23" />
@@ -72,9 +69,6 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/HealthTabletStudio/AndroidGateway/gateway-app/src/main/java/com/ideallife/android/gatewayservices/ErrorLoggedReceiver.kt" timestamp="1551731743571">
-        <mark key="'" line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1551747019291" />
       <file name="/Dummy.txt" timestamp="1551747826409">
         <mark key="[" line="0" column="0" />
@@ -85,14 +79,13 @@
         <mark key="." line="16" column="26" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1551747019291" />
-      <file name="$USER_HOME$/client/ideal-life/HealthTabletStudio/GatewayLib/gatewaylib/src/main/java/com/ideallife/android/gatewaylib/service/PairingHelper.java" timestamp="1551736815778">
-        <mark key="a" line="305" column="26" />
-        <mark key="'" line="430" column="25" />
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="0" />
-        <mark key="." line="320" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/gatewaylib/service/PairingRequest.kt" timestamp="1551796824465">
+        <mark key="[" line="74" column="12" />
+        <mark key="]" line="74" column="18" />
+        <mark key="^" line="74" column="18" />
+        <mark key="." line="74" column="18" />
       </file>
+      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1551747019291" />
       <file name="$USER_HOME$/client/ideal-life/HealthTabletStudio/AndroidGateway/gateway-app/build.gradle" timestamp="1551727583732">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="63" column="76" />
@@ -128,6 +121,12 @@
         <mark key="^" line="59" column="36" />
         <mark key="." line="59" column="36" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/GatewayActivity.java" timestamp="1551796841151">
+        <mark key="[" line="150" column="42" />
+        <mark key="]" line="144" column="45" />
+        <mark key="^" line="144" column="45" />
+        <mark key="." line="150" column="47" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/gateway/service/PairingHelper.java" timestamp="1551737713867">
         <mark key="'" line="323" column="22" />
         <mark key="[" line="79" column="61" />
@@ -162,6 +161,9 @@
         <mark key="]" line="613" column="23" />
         <mark key="." line="613" column="23" />
         <mark key="^" line="337" column="34" />
+      </file>
+      <file name="/fragment.java" timestamp="1551796562330">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -267,8 +269,8 @@
       <jump line="58" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/ui/PermissionsDialogFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6dmVyc2lvbk5hbWU9IjEuMCI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>instance</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -470,7 +472,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>instance</text>
       </register>
       <register name="/" type="4">
         <text>device</text>
