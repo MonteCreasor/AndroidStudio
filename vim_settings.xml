@@ -8,11 +8,23 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/LoggingApiService.kt" timestamp="1551894705914">
-        <mark key="[" line="74" column="52" />
-        <mark key="]" line="74" column="56" />
-        <mark key="^" line="74" column="56" />
-        <mark key="." line="74" column="56" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/ServicesFactory.java" timestamp="1551902930482">
+        <mark key="[" line="120" column="51" />
+        <mark key="]" line="120" column="52" />
+        <mark key="^" line="120" column="56" />
+        <mark key="." line="120" column="52" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/LoggingApiService.kt" timestamp="1551903128795">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/build.gradle" timestamp="1551901835827">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="38" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/devices/WebApiGcmRepository.java" timestamp="1551892571530">
         <mark key="[" line="27" column="67" />
@@ -54,6 +66,7 @@
       <file name="/Dummy.txt" timestamp="1551829090471">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-gateway/build.gradle" timestamp="1551901768337" />
       <file name="/fragment.kt" timestamp="1551900366850">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,7 +99,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" timestamp="1551898943715">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" timestamp="1551902799338">
         <mark key="'" line="19" column="21" />
         <mark key="[" line="489" column="16" />
         <mark key="]" line="489" column="16" />
@@ -131,12 +144,12 @@
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/receivers/ToggleGatewayProvider.kt" timestamp="1551900636678">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/receivers/ToggleGatewayProvider.kt" timestamp="1551902677265">
         <mark key="k" line="39" column="24" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="67" column="7" />
-        <mark key="." line="72" column="0" />
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="90" />
+        <mark key="^" line="21" column="90" />
+        <mark key="." line="21" column="90" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/res/values/strings.xml" timestamp="1551825664376">
         <mark key="'" line="63" column="0" />
@@ -250,7 +263,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -452,52 +465,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>apply</text>
       </register>
       <register name="/" type="4">
         <text>getButtonText</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NMaW50KCJOZXdBcGkiKQogICAgICAgIGZ1biBzZXRCdXR0b25JbmZvKGNvbnRleHQ6IENvbnRleHQsIGlzUnVubmluZzogQm9vbGVhbikgewogICAgICAgICAgICB2YWwgYXBwV2lkZ2V0TWFuYWdlciA9IEFwcFdpZGdldE1hbmFnZXIuZ2V0SW5zdGFuY2UoY29udGV4dCkKICAgICAgICAgICAgZm9yIChhcHBXaWRnZXRJZCBpbiBnZXRXaWRnZXRJZHMoY29udGV4dCkpIHsKICAgICAgICAgICAgICAgIHZhbCB2aWV3cyA9IGdldFJlbW90ZVZpZXdzKGNvbnRleHQpCiAgICAgICAgICAgICAgICBzZXRCdXR0b25BcHBlYXJhbmNlKGNvbnRleHQsIHZpZXdzLCBpc1J1bm5pbmcpCiAgICAgICAgICAgICAgICBzZXRUb2dnbGVQZW5kaW5nSW50ZW50KGNvbnRleHQsIHZpZXdzKQogICAgICAgICAgICAgICAgYXBwV2lkZ2V0TWFuYWdlci51cGRhdGVBcHBXaWRnZXQoYXBwV2lkZ2V0SWQsIHZpZXdzKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZ1biBnZXRXaWRnZXRJZHMoY29udGV4dDogQ29udGV4dCkgPQogICAgICAgICAgICAgICAgQXBwV2lkZ2V0TWFuYWdlci5nZXRJbnN0YW5jZShjb250ZXh0KQogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0QXBwV2lkZ2V0SWRzKENvbXBvbmVudE5hbWUoY29udGV4dCwgVG9nZ2xlR2F0ZXdheVByb3ZpZGVyOjpjbGFzcy5qYXZhKSkKCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBmdW4gc2V0VG9nZ2xlUGVuZGluZ0ludGVudChjb250ZXh0OiBDb250ZXh0LCB2aWV3czogUmVtb3RlVmlld3MpIHsKICAgICAgICAgICAgZ2V0VG9nZ2xlUGVuZGluZ0ludGVudChjb250ZXh0KS5hbHNvIHsKICAgICAgICAgICAgICAgIHZpZXdzLnNldE9uQ2xpY2tQZW5kaW5nSW50ZW50KFIuaWQuYnRuX3RvZ2dsZV9nYXRld2F5LCBpdCkKICAgICAgICAgICAgICAgIHZpZXdzLnNldE9uQ2xpY2tQZW5kaW5nSW50ZW50KFIuaWQuaW1nX2J0bl90b2dnbGVfZ2F0ZXdheSwgaXQpCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHByaXZhdGUgZnVuIHNldEJ1dHRvbkFwcGVhcmFuY2UoY29udGV4dDogQ29udGV4dCwgdmlld3M6IFJlbW90ZVZpZXdzLCBpc1J1bm5pbmc6IEJvb2xlYW4pIHsKICAgICAgICAgICAgdmlld3Muc2V0VGV4dFZpZXdUZXh0KFIuaWQuYnRuX3RvZ2dsZV9nYXRld2F5LCBnZXRCdXR0b25UZXh0KGNvbnRleHQsIGlzUnVubmluZykpCiAgICAgICAgICAgIHZpZXdzLnNldEltYWdlVmlld1Jlc291cmNlKFIuaWQuaW1nX2J0bl90b2dnbGVfZ2F0ZXdheSwgZ2V0QnV0dG9uRHJhd2FibGUoaXNSdW5uaW5nKSkKICAgICAgICAgICAgdmlld3Muc2V0SW1hZ2VWaWV3UmVzb3VyY2UoUi5pZC5iYWNrZ3JvdW5kX2ltYWdlLCBnZXRCYWNrZ3JvdW5kRHJhd2FibGUoaXNSdW5uaW5nKSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZ1biBnZXRSZW1vdGVWaWV3cyhjb250ZXh0OiBDb250ZXh0KTogUmVtb3RlVmlld3Mgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dnaW5nU2VydmljZSA9IHNlcnZpY2VzRmFjdG9yeS5jcmVhdGVMb2dnaW5nU2VydmljZXMoc2Vzc2lvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlbW90ZVZpZXdzKGNvbnRleHQucGFja2FnZU5hbWUsIFIubGF5b3V0LndpZGdldF90b2dnbGVfZ2F0ZXdheSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlc3Npb24gIT0gbnVsbCkgewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZ1biBnZXRXaWRnZXRJZHMoY29udGV4dDogQ29udGV4dCkgPQogICAgICAgICAgICAgICAgQXBwV2lkZ2V0TWFuYWdlci5nZXRJbnN0YW5jZShjb250ZXh0KQogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0QXBwV2lkZ2V0SWRzKENvbXBvbmVudE5hbWUoY29udGV4dCwgVG9nZ2xlR2F0ZXdheVByb3ZpZGVyOjpjbGFzcy5qYXZhKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NMaW50KCJOZXdBcGkiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/btn</text>
