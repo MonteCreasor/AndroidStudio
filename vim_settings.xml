@@ -90,12 +90,12 @@
         <mark key="]" line="167" column="31" />
         <mark key="." line="167" column="31" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" timestamp="1551995976738">
-        <mark key="'" line="32" column="42" />
-        <mark key="[" line="57" column="43" />
-        <mark key="]" line="57" column="45" />
-        <mark key="." line="57" column="45" />
-        <mark key="^" line="57" column="45" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" timestamp="1551997368809">
+        <mark key="'" line="43" column="16" />
+        <mark key="[" line="69" column="30" />
+        <mark key="]" line="69" column="30" />
+        <mark key="^" line="73" column="51" />
+        <mark key="." line="69" column="30" />
       </file>
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/content/Intent.java" timestamp="1551928962433">
         <mark key="[" line="5472" column="0" />
@@ -104,13 +104,13 @@
       <file name="/fragment.kt" timestamp="1551927787006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.java" timestamp="1551996317287">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.java" timestamp="1551996369164">
         <mark key="a" line="79" column="16" />
         <mark key="'" line="35" column="70" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="75" column="15" />
-        <mark key="." line="95" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/FcmApiService.kt" timestamp="1551979262036">
         <mark key="a" line="20" column="6" />
@@ -290,7 +290,6 @@
       <jump line="36" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
       <jump line="39" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
       <jump line="40" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
-      <jump line="41" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
       <jump line="42" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
       <jump line="43" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
       <jump line="44" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
@@ -299,7 +298,6 @@
       <jump line="55" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
       <jump line="58" column="43" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
       <jump line="68" column="38" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
-      <jump line="80" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
       <jump line="31" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
       <jump line="32" column="25" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
       <jump line="81" column="90" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
@@ -310,10 +308,12 @@
       <jump line="29" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.java" />
       <jump line="31" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.java" />
       <jump line="35" column="70" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.java" />
+      <jump line="80" column="46" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
+      <jump line="41" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -515,69 +515,68 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>is</text>
+        <text>conn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNlc3Npb25VcmwgPSBTdHJpbmcuZm9ybWF0KCIlcy8lcy8lcyIsIGNvbmZpZy5hcGlVcmwsIGNvbmZpZy5hcGlWZXJzaW9uLCBhcGlNZXRob2QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGJyID0gQnVmZmVyZWRSZWFkZXIoSW5wdXRTdHJlYW1SZWFkZXIoaXQpKQogICAgICAgICAgICAgICAgICAgICAgICB2YWwgc2IgPSBTdHJpbmdCdWZmZXIoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgc2IuYXBwZW5kKG91dHB1dCkK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB3aGlsZSAoKG91dHB1dCA9IGJyLnJlYWRMaW5lKCkpICE9IG51bGwpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlvKSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB2YXIgb3V0cHV0OiBTdHJpbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dHB1dCA9IGJyLnJlYWRMaW5lKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9zICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2hpbGUgKHsgb3V0cHV0ID0gYnIucmVhZExpbmUoKTsgb3V0cHV0IH0oKSkgewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG91dHB1dDogU3RyaW5nPwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>/btn</text>
       </register>
     </registers>
     <search>
-      <last-search>is</last-search>
+      <last-search>conn</last-search>
       <last-offset />
-      <last-pattern>is</last-pattern>
+      <last-pattern>conn</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onAcivityR</entry>
         <entry>onActi</entry>
         <entry>isAvailable</entry>
         <entry>onInit</entry>
@@ -597,6 +596,7 @@
         <entry>sessionUrl</entry>
         <entry>io</entry>
         <entry>is</entry>
+        <entry>conn</entry>
       </history-search>
       <history-cmd>
         <entry>s%/'/&quot;/g</entry>
