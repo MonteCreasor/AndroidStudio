@@ -26,11 +26,11 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/WebApiRepositoryConfiguration.java" timestamp="1551903193021">
         <mark key="'" line="59" column="12" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/devices/WebApiGcmRepository.java" timestamp="1551979607723">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/devices/WebApiGcmRepository.java" timestamp="1551981613913">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="23" />
+        <mark key="^" line="27" column="23" />
+        <mark key="." line="44" column="23" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ui/BaseActivity.java" timestamp="1551926922548">
         <mark key="a" line="49" column="33" />
@@ -303,7 +303,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/&quot;).append(gcmId);</text>
+        <text>/</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -505,7 +505,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/&quot;).append(gcmId);</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>apiMethod</text>
