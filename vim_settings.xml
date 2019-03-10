@@ -101,6 +101,9 @@
       <file name="/Dummy.txt" timestamp="1552081199151">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/AndroidManifest.xml" timestamp="1552252611388">
+        <mark key="'" line="168" column="41" />
+      </file>
       <file name="/fragment.kt" timestamp="1552243144886">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,8 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="44" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.java" />
-      <jump line="59" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.java" />
       <jump line="237" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.java" />
       <jump line="217" column="80" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.java" />
       <jump line="51" column="34" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.java" />
@@ -247,6 +248,8 @@
       <jump line="112" column="27" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" />
       <jump line="115" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
+      <jump line="88" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/AndroidManifest.xml" />
+      <jump line="168" column="41" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -455,7 +458,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>mess</text>
+        <text>gms</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvL1RPRE86IElzIHRoaXMgcmVjZWl2ZXIgbmVjZXNzYXJ5IGhlcmU/Cg==</text>
@@ -504,9 +507,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mess</last-search>
+      <last-search>gms</last-search>
       <last-offset />
-      <last-pattern>mess</last-pattern>
+      <last-pattern>gms</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -514,8 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onNew</entry>
-        <entry>onResume</entry>
         <entry>onAc</entry>
         <entry>startActi</entry>
         <entry>MessagesAc</entry>
@@ -534,6 +535,8 @@
         <entry>Next</entry>
         <entry>TODO</entry>
         <entry>mess</entry>
+        <entry>Fcm</entry>
+        <entry>gms</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
