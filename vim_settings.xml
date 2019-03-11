@@ -33,11 +33,12 @@
         <mark key="^" line="74" column="37" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1552327813323">
-        <mark key="'" line="77" column="8" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1552336752502">
+        <mark key="'" line="129" column="16" />
+        <mark key="[" line="246" column="12" />
+        <mark key="]" line="246" column="27" />
+        <mark key="." line="246" column="27" />
+        <mark key="^" line="246" column="27" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ui/BaseActivity.java" timestamp="1552235893629">
         <mark key="'" line="179" column="19" />
@@ -104,7 +105,8 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/models/util/DateTime.java" timestamp="1552329218615">
         <mark key="'" line="89" column="24" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" timestamp="1552334661689">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" timestamp="1552335783239">
+        <mark key="'" line="54" column="32" />
         <mark key="[" line="167" column="0" />
         <mark key="]" line="175" column="9" />
         <mark key="." line="167" column="0" />
@@ -186,12 +188,12 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/AndroidGateway.java" timestamp="1552094057151">
         <mark key="'" line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ClearUserDataActivity.java" timestamp="1552332369510">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ClearUserDataActivity.java" timestamp="1552335677923">
         <mark key="'" line="106" column="25" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="142" column="62" />
-        <mark key="." line="143" column="0" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="129" column="34" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/receivers/MessagesNotificationReceiver.kt" timestamp="1552329563421">
         <mark key="[" line="31" column="15" />
@@ -201,9 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="27" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" />
-      <jump line="115" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" />
-      <jump line="88" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/AndroidManifest.xml" />
       <jump line="168" column="41" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/AndroidManifest.xml" />
       <jump line="57" column="35" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="147" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
@@ -301,10 +300,13 @@
       <jump line="57" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/ui/BaseFragment.kt" />
       <jump line="28" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/ui/SettingsFragment.kt" />
       <jump line="218" column="3" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/ui/SettingsFragment.kt" />
+      <jump line="54" column="32" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" />
+      <jump line="117" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="129" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIFRpbWJlci5kKCItLS0tLS0tLS0tLS0tIE1lc3NhZ2UgTm90aWZpY2F0aW9uIFNjaGVkdWxlIC0tLS0tLS0tLS0tLS0iKQogICAgICAgICAgICBub3RpZmljYXRpb25UaW1lcy5zb3J0ZWQoKS5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIHdpdGggKFNpbXBsZURhdGVGb3JtYXQoIk1NTSBkZCwgSEg6bW06c3MgYSIsIExvY2FsZS5FTkdMSVNIKSkgewogICAgICAgICAgICAgICAgICAgIHRpbWVab25lID0gVGltZVpvbmUuZ2V0RGVmYXVsdCgpCiAgICAgICAgICAgICAgICAgICAgdmFsIGZvcm1hdHRlZERhdGUgPSBmb3JtYXQoaXQpCiAgICAgICAgICAgICAgICAgICAgVGltYmVyLmQoImFsYXJtIGF0ICRmb3JtYXR0ZWREYXRlIikKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -506,61 +508,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>configureW</text>
+        <text>scheduleMess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiU2NoZWR1bGVkIG1lc3NhZ2VzIGFsYXJtIGF0ICRmb3JtYXR0ZWREYXRlIikK</text>
+        <text encoding="base64">ICAgICAgICBQcm9jZXNzUGhvZW5peC50cmlnZ2VyUmViaXJ0aChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIFRpbWJlci5kKCItLS0tLS0tLS0tLS0tIE1lc3NhZ2UgTm90aWZpY2F0aW9uIFNjaGVkdWxlIC0tLS0tLS0tLS0tLS0iKQogICAgICAgICAgICBub3RpZmljYXRpb25UaW1lcy5zb3J0ZWQoKS5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIHdpdGggKFNpbXBsZURhdGVGb3JtYXQoIk1NTSBkZCwgSEg6bW06c3MgYSIsIExvY2FsZS5FTkdMSVNIKSkgewogICAgICAgICAgICAgICAgICAgIHRpbWVab25lID0gVGltZVpvbmUuZ2V0RGVmYXVsdCgpCiAgICAgICAgICAgICAgICAgICAgdmFsIGZvcm1hdHRlZERhdGUgPSBmb3JtYXQoaXQpCiAgICAgICAgICAgICAgICAgICAgVGltYmVyLmQoImFsYXJtIGF0ICRmb3JtYXR0ZWREYXRlIikKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBDYWNoZSBkaXJlY3Rvcnkgbm93IGVtcHR5LCBzbyBkZWxldGUgaXQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVsZXRlU3VjY2Vzc2Z1bDsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGggKFNpbXBsZURhdGVGb3JtYXQoIk1NTSBkZCwgSEg6bW06c3MgYSIsIExvY2FsZS5FTkdMSVNIKSkgewogICAgICAgICAgICAgICAgICAgIHRpbWVab25lID0gVGltZVpvbmUuZ2V0RGVmYXVsdCgpCiAgICAgICAgICAgICAgICAgICAgdmFsIGZvcm1hdHRlZERhdGUgPSBmb3JtYXQodGltZSkKICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiU2NoZWR1bGVkIG1lc3NhZ2VzIGFsYXJtIGZvciBpZCAke21lc3NhZ2UuaWR9IGF0ICRmb3JtYXR0ZWREYXRlIikKICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRmLnRpbWVab25lID0gVGltZVpvbmUuZ2V0RGVmYXVsdCgpCiAgICAgICAgICAgICAgICB2YWwgZm9ybWF0dGVkRGF0ZSA9IGRmLmZvcm1hdCh0aW1lKQogICAgICAgICAgICAgICAgVGltYmVyLmQoIlNjaGVkdWxlZCBtZXNzYWdlcyBhbGFybSBmb3IgJGZvcm1hdHRlZERhdGUiKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVsZXRlU3VjY2Vzc2Z1bDsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRmLnRpbWVab25lID0gVGltZVpvbmUuZ2V0VGltZVpvbmUoIlVUQyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGUgZGF0ZSA9IGRmIC4gcGFyc2UgKGRhdGVTdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZGVsZGQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBkYXRlID0gZGYucGFyc2UoZGF0ZVN0cikK</text>
+        <text encoding="base64">Ly8JCXN0YXJ0QWN0aXZpdHkoaSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/mUser</text>
       </register>
     </registers>
     <search>
-      <last-search>configureW</last-search>
+      <last-search>scheduleMess</last-search>
       <last-offset />
-      <last-pattern>configureW</last-pattern>
+      <last-pattern>scheduleMess</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -568,7 +570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nextUnread</entry>
         <entry>Api</entry>
         <entry>-1</entry>
         <entry>== 0</entry>
@@ -588,6 +589,7 @@
         <entry>Button</entry>
         <entry>reset</entry>
         <entry>configureW</entry>
+        <entry>scheduleMess</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
