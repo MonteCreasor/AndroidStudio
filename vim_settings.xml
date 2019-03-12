@@ -9,6 +9,10 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/GatewaySettings.java" timestamp="1552413301161">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="75" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/devices/WebApiMediaRepository.java" timestamp="1552341100084">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -26,6 +30,12 @@
         <mark key="[" line="236" column="0" />
         <mark key="]" line="236" column="0" />
         <mark key="." line="236" column="0" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" timestamp="1552413272777">
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="25" />
+        <mark key="." line="51" column="25" />
+        <mark key="^" line="51" column="25" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" timestamp="1552411940932" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/service/services/NotificationServices.java" timestamp="1552341046164">
@@ -75,7 +85,6 @@
         <mark key="." line="274" column="0" />
         <mark key="^" line="272" column="40" />
       </file>
-      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1552401738515" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/service/services/LoggingServices.java" timestamp="1552341070110">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -92,7 +101,6 @@
       <file name="/fragment.kt" timestamp="1552405876571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1552401738515" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessageNotificationActivity.kt" timestamp="1552401911406">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -281,8 +289,8 @@
       <jump line="209" column="87" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBACg==</text>
+      <register name="&quot;" type="4">
+        <text>Boolean</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -484,7 +492,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>startOneShotJob</text>
+        <text>Boolean</text>
       </register>
       <register name="/" type="4">
         <text>startOn</text>
