@@ -89,11 +89,12 @@
         <mark key="^" line="36" column="61" />
         <mark key="." line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" timestamp="1552500790609">
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
-        <mark key="^" line="204" column="19" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" timestamp="1552501109634">
+        <mark key="'" line="211" column="6" />
+        <mark key="[" line="204" column="33" />
+        <mark key="]" line="205" column="11" />
+        <mark key="." line="205" column="11" />
+        <mark key="^" line="205" column="11" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" timestamp="1552499281489">
         <mark key="a" line="97" column="11" />
@@ -114,12 +115,12 @@
         <mark key="]" line="79" column="28" />
         <mark key="." line="79" column="28" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/GatewaySettings.kt" timestamp="1552499963879">
-        <mark key="a" line="25" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="61" />
-        <mark key="^" line="35" column="16" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/GatewaySettings.kt" timestamp="1552501701125">
+        <mark key="a" line="18" column="15" />
+        <mark key="[" line="30" column="77" />
+        <mark key="]" line="30" column="109" />
+        <mark key="^" line="30" column="109" />
+        <mark key="." line="30" column="109" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/res/xml/preferences.xml" timestamp="1552497797704">
         <mark key="[" line="23" column="0" />
@@ -136,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="234" column="48" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="131" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="242" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
@@ -236,10 +236,11 @@
       <jump line="36" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/App.kt" />
       <jump line="14" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/App.kt" />
       <jump line="204" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
+      <jump line="210" column="6" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>default_notification_sound)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -441,61 +442,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>buildNotification</text>
+        <text>default_notification_sound)</text>
       </register>
       <register name="/" type="4">
-        <text>buildNo</text>
+        <text>notify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm90aWZpY2F0aW9uTWFuYWdlckNvbXBhdC5mcm9tKGFwcGxpY2F0aW9uQ29udGV4dCkKICAgICAgICAgICAgICAgICAgICAubm90aWZ5KE5PVElGSUNBVElPTl9JRCwgYnVpbGROb3RpZmljYXRpb24oZ2V0U3RyaW5nKFIuc3RyaW5nLmdhdGV3YXlfbm90aWZpY2F0aW9uX3RpdGxlKSwgbWVzc2FnZSkpCg==</text>
+        <text encoding="base64">ICAgIC8qKiBWYWx1ZXMgbXVzdCBtYXRjaCBzaGFyZWQgcHJlZmVyZW5jZXMgYXJyYXkgc3RyaW5nIGluZGV4IHZhbHVlcy4gKi8KICAgIGVudW0gY2xhc3MgQXVkaWJsZVNvdW5kKHZhbCB2YWx1ZTogU3RyaW5nKSB7CiAgICAgICAgTk9ORSgiMCIpLAogICAgICAgIERFRkFVTFQoIjEiKSwKICAgICAgICBTUEVBSygiMiIpCiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG5vdGlmaWNhdGlvbiA9IGJ1aWxkTm90aWZpY2F0aW9uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FuY2VsTm90aWZpY2F0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJHYXRld2F5IG5vdGlmaWNhdGlvbnMgd2lsbCBiZSBzaWxlbnQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdhdGV3YXlTZXR0aW5ncy5BVURJQkxFX1NQRUFLLnRvU3RyaW5nKCkpISEudG9JbnQoKSA+PSAyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdhdGV3YXlTZXR0aW5ncy5OT1RJRklDQVRJT05fU09VTkRTLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2F0ZXdheVNldHRpbmdzLkF1ZGlibGVTb3VuZC5ERUZBVUxUIC0+IFRPRE8oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IHByZWZzLmdldFN0cmluZygK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBpc1NwZWVjaEVuYWJsZWQ6IEJvb2xlYW4K</text>
+        <text encoding="base64">ICAgICAgICBTUEVBSygiMiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMK</text>
+        <text encoding="base64">ICAgICAgICBERUZBVUxUKCIxIiksCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>buildNo</last-search>
+      <last-search>notify</last-search>
       <last-offset />
-      <last-pattern>buildNo</last-pattern>
+      <last-pattern>notify</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -503,7 +504,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mAdapter</entry>
         <entry>shutdown</entry>
         <entry>fabric</entry>
         <entry>voice</entry>
@@ -523,6 +523,7 @@
         <entry>Settings</entry>
         <entry>buildNO</entry>
         <entry>buildNo</entry>
+        <entry>notify</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
