@@ -134,12 +134,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="72" column="45" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/gatewayservices/SpeechHelper.kt" timestamp="1552670729857">
-        <mark key="'" line="47" column="23" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="^" line="200" column="26" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/gatewayservices/SpeechHelper.kt" timestamp="1552671839270">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="203" column="21" />
+        <mark key="]" line="204" column="31" />
+        <mark key="." line="204" column="31" />
+        <mark key="^" line="204" column="31" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/Settings.java" timestamp="1552604344163">
         <mark key="[" line="18" column="52" />
@@ -200,11 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="51" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
-      <jump line="187" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
-      <jump line="345" column="25" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
-      <jump line="2" column="14" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
-      <jump line="26" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="60" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="272" column="81" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="66" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
@@ -300,10 +295,15 @@
       <jump line="358" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/fragments/MainFragment.java" />
       <jump line="430" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/fragments/MainFragment.java" />
       <jump line="85" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/fragments/MainFragment.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/gatewayservices/SpeechHelper.kt" />
+      <jump line="182" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/gatewayservices/SpeechHelper.kt" />
+      <jump line="30" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/gatewayservices/SpeechHelper.kt" />
+      <jump line="39" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/gatewayservices/SpeechHelper.kt" />
+      <jump line="60" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/gatewayservices/SpeechHelper.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.volume = 10L</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -508,61 +508,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>.volume = 10L</text>
       </register>
       <register name="/" type="4">
-        <text>speak</text>
+        <text>isSpeech</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBCdWlsZCBhbmQgZGlzcGxheSBub3RpZmljYXRpb24KICAgICAgICBOb3RpZmljYXRpb25IZWxwZXIuc2hvd05ld01lc3NhZ2VzTm90aWZpY2F0aW9uKCkKCg==</text>
+        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIHZhbCBpc1NwZWVjaEVuYWJsZWQ6IEJvb2xlYW4KICAgICAgICBnZXQoKSA9IGlzSW5pdGlhbGl6ZWQgJiYgR2F0ZXdheVNldHRpbmdzLmlzU3BlYWtFbmFibGVkKGNvbnRleHQhISkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUmluZ3RvbmVNYW5hZ2VyLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNTcGVlY2hFbmFibGVkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByLnBsYXkoKQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRCdXR0b25zRW5hYmxlZChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnRuU2VhcmNoRm9yTWFuYWdlcnMuc2V0RW5hYmxlZChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnRuU3RhcnRTZXJ2aWNlLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0cnkgewovLyAgICAgICAgICAgICAgICB2YWwgbm90aWZpY2F0aW9uID0gUmluZ3RvbmVNYW5hZ2VyLmdldERlZmF1bHRVcmkoUmluZ3RvbmVNYW5hZ2VyLlRZUEVfTk9USUZJQ0FUSU9OKQovLyAgICAgICAgICAgICAgICB2YWwgciA9IFJpbmd0b25lTWFuYWdlci5nZXRSaW5ndG9uZShnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgbm90aWZpY2F0aW9uKQovLyAgICAgICAgICAgICAgICByLnBsYXkoKQovLyAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewovLyAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCi8vICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQmx1ZXRvb3RoQWRhcHRlci5nZXREZWZhdWx0QWRhcHRlcigpID09IG51bGwpIHsKICAgICAgICAgICAgbVRleHQuc2V0VGV4dChSLnN0cmluZy5ub19ibHVldG9vdGgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtVGV4dC5zZXRUZXh0KFIuc3RyaW5nLm5vX2JsdWV0b290aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQmx1ZXRvb3RoQWRhcHRlci5nZXREZWZhdWx0QWRhcHRlcigpID09IG51bGwpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNJbml0aWFsaXplZCkgewogICAgICAgICAgICB0ZXh0VG9TcGVlY2g/LnNwZWFrKHRleHQsIHF1ZXVlTW9kZSwgbnVsbCwgbnVsbCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBpZiAocXVldWUuc2l6ZSA8IE1BWF9RVUVVRV9TSVpFKSB7CiAgICAgICAgICAgICAgICBxdWV1ZS5hZGQodGV4dCkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIExvZy53KFRBRywgIlNwZWVjaCBlbmdpbmUgaGFzIGV4Y2VlZGVkICRNQVhfUVVFVUVfU0laRSBtZXNzYWdlcyIpCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>speak</last-search>
+      <last-search>isSpeech</last-search>
       <last-offset />
-      <last-pattern>speak</last-pattern>
+      <last-pattern>isSpeech</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -570,9 +570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>register</entry>
-        <entry>Bluetooth</entry>
-        <entry>no_b</entry>
         <entry>mAdapter</entry>
         <entry>no_blu</entry>
         <entry>mText.setTe</entry>
@@ -590,6 +587,9 @@
         <entry>setEnabled</entry>
         <entry>setButton</entry>
         <entry>speak</entry>
+        <entry>doSpeak</entry>
+        <entry>isInitialized</entry>
+        <entry>isSpeech</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
