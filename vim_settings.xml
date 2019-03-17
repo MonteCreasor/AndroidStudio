@@ -60,7 +60,7 @@
         <mark key="." line="56" column="64" />
         <mark key="^" line="56" column="64" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/util/AudioHelper.kt" timestamp="1552840557638">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/util/AudioHelper.kt" timestamp="1552847122434">
         <mark key="[" line="180" column="43" />
         <mark key="]" line="180" column="51" />
         <mark key="^" line="180" column="51" />
@@ -149,12 +149,12 @@
         <mark key="." line="145" column="25" />
         <mark key="^" line="145" column="16" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1552845948233">
-        <mark key="'" line="137" column="4" />
-        <mark key="[" line="281" column="12" />
-        <mark key="]" line="281" column="18" />
-        <mark key="." line="281" column="18" />
-        <mark key="^" line="281" column="18" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1552847231697">
+        <mark key="'" line="103" column="35" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="270" column="35" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/res/values-v28/array.xml" timestamp="1552604014783">
         <mark key="[" line="5" column="27" />
@@ -285,8 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" />
-      <jump line="23" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="51" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="114" column="23" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="56" column="70" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
@@ -369,7 +367,6 @@
       <jump line="11" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/util/AudioHelper.kt" />
       <jump line="38" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/util/AudioHelper.kt" />
       <jump line="179" column="21" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/gatewayservices/AudioHelper.kt" />
-      <jump line="98" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="52" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="53" column="65" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="86" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
@@ -385,10 +382,13 @@
       <jump line="139" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="276" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="137" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="98" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="47" column="2" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="103" column="35" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -593,61 +593,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IGVsc2Ugew==</text>
       </register>
       <register name="/" type="4">
-        <text>testThi</text>
+        <text>JOB_ID</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RvcCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnKCJQdWxsIG1lc3NhZ2Ugam9iIGNvbXBsZXRlZCBzdWNjZXNzZnVsbHkiKQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDQwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHRlc3RUaGlzQ2xhc3MoKTogQm9vbGVhbiB7CiAgICAgICAgVGhyZWFkLnNsZWVwKDQwMDApCiAgICB9CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDQwMDApCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHRlc3RUaGlzQ2xhc3MoKTogQm9vbGVhbiB7CiAgICAgICAgVGhyZWFkLnNsZWVwKDQwMDApCiAgICB9CiAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9wZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>testThi</last-search>
+      <last-search>JOB_ID</last-search>
       <last-offset />
-      <last-pattern>testThi</last-pattern>
+      <last-pattern>JOB_ID</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -655,8 +655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Firebase</entry>
-        <entry>token</entry>
         <entry>savedToken</entry>
         <entry>Empty</entry>
         <entry>mLogg</entry>
@@ -675,6 +673,8 @@
         <entry>onStop</entry>
         <entry>stop</entry>
         <entry>testThi</entry>
+        <entry>test</entry>
+        <entry>JOB_ID</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
