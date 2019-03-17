@@ -9,9 +9,9 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/di/ApiModule.kt" timestamp="1552858889620">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/di/ApiModule.kt" timestamp="1552860429050">
         <mark key="a" line="47" column="12" />
-        <mark key="'" line="27" column="4" />
+        <mark key="'" line="19" column="0" />
         <mark key="[" line="49" column="86" />
         <mark key="]" line="49" column="92" />
         <mark key="^" line="49" column="92" />
@@ -44,12 +44,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" timestamp="1552857602067">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="98" column="49" />
-        <mark key="]" line="98" column="50" />
-        <mark key="^" line="45" column="49" />
-        <mark key="." line="98" column="50" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" timestamp="1552860582155">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/gatewayservices/AudioHelper.kt" timestamp="1552850338940">
         <mark key="'" line="175" column="21" />
@@ -68,8 +67,9 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" timestamp="1552850903963">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" timestamp="1552860385995">
         <mark key="a" line="69" column="37" />
+        <mark key="'" line="46" column="46" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="70" column="69" />
       </file>
@@ -137,6 +137,11 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.java" timestamp="1552860414673">
+        <mark key="a" line="25" column="31" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="29" column="5" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/di/AppComponent.kt" timestamp="1552857292579">
         <mark key="[" line="10" column="8" />
@@ -336,9 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/LoggingApiService.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/LoggingApiService.kt" />
-      <jump line="33" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/LoggingApiService.kt" />
       <jump line="30" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/LoggingApiService.kt" />
       <jump line="25" column="11" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/LoggingApiService.kt" />
       <jump line="42" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/FcmApiService.kt" />
@@ -436,10 +438,13 @@
       <jump line="88" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/di/ApiModule.kt" />
       <jump line="68" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/di/ApiModule.kt" />
       <jump line="27" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/di/ApiModule.kt" />
+      <jump line="48" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
+      <jump line="46" column="46" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
+      <jump line="19" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/di/ApiModule.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sqlMessageRepository</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlU2VydmljZUhlbHBlcihhY3RpdmF0ZWRVc2VyLCApCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -647,13 +652,13 @@
         <text>sqlMessageRepository</text>
       </register>
       <register name="/" type="4">
-        <text>sqlMe</text>
+        <text>mMessages =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBQcm92aWRlcwogICAgQEFwcFNjb3BlCiAgICBpbnRlcm5hbCBmdW4gcHJvdmlkZU1lc3NhZ2VTZXJ2aWNlKHNxbE1lc3NhZ2VSZXBvc2l0b3J5OiBTcWxNZXNzYWdlUmVwb3NpdG9yeSkgPQogICAgICAgICAgICBNZXNzYWdlU2VydmljZShzcWxNZXNzYWdlUmVwb3NpdG9yeSkKCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNZXNzYWdlU2VydmljZUhlbHBlcihBY3RpdmF0ZWRVc2VyIHVzZXIsIENvbnRleHQgbUNvbnRleHQpIHsKICAgICAgICB0aGlzLm1BY3RpdmF0ZWRVc2VyID0gdXNlcjsKICAgICAgICB0aGlzLm1Db250ZXh0ID0gbUNvbnRleHQ7CiAgICAgICAgdGhpcy5tTWVzc2FnZVNlcnZpY2UgPSBuZXcgTWVzc2FnZVNlcnZpY2UobmV3IFNxbE1lc3NhZ2VSZXBvc2l0b3J5KG1Db250ZXh0KSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlU2VydmljZUhlbHBlcihhY3RpdmF0ZWRVc2VyLCApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -668,7 +673,7 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -696,9 +701,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sqlMe</last-search>
+      <last-search>mMessages =</last-search>
       <last-offset />
-      <last-pattern>sqlMe</last-pattern>
+      <last-pattern>mMessages =</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>isAv</last-substitute>
       <last-dir>1</last-dir>
@@ -706,8 +711,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
-        <entry>JOB_ID</entry>
         <entry>Audio</entry>
         <entry>AudioH</entry>
         <entry>onDes</entry>
@@ -726,6 +729,8 @@
         <entry>UserSession</entry>
         <entry>MessageS</entry>
         <entry>sqlMe</entry>
+        <entry>mMessages</entry>
+        <entry>mMessages =</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
