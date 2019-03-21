@@ -15,13 +15,6 @@
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" timestamp="1553018956682">
-        <mark key="'" line="161" column="12" />
-        <mark key="[" line="140" column="89" />
-        <mark key="]" line="140" column="91" />
-        <mark key="." line="140" column="91" />
-        <mark key="^" line="140" column="91" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/AppSettings.kt" timestamp="1552864848275">
         <mark key="[" line="23" column="45" />
         <mark key="]" line="23" column="50" />
@@ -34,6 +27,13 @@
         <mark key="." line="61" column="68" />
         <mark key="^" line="61" column="68" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" timestamp="1553190125276">
+        <mark key="a" line="79" column="0" />
+        <mark key="[" line="101" column="28" />
+        <mark key="]" line="101" column="28" />
+        <mark key="." line="101" column="32" />
+        <mark key="^" line="100" column="37" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/androidTest/java/com/ideallife/healthtablet/CrashlyticsTest.kt" timestamp="1553026365946">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -45,11 +45,11 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/Constants.kt" timestamp="1553188923345">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/Constants.kt" timestamp="1553189862154">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" timestamp="1553188142557">
         <mark key="'" line="293" column="49" />
@@ -64,6 +64,12 @@
         <mark key="." line="56" column="64" />
         <mark key="^" line="56" column="64" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/Configuration.kt" timestamp="1553190256683">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/logging/TimberDebugTree.kt" timestamp="1553033302740">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -74,6 +80,11 @@
         <mark key="]" line="30" column="76" />
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="8" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/BaseConfiguration.java" timestamp="1553190426087">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/test/java/com/ideallife/healthtablet/test/WebApiTests.java" timestamp="1553026324731">
         <mark key="[" line="527" column="0" />
@@ -123,6 +134,13 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/App.kt" timestamp="1553189552224">
+        <mark key="'" line="79" column="31" />
+        <mark key="[" line="80" column="28" />
+        <mark key="]" line="80" column="28" />
+        <mark key="." line="80" column="37" />
+        <mark key="^" line="79" column="37" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/TutorialFragment.java" timestamp="1552776821804">
         <mark key="[" line="254" column="52" />
         <mark key="]" line="254" column="65" />
@@ -165,24 +183,16 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/GatewaySettings.kt" timestamp="1553033807181">
-        <mark key="'" line="35" column="68" />
-        <mark key="[" line="47" column="86" />
-        <mark key="]" line="47" column="90" />
-        <mark key="." line="47" column="90" />
-        <mark key="^" line="47" column="90" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/res/xml/preferences.xml" timestamp="1552865728277">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="9" column="50" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayInitializer.java" timestamp="1552679260457">
-        <mark key="[" line="53" column="49" />
-        <mark key="]" line="53" column="64" />
-        <mark key="." line="53" column="64" />
-        <mark key="^" line="53" column="64" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayInitializer.java" timestamp="1553190078246">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/receivers/MessagesNotificationReceiver.kt" timestamp="1552933745259">
         <mark key="[" line="14" column="6" />
@@ -213,7 +223,6 @@
         <mark key="^" line="88" column="85" />
         <mark key="." line="88" column="85" />
       </file>
-      <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/net/http/X509TrustManagerExtensions.java" timestamp="1553179206424" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/layout/toolbar.xml" timestamp="1552772407588">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="10" />
@@ -225,9 +234,6 @@
         <mark key="]" line="54" column="49" />
         <mark key="." line="54" column="53" />
         <mark key="^" line="51" column="39" />
-      </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/AndroidGMConversation.java" timestamp="1553177862767">
-        <mark key="'" line="86" column="21" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/res/layout/main_activity_debug.xml" timestamp="1553015210509">
         <mark key="[" line="8" column="13" />
@@ -242,13 +248,6 @@
         <mark key="." line="18" column="84" />
         <mark key="^" line="18" column="84" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/proguard-rules.txt" timestamp="1553027152861">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="8" column="56" />
-        <mark key="^" line="8" column="56" />
-        <mark key="." line="8" column="56" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/util/ConnectionHelper.kt" timestamp="1553021388260">
         <mark key="a" line="122" column="29" />
         <mark key="'" line="82" column="27" />
@@ -262,13 +261,6 @@
         <mark key="]" line="300" column="11" />
         <mark key="^" line="300" column="11" />
         <mark key="." line="300" column="11" />
-      </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1553047235341">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/res/values-v28/array.xml" timestamp="1552604014783">
         <mark key="[" line="5" column="27" />
@@ -312,6 +304,12 @@
         <mark key="." line="11" column="2" />
         <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/TestingConfiguration.java" timestamp="1553190458047">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/styles.xml" timestamp="1553015170536">
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="0" />
@@ -328,13 +326,6 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" timestamp="1553026231042">
-        <mark key="'" line="73" column="76" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="122" column="40" />
-        <mark key="." line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/RegistrationServiceHelper.java" timestamp="1553017092735">
         <mark key="[" line="37" column="12" />
         <mark key="]" line="37" column="18" />
@@ -350,7 +341,6 @@
       <file name="/Dummy.txt" timestamp="1553187915107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1553047128026" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/Util.kt" timestamp="1552931959979">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -387,13 +377,6 @@
         <mark key="." line="90" column="31" />
         <mark key="^" line="90" column="40" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectonDialogFragment.kt" timestamp="1553026204049">
-        <mark key="'" line="96" column="23" />
-        <mark key="[" line="96" column="27" />
-        <mark key="]" line="96" column="33" />
-        <mark key="." line="96" column="33" />
-        <mark key="^" line="96" column="33" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/DataAccess.java" timestamp="1552776929340">
         <mark key="[" line="632" column="8" />
         <mark key="]" line="632" column="14" />
@@ -415,13 +398,12 @@
         <mark key="." line="493" column="28" />
         <mark key="^" line="493" column="28" />
       </file>
-      <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/security/net/config/RootTrustManager.java" timestamp="1553179764027" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/Constants.kt" timestamp="1553187294305">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/Constants.kt" timestamp="1553190387960">
         <mark key="a" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="27" column="17" />
-        <mark key="." line="27" column="17" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/HealthTabletStudio/healthtablet/healthTablet/src/staging/java/com/ideallife/healthtablet/Configuration.java" timestamp="1552929396577">
         <mark key="[" line="10" column="41" />
@@ -543,8 +525,8 @@
       <jump line="52" column="213" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKdm1GaWVsZAo=</text>
+      <register name="&quot;" type="4">
+        <text>Configuration constants which do not change between variants</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -749,52 +731,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>Configuration constants which do not change between variants</text>
       </register>
       <register name="/" type="4">
         <text>server</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKdm1GaWVsZAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbCBHQVRFV0FZX0FQUExJQ0FUSU9OX1BBQ0tBR0VfTkFNRSA9ICJjb20uaWRlYWxsaWZlLmdhdGV3YXlhcHAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBwc2hhZGx5biBvbiA4LzExLzIwMTUuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBUQUJMRVRfQVBQX1BBQ0tBR0UgPSAiY29tLmlkZWFsbGlmZS5oZWFsdGh0YWJsZXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qKiBUYWJsZXQgYXBwbGljYXRpb24ga2V5ICovCiAgICBjb25zdCB2YWwgVEFCTEVUX0FQUF9LRVkgPSAiODc5ZGNkMmMtMjc3Zi0xMWUzLWFkMTMtMDAyNDgxYWFiYTkwIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vImlsY3MuY2EuaWRlYWxsaWZlLmNvbSI7Cg==</text>
+        <text encoding="base64">ICAgIC8vIEFQSSBjb25zdGFudHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBHQVRFV0FZX0JBU0VfRU5EUE9JTlQgPSAiaWRlYWxsaWZlLmNvbSIKICAgIC8vImlsY3MuY2EuaWRlYWxsaWZlLmNvbSI7Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBBUEkgdmVyc2lvbiAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQVBJX1ZFUlNJT04gPSAidjEiOwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVSTF9TQ0hFTUUgPSAiaHR0cHMiOwoKICAgIC8vIEFQSSBjb25zdGFudHMKICAgIC8qKiBUYWJsZXQgYXBwbGljYXRpb24ga2V5ICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBUQUJMRVRfQVBQX0tFWSA9ICI4NzlkY2QyYy0yNzdmLTExZTMtYWQxMy0wMDI0ODFhYWJhOTAiOwoK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyJpbGNzLmNhLmlkZWFsbGlmZS5jb20iOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbCBBUElfVVJMID0gIiRVUkxfU0NIRU1FOi8vYXBpLiRSRUdJT05BTF9FTkRQT0lOVCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBwc2hhZGx5biBvbiAzLzE3LzIwMTUuCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbCBEQVRBQkFTRV9BRERSRVNTID0gIm15ZGJwLXl5ejozMzA2Igo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBBZGRyZXNzIG9mIGRhdGFiYXNlIHRvIGNvbm5lY3QgdG8gZm9yIHRlc3RpbmcgICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5IDEuOAogICAgICAgIHRhcmdldENvbXBhdGliaWxpdHkgMS44CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
