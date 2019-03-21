@@ -15,6 +15,7 @@
         <mark key="." line="124" column="100" />
         <mark key="^" line="124" column="51" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/models/clinical/EndUserCustomFrequency.java" timestamp="1553197302395" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/HealthRecordFragment.java" timestamp="1553195809438" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/res/values/strings.xml" timestamp="1553191551386">
         <mark key="'" line="18" column="85" />
@@ -27,13 +28,6 @@
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
-      </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" timestamp="1553190125276">
-        <mark key="a" line="79" column="0" />
-        <mark key="[" line="101" column="28" />
-        <mark key="]" line="101" column="28" />
-        <mark key="." line="101" column="32" />
-        <mark key="^" line="100" column="37" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/androidTest/java/com/ideallife/healthtablet/CrashlyticsTest.kt" timestamp="1553026365946">
         <mark key="[" line="15" column="0" />
@@ -101,6 +95,8 @@
         <mark key="'" line="199" column="46" />
       </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1553195809438" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/ApiCompat.java" timestamp="1553196860345" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/models/clinical/EndUserMealtime.java" timestamp="1553197342399" />
       <file name="/Dummy.txt" timestamp="1553192480412">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,6 +142,12 @@
         <mark key="]" line="80" column="28" />
         <mark key="." line="80" column="37" />
         <mark key="^" line="79" column="37" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/receivers/MedicationReminderHelper.kt" timestamp="1553196937546">
+        <mark key="'" line="72" column="24" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/build.gradle" timestamp="1553186870847">
         <mark key="[" line="67" column="0" />
@@ -205,11 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/DialogFragment.java" />
-      <jump line="195" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/DialogFragment.java" />
-      <jump line="196" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/DialogFragment.java" />
-      <jump line="221" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/DialogFragment.java" />
-      <jump line="223" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/DialogFragment.java" />
       <jump line="130" column="82" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/DialogFragment.java" />
       <jump line="143" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/DialogFragment.java" />
       <jump line="148" column="52" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/DialogFragment.java" />
@@ -305,10 +302,15 @@
       <jump line="15" column="1" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/receivers/MedicationReminderReceiver.kt" />
       <jump line="93" column="97" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" />
       <jump line="199" column="46" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/NotificationHelper.kt" />
+      <jump line="65" column="32" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/receivers/MedicationReminderHelper.kt" />
+      <jump line="68" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/receivers/MedicationReminderHelper.kt" />
+      <jump line="69" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/receivers/MedicationReminderHelper.kt" />
+      <jump line="70" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/receivers/MedicationReminderHelper.kt" />
+      <jump line="71" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/receivers/MedicationReminderHelper.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -513,43 +515,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>intent</text>
       </register>
       <register name="/" type="4">
-        <text>mealtime</text>
+        <text>intent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHZhbCBHQVRFV0FZX0FQUExJQ0FUSU9OX1BBQ0tBR0VfTkFNRSA9ICJjb20uaWRlYWxsaWZlLmdhdGV3YXlhcHAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBrcy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVtaW5kZXJzLmFkZChNZWRpY2F0aW9uUmVtaW5kZXIoaWQsIG1lZGljYXRpb24uaWQsIGRheU9mV2VlaywgbWVhbHRpbWUubWVhbFRpbWVJZCkpCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKiBBUEkgdmVyc2lvbiAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQVBJX1ZFUlNJT04gPSAidjEiOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LkNvbmZpZ3VyYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGR0ID0gRGF0ZVRpbWUuZnJvbU1lYWx0aW1lKGRheU9mV2VlaywgbWVhbHRpbWUuc3RhcnRUaW1lLCBtVXNlci50aW1lWm9uZUlkKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBIRUEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGR0ID0gRGF0ZVRpbWUuZnJvbU1lYWx0aW1lKGRheU9mV2VlaywgbWVhbHRpbWUuc3RhcnRUaW1lLCBtVXNlci50aW1lWm9uZUlkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKiBBUEkgdmVyc2lvbiAqLwogICAgY29uc3QgdmFsIEFQSV9WRVJTSU9OID0gInYxIgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGR0ID0gRGF0ZVRpbWUuZnJvbU1lYWx0aW1lKGRheU9mV2VlaywgbWVhbHRpbWUuc3RhcnRUaW1lLCBtVXNlci50aW1lWm9uZUlkKQogICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiU2NoZWR1bGVkIG5vdGlmaWNhdGlvbiBmb3IgZGF0ZSA9ICRkdCwgaWQgPSAkaWQsIHRpY2tzID0gJHtkdC50aWNrc30iKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -558,16 +560,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBBUElfVkVSU0lPTiA9ICJ2MSIK</text>
+        <text encoding="base64">YXBrcy8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mealtime</last-search>
+      <last-search>intent</last-search>
       <last-offset />
-      <last-pattern>mealtime</last-pattern>
+      <last-pattern>intent</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>plant</last-substitute>
       <last-dir>1</last-dir>
@@ -575,7 +577,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dialog</entry>
         <entry>finish</entry>
         <entry>commit</entry>
         <entry>dismiss</entry>
@@ -595,6 +596,7 @@
         <entry>mGateway</entry>
         <entry>server</entry>
         <entry>mealtime</entry>
+        <entry>intent</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
