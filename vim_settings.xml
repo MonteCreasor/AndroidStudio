@@ -55,13 +55,13 @@
         <mark key="^" line="17" column="53" />
         <mark key="." line="17" column="53" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/UninstallDialogFragment.kt" timestamp="1553350310972">
-        <mark key="a" line="46" column="8" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/UninstallDialogFragment.kt" timestamp="1553351879844">
+        <mark key="a" line="38" column="0" />
         <mark key="'" line="33" column="55" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="42" column="7" />
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="39" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/ServiceHelper.kt" timestamp="1553214490460">
         <mark key="[" line="41" column="106" />
@@ -87,12 +87,13 @@
         <mark key="^" line="125" column="53" />
         <mark key="." line="237" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/fragments/UninstallDialogFragment.kt" timestamp="1553350303499">
-        <mark key="'" line="47" column="14" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="61" column="7" />
-        <mark key="." line="61" column="7" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/fragments/UninstallDialogFragment.kt" timestamp="1553351780338">
+        <mark key="a" line="45" column="28" />
+        <mark key="'" line="60" column="14" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="52" column="28" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" timestamp="1553214533346">
         <mark key="[" line="156" column="35" />
@@ -120,13 +121,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/MainActivity.kt" timestamp="1553350453773">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/gatewayapp/MainActivity.kt" timestamp="1553351353251">
         <mark key="a" line="73" column="63" />
         <mark key="'" line="67" column="63" />
-        <mark key="[" line="79" column="69" />
-        <mark key="]" line="79" column="69" />
-        <mark key="." line="79" column="69" />
-        <mark key="^" line="79" column="69" />
+        <mark key="[" line="92" column="42" />
+        <mark key="]" line="93" column="27" />
+        <mark key="." line="93" column="29" />
+        <mark key="^" line="93" column="27" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/res/values-zh-rCN/strings.xml" timestamp="1553310635784">
         <mark key="[" line="46" column="0" />
@@ -352,7 +353,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>HealthApp</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -557,52 +558,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>HealthApp</text>
       </register>
       <register name="/" type="4">
         <text>onAc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVbmluc3RhbGxEaWFsb2dGcmFnbWVudC5uZXdJbnN0YW5jZSgpLnNob3coCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXRTdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBVbmluc3RhbGxEaWFsb2dGcmFnbWVudC5jbGFzcy5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHVuaW5zdGFsbEhlYWx0aEFwcCgpIHsKICAgICAgICB2YWwgcGFja2FnZVVyaSA9IFVyaS5wYXJzZSgicGFja2FnZToiICsgQ29uc3RhbnRzLkhFQUxUSF9UQUJMRVRfQVBQTElDQVRJT05fUEFDS0FHRV9OQU1FKQogICAgICAgIHZhbCBpbnRlbnQgPSBJbnRlbnQoSW50ZW50LkFDVElPTl9VTklOU1RBTExfUEFDS0FHRSwgcGFja2FnZVVyaSkKICAgICAgICBpbnRlbnQucHV0RXh0cmEoSW50ZW50LkVYVFJBX1JFVFVSTl9SRVNVTFQsIHRydWUpCiAgICAgICAgc3RhcnRBY3Rpdml0eUZvclJlc3VsdChpbnRlbnQsIDEpCiAgICB9CiAgICAKICAgIHByaXZhdGUgZnVuIHVuaW5zdGFsbEdhdGV3YXkoKSB7CiAgICAgICAgdmFsIHBhY2thZ2VVcmkgPSBVcmkucGFyc2UoInBhY2thZ2U6IiArIGNvbnRleHQhIS5wYWNrYWdlTmFtZSkKICAgICAgICB2YWwgaW50ZW50ID0gSW50ZW50KEludGVudC5BQ1RJT05fVU5JTlNUQUxMX1BBQ0tBR0UsIHBhY2thZ2VVcmkpCiAgICAgICAgaW50ZW50LnB1dEV4dHJhKEludGVudC5FWFRSQV9SRVRVUk5fUkVTVUxULCB0cnVlKQogICAgICAgIHN0YXJ0QWN0aXZpdHlGb3JSZXN1bHQoaW50ZW50LCAxKQogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHBseSB7IHN0YXJ0QWN0aXZpdHkocGFja2FnZU1hbmFnZXIuZ2V0TGF1bmNoSW50ZW50Rm9yUGFja2FnZShwYWNrYWdlTmFtZSkpIH0K</text>
+        <text encoding="base64">ICAgICAgICAvL3ZhbCBwYWNrYWdlVXJpID0gVXJpLnBhcnNlKCJwYWNrYWdlOiIgKyBDb25zdGFudHMuSEVBTFRIX1RBQkxFVF9BUFBMSUNBVElPTl9QQUNLQUdFX05BTUUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KHBhY2thZ2VNYW5hZ2VyLmdldExhdW5jaEludGVudEZvclBhY2thZ2UocGFja2FnZU5hbWUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGx5IHsK</text>
+        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5Rm9yUmVzdWx0KGludGVudCwgMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpb0hlbHBlci5SRVFVRVNUX0NPREVfVFRTX0NIRUNLIC0+CiAgICAgICAgICAgIEF1ZGlvSGVscGVyLmhhbmRsZU9uQWN0aXZpdHlSZXN1bHQodGhpcywgcmVxdWVzdENvZGUsIHJlc3VsdENvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlbnQucHV0RXh0cmEoSW50ZW50LkVYVFJBX1JFVFVSTl9SRVNVTFQsIHRydWUpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaW50ZW50ID0gSW50ZW50KEludGVudC5BQ1RJT05fVU5JTlNUQUxMX1BBQ0tBR0UsIHBhY2thZ2VVcmkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkFjdGl2aXR5UmVzdWx0KHJlcXVlc3RDb2RlLCByZXN1bHRDb2RlLCBkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcGFja2FnZVVyaSA9IFVyaS5wYXJzZSgicGFja2FnZToiICsgQ29uc3RhbnRzLkdBVEVXQVlfQVBQTElDQVRJT05fUEFDS0FHRV9OQU1FKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJFUVVFU1RfVU5JTlNUQUxMIC0+Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHVuaW5zdGFsbEdhdGV3YXkoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
