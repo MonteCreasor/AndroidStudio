@@ -174,12 +174,12 @@
         <mark key="." line="17" column="53" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" timestamp="1553367789993" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MedicationReminderHelper.kt" timestamp="1553374903737">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MedicationReminderHelper.kt" timestamp="1553377860875">
         <mark key="'" line="68" column="43" />
-        <mark key="[" line="89" column="59" />
-        <mark key="]" line="89" column="60" />
-        <mark key="." line="89" column="60" />
-        <mark key="^" line="89" column="60" />
+        <mark key="[" line="181" column="53" />
+        <mark key="]" line="181" column="56" />
+        <mark key="." line="181" column="56" />
+        <mark key="^" line="181" column="56" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" timestamp="1553370637631">
         <mark key="[" line="221" column="31" />
@@ -401,8 +401,8 @@
       <jump line="821" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/HealthRecordFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYXJlbnRBY3Rpdml0eU5hbWU9Ii5NYWluQWN0aXZpdHkiCg==</text>
+      <register name="&quot;" type="4">
+        <text>intent</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -607,7 +607,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>);</text>
+        <text>intent</text>
       </register>
       <register name="/" type="4">
         <text>MONTE</text>
@@ -616,43 +616,43 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYXJlbnRBY3Rpdml0eU5hbWU9Ii5NYWluQWN0aXZpdHkiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUhlYWx0aFJlY29yZE1lbnUucHJlc3NSZWFkaW5nKFJlYWRpbmdUeXBlLk1lZGljYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUhlYWx0aFJlY29yZE1lbnUucHJlc3NSZWFkaW5nKFJlYWRpbmdUeXBlLk1lZGljYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhcmVudEFjdGl2aXR5TmFtZT0iLk1haW5BY3Rpdml0eSIK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUhlYWx0aFJlY29yZE1lbnUucHJlc3NSZWFkaW5nKFJlYWRpbmdUeXBlLk1lZGljYXRpb24pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUhlYWx0aFJlY29yZE1lbnUucHJlc3NSZWFkaW5nKFJlYWRpbmdUeXBlLk1lZGljYXRpb24pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5zZXRQcmVzc2VkKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ1dHRvbiAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5zZXRQcmVzc2VkKHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uaWRlYWxsaWZlLm1vZGVscy5jbGluaWNhbC5SZWFkaW5nVHlwZS5CbG9vZFByZXNzdXJlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ1dHRvbiAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
