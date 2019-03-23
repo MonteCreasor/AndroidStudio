@@ -83,15 +83,20 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553362134999">
+      <file name="/Dummy.txt" timestamp="1553363401059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/ui/UninstallDialogFragment.kt" timestamp="1553359538253">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/ui/UninstallDialogFragment.kt" timestamp="1553363387430">
         <mark key="'" line="40" column="61" />
-        <mark key="[" line="39" column="48" />
-        <mark key="]" line="39" column="71" />
-        <mark key="." line="39" column="71" />
-        <mark key="^" line="39" column="71" />
+        <mark key="[" line="77" column="24" />
+        <mark key="]" line="77" column="28" />
+        <mark key="^" line="77" column="28" />
+        <mark key="." line="77" column="28" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/Util.kt" timestamp="1553362511587">
+        <mark key="a" line="122" column="8" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="128" column="9" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/res/values-zh-rCN/strings.xml" timestamp="1553310635784">
         <mark key="[" line="46" column="0" />
@@ -234,8 +239,8 @@
       <jump line="7367" column="37" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Activity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWNyZWF0ZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -440,52 +445,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>recreate()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TOP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5pc2goKQogICAgICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoaW50ZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdBVEVXQVlBUFBfUEFDS0FHRV9OQU1FIC0+IEhFQUxUSFRBQkxFVF9QQUNLQUdFX05BTUUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWNyZWF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBXZWJBcGlSZXBvc2l0b3J5Q29uZmlndXJhdGlvbi5nZXRJbnN0YW5jZSgpLnNlc3Npb24gPSBKc29uQWRhcHRlci5nZXRHc29uUGFyc2VyKCkuZnJvbUpzb24oc2F2ZWRJbnN0YW5jZVN0YXRlLmdldFN0cmluZyhCYXNlQWN0aXZpdHkuQVJHU19TRVNTSU9OKSwgVXNlclNlc3Npb246OmNsYXNzLmphdmEpCiAgICAgICAgICAgICAgICAgICAgV2ViQXBpUmVwb3NpdG9yeUNvbmZpZ3VyYXRpb24uZ2V0SW5zdGFuY2UoKS5jcmVkZW50aWFscyA9IEpzb25BZGFwdGVyLmdldEdzb25QYXJzZXIoKS5mcm9tSnNvbihzYXZlZEluc3RhbmNlU3RhdGUuZ2V0U3RyaW5nKEJhc2VBY3Rpdml0eS5BUkdTX0NSRURTKSwgVXNlckxvZ2luQ3JlZGVudGlhbHM6OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFV0aWwuaXNQYWNrYWdlSW5zdGFsbGVkKGNvbnRleHQsIHBhY2thZ2VOYW1lID0gCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9HQVRFV0FZQVBQX1BBQ0tBR0VfTkFNRSAtPiBjb250ZXh0LnBhY2thZ2VNYW5hZ2VyLmdldFBhY2thZ2VJbmZvKHBhY2thZ2VOYW1lLCBQYWNrYWdlTWFuYWdlci5HRVRfQUNUSVZJVElFUykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9VdGlsLmlzUGFja2FnZUluc3RhbGxlZChjb250ZXh0LCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVdGlsLmlzUGFja2FnZUluc3RhbGxlZChjb250ZXh0LCAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNqZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxzZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IFBhY2thZ2VNYW5hZ2VyLk5hbWVOb3RGb3VuZEV4Y2VwdGlvbikgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR1cCgpIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
