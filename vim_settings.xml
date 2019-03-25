@@ -48,6 +48,11 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" timestamp="1553538130040">
+        <mark key="[" line="98" column="53" />
+        <mark key="]" line="98" column="53" />
+        <mark key="." line="98" column="53" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" timestamp="1553472215100">
         <mark key="[" line="78" column="44" />
         <mark key="]" line="78" column="62" />
@@ -109,7 +114,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1553460166668" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.widget/multislider/1.3/783ba5d8cd73e829ff38c9b35d35f4599f8938a5/multislider-1.3-sources.jar!/io/apptik/widget/MultiSlider.java" timestamp="1553460166668" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectonDialogFragment.kt" timestamp="1553460130961">
         <mark key="[" line="163" column="63" />
@@ -246,7 +250,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>3</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -451,10 +455,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>valueOf</text>
+        <text>-beta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaW5kUHJlZmVyZW5jZShQUkVGX05PVElGSUNBVElPTl9TT1VORCk/LmFwcGx5IHsKICAgICAgICAgICAgc3VtbWFyeSA9IGdldFNvdW5kU3VtbWFyeShjb250ZXh0LCBHYXRld2F5U2V0dGluZ3MuZ2V0U291bmRQcmVmKGNvbnRleHQpKQoKICAgICAgICAgICAgc2V0T25QcmVmZXJlbmNlQ2hhbmdlTGlzdGVuZXIgeyBwcmVmZXJlbmNlLCBuZXdWYWx1ZSAtPgogICAgICAgICAgICAgICAgdmFsIHNvdW5kID0gR2F0ZXdheVNldHRpbmdzLkF1ZGlibGVTb3VuZC52YWx1ZU9mKG5ld1ZhbHVlIGFzIFN0cmluZykKICAgICAgICAgICAgICAgIHByZWZlcmVuY2Uuc3VtbWFyeSA9IGdldFNvdW5kU3VtbWFyeShjb250ZXh0LCBzb3VuZCkKICAgICAgICAgICAgICAgIHRydWUKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
@@ -503,9 +507,9 @@
       </register>
     </registers>
     <search>
-      <last-search>valueOf</last-search>
+      <last-search>-beta</last-search>
       <last-offset />
-      <last-pattern>valueOf</last-pattern>
+      <last-pattern>-beta</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>plant</last-substitute>
       <last-dir>1</last-dir>
@@ -513,8 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>default</entry>
-        <entry>showMain</entry>
         <entry>Auth</entry>
         <entry>auth</entry>
         <entry>newIn</entry>
@@ -533,6 +535,8 @@
         <entry>getS</entry>
         <entry>String</entry>
         <entry>valueOf</entry>
+        <entry>-alph</entry>
+        <entry>-beta</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
