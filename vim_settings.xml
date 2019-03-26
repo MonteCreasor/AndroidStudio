@@ -42,13 +42,14 @@
         <mark key="^" line="78" column="62" />
         <mark key="." line="78" column="62" />
       </file>
-      <file name="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/util/FakeNetworkLibrary.kt" timestamp="1553637053361">
-        <mark key="'" line="97" column="6" />
+      <file name="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/util/FakeNetworkLibrary.kt" timestamp="1553642139519">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/main/MainViewModel.kt" timestamp="1553640179659">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="37" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/main/MainViewModel.kt" timestamp="1553642176477">
+        <mark key="[" line="126" column="21" />
+        <mark key="]" line="126" column="30" />
+        <mark key="^" line="126" column="30" />
+        <mark key="." line="126" column="30" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/android/fragments/EulaFragment.java" timestamp="1553456420231">
         <mark key="[" line="41" column="0" />
@@ -202,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
-      <jump line="27" column="42" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
       <jump line="30" column="15" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
       <jump line="38" column="91" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
       <jump line="51" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
@@ -302,10 +301,12 @@
       <jump line="78" column="8" filename="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" />
       <jump line="97" column="6" filename="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/util/FakeNetworkLibrary.kt" />
       <jump line="135" column="0" filename="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" />
+      <jump line="52" column="50" filename="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/util/FakeNetworkLibrary.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/util/FakeNetworkLibrary.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>error</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -510,52 +511,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>refreshTitle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeS5yZWZyZXNoVGl0bGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZXJyb3I6IFRpdGxlUmVmcmVzaEVycm9yKSB7CiAgICAgICAgICAgICAgICBfc25hY2tCYXIudmFsdWUgPSBlcnJvci5tZXNzYWdlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmFuZHJvaWQua290bGluY29yb3V0aW5lcy5tYWluLlRpdGxlUmVwb3NpdG9yeS5SZWZyZXNoU3RhdGUuU3VjY2Vzcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgVGl0bGVSZWZyZXNoRXJyb3IoY2F1c2U6IFRocm93YWJsZSkgOiBUaHJvd2FibGUoY2F1c2UubWVzc2FnZSwgY2F1c2UpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmFuZHJvaWQua290bGluY29yb3V0aW5lcy5tYWluLlRpdGxlUmVwb3NpdG9yeS5SZWZyZXNoU3RhdGUuTG9hZGluZwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmFuZHJvaWQua290bGluY29yb3V0aW5lcy5tYWluLlRpdGxlUmVwb3NpdG9yeS5SZWZyZXNoU3RhdGUuRXJyb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IGNhdXNlIHRoZSBvcmlnaW5hbCBjYXVzZSBvZiB0aGlzIGV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zbmFja0Jhci5wb3N0VmFsdWUoZS5tZXNzYWdlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IG1lc3NhZ2UgdXNlciByZWFkeSBlcnJvciBtZXNzYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Y2xhc3MgVGl0bGVSZWZyZXNoRXJyb3IoY2F1c2U6IFRocm93YWJsZSkgOiBUaHJvd2FibGUoY2F1c2UubWVzc2FnZSwgY2F1c2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogVGhyb3duIHdoZW4gdGhlcmUgd2FzIGEgZXJyb3IgZmV0Y2hpbmcgYSBuZXcgdGl0bGUK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IGNhdXNlIHRoZSBvcmlnaW5hbCBjYXVzZSBvZiB0aGlzIGV4Y2VwdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IG1lc3NhZ2UgdXNlciByZWFkeSBlcnJvciBtZXNzYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
