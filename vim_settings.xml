@@ -70,12 +70,12 @@
         <mark key="." line="153" column="96" />
         <mark key="^" line="153" column="96" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" timestamp="1553569379045">
-        <mark key="'" line="185" column="12" />
-        <mark key="[" line="132" column="93" />
-        <mark key="]" line="134" column="29" />
-        <mark key="." line="134" column="29" />
-        <mark key="^" line="134" column="29" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" timestamp="1553570616460">
+        <mark key="'" line="59" column="33" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="101" />
+        <mark key="^" line="141" column="25" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/net/Network.java" timestamp="1553542438114">
         <mark key="'" line="175" column="21" />
@@ -85,6 +85,7 @@
         <mark key="]" line="31" column="73" />
         <mark key="." line="147" column="0" />
       </file>
+      <file name="/GatewayService.kt" timestamp="1553571292175" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/src/main/java/com/ideallife/android/Settings.java" timestamp="1553456975336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -101,7 +102,6 @@
         <mark key="^" line="81" column="31" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1553528946422" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/EndUserHealthRecordApiService.java" timestamp="1553449954578">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="34" />
@@ -119,12 +119,12 @@
         <mark key="]" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" timestamp="1553568070809">
-        <mark key="a" line="58" column="23" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="93" column="5" />
-        <mark key="^" line="82" column="28" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" timestamp="1553571304861">
+        <mark key="a" line="366" column="54" />
+        <mark key="[" line="336" column="0" />
+        <mark key="]" line="334" column="31" />
+        <mark key="^" line="334" column="31" />
+        <mark key="." line="334" column="31" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-app/build.gradle" timestamp="1553539087286">
         <mark key="a" line="71" column="41" />
@@ -162,11 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/di/ApiModule.kt" />
-      <jump line="184" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MedicationReminderHelper.kt" />
-      <jump line="185" column="30" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MedicationReminderHelper.kt" />
-      <jump line="188" column="41" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MedicationReminderHelper.kt" />
-      <jump line="61" column="65" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
       <jump line="73" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
       <jump line="31" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MedicationReminderHelper.kt" />
       <jump line="122" column="69" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MedicationReminderHelper.kt" />
@@ -262,10 +257,15 @@
       <jump line="197" column="70" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
       <jump line="218" column="70" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
       <jump line="182" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
+      <jump line="67" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
+      <jump line="81" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
+      <jump line="120" column="51" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
+      <jump line="134" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
+      <jump line="59" column="33" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIHZhbCBpc0Nvbm5lY3RlZDogQm9vbGVhbgogICAgICAgIGdldCgpID0gY29ubmVjdGl2aXR5TWFuYWdlci5ydW4geyBhY3RpdmVOZXR3b3JrSW5mbz8uaXNDb25uZWN0ZWQgPT0gdHJ1ZSB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -470,61 +470,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>wifiPendingIntent)</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text>showNo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGNvbnRleHQuZ2V0U3lzdGVtU2VydmljZShDb250ZXh0LkNPTk5FQ1RJVklUWV9TRVJWSUNFKSBhcz8gQ29ubmVjdGl2aXR5TWFuYWdlcik/LnJ1biB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWRkQWN0aW9uKE5vdGlmaWNhdGlvbkNvbXBhdC5BY3Rpb24uQnVpbGRlcigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSLmRyYXdhYmxlLmljX3N0b3BfZ3JleTYwMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXRTdHJpbmcoUi5zdHJpbmcuYnRuX3dpZmlfc2V0dGluZ3MpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZmlQZW5kaW5nSW50ZW50KS5idWlsZCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIHZhbCBpc0Nvbm5lY3RlZDogQm9vbGVhbgogICAgICAgIGdldCgpID0gY29ubmVjdGl2aXR5TWFuYWdlci5ydW4geyBhY3RpdmVOZXR3b3JrSW5mbz8uaXNDb25uZWN0ZWQgPT0gdHJ1ZSB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBQb3N0IGFueSBwZW5kaW5nIGxvZyBldmVudHMgdG8gc2VydmVyCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgd2lmaVBlbmRpbmdJbnRlbnQgPQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFBvc3QgYW55IHBlbmRpbmcgbG9nIGV2ZW50cyB0byBzZXJ2ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBlbmRpbmdJbnRlbnQuZ2V0QnJvYWRjYXN0KHRoaXMsIDAsIEludGVudChBQ1RJT05fV0lGSV9TRVRUSU5HUyksIEZMQUdfVVBEQVRFX0NVUlJFTlQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWZpUGVuZGluZ0ludGVudCkuYnVpbGQoKSkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc2Nvbm5lY3RlZCAtPiBUaW1iZXIuZCgiR0FURVdBWTogb25Mb3N0KCkgQUxSRUFEWSBIQU5ETEVEIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXRTdHJpbmcoUi5zdHJpbmcuYnRuX3dpZmlfc2V0dGluZ3MpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSLmRyYXdhYmxlLmljX3N0b3BfZ3JleTYwMCwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBqZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2l0aChwYWNrYWdlTWFuYWdlci5nZXRMYXVuY2hJbnRlbnRGb3JQYWNrYWdlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdhdGV3YXkuZ2V0Q2FsbGluZ1BhY2thZ2VOYW1lKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBQZW5kaW5nSW50ZW50LmdldEFjdGl2aXR5KHRoaXNAR2F0ZXdheVNlcnZpY2UsIDAsIHRoaXMsIDApCiAgICAgICAgICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search>showNo</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern>showNo</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>plant</last-substitute>
       <last-dir>1</last-dir>
@@ -532,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>x</entry>
         <entry>showN</entry>
         <entry>rxJav</entry>
         <entry>RxJ</entry>
@@ -552,6 +551,7 @@
         <entry>getConn</entry>
         <entry encoding="base64">YXMg</entry>
         <entry>init</entry>
+        <entry>showNo</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
