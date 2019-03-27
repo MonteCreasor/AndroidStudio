@@ -40,10 +40,10 @@
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/build.gradle" timestamp="1553727343166">
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="31" column="52" />
-        <mark key="." line="31" column="52" />
+      <file name="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/build.gradle" timestamp="1553728377630">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" timestamp="1553472215100">
         <mark key="[" line="78" column="44" />
@@ -132,7 +132,14 @@
         <mark key="^" line="99" column="34" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_sso_managed/app/build.gradle" timestamp="1553727654127">
+      <file name="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/src/main/java/com/google/codelabs/appauth/MainActivity.kt" timestamp="1553728800969">
+        <mark key="'" line="145" column="25" />
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="25" />
+        <mark key="^" line="34" column="25" />
+        <mark key="." line="34" column="25" />
+      </file>
+      <file name="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_sso_managed/app/build.gradle" timestamp="1553728338592">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -162,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
-      <jump line="99" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="314" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="158" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
       <jump line="178" column="67" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
@@ -262,10 +267,12 @@
       <jump line="112" column="3" filename="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/src/main/java/com/google/codelabs/appauth/MainActivity.java" />
       <jump line="136" column="20" filename="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/src/main/java/com/google/codelabs/appauth/MainActivity.java" />
       <jump line="94" column="17" filename="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/src/main/java/com/google/codelabs/appauth/MainActivity.java" />
+      <jump line="64" column="39" filename="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/src/main/java/com/google/codelabs/appauth/MainActivity.kt" />
+      <jump line="146" column="25" filename="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/src/main/java/com/google/codelabs/appauth/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY0OjIzLjIuMCcK</text>
+      <register name="&quot;" type="4">
+        <text>M</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -470,61 +477,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>M</text>
       </register>
       <register name="/" type="4">
-        <text>restoreAuth</text>
+        <text>Button.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjIzLjMuMCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY0OjIzLjIuMCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpbiB0aGUgaW5kaXZpZHVhbCBtb2R1bGUgYnVpbGQuZ3JhZGxlIGZpbGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOT1RFOiBEbyBub3QgcGxhY2UgeW91ciBhcHBsaWNhdGlvbiBkZXBlbmRlbmNpZXMgaGVyZTsgdGhleSBiZWxvbmcK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKEF1dGhvcml6ZUxpc3RlbmVyKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBCdXR0b24uT25DbGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNlcnZpY2VDb25maWd1cmF0aW9uID0gQXV0aG9yaXphdGlvblNlcnZpY2VDb25maWd1cmF0aW9uKAogICAgICAgICAgICAgICAgICAgIFVyaS5wYXJzZSgiaHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL28vb2F1dGgyL3YyL2F1dGgiKSAvKiBhdXRoIGVuZHBvaW50ICovLAogICAgICAgICAgICAgICAgICAgIFVyaS5wYXJzZSgiaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vb2F1dGgyL3Y0L3Rva2VuIikgLyogdG9rZW4gZW5kcG9pbnQgKi8KICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNlcnZpY2VDb25maWd1cmF0aW9uID0gQXV0aG9yaXphdGlvblNlcnZpY2VDb25maWd1cmF0aW9uKAogICAgICAgICAgICAgICAgICAgIFVyaS5wYXJzZSgiaHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL28vb2F1dGgyL3YyL2F1dGgiKSAvKiBhdXRoIGVuZHBvaW50ICovLAogICAgICAgICAgICAgICAgICAgIFVyaS5wYXJzZSgiaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vb2F1dGgyL3Y0L3Rva2VuIikgLyogdG9rZW4gZW5kcG9pbnQgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb20K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>restoreAuth</last-search>
+      <last-search>Button.</last-search>
       <last-offset />
-      <last-pattern>restoreAuth</last-pattern>
+      <last-pattern>Button.</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>plant</last-substitute>
       <last-dir>1</last-dir>
@@ -532,7 +539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>object</entry>
         <entry>mZero</entry>
         <entry>legacy</entry>
         <entry>-core</entry>
@@ -552,6 +558,7 @@
         <entry>tools</entry>
         <entry>TODO</entry>
         <entry>restoreAuth</entry>
+        <entry>Button.</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
