@@ -40,11 +40,10 @@
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/build.gradle" timestamp="1553721667371">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="21" />
-        <mark key="." line="22" column="20" />
-        <mark key="^" line="22" column="21" />
+      <file name="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/build.gradle" timestamp="1553726944866">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" timestamp="1553472215100">
         <mark key="[" line="78" column="44" />
@@ -133,6 +132,11 @@
         <mark key="^" line="99" column="34" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_sso_managed/app/build.gradle" timestamp="1553726905898">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+      </file>
       <file name="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/KotlinCoroutinesApp.kt" timestamp="1553709297651">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -158,9 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="73" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
-      <jump line="20" column="33" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
-      <jump line="149" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="238" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="99" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="314" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
@@ -258,10 +259,13 @@
       <jump line="271" column="107" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
       <jump line="278" column="59" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
       <jump line="279" column="98" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
+      <jump line="112" column="3" filename="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/src/main/java/com/google/codelabs/appauth/MainActivity.java" />
+      <jump line="136" column="20" filename="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/src/main/java/com/google/codelabs/appauth/MainActivity.java" />
+      <jump line="94" column="17" filename="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/app/src/main/java/com/google/codelabs/appauth/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>auth</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -466,61 +470,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>auth</text>
       </register>
       <register name="/" type="4">
-        <text>tools</text>
+        <text>restoreAuth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyMy4wLjIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0gICAgPHN0cmluZyBuYW1lPSJ1bmluc3RhbGxfZ2F0ZXdheV9mcm9tX2hlYWx0aGFwcF9tZXNzYWdlIj5UaGUgcHJldmlvdXNseSBpbnN0YWxsZWQgR2F0ZXdheVx1MjEyMiBhcHBsaWNhdGlvbiBkdXBsaWNhdGVzIGZlYXR1cmVzIHRoYXQgYXJlIGFscmVhZHkgcHJvdmlkZWQgYnkgdGhpcyBJREVBTCBMSUZFIEhlYWx0aFx1MjEyMiBhcHBsaWNhdGlvbi5cblxuWW91IHdpbGwgbm93IGJlIGFza2VkIHRvIHVuaW5zdGFsbCB0aGUgR2F0ZXdheVx1MjEyMiBhcHBsaWNhdGlvbi48L3N0cmluZz4tLT4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyMy4wLjIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY29ubmVjdGVkX3RvX21hbmFnZXIiPkNvbm5lY3RlZCB0byBkZXZpY2U8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY29tbXVuaWNhdGlvbl9mYWlsZWQiPkNvbW11bmljYXRpb24gZmFpbGVkPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyOC4wLjAnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY29tbXVuaWNhdGlvbl9mYWlsZWRfc2VydmVyIj5GYWlsdXJlIGNvbW11bmljYXRpbmcgd2l0aCBJREVBTCBMSUZFIHNlcnZlcjwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyMy4wLjIiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZGF0YV9zYXZlZF9ieV9zZXJ2ZXIiPlBhcnRpYWwgc3VjY2VzcywgZGF0YSBzYXZlZCBieSBJREVBTCBMSUZFIHNlcnZlcjwvc3RyaW5nPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY29tbXVuaWNhdGlvbl9jb21wbGV0ZWQiPkNvbW11bmljYXRpb24gY29tcGxldGVkPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gICAgPHN0cmluZyBuYW1lPSJ1bmluc3RhbGxfZ2F0ZXdheV9mcm9tX2hlYWx0aGFwcF9tZXNzYWdlIj5UaGUgcHJldmlvdXNseSBpbnN0YWxsZWQgR2F0ZXdheVx1MjEyMiBhcHBsaWNhdGlvbiBkdXBsaWNhdGVzIGZlYXR1cmVzIHRoYXQgYXJlIGFscmVhZHkgcHJvdmlkZWQgYnkgdGhpcyBJREVBTCBMSUZFIEhlYWx0aFx1MjEyMiBhcHBsaWNhdGlvbi5cblxuWW91IHdpbGwgbm93IGJlIGFza2VkIHRvIHVuaW5zdGFsbCB0aGUgR2F0ZXdheVx1MjEyMiBhcHBsaWNhdGlvbi48L3N0cmluZz4tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tools</last-search>
+      <last-search>restoreAuth</last-search>
       <last-offset />
-      <last-pattern>tools</last-pattern>
+      <last-pattern>restoreAuth</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>plant</last-substitute>
       <last-dir>1</last-dir>
@@ -528,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>WIFI</entry>
         <entry>object</entry>
         <entry>mZero</entry>
         <entry>legacy</entry>
@@ -539,7 +542,6 @@
         <entry>life</entry>
         <entry>channel</entry>
         <entry>onStat</entry>
-        <entry>TODO</entry>
         <entry>refreshTitle</entry>
         <entry>work</entry>
         <entry>titleDao</entry>
@@ -548,6 +550,8 @@
         <entry>IDEAL LIFE</entry>
         <entry>Tools</entry>
         <entry>tools</entry>
+        <entry>TODO</entry>
+        <entry>restoreAuth</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
