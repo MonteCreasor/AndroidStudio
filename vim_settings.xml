@@ -16,8 +16,8 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="43" column="14" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageDialogFragment.java" timestamp="1553789218157">
-        <mark key="'" line="56" column="12" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageDialogFragment.java" timestamp="1553791823849">
+        <mark key="'" line="34" column="19" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/HealthRecordFragment.java" timestamp="1553721146500" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/build.gradle" timestamp="1553552725297">
@@ -90,13 +90,12 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessagingActivity.kt" timestamp="1553788705078">
         <mark key="'" line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" timestamp="1553790607317">
-        <mark key="a" line="183" column="75" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" timestamp="1553791467591">
+        <mark key="a" line="179" column="75" />
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="77" column="72" />
-        <mark key="]" line="77" column="48" />
-        <mark key="^" line="77" column="48" />
-        <mark key="." line="77" column="72" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" timestamp="1553716894016">
         <mark key="'" line="279" column="98" />
@@ -125,6 +124,7 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/AndroidManifest.xml" timestamp="1553791437992" />
       <file name="$USER_HOME$/client/vanderbilt/crawler-2018/versions.gradle" timestamp="1553624002828">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="34" />
@@ -201,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="43" filename="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" />
       <jump line="89" column="47" filename="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" />
       <jump line="119" column="47" filename="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" />
       <jump line="45" column="85" filename="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-repository/app/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" />
@@ -301,10 +300,11 @@
       <jump line="65" column="55" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
       <jump line="133" column="50" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
       <jump line="67" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
+      <jump line="34" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageDialogFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>findFragmentByTag(R.id.container_canvas);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -512,58 +512,58 @@
         <text>findFragmentByTag(R.id.container_canvas);</text>
       </register>
       <register name="/" type="4">
-        <text>onCreate</text>
+        <text>mMessage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDcmFzaGx5dGljcy5sb2coTG9nLklORk8sIFRBRywgInNob3dNZXNzYWdlRGlhbG9nIGNhbGxlZCB3aXRoIG1lc3NhZ2UgPSAkbWVzc2FnZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1lc3NhZ2VEaWFsb2dGcmFnbWVudCA9IGFjdGl2aXR5Py5zdXBwb3J0RnJhZ21lbnRNYW5hZ2VyPy5maW5kRnJhZ21lbnRCeVRhZygiIikK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2F2ZWRJbnN0YW5jZVN0YXRlICE9IG51bGwpIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoY29udGV4dCwgIiIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3Jhc2hseXRpY3MubG9nRXhjZXB0aW9uKElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigic2hvd01lc3NhZ2VEaWFsb2cgY2FsbGVkIHdpdGggTlVMTCBtZXNzYWdlISIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWVzc2FnZSA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXRpbHMK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onCreate</last-search>
+      <last-search>mMessage</last-search>
       <last-offset />
-      <last-pattern>onCreate</last-pattern>
+      <last-pattern>mMessage</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>plant</last-substitute>
       <last-dir>1</last-dir>
@@ -571,7 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>refreshTitle</entry>
         <entry>work</entry>
         <entry>titleDao</entry>
         <entry>App</entry>
@@ -591,6 +590,7 @@
         <entry>throw</entry>
         <entry>MessageDialogF</entry>
         <entry>onCreate</entry>
+        <entry>mMessage</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
