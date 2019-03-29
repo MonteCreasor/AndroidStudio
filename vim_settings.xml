@@ -22,12 +22,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1553800423262">
-        <mark key="'" line="78" column="8" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="145" column="37" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1553828626067">
+        <mark key="a" line="259" column="12" />
+        <mark key="'" line="69" column="4" />
+        <mark key="[" line="262" column="20" />
+        <mark key="]" line="262" column="26" />
+        <mark key="^" line="262" column="26" />
+        <mark key="." line="262" column="26" />
       </file>
       <file name="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_init/build.gradle" timestamp="1553727516622">
         <mark key="[" line="17" column="0" />
@@ -146,6 +147,13 @@
         <mark key="." line="121" column="15" />
         <mark key="^" line="121" column="15" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.java" timestamp="1553828589979">
+        <mark key="'" line="53" column="34" />
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="53" column="34" />
+        <mark key="." line="53" column="34" />
+        <mark key="^" line="53" column="34" />
+      </file>
       <file name="$USER_HOME$/android/appauth-android-codelab/appauth-android_codelab_sso_managed/app/build.gradle" timestamp="1553728338592">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -173,8 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/res/values/strings.xml" />
-      <jump line="39" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/res/values/strings.xml" />
       <jump line="36" column="49" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/res/values/strings.xml" />
       <jump line="57" column="50" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/res/values/strings.xml" />
       <jump line="20" column="74" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/res/values/strings.xml" />
@@ -273,10 +279,12 @@
       <jump line="31" column="50" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" />
       <jump line="50" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" />
       <jump line="146" column="37" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" />
+      <jump line="69" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="53" column="34" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0Lk1lc3NhZ2VOb3RpZmljYXRpb25BY3Rpdml0eQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -481,13 +489,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PRIORITY_HIGH</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>showN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBzaG93Tm90aWZpY2F0aW9uKHByaW9yaXR5OiBJbnQgPSBOb3RpZmljYXRpb25Db21wYXQuUFJJT1JJVFlfSElHSCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBASnZtU3RhdGljCiAgICAgICAgZnVuIHN0b3AoKSB7CiAgICAgICAgICAgIGRlYnVnKCJQdWxsIG1lc3NhZ2Ugc3RvcCBjYWxsZWQiKQogICAgICAgICAgICBqb2JTY2hlZHVsZXIuY2FuY2VsQWxsKCkKICAgICAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0Lk1lc3NhZ2VOb3RpZmljYXRpb25BY3Rpdml0eQo=</text>
