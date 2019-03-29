@@ -6,7 +6,7 @@
       <mark key="R" line="64" column="8" filename="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" protocol="file" />
       <mark key="T" line="953" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.widget/multislider/1.3/783ba5d8cd73e829ff38c9b35d35f4599f8938a5/multislider-1.3-sources.jar!/io/apptik/widget/MultiSlider.java" protocol="file" />
       <mark key="V" line="315" column="53" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/HealthRecordFragment.java" protocol="file" />
-      <mark key="Y" line="40" column="42" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" protocol="file" />
+      <mark key="Y" line="41" column="42" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" protocol="file" />
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
@@ -136,12 +136,12 @@
         <mark key="." line="53" column="34" />
         <mark key="^" line="53" column="34" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" timestamp="1553870912880">
-        <mark key="'" line="2" column="14" />
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="16" column="47" />
-        <mark key="." line="16" column="47" />
-        <mark key="^" line="143" column="52" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" timestamp="1553872539617">
+        <mark key="'" line="70" column="55" />
+        <mark key="[" line="71" column="37" />
+        <mark key="]" line="71" column="49" />
+        <mark key="." line="71" column="49" />
+        <mark key="^" line="71" column="49" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/DataAccess.java" timestamp="1553871616984">
         <mark key="'" line="9" column="39" />
@@ -158,11 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
-      <jump line="167" column="69" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
-      <jump line="174" column="46" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
-      <jump line="175" column="49" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
-      <jump line="198" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
       <jump line="207" column="84" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
       <jump line="211" column="79" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
       <jump line="227" column="106" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
@@ -258,10 +253,15 @@
       <jump line="2" column="14" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" />
       <jump line="8" column="43" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/DataAccess.java" />
       <jump line="9" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/DataAccess.java" />
+      <jump line="119" column="6" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" />
+      <jump line="69" column="37" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" />
+      <jump line="71" column="55" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>d</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -466,52 +466,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>DateTime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LnV0aWwuRGF0ZVRpbWU7Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmlkZWFsbGlmZS5oZWFsdGh0YWJsZXQudXRpbC5EYXRlVGltZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUubW9kZWxzLnV0aWwuRGF0ZVRpbWUK</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmlkZWFsbGlmZS5oZWFsdGh0YWJsZXQudXRpbC5EYXRlVGltZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGV4dCA9IGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLm5vdGlmaWNhdGlvbl9uZXdfbWVzc2FnZXNfdGV4dCkK</text>
+        <text encoding="base64">Y29tLmlkZWFsbGlmZS5oZWFsdGh0YWJsZXQudXRpbC5EYXRlVGltZQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIGZ1biBzaG93TmV3TWVzc2FnZXNOb3RpZmljYXRpb24oCiAgICAgICAgICAgIHByaW9yaXR5OiBJbnQgPSBOb3RpZmljYXRpb25Db21wYXQuUFJJT1JJVFlfSElHSCwKICAgICAgICAgICAgbWVzc2FnZTogU3RyaW5nID0gY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcubm90aWZpY2F0aW9uX25ld19tZXNzYWdlc190ZXh0KSkgewogICAgICAgIGJ1aWxkTm90aWZpY2F0aW9uKHByaW9yaXR5LCBtZXNzYWdlKS5hbHNvIHsKICAgICAgICAgICAgbm90aWZpY2F0aW9uTWFuYWdlckNvbXBhdC5ub3RpZnkoTUVTU0FHRVNfTk9USUZJQ0FUSU9OX0lELCBpdCkKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUubW9kZWxzLnV0aWwuRGF0ZVRpbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkgewo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGV4dCA9IGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLm5vdGlmaWNhdGlvbl9uZXdfbWVzc2FnZXNfdGV4dCkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGV4dCA9IGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLm5vdGlmaWNhdGlvbl9uZXdfbWVzc2FnZXNfdGV4dCkK</text>
+        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIGZ1biBzaG93TmV3TWVzc2FnZXNOb3RpZmljYXRpb24oCiAgICAgICAgICAgIHByaW9yaXR5OiBJbnQgPSBOb3RpZmljYXRpb25Db21wYXQuUFJJT1JJVFlfSElHSCwKICAgICAgICAgICAgbWVzc2FnZTogU3RyaW5nID0gY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcubm90aWZpY2F0aW9uX25ld19tZXNzYWdlc190ZXh0KSkgewogICAgICAgIGJ1aWxkTm90aWZpY2F0aW9uKHByaW9yaXR5LCBtZXNzYWdlKS5hbHNvIHsKICAgICAgICAgICAgbm90aWZpY2F0aW9uTWFuYWdlckNvbXBhdC5ub3RpZnkoTUVTU0FHRVNfTk9USUZJQ0FUSU9OX0lELCBpdCkKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcC51bmFucykpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvcGx1cmFscz4K</text>
+        <text encoding="base64">ICAgICkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBxdWFudGl0eT0ib3RoZXIiPlBsZWFzZSBUaGVyZSBhcmUgJWQgdW5hbnN3ZXJlZCBxdWVzdGlvbnMgcmVtYWluaW5nLjwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGV4dCA9IGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLm5vdGlmaWNhdGlvbl9uZXdfbWVzc2FnZXNfdGV4dCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
