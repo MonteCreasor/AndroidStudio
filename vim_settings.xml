@@ -81,7 +81,7 @@
       </file>
       <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1554043198468" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.widget/multislider/1.3/783ba5d8cd73e829ff38c9b35d35f4599f8938a5/multislider-1.3-sources.jar!/io/apptik/widget/MultiSlider.java" timestamp="1554043198468" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" timestamp="1553997660684">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" timestamp="1554063241852">
         <mark key="'" line="127" column="0" />
         <mark key="[" line="35" column="29" />
         <mark key="]" line="41" column="30" />
@@ -96,13 +96,19 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="85" column="52" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" timestamp="1554063699966">
+        <mark key="'" line="60" column="26" />
+        <mark key="[" line="48" column="38" />
+        <mark key="]" line="48" column="43" />
+        <mark key="^" line="48" column="43" />
+        <mark key="." line="48" column="43" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/TutorialFragment.java" timestamp="1553966352771">
         <mark key="'" line="192" column="16" />
         <mark key="[" line="256" column="0" />
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
       </file>
-      <file name="$USER_HOME$/android/codelabs/android-workmanager-master/app/src/main/java/com/example/background/BlurViewModel.java" timestamp="1554049683383" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1553994929302">
         <mark key="'" line="894" column="64" />
       </file>
@@ -155,8 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="53" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
-      <jump line="124" column="9" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
       <jump line="143" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
       <jump line="81" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
       <jump line="118" column="53" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
@@ -255,10 +259,12 @@
       <jump line="100" column="5" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
       <jump line="72" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessagingActivity.kt" />
       <jump line="427" column="56" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
+      <jump line="59" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
+      <jump line="60" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0VmlicmF0ZShsb25nQXJyYXlPZigwTCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>v</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -463,10 +469,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>onActivityR</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0VmlicmF0ZShsb25nQXJyYXlPZigwTCkpCg==</text>
@@ -515,9 +521,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onActivityR</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>onActivityR</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>fun de</last-substitute>
       <last-dir>1</last-dir>
@@ -525,7 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setTarget</entry>
         <entry>dismiss</entry>
         <entry>listener</entry>
         <entry>finish</entry>
@@ -545,6 +550,7 @@
         <entry>fcm</entry>
         <entry>Fcm</entry>
         <entry>onActivityR</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
