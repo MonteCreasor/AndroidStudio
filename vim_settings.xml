@@ -57,6 +57,12 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessagingActivity.kt" timestamp="1554053834815">
         <mark key="'" line="72" column="31" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" timestamp="1554132740459">
+        <mark key="[" line="101" column="25" />
+        <mark key="]" line="101" column="25" />
+        <mark key="^" line="101" column="25" />
+        <mark key="." line="101" column="25" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/models/util/DateTime.java" timestamp="1553874755201">
         <mark key="[" line="409" column="0" />
         <mark key="]" line="409" column="47" />
@@ -64,7 +70,6 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/TutorialFragment.kt" timestamp="1553965132947">
         <mark key="'" line="114" column="17" />
       </file>
-      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1554043198468" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/HealthRecordServiceHelper.java" timestamp="1553997079287">
         <mark key="'" line="37" column="8" />
       </file>
@@ -76,7 +81,6 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1554043198468" />
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/androidx/fragment/app/Fragment.java" timestamp="1553995022904">
         <mark key="'" line="1586" column="21" />
       </file>
@@ -99,6 +103,7 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="88" />
       </file>
+      <file name="/MessagingFragment.java" timestamp="1554133006821" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1553994929302">
         <mark key="'" line="894" column="64" />
       </file>
@@ -218,8 +223,8 @@
       <jump line="57" column="25" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8va2FwdCAiYW5kcm9pZHgubGlmZWN5Y2xlOmxpZmVjeWNsZS1jb21waWxlcjoyLjAuMCIK</text>
+      <register name="&quot;" type="4">
+        <text>it</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -424,7 +429,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>it</text>
       </register>
       <register name="/" type="4">
         <text>startTime</text>
