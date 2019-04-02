@@ -42,6 +42,10 @@
         <mark key="." line="2" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.widget/multislider/1.3/783ba5d8cd73e829ff38c9b35d35f4599f8938a5/multislider-1.3-sources.jar!/io/apptik/widget/MultiSlider.java" timestamp="1554161196928" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.java" timestamp="1554221954196">
+        <mark key="a" line="316" column="35" />
+        <mark key="'" line="316" column="12" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" timestamp="1554131809345">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
@@ -58,15 +62,18 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" timestamp="1554216326861">
         <mark key="'" line="121" column="60" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.java" timestamp="1554221979727">
+        <mark key="'" line="146" column="19" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessagingActivity.kt" timestamp="1554139518200">
         <mark key="'" line="72" column="31" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" timestamp="1554220589283">
-        <mark key="'" line="104" column="8" />
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="307" column="0" />
-        <mark key="^" line="53" column="8" />
-        <mark key="." line="307" column="0" />
+        <mark key="'" line="105" column="8" />
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="0" />
+        <mark key="^" line="54" column="8" />
+        <mark key="." line="308" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" timestamp="1554135749399">
         <mark key="'" line="228" column="95" />
@@ -99,11 +106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="40" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
-      <jump line="423" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
-      <jump line="30" column="43" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
-      <jump line="100" column="5" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
-      <jump line="72" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessagingActivity.kt" />
       <jump line="427" column="56" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
       <jump line="59" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="60" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
@@ -199,6 +201,11 @@
       <jump line="124" column="60" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="103" column="68" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="121" column="60" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
+      <jump line="354" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.java" />
+      <jump line="249" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.java" />
+      <jump line="316" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.java" />
+      <jump line="90" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.java" />
+      <jump line="146" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -410,7 +417,7 @@
         <text encoding="base64">Lm5lZWRzUmVzcG9uc2UpLmFsc28geyBuZWVkcyAtPg==</text>
       </register>
       <register name="/" type="4">
-        <text>ReceivedNextMessageE</text>
+        <text>getNex</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKG5lZWRzICYmICFtZXNzYWdlLmRpc3BsYXlOb3coKSkgewo=</text>
@@ -459,18 +466,16 @@
       </register>
     </registers>
     <search>
-      <last-search>ReceivedNextMessageE</last-search>
+      <last-search>getNex</last-search>
       <last-offset />
-      <last-pattern>ReceivedNextMessageE</last-pattern>
+      <last-pattern>getNex</last-pattern>
       <last-replace>List</last-replace>
-      <last-substitute>fun de</last-substitute>
+      <last-substitute>updateMe</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>messagingSe</entry>
-        <entry>getFuture</entry>
         <entry>handleIn</entry>
         <entry>Intent</entry>
         <entry>messagingSer</entry>
@@ -489,6 +494,8 @@
         <entry>mMessages</entry>
         <entry>now</entry>
         <entry>ReceivedNextMessageE</entry>
+        <entry>updateMe</entry>
+        <entry>getNex</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
