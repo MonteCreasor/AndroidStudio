@@ -43,8 +43,8 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessagingActivity.kt" timestamp="1554139518200">
         <mark key="'" line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" timestamp="1554413003841">
-        <mark key="'" line="35" column="25" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" timestamp="1554416601876">
+        <mark key="'" line="152" column="36" />
         <mark key="[" line="48" column="33" />
         <mark key="]" line="48" column="35" />
         <mark key="^" line="48" column="35" />
@@ -81,13 +81,11 @@
         <mark key="^" line="53" column="50" />
         <mark key="." line="53" column="50" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" timestamp="1554409195605">
-        <mark key="a" line="118" column="36" />
-        <mark key="'" line="121" column="53" />
-        <mark key="[" line="124" column="12" />
-        <mark key="]" line="124" column="12" />
-        <mark key="^" line="121" column="13" />
-        <mark key="." line="124" column="12" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" timestamp="1554416415684">
+        <mark key="[" line="111" column="41" />
+        <mark key="]" line="113" column="71" />
+        <mark key="^" line="127" column="23" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.java" timestamp="1554221979727">
         <mark key="'" line="146" column="19" />
@@ -116,12 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="69" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
-      <jump line="58" column="63" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
-      <jump line="103" column="10" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
-      <jump line="108" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
-      <jump line="56" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
-      <jump line="104" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
       <jump line="57" column="25" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
       <jump line="58" column="33" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
       <jump line="65" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
@@ -216,10 +208,16 @@
       <jump line="275" column="15" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
       <jump line="290" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
       <jump line="35" column="25" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
+      <jump line="207" column="5" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
+      <jump line="265" column="25" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
+      <jump line="273" column="27" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
+      <jump line="280" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
+      <jump line="110" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
+      <jump line="152" column="36" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>is a little slower.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgaXNCcmFuY2hpbmdSZXNwb25zZSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBNZXNzYWdlU2VydmljZUhlbHBlcih1c2VyLCB0aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0TWVzc2FnZUJ5SWQobmV4dE1lc3NhZ2UuaWQpID09IG51bGwK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -424,61 +422,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>is a little slower.</text>
+        <text>intent.getIntExtra(EXTRA_MESSAGE_ID, -1))</text>
       </register>
       <register name="/" type="4">
-        <text>mAdapter</text>
+        <text>dismiss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZSBub3cgPSBuZXcgRGF0ZVRpbWUoKS5hZGRNaWxsaXNlY29uZHMoNTAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgaXNCcmFuY2hpbmdSZXNwb25zZSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBNZXNzYWdlU2VydmljZUhlbHBlcih1c2VyLCB0aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0TWVzc2FnZUJ5SWQobmV4dE1lc3NhZ2UuaWQpID09IG51bGwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZSBleHBpcmVub3cgPSBuZXcgRGF0ZVRpbWUoKS5hZGRNaWxsaXNlY29uZHMoNTAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50QnVzLmdldERlZmF1bHQoKS5wb3N0KE1lc3NhZ2VTZXJ2aWNlSGVscGVyLlJlY2VpdmVkTmV4dE1lc3NhZ2VFdmVudChmYWxzZSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5tZXNzYWdlUmVzcG9uc2UucmVzcG9uZGVkT24gPT0gbnVsbCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBObyBtb3JlIG1lc3NhZ2VzCiAgICAgICAgICAgICAgICAgICAgRXZlbnRCdXMuZ2V0RGVmYXVsdCgpLnBvc3QoTWVzc2FnZVNlcnZpY2VIZWxwZXIuUmVjZWl2ZWROZXh0TWVzc2FnZUV2ZW50KHRydWUpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZShFeGNlcHRpb24oIkRldmljZSBjbG9jayBpcyBvdXQgb2Ygc3luYyB3aXRoIHNlcnZlciBjbG9jayBhbmQgbmVlZHMgdG8gYmUgYWRqdXN0ZWQiKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdCAmJiAhbWVzc2FnZS5kaXNwbGF5Tm93KCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRpbWVTZW50ID0gRGF0ZVRpbWUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIE1ha2Ugc3VyZSB0aGF0IHRoZSBkZXZpY2UgZGV2aWNlIGNsb2NrIGlzIGluIHN5bmMgd2l0aCB0aGUgc2VydmVyLgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5kaXNwbGF5Tm93KCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWVzc2FnZUlkID49IDApIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
     </registers>
     <search>
-      <last-search>mAdapter</last-search>
+      <last-search>dismiss</last-search>
       <last-offset />
-      <last-pattern>mAdapter</last-pattern>
+      <last-pattern>dismiss</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>updateMe</last-substitute>
       <last-dir>1</last-dir>
@@ -486,8 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mMessages</entry>
-        <entry>now</entry>
         <entry>ReceivedNextMessageE</entry>
         <entry>updateMe</entry>
         <entry>getNex</entry>
@@ -506,6 +502,8 @@
         <entry>getNe</entry>
         <entry>MainFragment</entry>
         <entry>mAdapter</entry>
+        <entry>Event</entry>
+        <entry>dismiss</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
