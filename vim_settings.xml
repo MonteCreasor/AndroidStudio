@@ -72,11 +72,14 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
+      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1554395812121" />
+      <file name="$USER_HOME$/40au/examples/MyApp/app/src/main/java/apps/monte/myapplication/LineView.java" timestamp="1554395812121" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/build.gradle" timestamp="1554067915687">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.widget/multislider/1.3/783ba5d8cd73e829ff38c9b35d35f4599f8938a5/multislider-1.3-sources.jar!/io/apptik/widget/MultiSlider.java" timestamp="1554395812121" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" timestamp="1554236695529">
         <mark key="a" line="91" column="12" />
         <mark key="'" line="41" column="16" />
@@ -84,13 +87,6 @@
         <mark key="]" line="53" column="50" />
         <mark key="^" line="53" column="50" />
         <mark key="." line="53" column="50" />
-      </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" timestamp="1554310088434">
-        <mark key="'" line="75" column="61" />
-        <mark key="[" line="61" column="20" />
-        <mark key="]" line="61" column="20" />
-        <mark key="^" line="61" column="20" />
-        <mark key="." line="61" column="20" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.java" timestamp="1554221979727">
         <mark key="'" line="146" column="19" />
@@ -101,8 +97,8 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" timestamp="1554311369167">
-        <mark key="'" line="293" column="56" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" timestamp="1554312197179">
+        <mark key="'" line="104" column="24" />
         <mark key="[" line="318" column="0" />
         <mark key="]" line="318" column="96" />
         <mark key="." line="318" column="0" />
@@ -116,7 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="154" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="171" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="47" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
@@ -216,10 +211,11 @@
       <jump line="35" column="47" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="53" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="293" column="56" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="104" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlc05vdGlmaWNhdGlvbkhlbHBlci51bnNjaGVkdWxlTWVzc2FnZU5vdGlmaWNhdGlvbnMobUNvbnRleHQsIG1lc3NhZ2VJZHNUb1JlbW92ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -424,10 +420,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, messageIdsToRemove);</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>messages</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBNZXNzYWdlc05vdGlmaWNhdGlvbkhlbHBlci51bnNjaGVkdWxlTWVzc2FnZU5vdGlmaWNhdGlvbnMobUNvbnRleHQsIG1lc3NhZ2VJZHNUb1JlbW92ZSk7Cg==</text>
@@ -476,9 +472,9 @@
       </register>
     </registers>
     <search>
-      <last-search>messages</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>messages</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>updateMe</last-substitute>
       <last-dir>1</last-dir>
@@ -486,7 +482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Tablet</entry>
         <entry>getCon</entry>
         <entry>PULL</entry>
         <entry encoding="base64">XDwoXD4=</entry>
@@ -506,6 +501,7 @@
         <entry>getFuture</entry>
         <entry>applic</entry>
         <entry>messages</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
