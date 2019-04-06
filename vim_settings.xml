@@ -28,6 +28,7 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/ServicesFactory.java" timestamp="1554304221648">
         <mark key="'" line="142" column="65" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/HealthRecordFragment.java" timestamp="1554586262586" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" timestamp="1554253422574">
         <mark key="'" line="61" column="8" />
       </file>
@@ -125,7 +126,7 @@
         <mark key="]" line="30" column="86" />
         <mark key="." line="82" column="47" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/DataAccess.java" timestamp="1554569106430" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" timestamp="1554586262586" />
       <file name="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" timestamp="1554492079557">
         <mark key="'" line="632" column="19" />
       </file>
@@ -445,7 +446,7 @@
         <text encoding="base64">IGVsc2UgKGV2ZW50LmlzRXJyb3IoKSApew==</text>
       </register>
       <register name="/" type="4">
-        <text>messages</text>
+        <text>etain</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHVzZXIgYnkgbGF6eSB7IFVzZXJTZXJ2aWNlKFNxbFVzZXJSZXBvc2l0b3J5KEFwcC5pbnN0YW5jZSkpLmFjdGl2YXRlZFVzZXIgfQo=</text>
@@ -494,9 +495,9 @@
       </register>
     </registers>
     <search>
-      <last-search>messages</last-search>
+      <last-search>etain</last-search>
       <last-offset />
-      <last-pattern>messages</last-pattern>
+      <last-pattern>etain</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>updateMe</last-substitute>
       <last-dir>1</last-dir>
@@ -504,7 +505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dismiss</entry>
         <entry>onCreate</entry>
         <entry>context</entry>
         <entry>getMess</entry>
@@ -524,6 +524,7 @@
         <entry>Api</entry>
         <entry>User</entry>
         <entry>messages</entry>
+        <entry>etain</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
