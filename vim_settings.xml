@@ -10,11 +10,6 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/client/ideal-life/sandbox/kotlin-coroutines-master/kotlin-coroutines-end/app/src/main/java/com/example/android/kotlincoroutines/main/MainActivity.kt" timestamp="1554494252907">
-        <mark key="a" line="49" column="26" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="51" column="43" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/ServicesFactory.java" timestamp="1554304221648">
         <mark key="'" line="142" column="65" />
       </file>
@@ -44,6 +39,7 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" timestamp="1554489545349">
         <mark key="'" line="53" column="13" />
       </file>
+      <file name="$USER_HOME$/android/android-blueprints/android-mvi-sample/app/src/test/java/com/kanawish/sample/mvi/utils/ReplaceMainThreadSchedulerRule.kt" timestamp="1555093012157" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessagingActivity.kt" timestamp="1554139518200">
         <mark key="'" line="72" column="31" />
       </file>
@@ -54,6 +50,9 @@
         <mark key="]" line="317" column="0" />
         <mark key="^" line="309" column="34" />
         <mark key="." line="317" column="0" />
+      </file>
+      <file name="$USER_HOME$/android/android-blueprints/android-mvi-sample/app/src/test/java/com/kanawish/sample/mvi/model/TasksModelStoreTest.kt" timestamp="1555093030487">
+        <mark key="'" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/ui/SettingsFragment.kt" timestamp="1554224801451">
         <mark key="'" line="232" column="38" />
@@ -87,12 +86,6 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.java" timestamp="1554221979727">
         <mark key="'" line="146" column="19" />
       </file>
-      <file name="$USER_HOME$/android/codelabs/android-workmanager-master/app/src/main/java/com/example/background/BlurViewModel.java" timestamp="1554493797381">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/sandbox/kotlin-coroutines-master/kotlin-coroutines-end/app/src/main/java/com/example/android/kotlincoroutines/main/MainViewModel.kt" timestamp="1554495121696">
         <mark key="a" line="56" column="6" />
         <mark key="'" line="54" column="16" />
@@ -121,8 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="72" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/ServicesFactory.java" />
-      <jump line="142" column="65" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/ServicesFactory.java" />
       <jump line="170" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="76" column="38" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="54" column="11" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
@@ -221,6 +212,8 @@
       <jump line="126" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.1.0-alpha04/469c357d2e1a04a52d0f811e0f77c2849f42a655/lifecycle-viewmodel-2.1.0-alpha04-sources.jar!/androidx/lifecycle/ViewModel.java" />
       <jump line="90" column="40" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
       <jump line="95" column="62" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
+      <jump line="20" column="63" filename="$USER_HOME$/android/android-blueprints/android-mvi-sample/app/src/test/java/com/kanawish/sample/mvi/model/TasksModelStoreTest.kt" />
+      <jump line="21" column="18" filename="$USER_HOME$/android/android-blueprints/android-mvi-sample/app/src/test/java/com/kanawish/sample/mvi/model/TasksModelStoreTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -432,7 +425,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>corou</text>
+        <text>schedu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5saWZlY3ljbGU6bGlmZWN5Y2xlLXZpZXdtb2RlbC1rdHg6JGxpZmVjeWNsZV92ZXJzaW9uIgo=</text>
@@ -481,9 +474,9 @@
       </register>
     </registers>
     <search>
-      <last-search>corou</last-search>
+      <last-search>schedu</last-search>
       <last-offset />
-      <last-pattern>corou</last-pattern>
+      <last-pattern>schedu</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>updateMe</last-substitute>
       <last-dir>1</last-dir>
@@ -491,7 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onActivityC</entry>
         <entry>Scope</entry>
         <entry>launch</entry>
         <entry>liveNetwork</entry>
@@ -511,6 +503,7 @@
         <entry>on</entry>
         <entry>onCleared</entry>
         <entry>corou</entry>
+        <entry>schedu</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
