@@ -48,13 +48,13 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" timestamp="1556315961161">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" timestamp="1556318658941">
         <mark key="'" line="53" column="13" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessagingActivity.kt" timestamp="1554139518200">
         <mark key="'" line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" timestamp="1556241366312">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" timestamp="1556318775626">
         <mark key="[" line="52" column="43" />
         <mark key="]" line="52" column="43" />
         <mark key="." line="52" column="43" />
@@ -83,12 +83,12 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/models/TabletMessage.java" timestamp="1556237505069">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/models/TabletMessage.java" timestamp="1556319813043">
         <mark key="a" line="127" column="37" />
-        <mark key="[" line="158" column="28" />
-        <mark key="]" line="158" column="29" />
-        <mark key="^" line="160" column="15" />
-        <mark key="." line="158" column="29" />
+        <mark key="[" line="161" column="34" />
+        <mark key="]" line="160" column="44" />
+        <mark key="." line="161" column="38" />
+        <mark key="^" line="160" column="44" />
       </file>
       <file name="$USER_HOME$/android/android-blueprints/android-mvi-sample/app/src/main/java/com/kanawish/sample/mvi/model/TasksState.kt" timestamp="1555643667527">
         <mark key="[" line="81" column="29" />
@@ -243,7 +243,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>.getMessage();</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -448,7 +448,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>.getMessage();</text>
       </register>
       <register name="/" type="4">
         <text>toString</text>
@@ -457,31 +457,31 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc2VuZE9uU3RyaW5nID0gZ2V0TWVzc2FnZSgpLmdldFNlbmRPbigpLnRvU3RyaW5nKFN0cmluZ0Zvcm1hdC5Mb2NhbERhdGVUaW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQobWVzc2FnZS50b1N0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnZhbGlkRGF0ZVRpbWVFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQobWVzc2FnZS50b1N0cmluZygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRPbi5iZWZvcmUobm93KSA/ICI8IiA6ICI+IiwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -490,10 +490,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VuZE9uLmlzRW1wdHkoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRPbi5iZWZvcmUobm93KSA/ICI8IiA6ICI+IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
