@@ -62,6 +62,9 @@
         <mark key="'" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ui/DialogActivity.java" timestamp="1556820634256" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" timestamp="1556828749314">
+        <mark key="'" line="171" column="18" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/ui/SettingsFragment.kt" timestamp="1554224801451">
         <mark key="'" line="232" column="38" />
       </file>
@@ -71,7 +74,6 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="83" />
       </file>
-      <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1556310346161" />
       <file name="$USER_HOME$/android/android-blueprints/android-mvi-sample/app/src/main/java/com/kanawish/sample/mvi/view/tasks/TasksFragment.kt" timestamp="1555648696890">
         <mark key="[" line="51" column="16" />
         <mark key="]" line="51" column="16" />
@@ -136,18 +138,16 @@
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/Activity.java" timestamp="1556824560826">
         <mark key="'" line="1178" column="57" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageNotificationFragment.kt" timestamp="1556826552961">
-        <mark key="a" line="72" column="96" />
-        <mark key="'" line="45" column="23" />
-        <mark key="[" line="90" column="20" />
-        <mark key="]" line="90" column="28" />
-        <mark key="." line="90" column="28" />
-        <mark key="^" line="90" column="28" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageNotificationFragment.kt" timestamp="1556828673802">
+        <mark key="a" line="69" column="96" />
+        <mark key="'" line="42" column="23" />
+        <mark key="[" line="88" column="51" />
+        <mark key="]" line="89" column="19" />
+        <mark key="." line="89" column="19" />
+        <mark key="^" line="89" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
-      <jump line="15" column="18" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingViewModel.kt" />
       <jump line="19" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/LogService.java" />
       <jump line="134" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/LogService.java" />
       <jump line="10" column="50" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/LogService.java" />
@@ -246,10 +246,12 @@
       <jump line="41" column="44" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageNotificationFragment.kt" />
       <jump line="55" column="46" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageNotificationFragment.kt" />
       <jump line="43" column="23" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageNotificationFragment.kt" />
+      <jump line="169" column="18" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
+      <jump line="171" column="18" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>context</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxCcm9hZGNhc3RNYW5hZ2VyLmdldEluc3RhbmNlKHRoaXMpLnVucmVnaXN0ZXJSZWNlaXZlcihmaW5pc2hBY3Rpdml0eUJyb2FkY2FzdFJlY2VpdmVyKQo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -454,61 +456,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>context</text>
+        <text>Not</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxCcm9hZGNhc3RNYW5hZ2VyLmdldEluc3RhbmNlKHRoaXMpLnVucmVnaXN0ZXJSZWNlaXZlcihmaW5pc2hBY3Rpdml0eUJyb2FkY2FzdFJlY2VpdmVyKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGVuZGluZ0ludGVudCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBseSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQZW5kaW5nSW50ZW50LkZMQUdfVVBEQVRFX0NVUlJFTlQpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNZWRpY2F0aW9uUmVtaW5kZXJIZWxwZXIuY29udGV4dC5wYWNrYWdlTWFuYWdlci5nZXRMYXVuY2hJbnRlbnRGb3JQYWNrYWdlKE1lZGljYXRpb25SZW1pbmRlckhlbHBlci5jb250ZXh0LnBhY2thZ2VOYW1lKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgc3RhcnRBcHBJbnRlbnQgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAwLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBwc2hhZGx5biBvbiA4LzYvMjAxNC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0ISEsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGVuZGluZ0ludGVudC5nZXRBY3Rpdml0eSgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>context</last-search>
+      <last-search>Not</last-search>
       <last-offset />
-      <last-pattern>context</last-pattern>
+      <last-pattern>Not</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>updateMe</last-substitute>
       <last-dir>1</last-dir>
@@ -516,7 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>jx</entry>
         <entry>onClose</entry>
         <entry>on</entry>
@@ -536,6 +537,7 @@
         <entry>KEY</entry>
         <entry>activ</entry>
         <entry>context</entry>
+        <entry>Not</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
