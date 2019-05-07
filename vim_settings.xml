@@ -82,13 +82,13 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" timestamp="1556828749314">
         <mark key="'" line="171" column="18" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/ui/SettingsFragment.kt" timestamp="1557172633942">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/ui/SettingsFragment.kt" timestamp="1557249935663">
         <mark key="a" line="177" column="16" />
         <mark key="'" line="165" column="53" />
-        <mark key="[" line="66" column="27" />
-        <mark key="]" line="66" column="27" />
-        <mark key="^" line="65" column="32" />
-        <mark key="." line="66" column="29" />
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="55" />
+        <mark key="^" line="228" column="64" />
+        <mark key="." line="237" column="0" />
       </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1557244415564" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/DebugSettings.kt" timestamp="1557168844586">
@@ -127,13 +127,13 @@
         <mark key="." line="172" column="50" />
         <mark key="^" line="172" column="50" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" timestamp="1557248499231">
-        <mark key="'" line="62" column="65" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" timestamp="1557249892021">
+        <mark key="'" line="87" column="26" />
         <mark key="i" line="87" column="26" />
-        <mark key="[" line="121" column="20" />
-        <mark key="]" line="121" column="20" />
-        <mark key="." line="121" column="54" />
-        <mark key="^" line="62" column="74" />
+        <mark key="[" line="107" column="31" />
+        <mark key="]" line="87" column="33" />
+        <mark key="." line="87" column="33" />
+        <mark key="^" line="108" column="25" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.java" timestamp="1557175831880">
         <mark key="a" line="119" column="18" />
@@ -162,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
       <jump line="311" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
       <jump line="294" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
       <jump line="197" column="51" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.java" />
@@ -262,10 +261,11 @@
       <jump line="43" column="38" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.java" />
       <jump line="26" column="2" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="62" column="65" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" />
+      <jump line="87" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBpZCA9IEFwcFNldHRpbmdzLm5ld01lc3NhZ2VzQWxhcm1JZAo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -470,13 +470,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>getIn</text>
+        <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoIiR0YWc6IHNlc3Npb24gaW5pdGlhbGl6YXRpb24gY29tcGxldGVkICh3YWl0aW5nIDIwIHNlY29uZHMgZm9yIHRlc3RpbmcpLiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBpZCA9IEFwcFNldHRpbmdzLm5ld01lc3NhZ2VzQWxhcm1JZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBwZW5kaW5nUmVzdWx0OiBQZW5kaW5nUmVzdWx0Cg==</text>
@@ -522,9 +522,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getIn</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>getIn</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>updateMe</last-substitute>
       <last-dir>1</last-dir>
@@ -532,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry>startM</entry>
         <entry>Intent</entry>
         <entry>pref</entry>
@@ -552,6 +551,7 @@
         <entry>mReg</entry>
         <entry>PullM</entry>
         <entry>getIn</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
