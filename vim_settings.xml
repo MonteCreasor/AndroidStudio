@@ -100,11 +100,12 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/extensions/SwipeRefreshLayout.kt" timestamp="1557512003421">
         <mark key="'" line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" timestamp="1557519830286">
-        <mark key="[" line="17" column="101" />
-        <mark key="]" line="17" column="102" />
-        <mark key="." line="17" column="102" />
-        <mark key="^" line="17" column="100" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" timestamp="1557520349150">
+        <mark key="'" line="17" column="105" />
+        <mark key="[" line="18" column="202" />
+        <mark key="]" line="18" column="202" />
+        <mark key="^" line="15" column="133" />
+        <mark key="." line="18" column="206" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/util/AudioHelper.kt" timestamp="1557461633076">
         <mark key="[" line="28" column="56" />
@@ -202,10 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="32" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/AndroidManifest.xml" />
-      <jump line="174" column="41" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/AndroidManifest.xml" />
-      <jump line="89" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessagingActivity.kt" />
-      <jump line="47" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessagingActivity.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/extensions/Activity.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/extensions/Activity.kt" />
       <jump line="93" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/extensions/Activity.kt" />
@@ -302,10 +299,14 @@
       <jump line="286" column="59" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.java" />
       <jump line="134" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.java" />
       <jump line="228" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.java" />
+      <jump line="18" column="205" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
+      <jump line="14" column="143" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
+      <jump line="15" column="133" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
+      <jump line="17" column="105" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cGxlYXNlIA==</text>
+        <text>pull</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -510,61 +511,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGxlYXNlIA==</text>
+        <text>pull</text>
       </register>
       <register name="/" type="4">
-        <text>showExc</text>
+        <text>pull</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSLnN0cmluZy5yZWdpc3Rlcl9lcnJvcl9zZW5kaW5nX2NvZGUsIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icmVnaXN0ZXJfaG90c3BvdF9sb2dpbl9yZXF1aXJlZCI+VGhlcmUgd2FzIGEgcHJvYmxlbSBjb25uZWN0aW5nIHRvIHRoZSBJREVBTCBMSUZFIHNlcnZlcnMuXG5QbGVhc2UgZW5zdXJlIHRoYXQgeW91IGFyZSBjb25uZWN0ZWQgdG8gaW50ZXJuZXQgb3IgYXJlIGxvZ2dlZCBpbnRvIGEgV2lGaSBob3RzcG90IGFuZCB0aGVuIHB1bGwgZG93biB0byByZXRyeSBjb25uZWN0aW5nLjwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3coZSk7Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icmVnaXN0ZXJfaG90c3BvdF9sb2dpbl9yZXF1aXJlZCI+VGhlcmUgd2FzIGEgcHJvYmxlbSBjb25uZWN0aW5nIHRvIHRoZSBJREVBTCBMSUZFIHNlcnZlcnMuXG5QbGVhc2UgZW5zdXJlIHRoYXQgeW91IGFyZSBjb25uZWN0ZWQgdG8gaW50ZXJuZXQgb3IgYXJlIGxvZ2dlZCBpbnRvIGEgV2lGaSBob3RzcG90IGFuZCB0aGVuIHB1bGwgZG93biB0byByZXRyeSBjb25uZWN0aW5nLjwvc3RyaW5nPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSLnN0cmluZy5yZWdpc3Rlcl9lcnJvcl9zZW5kaW5nX2NvZGUsIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3coZSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoZ2V0QWN0aXZpdHkoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSLnN0cmluZy5yZWdpc3Rlcl9lcnJvcl9zZW5kaW5nX2NvZGUsIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoZ2V0QWN0aXZpdHkoKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBlCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIFVzZXIgaGFzIGJlZW4gdW5hdXRob3JpemVkLiAgU2hvdyBlcnJvciBhbmQgZm9yY2UgdGhlbSB0byBjb250YWN0IGhlYWx0aCBjYXJlIHByb3ZpZGVyLgo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZS5nZXRDYXVzZSgpIGluc3RhbmNlb2YgU1NMSGFuZHNoYWtlRXhjZXB0aW9uKSB7Cg==</text>
+        <text encoding="base64">ICAgICAqIFVzZXIgaGFzIGJlZW4gdW5hdXRob3JpemVkLiAgU2hvdyBlcnJvciBhbmQgZm9yY2UgdGhlbSB0byBjb250YWN0IGhlYWx0aCBjYXJlIHByb3ZpZGVyLgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZS5nZXRDYXVzZSgpIGluc3RhbmNlb2YgU1NMSGFuZHNoYWtlRXhjZXB0aW9uKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0dkFjdGl2YXRpb25UaXRsZS5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>showExc</last-search>
+      <last-search>pull</last-search>
       <last-offset />
-      <last-pattern>showExc</last-pattern>
+      <last-pattern>pull</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute encoding="base64">XDx3YWtlQW5kVW5sb2NrXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -572,7 +573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>newIntet</entry>
         <entry>ActivityKt</entry>
         <entry>comp</entry>
         <entry>Messagin</entry>
@@ -588,10 +588,11 @@
         <entry>list</entry>
         <entry>show</entry>
         <entry>swipeRe</entry>
-        <entry>swipe</entry>
         <entry>setText</entry>
         <entry>showEx</entry>
         <entry>showExc</entry>
+        <entry>swipe</entry>
+        <entry>pull</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
