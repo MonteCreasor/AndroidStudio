@@ -38,9 +38,9 @@
         <mark key="^" line="87" column="40" />
         <mark key="." line="87" column="40" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet-apk-25/app/src/main/java/com/ideallife/healthtablet/util/NotificationHelper.java" timestamp="1557590183346">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="154" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet-apk-25/app/src/main/java/com/ideallife/healthtablet/util/NotificationHelper.java" timestamp="1557590305984">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="63" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/AppSettings.kt" timestamp="1557172491347">
         <mark key="[" line="67" column="64" />
@@ -123,6 +123,7 @@
         <mark key="." line="13" column="55" />
       </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1557518845333" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet-apk-25/app/src/main/java/com/ideallife/healthtablet/util/NotificationReceiver.java" timestamp="1557590450921" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/ServiceHelper.kt" timestamp="1557517482565">
         <mark key="a" line="23" column="16" />
         <mark key="[" line="34" column="0" />
@@ -191,6 +192,13 @@
         <mark key="]" line="66" column="54" />
         <mark key="^" line="66" column="54" />
         <mark key="." line="66" column="54" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessageNotificationHelper.kt" timestamp="1557590950146">
+        <mark key="a" line="128" column="0" />
+        <mark key="[" line="131" column="72" />
+        <mark key="]" line="131" column="72" />
+        <mark key="^" line="131" column="71" />
+        <mark key="." line="131" column="72" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/sandbox/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1557588576577">
         <mark key="[" line="13" column="36" />
@@ -334,8 +342,8 @@
       <jump line="1146" column="38" filename="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/PendingIntent.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBlbmRpbmdJbnRlbnQgbVBlbmRpbmdJbnRlbnQgPSBQZW5kaW5nSW50ZW50LmdldEJyb2FkY2FzdChjb250ZXh0LCBpZCwgZ2V0TWVzc2FnZUFsYXJtSW50ZW50KGNvbnRleHQpLCBQZW5kaW5nSW50ZW50LkZMQUdfVVBEQVRFX0NVUlJFTlQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>class</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -540,52 +548,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>equal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBlbmRpbmdJbnRlbnQgbVBlbmRpbmdJbnRlbnQgPSBQZW5kaW5nSW50ZW50LmdldEJyb2FkY2FzdChjb250ZXh0LCBpZCwgZ2V0TWVzc2FnZUFsYXJtSW50ZW50KGNvbnRleHQpLCBQZW5kaW5nSW50ZW50LkZMQUdfVVBEQVRFX0NVUlJFTlQpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEludGVudChjb250ZXh0LCBOb3RpZmljYXRpb25SZWNlaXZlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGluIHRoZSBmb3JlZ3JvdW5kLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlbnQoY29udGV4dCwgTm90aWZpY2F0aW9uUmVjZWl2ZXIuY2xhc3MpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFwcCBoYXMgYmVlbiB3b2tlbiB1cCBieSBhbiBhbGFybSBhbmQgc3RhcnRzIHRoZSBNZXNzYWdlQWN0aXZpdHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50KGNvbnRleHQsIE5vdGlmaWNhdGlvblJlY2VpdmVyLmNsYXNzKQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHdoaWNoIGNhbiBvbmx5IGJlIGludm9rZWQgd2hlbiB0aGUgdXNlciBzdGFydHMgdGhlIGFwcCBvciB3aGVuIHRoZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGluIHRoZSBmb3JlZ3JvdW5kLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG5ldmVyIGhhcHBlbiBpbiBwcm9kdWN0aW9uIGJlY2F1c2UgdGhpcyBmcmFnbWVudCBpcyBhIFVJIGNvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFwcCBoYXMgYmVlbiB3b2tlbiB1cCBieSBhbiBhbGFybSBhbmQgc3RhcnRzIHRoZSBNZXNzYWdlQWN0aXZpdHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFuZCB0aGUgYXBwIGlzIHRoZW4gc3RhcnRlZCBmcm9tIHRoZSBBbmRyb2lkIFN0dWRpbyBJREUuIFRoaXMgd2lsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHdoaWNoIGNhbiBvbmx5IGJlIGludm9rZWQgd2hlbiB0aGUgdXNlciBzdGFydHMgdGhlIGFwcCBvciB3aGVuIHRoZQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRoZSBmb3JlZ3JvdW5kKS4gVGhpcyBoYXMgb25seSBoYXBwZW5zIHdoZW4gdGhlIGRldmljZSBzY3JlZW4gaXMgb2ZmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG5ldmVyIGhhcHBlbiBpbiBwcm9kdWN0aW9uIGJlY2F1c2UgdGhpcyBmcmFnbWVudCBpcyBhIFVJIGNvbXBvbmVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGJhY2tncm91bmQgKGFwcHMgY2FuJ3Qgc3RhcnQgYSBzZXJ2aWNlcyB1bmxlc3MgdGhleSBhcmUgaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFuZCB0aGUgYXBwIGlzIHRoZW4gc3RhcnRlZCBmcm9tIHRoZSBBbmRyb2lkIFN0dWRpbyBJREUuIFRoaXMgd2lsbAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNjcmVlbiBpcyBvZmY7IHRoaXMgd29uJ3QgaGFwcGVuIG9uIGEgZGV2ZWxvcGVtZW50IGRldmljZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRoZSBmb3JlZ3JvdW5kKS4gVGhpcyBoYXMgb25seSBoYXBwZW5zIHdoZW4gdGhlIGRldmljZSBzY3JlZW4gaXMgb2ZmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGJhY2tncm91bmQgKGFwcHMgY2FuJ3Qgc3RhcnQgYSBzZXJ2aWNlcyB1bmxlc3MgdGhleSBhcmUgaW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
