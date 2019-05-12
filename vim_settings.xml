@@ -36,6 +36,7 @@
         <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/HealthRecordFragment.java" timestamp="1557678537009" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectionDialogFragment.kt" timestamp="1557679452544" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1557640168072">
         <mark key="[" line="228" column="45" />
         <mark key="]" line="228" column="57" />
@@ -96,6 +97,7 @@
         <mark key="." line="146" column="71" />
         <mark key="^" line="146" column="71" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" timestamp="1557680318265" />
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1557678537009" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/RegistrationServiceHelper.java" timestamp="1557624811077">
         <mark key="'" line="42" column="12" />
@@ -150,8 +152,8 @@
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" timestamp="1557679008703">
-        <mark key="'" line="60" column="8" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" timestamp="1557679448124">
+        <mark key="'" line="73" column="22" />
         <mark key="[" line="73" column="22" />
         <mark key="]" line="73" column="22" />
         <mark key="^" line="73" column="22" />
@@ -180,10 +182,9 @@
         <mark key="." line="207" column="28" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" timestamp="1557678537009" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.java" timestamp="1557679152257" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.java" timestamp="1557679503578" />
     </filemarks>
     <jumps>
-      <jump line="469" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="468" column="94" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="170" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
       <jump line="467" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/gateway-lib/src/main/java/com/ideallife/gatewaylib/service/GatewayService.kt" />
@@ -283,6 +284,7 @@
       <jump line="11" column="42" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
       <jump line="33" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
       <jump line="60" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
+      <jump line="73" column="22" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -494,7 +496,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Swipe</text>
+        <text>Conne</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CltCdWcgMTRdCktlZXAgbmV3IG1lc3NhZ2Ugbm90aWZpY2F0aW9uIHBpbm5lZCB1bnRpbCBhbGwgbWVzc2FnZXMgYW5zd2VyZWQ/Cg==</text>
@@ -543,9 +545,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Swipe</last-search>
+      <last-search>Conne</last-search>
       <last-offset />
-      <last-pattern>Swipe</last-pattern>
+      <last-pattern>Conne</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>util</last-substitute>
       <last-dir>1</last-dir>
@@ -553,7 +555,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wakeLock</entry>
         <entry>onCreate</entry>
         <entry>Wake</entry>
         <entry>messageFrag</entry>
@@ -573,6 +574,7 @@
         <entry>setup</entry>
         <entry>swipe</entry>
         <entry>Swipe</entry>
+        <entry>Conne</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
