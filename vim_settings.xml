@@ -35,11 +35,12 @@
         <mark key="^" line="61" column="57" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" timestamp="1557349932477">
-        <mark key="[" line="78" column="71" />
-        <mark key="]" line="78" column="71" />
-        <mark key="." line="78" column="71" />
-        <mark key="^" line="78" column="71" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" timestamp="1557635057720">
+        <mark key="a" line="141" column="18" />
+        <mark key="[" line="150" column="34" />
+        <mark key="]" line="150" column="51" />
+        <mark key="^" line="150" column="51" />
+        <mark key="." line="150" column="51" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/layout/activity_host_fragment.xml" timestamp="1557515093993">
         <mark key="[" line="10" column="58" />
@@ -134,11 +135,18 @@
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/extensions/Activity.kt" timestamp="1557634137737">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/extensions/Activity.kt" timestamp="1557635220466">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="^" line="60" column="59" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageDialogFragment.java" timestamp="1557634259851">
+        <mark key="'" line="98" column="5" />
+        <mark key="[" line="115" column="33" />
+        <mark key="]" line="115" column="45" />
+        <mark key="." line="115" column="45" />
+        <mark key="^" line="115" column="45" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/layout/fragment_main.xml" timestamp="1557511403784">
         <mark key="'" line="2" column="0" />
@@ -254,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="9" filename="$USER_HOME$/client/ideal-life/health-tablet-apk-25/app/src/main/AndroidManifest.xml" />
       <jump line="195" column="10" filename="$USER_HOME$/client/ideal-life/health-tablet-apk-25/app/src/main/AndroidManifest.xml" />
       <jump line="65" column="9" filename="$USER_HOME$/client/ideal-life/health-tablet-apk-25/app/src/main/AndroidManifest.xml" />
       <jump line="74" column="10" filename="$USER_HOME$/client/ideal-life/health-tablet-apk-25/app/src/main/AndroidManifest.xml" />
@@ -354,10 +361,11 @@
       <jump line="145" column="53" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/AndroidManifest.xml" />
       <jump line="146" column="13" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/AndroidManifest.xml" />
       <jump line="147" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/AndroidManifest.xml" />
+      <jump line="98" column="5" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageDialogFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpbmRvd01hbmFnZXIuTGF5b3V0UGFyYW1zLkZMQUdfVFVSTl9TQ1JFRU5fT04pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>showNotification</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -562,61 +570,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>showNotification</text>
       </register>
       <register name="/" type="4">
-        <text>Receiver</text>
+        <text>Kt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIERPIE5PVCBmb3JjZSBsYW5kc2NhcGUgb3JpZW50YXRpb24gZm9yIENsZWFyVXNlckRhdGFBY3Rpdml0eSBvciBmcmFtZXdvcmsgd2lsbCB0aHJvdyBhbiBJbGxlZ2FsU3RhdGVFeGNlcHRpb24gZXhjZXB0aW9uIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZU5vdGlmaWNhdGlvbkhlbHBlci5zaG93Tm90aWZpY2F0aW9uKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpbmRvd01hbmFnZXIuTGF5b3V0UGFyYW1zLkZMQUdfVFVSTl9TQ1JFRU5fT04pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpbmRvd01hbmFnZXIuTGF5b3V0UGFyYW1zLkZMQUdfU0hPV19XSEVOX0xPQ0tFRCB8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZU5vdGlmaWNhdGlvbkhlbHBlci5zaG93Tm90aWZpY2F0aW9uKCkK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpbmRvd01hbmFnZXIuTGF5b3V0UGFyYW1zLkZMQUdfRElTTUlTU19LRVlHVUFSRCB8Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodW5hbnN3ZXJlZE1lc3NhZ2VDb3VudCA+IDApIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXREaWFsb2coKS5nZXRXaW5kb3coKS5hZGRGbGFncygK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3aW5kb3cgcG9zaXRpb24gYW5kIGNhdXNlIHRoZSBkZXZpY2UgdG8gZnJlZXplLgo=</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZXQsIHRoaXMgZGlhbG9nIHdpbGwgbm90IGZpZ2h0IHdpdGggdGhlIGtleWd1YXJkIGZvciB0b3AgbW9zdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpbmRvd01hbmFnZXIuTGF5b3V0UGFyYW1zLkZMQUdfVFVSTl9TQ1JFRU5fT04pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTcGVjaWFsIGNhc2U6IGV2ZW4gdGhvdWdoIHRoZSBwYXJlbnQgQWN0aXZpdHkgaGFzIHRoZXNlIGZsYWdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpbmRvd01hbmFnZXIuTGF5b3V0UGFyYW1zLkZMQUdfU0hPV19XSEVOX0xPQ0tFRCB8Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBLTFVER0UgdGhhdCBzaG91bGQgbm90IGJlIG5lY2Vzc2FyeSBidXQgaXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpbmRvd01hbmFnZXIuTGF5b3V0UGFyYW1zLkZMQUdfRElTTUlTU19LRVlHVUFSRCB8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5PcmllbnRhdGlvbj0ibGFuZHNjYXBlIgo=</text>
+        <text encoding="base64">ICAgICAgICBnZXREaWFsb2coKS5nZXRXaW5kb3coKS5hZGRGbGFncygK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>Receiver</last-search>
+      <last-search>Kt</last-search>
       <last-offset />
-      <last-pattern>Receiver</last-pattern>
+      <last-pattern>Kt</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>util</last-substitute>
       <last-dir>1</last-dir>
@@ -624,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>extendsActivity</entry>
         <entry>extends Activity</entry>
         <entry>skipA</entry>
         <entry>SKIP</entry>
@@ -644,6 +651,7 @@
         <entry>Wake</entry>
         <entry>messageFrag</entry>
         <entry>Receiver</entry>
+        <entry>Kt</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
