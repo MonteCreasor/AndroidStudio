@@ -10,11 +10,11 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectionDialogFragment.kt" timestamp="1557698516386">
-        <mark key="'" line="205" column="20" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="0" />
-        <mark key="." line="186" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectionDialogFragment.kt" timestamp="1557705777117">
+        <mark key="[" line="53" column="29" />
+        <mark key="]" line="54" column="25" />
+        <mark key="." line="54" column="25" />
+        <mark key="^" line="54" column="25" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/TODO.md" timestamp="1557691300581">
         <mark key="[" line="51" column="14" />
@@ -143,11 +143,12 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlHealthRecordRepository.java" timestamp="1557690349470" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" timestamp="1557702319905">
-        <mark key="'" line="188" column="8" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" timestamp="1557705450665">
+        <mark key="a" line="280" column="12" />
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="279" column="12" />
+        <mark key="]" line="279" column="12" />
+        <mark key="." line="279" column="12" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/clinical/WebApiEndUserHealthRecordRepository.java" timestamp="1557682655202">
         <mark key="[" line="66" column="45" />
@@ -160,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="7" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
       <jump line="190" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" />
       <jump line="728" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/FragmentActivity.java" />
       <jump line="62" column="33" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ui/BaseActivity.java" />
@@ -260,10 +260,11 @@
       <jump line="314" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
       <jump line="316" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
       <jump line="46" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
+      <jump line="28" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5Db3JvdXRpbmVTY29wZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51YXRpb24/LnJlc3VtZShjb25uZWN0ZWQpCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -468,61 +469,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>mListener</text>
+        <text>setTar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2hlbiAoc3VwcG9ydEZyYWdtZW50TWFuYWdlci5maW5kRnJhZ21lbnRCeVRhZyhBdXRob3JpemF0aW9uRnJhZ21lbnQuVEFHKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5Db3JvdXRpbmVTY29wZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51YXRpb24/LnJlc3VtZShjb25uZWN0ZWQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFjb25uZWN0ZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KHRoaXNATWFpbkFjdGl2aXR5LCBSLnN0cmluZy5lcnJvcl9ub0Nvbm5lY3Rpb25EaWFsb2dNZXNzYWdlLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpCiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQE1haW5BY3Rpdml0eSwgUi5zdHJpbmcuZXJyb3Jfbm9Db25uZWN0aW9uRGlhbG9nTWVzc2FnZSwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKQogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNvbnRpbnVhdGlvbjogQ29udGludWF0aW9uPEJvb2xlYW4+PyA9IG51bGwK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFjb25uZWN0ZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KHRoaXNATWFpbkFjdGl2aXR5LCBSLnN0cmluZy5lcnJvcl9ub0Nvbm5lY3Rpb25EaWFsb2dNZXNzYWdlLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpCiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQE1haW5BY3Rpdml0eSwgUi5zdHJpbmcuZXJyb3Jfbm9Db25uZWN0aW9uRGlhbG9nTWVzc2FnZSwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3coYWN0aXZpdHkuc3VwcG9ydEZyYWdtZW50TWFuYWdlciwgVEFHKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVhdGlvbiA9IGl0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWNvbm5lY3RlZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3SW5zdGFuY2UoZmFsc2UpLmFwcGx5IHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGZyYWdtZW50ID0gc3VwcG9ydEZyYWdtZW50TWFuYWdlci5maW5kRnJhZ21lbnRCeVRhZyhBdXRob3JpemF0aW9uRnJhZ21lbnQuVEFHKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID0gc3VzcGVuZENvcm91dGluZTxCb29sZWFuPiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICBzdXNwZW5kIGZ1biBzaG93V2lmaVNldHRpbmdzRGlhbG9nKGFjdGl2aXR5OiBGcmFnbWVudEFjdGl2aXR5KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mListener</last-search>
+      <last-search>setTar</last-search>
       <last-offset />
-      <last-pattern>mListener</last-pattern>
+      <last-pattern>setTar</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>util</last-substitute>
       <last-dir>1</last-dir>
@@ -530,7 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>support</entry>
         <entry>setTarget</entry>
         <entry>Target</entry>
         <entry>mTarget</entry>
@@ -550,6 +550,7 @@
         <entry>activatedU</entry>
         <entry>Event</entry>
         <entry>mListener</entry>
+        <entry>setTar</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
