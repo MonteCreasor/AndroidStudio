@@ -15,6 +15,9 @@
         <mark key="]" line="32" column="44" />
         <mark key="." line="32" column="44" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/FcmService.kt" timestamp="1557859822680">
+        <mark key="'" line="91" column="16" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/new-arch/ideal-life/app/src/main/java/com/ideallife/healthtablet/ui/main/MainViewModel.kt" timestamp="1557850964305">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -25,6 +28,9 @@
         <mark key="[" line="36" column="37" />
         <mark key="]" line="36" column="38" />
         <mark key="." line="36" column="38" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/models/security/UserSession.java" timestamp="1557859334156">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/new-arch/ideal-life/app/build.gradle" timestamp="1557856210883">
         <mark key="[" line="33" column="41" />
@@ -165,14 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="55" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" />
-      <jump line="28" column="45" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" />
-      <jump line="29" column="43" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" />
-      <jump line="34" column="45" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" />
-      <jump line="35" column="43" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" />
-      <jump line="39" column="55" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" />
-      <jump line="44" column="45" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" />
-      <jump line="45" column="43" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" />
       <jump line="50" column="43" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" />
       <jump line="59" column="45" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" />
       <jump line="60" column="43" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/xml/preferences.xml" />
@@ -265,6 +263,14 @@
       <jump line="43" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" />
       <jump line="161" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" />
       <jump line="162" column="21" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" />
+      <jump line="9" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/models/security/UserSession.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/models/security/UserSession.java" />
+      <jump line="44" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/FcmService.kt" />
+      <jump line="74" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/FcmService.kt" />
+      <jump line="47" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/FcmService.kt" />
+      <jump line="80" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/FcmService.kt" />
+      <jump line="86" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/FcmService.kt" />
+      <jump line="91" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/FcmService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -312,7 +318,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>instance</text>
+        <text>token</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcua29pbjprb2luLWFuZHJvaWQtdmlld21vZGVsOiRrb2luX3ZlcnNpb24iCg==</text>
@@ -361,9 +367,9 @@
       </register>
     </registers>
     <search>
-      <last-search>instance</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>instance</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>util</last-substitute>
       <last-dir>1</last-dir>
@@ -371,7 +377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sealed</entry>
         <entry>Present</entry>
         <entry>SSL</entry>
         <entry>getString</entry>
@@ -391,6 +396,7 @@
         <entry>dagg</entry>
         <entry>exten</entry>
         <entry>instance</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
