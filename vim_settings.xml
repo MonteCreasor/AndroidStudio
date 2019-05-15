@@ -24,10 +24,11 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/FcmService.kt" timestamp="1557859940640">
         <mark key="'" line="91" column="16" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/new-arch/getting-started-koin-android/app/src/main/kotlin/org/koin/sample/scopeTest.kt" timestamp="1557883052688">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
+      <file name="$USER_HOME$/client/ideal-life/new-arch/getting-started-koin-android/app/src/main/kotlin/org/koin/sample/scopeTest.kt" timestamp="1557892784319">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/new-arch/koin-samples/android-weather-app/src/main/kotlin/fr/ekito/myweatherapp/util/android/FragmentActivityExt.kt" timestamp="1557890427768">
         <mark key="a" line="6" column="2" />
@@ -333,8 +334,8 @@
       <jump line="71" column="68" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-core/2.0.0-GA/11b5fffb890ae8427ef609d2ed458716670c3c0/koin-core-2.0.0-GA-sources.jar!/org/koin/core/module/Module.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIFJldHJpZXZlIGFyZ3VtZW50IGZyb20gQWN0aXZpdHkgaW50ZW50CiAqLwpmdW4gPFQgOiBBbnk+IEZyYWdtZW50QWN0aXZpdHkuYXJndW1lbnQoa2V5OiBTdHJpbmcpID0KICAgIGxhenkgeyBpbnRlbnQuZXh0cmFzW2tleV0gYXM/IFQgPzogZXJyb3IoIkludGVudCBBcmd1bWVudCAka2V5IGlzIG1pc3NpbmciKSB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -375,10 +376,10 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>isCreatedAtS</text>
+        <text>weatherDataS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIFJldHJpZXZlIGFyZ3VtZW50IGZyb20gQWN0aXZpdHkgaW50ZW50CiAqLwpmdW4gPFQgOiBBbnk+IEZyYWdtZW50QWN0aXZpdHkuYXJndW1lbnQoa2V5OiBTdHJpbmcpID0KICAgIGxhenkgeyBpbnRlbnQuZXh0cmFzW2tleV0gYXM/IFQgPzogZXJyb3IoIkludGVudCBBcmd1bWVudCAka2V5IGlzIG1pc3NpbmciKSB9Cg==</text>
@@ -427,9 +428,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isCreatedAtS</last-search>
+      <last-search>weatherDataS</last-search>
       <last-offset />
-      <last-pattern>isCreatedAtS</last-pattern>
+      <last-pattern>weatherDataS</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>util</last-substitute>
       <last-dir>1</last-dir>
@@ -437,7 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getString</entry>
         <entry>Eula</entry>
         <entry>getBool</entry>
         <entry>mEulaKey</entry>
@@ -457,6 +457,7 @@
         <entry>token</entry>
         <entry>create</entry>
         <entry>isCreatedAtS</entry>
+        <entry>weatherDataS</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
