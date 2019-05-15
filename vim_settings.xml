@@ -183,18 +183,20 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/new-arch/getting-started-koin-android/app/src/main/kotlin/org/koin/sample/AppModule.kt" timestamp="1557886082306">
-        <mark key="a" line="36" column="15" />
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="27" />
-        <mark key="^" line="40" column="27" />
-        <mark key="." line="40" column="27" />
+      <file name="$USER_HOME$/client/ideal-life/new-arch/getting-started-koin-android/app/src/main/kotlin/org/koin/sample/AppModule.kt" timestamp="1557895297260">
+        <mark key="a" line="38" column="15" />
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/new-arch/getting-started-koin-android/app/src/main/kotlin/org/koin/sample/view/scope/MyScopeActivity.kt" timestamp="1557886634411">
-        <mark key="[" line="33" column="33" />
-        <mark key="]" line="34" column="7" />
-        <mark key="^" line="34" column="7" />
-        <mark key="." line="34" column="7" />
+      <file name="$USER_HOME$/client/ideal-life/new-arch/getting-started-koin-android/app/src/main/kotlin/org/koin/sample/view/scope/MyScopeActivity.kt" timestamp="1557894943988">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="17" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/new-arch/koin-samples/build.gradle" timestamp="1557888064047">
         <mark key="[" line="2" column="17" />
@@ -232,8 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="22" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/layout/register.xml" />
-      <jump line="201" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
       <jump line="95" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
       <jump line="276" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
       <jump line="112" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
@@ -332,10 +332,12 @@
       <jump line="42" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-core/2.0.0-GA/11b5fffb890ae8427ef609d2ed458716670c3c0/koin-core-2.0.0-GA-sources.jar!/org/koin/core/module/Module.kt" />
       <jump line="31" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-core/2.0.0-GA/11b5fffb890ae8427ef609d2ed458716670c3c0/koin-core-2.0.0-GA-sources.jar!/org/koin/core/module/Module.kt" />
       <jump line="71" column="68" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-core/2.0.0-GA/11b5fffb890ae8427ef609d2ed458716670c3c0/koin-core-2.0.0-GA-sources.jar!/org/koin/core/module/Module.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/client/ideal-life/new-arch/getting-started-koin-android/app/src/main/kotlin/org/koin/sample/view/scope/MyScopeActivity.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/client/ideal-life/new-arch/getting-started-koin-android/app/src/main/kotlin/org/koin/sample/AppModule.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -376,13 +378,13 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>weatherDataS</text>
+        <text>viewMod</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIFJldHJpZXZlIGFyZ3VtZW50IGZyb20gQWN0aXZpdHkgaW50ZW50CiAqLwpmdW4gPFQgOiBBbnk+IEZyYWdtZW50QWN0aXZpdHkuYXJndW1lbnQoa2V5OiBTdHJpbmcpID0KICAgIGxhenkgeyBpbnRlbnQuZXh0cmFzW2tleV0gYXM/IFQgPzogZXJyb3IoIkludGVudCBBcmd1bWVudCAka2V5IGlzIG1pc3NpbmciKSB9Cg==</text>
+        <text encoding="base64">ICAgIHZpZXdNb2RlbCB7IE15Vmlld01vZGVsKGdldCgpKSB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -391,46 +393,46 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cHJpdmF0ZSB2YWwgdmlld01vZGVsOiBNeVZpZXdNb2RlbCBieSB2aWV3TW9kZWwoc2NvcGUgPSBnZXRLb2luKCkuZ2V0U2NvcGUobmFtZWQoImFzZGYiKSkgKQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwgeyBNeVZpZXdNb2RlbChnZXQoKSkgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJmb29iYXIxID0gJGZvb2JhcjEiKQo=</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwgeyBNeVZpZXdNb2RlbChnZXQoKSkgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJmb29iYXIyID0gJGZvb2JhcjIiKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeHh4ID0gKHRoaXMgYXMgTGlmZWN5Y2xlT3duZXIpLmdldCgpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb29iYXJTY29wZS4K</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIk9LIikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJmb29iYXIxID0gJGZvb2JhcjEiKQo=</text>
+        <text encoding="base64">ZnVuIExpZmVjeWNsZU93bmVyLmdldCgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJmb29iYXIxID0gJGZvb2JhcjEiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>weatherDataS</last-search>
+      <last-search>viewMod</last-search>
       <last-offset />
-      <last-pattern>weatherDataS</last-pattern>
+      <last-pattern>viewMod</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>util</last-substitute>
       <last-dir>1</last-dir>
@@ -438,7 +440,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Eula</entry>
         <entry>getBool</entry>
         <entry>mEulaKey</entry>
         <entry>getBoolean</entry>
@@ -458,6 +459,7 @@
         <entry>create</entry>
         <entry>isCreatedAtS</entry>
         <entry>weatherDataS</entry>
+        <entry>viewMod</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
