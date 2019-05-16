@@ -32,9 +32,6 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" timestamp="1558038586150">
-        <mark key="'" line="169" column="38" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/AbstractAuthenticatedService.java" timestamp="1558039795883">
         <mark key="[" line="42" column="31" />
         <mark key="]" line="42" column="31" />
@@ -98,6 +95,9 @@
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/AbstractService.java" timestamp="1557947395603">
         <mark key="'" line="28" column="11" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" timestamp="1558047088280">
+        <mark key="'" line="110" column="96" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-core/2.0.0-GA/11b5fffb890ae8427ef609d2ed458716670c3c0/koin-core-2.0.0-GA-sources.jar!/org/koin/core/registry/ScopeRegistry.kt" timestamp="1557899488015">
         <mark key="'" line="76" column="53" />
@@ -234,12 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/WebApiRepositoryConfiguration.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/WebApiRepositoryConfiguration.kt" />
-      <jump line="9" column="84" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/WebApiRepositoryConfiguration.kt" />
-      <jump line="107" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
-      <jump line="122" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
-      <jump line="1" column="29" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
       <jump line="2" column="30" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
       <jump line="94" column="49" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
       <jump line="43" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" />
@@ -334,6 +328,12 @@
       <jump line="26" column="22" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/models/clinical/Reading.java" />
       <jump line="0" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/WebApiRepositoryConfig.kt" />
       <jump line="13" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/WebApiRepositoryConfig.kt" />
+      <jump line="40" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" />
+      <jump line="45" column="42" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" />
+      <jump line="61" column="72" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" />
+      <jump line="63" column="35" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" />
+      <jump line="64" column="32" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" />
+      <jump line="110" column="96" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -381,7 +381,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>throw new WebApiNot</text>
+        <text>config</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcua29pbi5qYXZhLktvaW5KYXZhQ29tcG9uZW50LmluamVjdDsK</text>
@@ -430,9 +430,9 @@
       </register>
     </registers>
     <search>
-      <last-search>throw new WebApiNot</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>throw new WebApiNot</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>util</last-substitute>
       <last-dir>1</last-dir>
@@ -440,8 +440,6 @@
     </search>
     <history>
       <history-search>
-        <entry>activatedUser</entry>
-        <entry>setUser</entry>
         <entry>ActivatedU</entry>
         <entry>Create</entry>
         <entry>comp</entry>
@@ -460,6 +458,8 @@
         <entry>getG</entry>
         <entry>getUserA</entry>
         <entry>throw new WebApiNot</entry>
+        <entry encoding="base64">cmV0dXJuIA==</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
