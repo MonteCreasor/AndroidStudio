@@ -41,11 +41,11 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/models/ActivatedUser.java" timestamp="1558037516890">
         <mark key="'" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/security/WebApiUsersRepository.java" timestamp="1558046137953">
-        <mark key="[" line="33" column="77" />
-        <mark key="]" line="33" column="77" />
-        <mark key="." line="33" column="77" />
-        <mark key="^" line="35" column="99" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/security/WebApiUsersRepository.java" timestamp="1558065113069">
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="34" column="12" />
+        <mark key="^" line="34" column="12" />
+        <mark key="." line="34" column="12" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/devices/WebApiMessagingRepository.java" timestamp="1558044016097">
         <mark key="[" line="20" column="0" />
@@ -156,6 +156,12 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="111" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" timestamp="1558064944797">
+        <mark key="'" line="15" column="18" />
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="43" />
+        <mark key="." line="30" column="43" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/build.gradle" timestamp="1558044803009">
         <mark key="[" line="33" column="48" />
         <mark key="]" line="33" column="49" />
@@ -234,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="30" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
       <jump line="94" column="49" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
       <jump line="43" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" />
       <jump line="161" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" />
@@ -334,10 +339,11 @@
       <jump line="63" column="35" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" />
       <jump line="64" column="32" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" />
       <jump line="110" column="96" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" />
+      <jump line="15" column="18" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractAuthenticatedWebApiRepository.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -378,10 +384,10 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>return</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcua29pbi5qYXZhLktvaW5KYXZhQ29tcG9uZW50LmluamVjdDsK</text>
@@ -430,9 +436,9 @@
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>return</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>return</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>util</last-substitute>
       <last-dir>1</last-dir>
@@ -440,8 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ActivatedU</entry>
-        <entry>Create</entry>
         <entry>comp</entry>
         <entry>Device</entry>
         <entry>getDevice</entry>
@@ -460,6 +464,8 @@
         <entry>throw new WebApiNot</entry>
         <entry encoding="base64">cmV0dXJuIA==</entry>
         <entry>config</entry>
+        <entry>return null</entry>
+        <entry>return</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
