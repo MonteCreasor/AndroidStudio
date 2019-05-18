@@ -582,9 +582,14 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cd00" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffee80" />
+        <option name="FOREGROUND" value="ff0000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -593,9 +598,19 @@
         <option name="FOREGROUND" value="88ff" />
       </value>
     </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="857b7b" />
+      </value>
+    </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="9effff" />
+        <option name="FOREGROUND" value="ff8400" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
