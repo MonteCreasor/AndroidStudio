@@ -37,6 +37,9 @@
         <mark key="." line="34" column="79" />
         <mark key="^" line="34" column="79" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectionDialogFragment.kt" timestamp="1558282763623">
+        <mark key="'" line="128" column="31" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/new-arch/getting-started-koin-android/app/src/main/kotlin/org/koin/sample/scopeTest.kt" timestamp="1557892784319">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="10" />
@@ -113,6 +116,12 @@
         <mark key="]" line="78" column="79" />
         <mark key="." line="78" column="79" />
         <mark key="^" line="78" column="79" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ClearUserDataActivity.kt" timestamp="1558282210336">
+        <mark key="[" line="64" column="9" />
+        <mark key="]" line="64" column="70" />
+        <mark key="^" line="64" column="70" />
+        <mark key="." line="64" column="70" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" timestamp="1558204499628">
         <mark key="[" line="140" column="39" />
@@ -265,9 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="68" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
-      <jump line="158" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
-      <jump line="162" column="55" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="78" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="108" column="79" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
       <jump line="127" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" />
@@ -365,6 +371,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ui/BaseActivity.java" />
       <jump line="300" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ui/BaseActivity.java" />
       <jump line="192" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ui/BaseActivity.java" />
+      <jump line="133" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectionDialogFragment.kt" />
+      <jump line="210" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectionDialogFragment.kt" />
+      <jump line="128" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectionDialogFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -412,7 +421,7 @@
         <text encoding="base64">Ly8g</text>
       </register>
       <register name="/" type="4">
-        <text>startTu</text>
+        <text>RC_SETTINGS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ29yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOicgKyB2ZXJzaW9ucy5rb3RsaW4K</text>
@@ -461,9 +470,9 @@
       </register>
     </registers>
     <search>
-      <last-search>startTu</last-search>
+      <last-search>RC_SETTINGS</last-search>
       <last-offset />
-      <last-pattern>startTu</last-pattern>
+      <last-pattern>RC_SETTINGS</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>util</last-substitute>
       <last-dir>1</last-dir>
@@ -471,7 +480,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">cmV0dXJuIA==</entry>
         <entry>config</entry>
         <entry>return null</entry>
         <entry>return</entry>
@@ -491,6 +499,7 @@
         <entry>EventBus\.</entry>
         <entry>: null</entry>
         <entry>startTu</entry>
+        <entry>RC_SETTINGS</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
