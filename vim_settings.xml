@@ -10,7 +10,7 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" timestamp="1558319271102">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" timestamp="1558321841121">
         <mark key="a" line="167" column="27" />
         <mark key="'" line="68" column="4" />
         <mark key="[" line="167" column="38" />
@@ -24,13 +24,13 @@
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/models/util/WebApiConnectionException.java" timestamp="1558316777010" />
       <file name="/MainViewModel.kt" timestamp="1558306821712" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiHelper.kt" timestamp="1558320683584">
-        <mark key="a" line="51" column="58" />
-        <mark key="'" line="10" column="48" />
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="24" />
-        <mark key="^" line="33" column="24" />
-        <mark key="." line="33" column="24" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiHelper.kt" timestamp="1558321827610">
+        <mark key="a" line="85" column="4" />
+        <mark key="'" line="11" column="48" />
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="73" column="3" />
+        <mark key="^" line="73" column="3" />
+        <mark key="." line="73" column="3" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainViewModel.kt" timestamp="1558307103993">
         <mark key="a" line="47" column="11" />
@@ -86,11 +86,12 @@
         <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessagesNotificationHelper.kt" timestamp="1558305087072" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/devices/ActivationServices.java" timestamp="1558320547627">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/devices/ActivationServices.java" timestamp="1558321464120">
         <mark key="a" line="36" column="11" />
         <mark key="'" line="24" column="6" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="95" />
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -196,8 +197,8 @@
       <jump line="24" column="6" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/devices/ActivationServices.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>activationToken</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFsIHNlc3Npb24gPSBnZXRTZXNzaW9uU3luYyh0aGlzLCB1c2VyKQovLyAgICAgICAgICAgICAgICB2YWwgZXVzID0gc2VydmljZXNGYWN0b3J5LmNyZWF0ZUVuZFVzZXJzU2VydmljZXMoc2Vzc2lvbiEhKQovLyAgICAgICAgICAgICAgICB2YWwgZW5kVXNlciA9IGV1cy5nZXRFbmRVc2VyQnlJZCh1c2VyLnBhdGllbnRJZCkKLy8gICAgICAgICAgICAgICAgdXNlci50aW1lWm9uZUlkID0gZW5kVXNlciEhLnRpbWVab25lSWQKLy8gICAgICAgICAgICAgICAgdXNlclNlcnZpY2Uuc2F2ZUFjdGl2YXRlZFVzZXIodXNlcikK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -238,52 +239,52 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text>activationToken</text>
+        <text encoding="base64">c3VzcGVuZCA=</text>
       </register>
       <register name="/" type="4">
         <text>setAc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBEZXZpY2VBY3RpdmF0aW9uVG9rZW4gYWN0aXZhdGVEZXZpY2UoU3RyaW5nIHRva2VuKSB0aHJvd3MgTmV0d29ya0Nvbm5lY3Rpb25FeGNlcHRpb24K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFsIHNlc3Npb24gPSBnZXRTZXNzaW9uU3luYyh0aGlzLCB1c2VyKQovLyAgICAgICAgICAgICAgICB2YWwgZXVzID0gc2VydmljZXNGYWN0b3J5LmNyZWF0ZUVuZFVzZXJzU2VydmljZXMoc2Vzc2lvbiEhKQovLyAgICAgICAgICAgICAgICB2YWwgZW5kVXNlciA9IGV1cy5nZXRFbmRVc2VyQnlJZCh1c2VyLnBhdGllbnRJZCkKLy8gICAgICAgICAgICAgICAgdXNlci50aW1lWm9uZUlkID0gZW5kVXNlciEhLnRpbWVab25lSWQKLy8gICAgICAgICAgICAgICAgdXNlclNlcnZpY2Uuc2F2ZUFjdGl2YXRlZFVzZXIodXNlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2YXRpb25Ub2tlbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCB0b2tlbiA9IGFjdGl2YXRpb25TZXJ2aWNlcy5hY3RpdmF0ZURldmljZShjb2RlKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBhY3RpdmF0aW9uU2VydmljZXMgPSBzZXJ2aWNlc0ZhY3RvcnkuY3JlYXRlQWN0aXZhdGlvblNlcnZpY2VzKCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBBY3RpdmF0aW9uUmVzdWx0LkZhaWx1cmUoZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBJbnZhbGlkQXBwbGljYXRpb25LZXlFeGNlcHRpb24pIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEFjdGl2YXRpb25Ub2tlbihjb2RlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
