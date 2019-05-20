@@ -38,9 +38,9 @@
         <mark key="^" line="142" column="36" />
         <mark key="." line="140" column="39" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" timestamp="1558308588845">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" timestamp="1558312435485">
         <mark key="a" line="167" column="27" />
-        <mark key="'" line="5" column="37" />
+        <mark key="'" line="93" column="8" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="108" column="100" />
         <mark key="." line="167" column="39" />
@@ -53,8 +53,9 @@
         <mark key="^" line="181" column="16" />
         <mark key="." line="182" column="8" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ui/BaseActivity.java" timestamp="1558298601934">
-        <mark key="'" line="192" column="16" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/WebApiService.java" timestamp="1558312449236">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="53" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/App.kt" timestamp="1558289199660">
         <mark key="'" line="26" column="49" />
@@ -69,9 +70,6 @@
         <mark key="]" line="99" column="62" />
         <mark key="." line="99" column="62" />
         <mark key="^" line="99" column="62" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/DialogFragment.java" timestamp="1558288561065">
-        <mark key="'" line="269" column="5" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/service/services/NotificationServices.java" timestamp="1558041659902">
         <mark key="'" line="194" column="0" />
@@ -100,10 +98,12 @@
         <mark key="." line="329" column="15" />
         <mark key="^" line="329" column="15" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiHelper.kt" timestamp="1558308595135">
-        <mark key="'" line="19" column="48" />
-        <mark key="[" line="32" column="50" />
-        <mark key="^" line="32" column="49" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiHelper.kt" timestamp="1558312646198">
+        <mark key="'" line="20" column="48" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="38" column="57" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/ConnectionHelper.kt" timestamp="1558287986489">
         <mark key="'" line="70" column="43" />
@@ -136,6 +136,10 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1558305087072" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/util/HealthTabletStartupReceiver.kt" timestamp="1558290173182">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="77" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/FcmApiService.kt" timestamp="1558306465139">
         <mark key="a" line="88" column="0" />
         <mark key="'" line="41" column="12" />
@@ -210,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
       <jump line="280" column="41" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
       <jump line="304" column="41" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
       <jump line="313" column="66" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
@@ -310,10 +313,11 @@
       <jump line="21" column="48" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiHelper.kt" />
       <jump line="0" column="38" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" />
       <jump line="5" column="37" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" />
+      <jump line="93" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXNlclNlcnZpY2UgdXNlclNlcnZpY2UgPSBuZXcgVXNlclNlcnZpY2UobmV3IFNxbFVzZXJSZXBvc2l0b3J5KHRoaXMpKTsKICAgICAgICAgICAgQWN0aXZhdGlvblNlcnZpY2VzIGFjdGl2YXRpb25TZXJ2aWNlcyA9IGdldFNlcnZpY2VzRmFjdG9yeSgpLmNyZWF0ZUFjdGl2YXRpb25TZXJ2aWNlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChSZWdpc3RyYXRpb25TZXJ2aWNlSGVscGVyLlNldEFjdGl2YXRpb25Db2RlRXZlbnQoaWYgKHN1Y2Nlc3MpIGNvZGUgZWxzZSBudWxsKSkK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -354,61 +358,61 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text>, a: ActivationServices) {</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>a\.</text>
+        <text>getS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXNlclNlcnZpY2UgdXNlclNlcnZpY2UgPSBuZXcgVXNlclNlcnZpY2UobmV3IFNxbFVzZXJSZXBvc2l0b3J5KHRoaXMpKTsKICAgICAgICAgICAgQWN0aXZhdGlvblNlcnZpY2VzIGFjdGl2YXRpb25TZXJ2aWNlcyA9IGdldFNlcnZpY2VzRmFjdG9yeSgpLmNyZWF0ZUFjdGl2YXRpb25TZXJ2aWNlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtU2VydmljZXNGYWN0b3J5ID0gbmV3IFNlcnZpY2VzRmFjdG9yeSh0aGlzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUaHJvd3MoTmV0d29ya0Nvbm5lY3Rpb25FeGNlcHRpb246OmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChSZWdpc3RyYXRpb25TZXJ2aWNlSGVscGVyLlNldEFjdGl2YXRpb25Db2RlRXZlbnQoaWYgKHN1Y2Nlc3MpIGNvZGUgZWxzZSBudWxsKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUaHJvd3MoTmV0d29ya0Nvbm5lY3Rpb25FeGNlcHRpb246OmNsYXNzKQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWN0aW9uID0gaW50ZW50LmFjdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBvbkhhbmRsZUludGVudChpbnRlbnQ6IEludGVudCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWN0aW9uID0gaW50ZW50LmFjdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBvbkhhbmRsZUludGVudChpbnRlbnQ6IEludGVudCkgewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmROb0FwaUNvbm5lY3Rpb25FdmVudChOb0FwaUNvbm5lY3Rpb25FdmVudC5SZXF1ZXN0VHlwZS5BdXRob3JpemF0aW9uLCBlLCBhY3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>a\.</last-search>
+      <last-search>getS</last-search>
       <last-offset />
-      <last-pattern>a\.</last-pattern>
+      <last-pattern>getS</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>util</last-substitute>
       <last-dir>1</last-dir>
@@ -416,7 +420,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ViewF</entry>
         <entry>Flip</entry>
         <entry>mAc</entry>
         <entry>session</entry>
@@ -436,6 +439,7 @@
         <entry>user</entry>
         <entry>activationS</entry>
         <entry>a\.</entry>
+        <entry>getS</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
