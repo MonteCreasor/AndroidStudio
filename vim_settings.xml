@@ -42,8 +42,10 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="53" />
       </file>
-      <file name="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieVm.kt" timestamp="1558460904827">
+      <file name="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieVm.kt" timestamp="1558462748888">
         <mark key="'" line="98" column="24" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="56" />
       </file>
       <file name="$USER_HOME$/tools/android/sdk/sources/android-28/android/app/NotificationManager.java" timestamp="1558402453173">
         <mark key="'" line="63" column="26" />
@@ -74,15 +76,17 @@
         <mark key="^" line="113" column="50" />
         <mark key="." line="113" column="50" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainViewModel.kt" timestamp="1558460181651">
-        <mark key="a" line="102" column="7" />
-        <mark key="'" line="138" column="47" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="59" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="62" column="3" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainViewModel.kt" timestamp="1558462716204">
+        <mark key="a" line="55" column="0" />
+        <mark key="'" line="82" column="47" />
+        <mark key="[" line="89" column="5" />
+        <mark key="]" line="90" column="3" />
+        <mark key="^" line="90" column="3" />
+        <mark key="." line="90" column="3" />
       </file>
-      <file name="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieActivity.kt" timestamp="1558460681305" />
+      <file name="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieActivity.kt" timestamp="1558462686811">
+        <mark key="'" line="116" column="62" />
+      </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1558448197388" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.kt" timestamp="1558299048290">
         <mark key="[" line="35" column="0" />
@@ -264,12 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="68" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainActivity.kt" />
-      <jump line="276" column="14" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainActivity.kt" />
-      <jump line="21" column="48" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainActivity.kt" />
-      <jump line="110" column="36" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainActivity.kt" />
-      <jump line="61" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/MainViewModel.kt" />
-      <jump line="257" column="17" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
       <jump line="301" column="0" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/ui/kiosk/KioskFragment.kt" />
       <jump line="22" column="13" filename="$USER_HOME$/ccs/ccs-intake-app/app/src/main/java/monte/apps/kiosk/logging/TimberReleaseTree.kt" />
       <jump line="47" column="8" filename="$USER_HOME$/ccs/ccs-intake-app/versions.gradle" />
@@ -364,10 +362,16 @@
       <jump line="34" column="22" filename="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieVm.kt" />
       <jump line="88" column="8" filename="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieVm.kt" />
       <jump line="98" column="24" filename="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieVm.kt" />
+      <jump line="54" column="18" filename="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieActivity.kt" />
+      <jump line="59" column="18" filename="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieActivity.kt" />
+      <jump line="62" column="22" filename="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieActivity.kt" />
+      <jump line="67" column="22" filename="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieActivity.kt" />
+      <jump line="110" column="6" filename="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieActivity.kt" />
+      <jump line="116" column="62" filename="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBvbWRiX2FwaWtleSA9ICJUT0RPIgo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRUb1ZpZXdTdGF0ZShMY2UuQ29udGVudChTY3JlZW5Mb2FkUmVzdWx0KSkK</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -408,61 +412,61 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text>omdb_apikey</text>
+        <text>TODO()</text>
       </register>
       <register name="/" type="4">
-        <text>currentViewS</text>
+        <text>onEvent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3QgU2NyZWVuTG9hZEV2ZW50OiBFdmVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRUb1ZpZXdTdGF0ZShMY2UuQ29udGVudChTY3JlZW5Mb2FkUmVzdWx0KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBvbWRiX2FwaWtleSA9ICJUT0RPIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBvbWRiX2FwaWtleSA9ICJUT0RPIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAnU3RyaW5nJywgIk9NREJfQVBJX0tFWSIsIG9tZGJfYXBpa2V5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhIGNsYXNzIEFjdGl2YXRlRXZlbnQodmFsIGNvZGU6IFN0cmluZyk6IEV2ZW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IHNldEFjdGlvbihFWElUKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTVUNDRUVERUQgLT4gc2V0QWN0aW9uKEFDVElWQVRFKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZW4gKHJlc3VsdC5zdGF0dXMpIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93TWFpbkZyYWdtZW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAtPiBUT0RPKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBwb3J0RnJhZ21lbnRNYW5hZ2VyLmJlZ2luVHJhbnNhY3Rpb24oKQogICAgICAgICAgICAgICAgLnJlcGxhY2UoUi5pZC5mcmFnbWVudF9jb250YWluZXIsIE1haW5GcmFnbWVudC5uZXdJbnN0YW5jZSh1c2VyKSkKICAgICAgICAgICAgICAgIC5jb21taXRBbGxvd2luZ1N0YXRlTG9zcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>currentViewS</last-search>
+      <last-search>onEvent</last-search>
       <last-offset />
-      <last-pattern>currentViewS</last-pattern>
+      <last-pattern>onEvent</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>util</last-substitute>
       <last-dir>1</last-dir>
@@ -470,7 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mE</entry>
         <entry>mEulaK</entry>
         <entry>startAu</entry>
         <entry>EUL</entry>
@@ -490,6 +493,7 @@
         <entry>Eul</entry>
         <entry>Eula</entry>
         <entry>currentViewS</entry>
+        <entry>onEvent</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
