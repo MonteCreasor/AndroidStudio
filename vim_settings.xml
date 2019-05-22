@@ -40,6 +40,14 @@
       <file name="$USER_HOME$/android/mvi/movies-usf/app/src/main/java/co/kaush/msusf/movies/MSMovieVm.kt" timestamp="1558506426866">
         <mark key="'" line="120" column="40" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" timestamp="1558564431881">
+        <mark key="a" line="2" column="14" />
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="21" column="42" />
+        <mark key="." line="78" column="41" />
+        <mark key="^" line="77" column="68" />
+      </file>
       <file name="/AuthorizationApiService.java" timestamp="1558478836130">
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="96" />
@@ -78,6 +86,12 @@
       </file>
       <file name="/fragment.kt" timestamp="1558553989361">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivationFragment.kt" timestamp="1558564458373">
+        <mark key="'" line="119" column="16" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/java/com/ideallife/healthtablet/debugtools/settings/ui/adapters/EnumCheckedListAdapter.kt" timestamp="1558548264751">
         <mark key="[" line="8" column="0" />
@@ -149,7 +163,6 @@
         <mark key="." line="104" column="69" />
         <mark key="^" line="104" column="69" />
       </file>
-      <file name="$USER_HOME$/doug/WebCrawler/image-crawler/src/main/java/edu/vanderbilt/crawlers/framework/ImageCrawlerBase.java" timestamp="1558542130228" />
       <file name="$USER_HOME$/android/mvi/movies-usf/app/build.gradle" timestamp="1558461311875">
         <mark key="[" line="22" column="24" />
         <mark key="]" line="23" column="0" />
@@ -215,10 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="17" filename="/AuthorizationFragment.java" />
-      <jump line="168" column="8" filename="/AuthorizationFragment.java" />
-      <jump line="179" column="95" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" />
-      <jump line="187" column="30" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" />
       <jump line="262" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainViewModel.kt" />
       <jump line="151" column="38" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainViewModel.kt" />
       <jump line="241" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainViewModel.kt" />
@@ -315,10 +324,14 @@
       <jump line="6" column="26" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivationViewModel.kt" />
       <jump line="100" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
       <jump line="35" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
+      <jump line="65" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.kt" />
+      <jump line="56" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivationFragment.kt" />
+      <jump line="110" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivationFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -362,58 +375,58 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>ViewM</text>
+        <text>onC</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHZpZXdTdGF0ZTogVmlld1N0YXRlPyA9IG51bGwK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlCmltcG9ydCBhbmRyb2lkLnZpZXcuTGF5b3V0SW5mbGF0ZXIKaW1wb3J0IGFuZHJvaWQudmlldy5WaWV3CmltcG9ydCBhbmRyb2lkLnZpZXcuVmlld0dyb3VwCmltcG9ydCBhbmRyb2lkLndpZGdldC5CdXR0b24KaW1wb3J0IGFuZHJvaWQud2lkZ2V0LkxpbmVhckxheW91dAppbXBvcnQgYW5kcm9pZC53aWRnZXQuVGV4dFZpZXcKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRvYXN0LkxFTkdUSF9TSE9SVAppbXBvcnQgYW5kcm9pZC53aWRnZXQuVG9hc3QubWFrZVRleHQKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlZpZXdGbGlwcGVyCmltcG9ydCBhbmRyb2lkeC5mcmFnbWVudC5hcHAuRnJhZ21lbnQKaW1wb3J0IGFuZHJvaWR4LmxpZmVjeWNsZS5WaWV3TW9kZWxQcm92aWRlcnMKaW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LlIKaW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LmV4dGVuc2lvbnMucmVvYnNlcnZlCmltcG9ydCBjb20uaWRlYWxsaWZlLmhlYWx0aHRhYmxldC5mcmFnbWVudHMuTWFpblZpZXdNb2RlbC5FdmVudAppbXBvcnQgY29tLmlkZWFsbGlmZS5oZWFsdGh0YWJsZXQuZnJhZ21lbnRzLk1haW5WaWV3TW9kZWwuVmlld1N0YXRlCmltcG9ydCBjb20uaWRlYWxsaWZlLmhlYWx0aHRhYmxldC5mcmFnbWVudHMuTWFpblZpZXdNb2RlbC5WaWV3U3RhdGUuKgppbXBvcnQgY29tLmlkZWFsbGlmZS5oZWFsdGh0YWJsZXQubW9kZWxzLkFjdGl2YXRlZFVzZXIKaW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LnNlcnZpY2VzLlJlZ2lzdHJhdGlvblNlcnZpY2VIZWxwZXIKaW1wb3J0IGphdmF4Lm5ldC5zc2wuU1NMSGFuZHNoYWtlRXhjZXB0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvbkMK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHJlZ2lzdHJhdGlvblNlcnZpY2VIZWxwZXI6IFJlZ2lzdHJhdGlvblNlcnZpY2VIZWxwZXIK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNvbm5lY3Rpb25EaWFsb2dGcmFnbWVudEZpbmlzaGVkKGNvbm5lY3RlZDogQm9vbGVhbikgewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQoK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LnNlcnZpY2VzLlJlZ2lzdHJhdGlvblNlcnZpY2VIZWxwZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IF9saXZlU2Vzc2lvblJlYWR5Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pZGVhbGxpZmUuaGVhbHRodGFibGV0LlIK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaXZlU2Vzc2lvbjogTGl2ZURhdGE8Qm9vbGVhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3R3JvdXAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9UT0RPOm1vbnRlIHJlbW92ZQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIkb2xkIC0+ICRuZXciKQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5MYXlvdXRJbmZsYXRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w asdf</text>
       </register>
     </registers>
     <search>
-      <last-search>ViewM</last-search>
+      <last-search>onC</last-search>
       <last-offset />
-      <last-pattern>ViewM</last-pattern>
+      <last-pattern>onC</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>fun setSt</last-substitute>
       <last-dir>1</last-dir>
@@ -421,7 +434,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEaXNwbGF5U2Vzc2lvbkVycm9yU3RhdGVcPg==</entry>
         <entry>getSess</entry>
         <entry>Login</entry>
         <entry>onEvent</entry>
@@ -441,6 +453,7 @@
         <entry>Ignor</entry>
         <entry>liveSess</entry>
         <entry>ViewM</entry>
+        <entry>onC</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
