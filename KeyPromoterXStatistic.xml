@@ -17,6 +17,22 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Apply Changes and Restart Activity">
+        <Item>
+          <IdeaActionID>android.deploy.ApplyChanges</IdeaActionID>
+          <ShortCut>'Ctrl+F10'</ShortCut>
+          <Description>Apply Changes and Restart Activity</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Apply Code Changes">
+        <Item>
+          <IdeaActionID>android.deploy.CodeSwap</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F10'</ShortCut>
+          <Description>Apply Code Changes</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -30,7 +46,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'app'">
@@ -46,7 +62,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'tablet-app'</Description>
-          <Count>161</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -78,7 +94,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>28</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -102,7 +118,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>226</Count>
+          <Count>231</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -190,7 +206,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tablet-app'</Description>
-          <Count>91</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
