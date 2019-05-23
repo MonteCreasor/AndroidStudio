@@ -46,6 +46,12 @@
         <mark key="]" line="91" column="24" />
         <mark key="." line="91" column="24" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivateFragment.kt" timestamp="1558595563696">
+        <mark key="'" line="66" column="4" />
+        <mark key="[" line="75" column="36" />
+        <mark key="]" line="75" column="36" />
+        <mark key="." line="75" column="36" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" timestamp="1558580320334">
         <mark key="'" line="19" column="52" />
         <mark key="[" line="26" column="58" />
@@ -125,9 +131,6 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/menu/menu_base_activity.xml" timestamp="1558575306508">
         <mark key="'" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.0.0/bcd167792ec03e930d5c8345c99ae07b2627de84/fragment-1.0.0-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1558597733592">
-        <mark key="'" line="1068" column="28" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ClearUserDataActivity.kt" timestamp="1558572152066">
         <mark key="[" line="69" column="22" />
         <mark key="]" line="69" column="23" />
@@ -139,6 +142,12 @@
         <mark key="]" line="339" column="0" />
         <mark key="^" line="60" column="15" />
         <mark key="." line="339" column="0" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/security/WebApiAuthenticationRepository.kt" timestamp="1558642690083">
+        <mark key="'" line="31" column="75" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/layout/fragment_main.xml" timestamp="1558628651660">
         <mark key="[" line="28" column="55" />
@@ -273,9 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessageActivity.kt" />
-      <jump line="52" column="13" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MessageActivity.kt" />
-      <jump line="63" column="18" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
       <jump line="62" column="22" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
       <jump line="74" column="15" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
       <jump line="77" column="56" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/MainActivity.kt" />
@@ -373,10 +379,13 @@
       <jump line="136" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="139" column="81" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
       <jump line="138" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
+      <jump line="31" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/security/WebApiAuthenticationRepository.kt" />
+      <jump line="33" column="56" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/security/WebApiAuthenticationRepository.kt" />
+      <jump line="37" column="75" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/security/WebApiAuthenticationRepository.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgCg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -417,61 +426,61 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>responseContent</text>
       </register>
       <register name="/" type="4">
-        <text>endUser</text>
+        <text>response</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEZXZpY2UuY3JlYXRlKGFjdGl2YXRlZFVzZXIuZGV2aWNlSWQsIGFjdGl2YXRlZFVzZXIudXNlck51bWJlcikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgQXV0aGVudGljYXRpb25FeGNlcHRpb24K</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gVW5pdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEZXZpY2UuY3JlYXRlKGFjdGl2YXRlZFVzZXIuZGV2aWNlSWQsIGFjdGl2YXRlZFVzZXIudXNlck51bWJlcikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWVycm9ycy5pc051bGxPckVtcHR5KCkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRNZXNzYWdpbmdTZXJ2aWNlcygpLmdldEYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWVzc2FnZXMgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>endUser</last-search>
+      <last-search>response</last-search>
       <last-offset />
-      <last-pattern>endUser</last-pattern>
+      <last-pattern>response</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>swipe</last-substitute>
       <last-dir>1</last-dir>
@@ -479,7 +488,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bnJlYWRfYmFkZ2VfbWVzc2FnZXNcPg==</entry>
         <entry>!!</entry>
         <entry>Listener</entry>
         <entry>TAG</entry>
@@ -499,6 +507,7 @@
         <entry>\.getId</entry>
         <entry>session</entry>
         <entry>endUser</entry>
+        <entry>response</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
