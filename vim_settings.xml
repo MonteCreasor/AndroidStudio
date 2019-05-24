@@ -58,7 +58,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/proguard/australia/mapping.txt" timestamp="1558572241953" />
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.kt" timestamp="1558645838618">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.kt" timestamp="1558661936861">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="275" column="0" />
         <mark key="]" line="275" column="0" />
@@ -168,7 +168,8 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/menu/menu_base_activity.xml" timestamp="1558575306508">
         <mark key="'" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" timestamp="1558660256791">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" timestamp="1558661368620">
+        <mark key="'" line="469" column="0" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
@@ -180,7 +181,7 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageService.java" timestamp="1558660087677">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageService.java" timestamp="1558661337739">
         <mark key="a" line="27" column="4" />
         <mark key="'" line="19" column="8" />
         <mark key="[" line="35" column="56" />
@@ -222,11 +223,6 @@
         <mark key="^" line="35" column="27" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/layout/unread_badge.xml" timestamp="1558628632189">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/AuthorizationFragment.java" timestamp="1558547250502">
         <mark key="'" line="129" column="39" />
       </file>
@@ -242,8 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.kt" />
-      <jump line="146" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainViewModel.kt" />
       <jump line="172" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragmentViewModel.kt" />
       <jump line="173" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/BaseViewModel.kt" />
       <jump line="88" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragmentViewModel.kt" />
@@ -342,6 +336,8 @@
       <jump line="71" column="15" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageService.java" />
       <jump line="105" column="15" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageService.java" />
       <jump line="19" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageService.java" />
+      <jump line="266" column="81" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="469" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -389,7 +385,7 @@
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>this\.</text>
+        <text>public</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFRhYmxldE1lc3NhZ2U+IGdldEFsbE1lc3NhZ2VzUGFzdERhdGUoRGF0ZVRpbWUgZnJvbSkgewo=</text>
@@ -438,17 +434,16 @@
       </register>
     </registers>
     <search>
-      <last-search>this\.</last-search>
+      <last-search>public</last-search>
       <last-offset />
-      <last-pattern>this\.</last-pattern>
+      <last-pattern>public</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>this\.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\.getId</entry>
         <entry>session</entry>
         <entry>endUser</entry>
         <entry>response</entry>
@@ -468,6 +463,7 @@
         <entry>esseges</entry>
         <entry>essages</entry>
         <entry>this\.</entry>
+        <entry>public</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
