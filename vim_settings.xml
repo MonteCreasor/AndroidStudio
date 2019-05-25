@@ -30,8 +30,8 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.kt" timestamp="1558686710270">
-        <mark key="'" line="54" column="61" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.kt" timestamp="1558818861075">
+        <mark key="'" line="68" column="23" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="^" line="16" column="27" />
@@ -83,6 +83,12 @@
         <mark key="^" line="28" column="38" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ClearMessageHistoryActivity.java" timestamp="1558819079689">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="40" column="60" />
+      </file>
       <file name="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" timestamp="1558751432106" />
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/ServiceHelper.kt" timestamp="1558684592291">
         <mark key="[" line="35" column="0" />
@@ -101,6 +107,12 @@
         <mark key="]" line="52" column="14" />
         <mark key="^" line="54" column="20" />
         <mark key="." line="52" column="14" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/IMessageRepository.java" timestamp="1558819042653">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/test/java/com/ideallife/healthtablet/test/WebApiTests.java" timestamp="1558686108019">
         <mark key="[" line="436" column="72" />
@@ -145,12 +157,11 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageService.kt" timestamp="1558686656718">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageService.kt" timestamp="1558818915516">
         <mark key="'" line="9" column="20" />
-        <mark key="[" line="27" column="1" />
-        <mark key="]" line="27" column="1" />
-        <mark key="^" line="27" column="2" />
-        <mark key="." line="27" column="1" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/notifications/MessageNotificationHelper.kt" timestamp="1558685853728">
         <mark key="'" line="49" column="43" />
@@ -162,12 +173,17 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="83" column="67" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" timestamp="1558662225572">
-        <mark key="'" line="469" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="5" />
-        <mark key="." line="24" column="5" />
-        <mark key="^" line="24" column="5" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ClearUserDataActivity.kt" timestamp="1558818672355">
+        <mark key="'" line="77" column="44" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="86" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" timestamp="1558819303592">
+        <mark key="'" line="373" column="19" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="59" />
+        <mark key="." line="270" column="12" />
+        <mark key="^" line="270" column="12" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/BaseViewModel.kt" timestamp="1558630473393">
         <mark key="'" line="23" column="0" />
@@ -178,24 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="68" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/FcmApiService.kt" />
-      <jump line="135" column="49" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="136" column="81" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="195" column="40" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="219" column="36" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="238" column="36" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="21" column="36" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="22" column="30" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="148" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="156" column="63" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="157" column="55" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="23" column="39" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="31" column="15" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="80" column="34" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="154" column="43" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageJobService.kt" />
-      <jump line="66" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
-      <jump line="6" column="14" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
-      <jump line="21" column="6" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
       <jump line="34" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
       <jump line="46" column="63" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
       <jump line="110" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessagesWorker.kt" />
@@ -278,10 +276,28 @@
       <jump line="57" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.kt" />
       <jump line="345" column="30" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/EnterReadingFragment.java" />
       <jump line="0" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/EnterReadingFragment.java" />
+      <jump line="77" column="44" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/ClearUserDataActivity.kt" />
+      <jump line="16" column="7" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.kt" />
+      <jump line="65" column="43" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.kt" />
+      <jump line="67" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.kt" />
+      <jump line="68" column="23" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageServiceHelper.kt" />
+      <jump line="42" column="11" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="104" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="109" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="147" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="188" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="244" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="280" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="297" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="333" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="339" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="345" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="354" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
+      <jump line="373" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/SqlMessageRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KCksIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -322,61 +338,61 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCksIA==</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>initG</text>
+        <text>getDataAccess()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1SZWFkaW5nU2VydmljZTogUmVhZGluZ1NlcnZpY2UgYnkgbGF6eSB7IFJlYWRpbmdTZXJ2aWNlKFNxbFJlYWRpbmdSZXBvc2l0b3J5KGNvbnRleHQpKSB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGRlbGV0ZU1lc3NhZ2VzQmVmb3JlRGF0ZShEYXRlVGltZSBiZWZvcmUpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpb0hlbHBlci5zdGFydENoZWNrVHRzSW5zdGFsbGVkQWN0aXZpdHlGb3JSZXN1bHQodGhpcykK</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlU2VydmljZS5zYXZlTWVzc2FnZSgpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpb0hlbHBlci5zdGFydENoZWNrVHRzSW5zdGFsbGVkQWN0aXZpdHlGb3JSZXN1bHQodGhpcykK</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlU2VydmljZS5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlU2VydmljZUhlbHBlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86bW9udGUgdGVzdCB0aGlzIGluc3RhbGxlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhbHRoUmVjb3JkUmV0cmlldmVkID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWhlYWx0aFJlY29yZFJldHJpZXZlZCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBkZWxldGVNZXNzYWdlc0JlZm9yZURhdGUoZGF0ZVRpbWU6IERhdGVUaW1lKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>initG</last-search>
+      <last-search>getDataAccess()</last-search>
       <last-offset />
-      <last-pattern>initG</last-pattern>
+      <last-pattern>getDataAccess()</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>this\.</last-substitute>
       <last-dir>1</last-dir>
@@ -384,10 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Job</entry>
-        <entry>esseges</entry>
-        <entry>essages</entry>
-        <entry>public</entry>
         <entry>this\.</entry>
         <entry>TODO(</entry>
         <entry>context</entry>
@@ -404,6 +416,10 @@
         <entry>user</entry>
         <entry>mU</entry>
         <entry>initG</entry>
+        <entry>Delete</entry>
+        <entry>delete</entry>
+        <entry>elete</entry>
+        <entry>getDataAccess()</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
