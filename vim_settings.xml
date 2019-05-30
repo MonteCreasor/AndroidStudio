@@ -26,12 +26,12 @@
         <mark key="]" line="272" column="0" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" timestamp="1559246107769">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" timestamp="1559246625666">
         <mark key="'" line="32" column="28" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="45" column="37" />
-        <mark key="." line="109" column="0" />
+        <mark key="[" line="112" column="53" />
+        <mark key="]" line="112" column="53" />
+        <mark key="^" line="107" column="30" />
+        <mark key="." line="112" column="60" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragmentViewModel.kt" timestamp="1558687721097">
         <mark key="[" line="37" column="0" />
@@ -275,8 +275,8 @@
       <jump line="33" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlU2VydmljZUhlbHBlci5zYXZlTWVzc2FnZVJlc3BvbnNlKG1Vc2VyLCBtZXNzYWdlLCBwb3NpdGlvbikK</text>
+      <register name="&quot;" type="4">
+        <text>nextMessage</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -317,52 +317,52 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>nextMessage</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3U3RhdGUgPSBFcnJvclZpZXdTdGF0ZShnZXRTdHJpbmcoUi5zdHJpbmcuc2VydmVyX3JlamVjdGVkX21lc3NhZ2VfcmVzcG9zZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlU2VydmljZUhlbHBlci5zYXZlTWVzc2FnZVJlc3BvbnNlKG1Vc2VyLCBtZXNzYWdlLCBwb3NpdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnZhbGlkYXRlTWVzc2FnZUxpc3RWaWV3KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlU2VydmljZUhlbHBlci5zYXZlTWVzc2FnZVJlc3BvbnNlKG1Vc2VyLCBtZXNzYWdlLCBwb3NpdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGFwdGVyLm5vdGlmeURhdGFTZXRDaGFuZ2VkKCkK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlRGJTZXJ2aWNlLnNhdmVNZXNzYWdlUmVzcG9uc2UocmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cGRhdGVNZXNzYWdlTGlzdChtZXNzYWdlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlU2VydmljZUhlbHBlci5zYXZlTWVzc2FnZVJlc3BvbnNlKG1Vc2VyLCBtZXNzYWdlLCBwb3NpdGlvbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlU2VydmljZUhlbHBlci5zYXZlTWVzc2FnZVJlc3BvbnNlKG1Vc2VyLCBtZXNzYWdlLCBwb3NpdGlvbikK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlRGJTZXJ2aWNlLnNhdmVNZXNzYWdlUmVzcG9uc2UocmVzcG9uc2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3Jhc2hseXRpY3MubG9nKCJVc2VyIGFuc3dlcmVkIG1lc3NhZ2UgJHttZXNzYWdlLm1lc3NhZ2UuaWR9IC0gY2hvaWNlOiAkaW5kZXgiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
