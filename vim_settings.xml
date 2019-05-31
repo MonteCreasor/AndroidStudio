@@ -9,11 +9,11 @@
       <mark key="J" line="300" column="0" filename="$USER_HOME$/mooc2/downloader/app/src/main/java/vandy/mooc/assignments/framework/utils/UriUtils.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivateViewModel.kt" timestamp="1559262145014">
-        <mark key="'" line="261" column="0" />
-        <mark key="[" line="35" column="61" />
-        <mark key="]" line="35" column="61" />
-        <mark key="." line="35" column="61" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivateViewModel.kt" timestamp="1559263283297">
+        <mark key="'" line="2" column="19" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.kt" timestamp="1559241994835">
         <mark key="'" line="44" column="0" />
@@ -41,9 +41,12 @@
         <mark key="]" line="272" column="0" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" timestamp="1559262034536">
-        <mark key="a" line="114" column="78" />
-        <mark key="'" line="108" column="53" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" timestamp="1559263294347">
+        <mark key="a" line="113" column="78" />
+        <mark key="'" line="44" column="58" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageFragment.kt" timestamp="1559252067462">
         <mark key="'" line="56" column="51" />
@@ -193,16 +196,13 @@
       <file name="/fragment.java" timestamp="1559242150325">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/BaseViewModel.kt" timestamp="1559263273926">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="69" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
-      <jump line="22" column="20" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
-      <jump line="34" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
-      <jump line="251" column="150" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/res/values/strings.xml" />
-      <jump line="84" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" />
-      <jump line="40" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" />
-      <jump line="272" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivateViewModel.kt" />
-      <jump line="69" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" />
       <jump line="52" column="62" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/MessageRepository.kt" />
       <jump line="61" column="76" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/repositories/MessageRepository.kt" />
       <jump line="41" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/models/TabletMessage.java" />
@@ -275,7 +275,6 @@
       <jump line="29" column="78" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/clinical/EndUserServices.java" />
       <jump line="31" column="86" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/clinical/EndUserServices.java" />
       <jump line="94" column="11" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" />
-      <jump line="33" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" />
       <jump line="280" column="46" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageFragment.kt" />
       <jump line="56" column="51" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageFragment.kt" />
       <jump line="54" column="21" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/MessageService.kt" />
@@ -295,10 +294,19 @@
       <jump line="101" column="41" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
       <jump line="20" column="32" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
       <jump line="21" column="36" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/build.gradle" />
+      <jump line="45" column="80" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivateViewModel.kt" />
+      <jump line="48" column="60" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivateViewModel.kt" />
+      <jump line="125" column="59" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivateViewModel.kt" />
+      <jump line="33" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivateViewModel.kt" />
+      <jump line="46" column="23" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivateViewModel.kt" />
+      <jump line="271" column="31" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivateViewModel.kt" />
+      <jump line="2" column="19" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ActivateViewModel.kt" />
+      <jump line="33" column="42" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" />
+      <jump line="44" column="58" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagesViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.apply {</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -339,61 +347,61 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text>.apply {</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>Mess</text>
+        <text>context</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5saWZlY3ljbGU6bGlmZWN5Y2xlLXZpZXdtb2RlbC1zYXZlZHN0YXRlOjEuMC4wLWFscGhhMDEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IGlld1N0YXRlLkxvYWRpbmdWaWV3U3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCkgPSBnZXRBcHBsaWNhdGlvbigpCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFwcGx5IHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgY29udGV4dDogQ29udGV4dAogICAgICAgIGdldCgpID0gZ2V0QXBwbGljYXRpb24oKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZhbHVlCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQgCiAgICAgICAgZ2V0KCkgPSBnZXRBcHBsaWNhdGlvbigpCiAgICAK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQgYnkgbGF6eSB7IEFwcC5pbnN0YW5jZSB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciB4eHg6IE11dGFibGVMaXZlRGF0YTxMaXN0PFRhYmxldE1lc3NhZ2U+Pj8gPSAK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IGlld1N0YXRlLkxvYWRpbmdWaWV3U3RhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGFsdGVybmF0ZWx5IC0gaWYgdXNpbmcgSmF2YTgsIHVzZSB0aGUgZm9sbG93aW5nIGluc3RlYWQgb2YgbGlmZWN5Y2xlLWNvbXBpbGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
       </register>
     </registers>
     <search>
-      <last-search>Mess</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>Mess</last-pattern>
+      <last-pattern>context</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>this\.</last-substitute>
       <last-dir>1</last-dir>
@@ -401,8 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>answer</entry>
-        <entry>Choic</entry>
         <entry>position</entry>
         <entry>Lega</entry>
         <entry>authenticationR</entry>
@@ -421,6 +427,8 @@
         <entry>lifel</entry>
         <entry>life</entry>
         <entry>Mess</entry>
+        <entry>App</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../versions.gradle</entry>
