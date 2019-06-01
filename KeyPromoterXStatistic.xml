@@ -49,6 +49,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -78,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'tablet-app'</Description>
-          <Count>237</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -118,7 +126,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
