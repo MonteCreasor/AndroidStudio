@@ -153,10 +153,11 @@
       <file name="$USER_HOME$/client/ideal-life/health-tablet-old/app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.java" timestamp="1559436552841">
         <mark key="'" line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/security/AuthenticationServices.kt" timestamp="1559578886443">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/security/AuthenticationServices.kt" timestamp="1559579863154">
+        <mark key="[" line="92" column="38" />
+        <mark key="]" line="92" column="46" />
+        <mark key="^" line="92" column="46" />
+        <mark key="." line="92" column="46" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/MessagingApiService.kt" timestamp="1559529115706">
         <mark key="'" line="43" column="12" />
@@ -210,9 +211,9 @@
         <mark key="^" line="15" column="4" />
         <mark key="." line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageWorker.kt" timestamp="1559567474050">
-        <mark key="[" line="46" column="12" />
-        <mark key="]" line="46" column="12" />
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/services/PullMessageWorker.kt" timestamp="1559579820558">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="68" />
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="12" />
       </file>
@@ -498,8 +499,8 @@
       <jump line="89" column="12" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/security/AuthenticationServices.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ServicesFactory(App.instance)</text>
       </register>
       <register name="g" type="4">
         <keys>
@@ -540,52 +541,52 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>ServicesFactory(App.instance)</text>
       </register>
       <register name="/" type="4">
         <text>session</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwga2V5ID0gV2ViQXBpUmVwb3NpdG9yeUNvbmZpZ3VyYXRpb24uZ2V0SW5zdGFuY2UoKS5hY2NvdW50S2V5Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNlcnZpY2VzRmFjdG9yeSBieSBsYXp5IHsgU2VydmljZXNGYWN0b3J5KGNvbnRleHQpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlcnZpY2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdzb25QYXJzZXIuZnJvbUpzb24ocmVzcG9uc2UucmVzcG9uc2VDb250ZW50LCBFbmRVc2VyOjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlmIChyZXNwb25zZS5yZXNwb25zZUNvbnRlbnQgIT0gbnVsbCAmJiByZXNwb25zZS5yZXNwb25zZUNvZGUgPT0gSHR0cFVSTENvbm5lY3Rpb24uSFRUUF9PSykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJlc3BvbnNlID0gZG9XZWJBcGlDYWxsKCJjbGluaWNhbC8ka2V5L2VuZHVzZXJzLyRlbmRVc2VySWQiLCBBYnN0cmFjdFdlYkFwaVJlcG9zaXRvcnkuR0VULCBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGtleSA9IFdlYkFwaVJlcG9zaXRvcnlDb25maWd1cmF0aW9uLmdldEluc3RhbmNlKCkuYWNjb3VudEtleQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdzb25QYXJzZXIuZnJvbUpzb24ocmVzcG9uc2UucmVzcG9uc2VDb250ZW50LCBFbmRVc2VyOjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlmIChyZXNwb25zZS5yZXNwb25zZUNvbnRlbnQgIT0gbnVsbCAmJiByZXNwb25zZS5yZXNwb25zZUNvZGUgPT0gSHR0cFVSTENvbm5lY3Rpb24uSFRUUF9PSykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
