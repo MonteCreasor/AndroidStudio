@@ -26,7 +26,8 @@
         <mark key="." line="33" column="60" />
         <mark key="^" line="33" column="120" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" timestamp="1559582337046">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" timestamp="1559595283604">
+        <mark key="'" line="174" column="32" />
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
@@ -444,8 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="68" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
-      <jump line="21" column="57" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
       <jump line="25" column="58" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
       <jump line="34" column="61" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessagingFragment.kt" />
       <jump line="72" column="74" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.kt" />
@@ -544,6 +543,8 @@
       <jump line="85" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/security/AuthenticationServices.kt" />
       <jump line="81" column="27" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/security/AuthenticationServices.kt" />
       <jump line="59" column="21" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/services/security/AuthenticationServices.kt" />
+      <jump line="170" column="54" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" />
+      <jump line="174" column="32" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/data/api/AuthorizationApiService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -591,7 +592,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>accountK</text>
+        <text>activatedUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -640,9 +641,9 @@
       </register>
     </registers>
     <search>
-      <last-search>accountK</last-search>
+      <last-search>activatedUser</last-search>
       <last-offset />
-      <last-pattern>accountK</last-pattern>
+      <last-pattern>activatedUser</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>callerTe</last-substitute>
       <last-dir>1</last-dir>
@@ -650,7 +651,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setSession</entry>
         <entry>\.session</entry>
         <entry>doLogin</entry>
         <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
@@ -670,6 +670,7 @@
         <entry>session</entry>
         <entry>account</entry>
         <entry>accountK</entry>
+        <entry>activatedUser</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../../versions.gradle</entry>
