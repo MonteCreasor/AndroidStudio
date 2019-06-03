@@ -536,7 +536,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\.session</text>
+        <text>doLogin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
@@ -585,9 +585,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\.session</last-search>
+      <last-search>doLogin</last-search>
       <last-offset />
-      <last-pattern>\.session</last-pattern>
+      <last-pattern>doLogin</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>callerTe</last-substitute>
       <last-dir>1</last-dir>
@@ -595,7 +595,6 @@
     </search>
     <history>
       <history-search>
-        <entry>snackBar</entry>
         <entry>getRe</entry>
         <entry>getHeal</entry>
         <entry>dir</entry>
@@ -615,6 +614,7 @@
         <entry>Device</entry>
         <entry>setSession</entry>
         <entry>\.session</entry>
+        <entry>doLogin</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../../versions.gradle</entry>
