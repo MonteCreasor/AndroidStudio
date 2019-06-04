@@ -134,6 +134,14 @@
         <mark key="^" line="636" column="59" />
         <mark key="." line="785" column="14" />
       </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" timestamp="1559671563985">
+        <mark key="a" line="105" column="7" />
+        <mark key="'" line="96" column="8" />
+        <mark key="[" line="101" column="5" />
+        <mark key="]" line="105" column="7" />
+        <mark key="^" line="105" column="7" />
+        <mark key="." line="105" column="7" />
+      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractWebApiRepository.java" timestamp="1559632577738">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -443,10 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="33" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MainFragment.kt" />
-      <jump line="174" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/res/layout/settings_dialog_fragment.xml" />
-      <jump line="10" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/res/layout/settings_dialog_fragment.xml" />
-      <jump line="101" column="5" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/res/layout/settings_dialog_fragment.xml" />
       <jump line="173" column="5" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/res/layout/settings_dialog_fragment.xml" />
       <jump line="184" column="5" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/res/layout/settings_dialog_fragment.xml" />
       <jump line="274" column="5" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/res/layout/settings_dialog_fragment.xml" />
@@ -543,6 +547,10 @@
       <jump line="57" column="4" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectonDialogFragment.kt" />
       <jump line="42" column="17" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectonDialogFragment.kt" />
       <jump line="60" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/ConnectonDialogFragment.kt" />
+      <jump line="105" column="7" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
+      <jump line="493" column="24" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
+      <jump line="450" column="28" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
+      <jump line="96" column="8" filename="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/VideoConferenceFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -593,7 +601,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>onResume</text>
+        <text>Destroy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwb3NpdGl2ZUJ1dHRvbj8ucmVtb3ZlQ2FsbGJhY2tzKGNoZWNrQ29ubmVjdGlvblJ1bm5hYmxlKQo=</text>
@@ -642,9 +650,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onResume</last-search>
+      <last-search>Destroy</last-search>
       <last-offset />
-      <last-pattern>onResume</last-pattern>
+      <last-pattern>Destroy</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>callerTe</last-substitute>
       <last-dir>1</last-dir>
@@ -652,9 +660,6 @@
     </search>
     <history>
       <history-search>
-        <entry>doLoginT</entry>
-        <entry>dummy call e</entry>
-        <entry>account</entry>
         <entry>accountK</entry>
         <entry>activatedUser</entry>
         <entry>return</entry>
@@ -672,6 +677,9 @@
         <entry>PostD</entry>
         <entry>onPause</entry>
         <entry>onResume</entry>
+        <entry>onDet</entry>
+        <entry>onDestroy</entry>
+        <entry>Destroy</entry>
       </history-search>
       <history-cmd>
         <entry>e ../../../../../../../versions.gradle</entry>
