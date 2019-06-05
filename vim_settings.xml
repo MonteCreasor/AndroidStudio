@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1559760253091">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/AndroidManifest.xml" timestamp="1559760240413" />
       <file name="$USER_HOME$/client/ideal-life/ASBug/app/src/debug/java/com/example/asbug/DebugMainActivity.kt" timestamp="1559759425376">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -15,30 +19,48 @@
         <mark key="^" line="11" column="48" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="2" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/.idea/workspace.xml" />
+      <jump line="52" column="0" filename="$USER_HOME$/client/ideal-life/health-tablet/.idea/workspace.xml" />
+      <jump line="57" column="204" filename="$USER_HOME$/client/ideal-life/health-tablet/.idea/workspace.xml" />
+    </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy50ZXh0ID0gdGhpcy5qYXZhQ2xhc3Muc2ltcGxlTmFtZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy50ZXh0ID0gdGhpcy5qYXZhQ2xhc3MubmFtZQo=</text>
+        <text encoding="base64">ICAgICAgPGNoYW5nZSBiZWZvcmVQYXRoPSIkUFJPSkVDVF9ESVIkL3RhYmxldC1hcHAvc3JjL21haW4vamF2YS9jb20vaWRlYWxsaWZlL2hlYWx0aHRhYmxldC9NYWluQWN0aXZpdHkua3QiIGJlZm9yZURpcj0iZmFsc2UiIGFmdGVyUGF0aD0iJFBST0pFQ1RfRElSJC90YWJsZXQtYXBwL3NyYy9tYWluL2phdmEvY29tL2lkZWFsbGlmZS9oZWFsdGh0YWJsZXQvTWFpbkFjdGl2aXR5Lmt0IiBhZnRlckRpcj0iZmFsc2UiIC8+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy50ZXh0ID0gdGhpcy5qYXZhQ2xhc3MubmFtZQo=</text>
+        <text encoding="base64">ICAgICAgPGNoYW5nZSBiZWZvcmVQYXRoPSIkUFJPSkVDVF9ESVIkL3RhYmxldC1hcHAvc3JjL21haW4vamF2YS9jb20vaWRlYWxsaWZlL2hlYWx0aHRhYmxldC9NYWluQWN0aXZpdHkua3QiIGJlZm9yZURpcj0iZmFsc2UiIGFmdGVyUGF0aD0iJFBST0pFQ1RfRElSJC90YWJsZXQtYXBwL3NyYy9tYWluL2phdmEvY29tL2lkZWFsbGlmZS9oZWFsdGh0YWJsZXQvTWFpbkFjdGl2aXR5Lmt0IiBhZnRlckRpcj0iZmFsc2UiIC8+Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPGNoYW5nZSBiZWZvcmVQYXRoPSIkUFJPSkVDVF9ESVIkL3RhYmxldC1hcHAvc3JjL2RlYnVnL2phdmEvY29tL2lkZWFsbGlmZS9oZWFsdGh0YWJsZXQvZGVidWd0b29scy9zZXR0aW5ncy9EZXZNYWluQWN0aXZpdHkua3QiIGJlZm9yZURpcj0iZmFsc2UiIGFmdGVyUGF0aD0iJFBST0pFQ1RfRElSJC90YWJsZXQtYXBwL3NyYy9kZWJ1Zy9qYXZhL2NvbS9pZGVhbGxpZmUvaGVhbHRodGFibGV0L2RlYnVndG9vbHMvc2V0dGluZ3MvRGV2TWFpbkFjdGl2aXR5Lmt0IiBhZnRlckRpcj0iZmFsc2UiIC8+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy50ZXh0ID0gdGhpcy5qYXZhQ2xhc3MubmFtZQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy50ZXh0ID0gIk1haW5BY3Rpdml0eSIK</text>
       </register>
       <register name="-" type="4">
         <text>.name</text>
       </register>
+      <register name="/" type="4">
+        <text>MainActivity</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>MainActivity</last-search>
+      <last-offset />
+      <last-pattern>MainActivity</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>MainActivity</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
