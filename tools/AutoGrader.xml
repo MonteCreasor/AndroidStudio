@@ -1,0 +1,16 @@
+<toolSet name="AutoGrader">
+  <tool name="Run Vanderbilt Autograder (iOS or Linux)" description="Runs the Vanderbilt autograder on iOS or Linux" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="./gradlew" />
+      <option name="PARAMETERS" value="runAutograder" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Run Vanderbilt Autograder (Windows)" description="Runs the Vanderbilt autograder (Windows)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="gradlew.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

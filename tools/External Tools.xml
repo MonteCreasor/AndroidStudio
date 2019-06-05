@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="Set device owner" description="Sets the current device owner" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/ccs/DialogFragmentSandbox/scripts/set-device-owner.sh" />
+      <option name="PARAMETERS" value="$FilePackage$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/ccs/DialogFragmentSandbox/scripts" />
+    </exec>
+  </tool>
+  <tool name="doze" description="Force device to doze" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="$USER_HOME$/client/ideal-life/health-tablet/scripts/doze.sh" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/client/ideal-life/health-tablet/scripts" />
+    </exec>
+  </tool>
+  <tool name="wake" description="Force device to wake" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="$USER_HOME$/client/ideal-life/health-tablet/scripts/wake.sh" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/client/ideal-life/health-tablet/scripts" />
+    </exec>
+  </tool>
+</toolSet>

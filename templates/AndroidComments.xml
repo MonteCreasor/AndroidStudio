@@ -1,0 +1,7 @@
+<templateSet group="AndroidComments">
+  <template name="cfalse" value="&lt;code&gt;false&lt;/code&gt;" description="puts false in a comment section" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,147 @@
+<keymap version="1" name="SilverFox" parent="$default">
+  <action id="ActivateAndroidMonitorToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="Android.HotswapChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl 0" second-keystroke="0" />
+  </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f9" />
+    <keyboard-shortcut first-keystroke="shift alt 9" second-keystroke="9" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="shift alt 0" second-keystroke="0" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+    <keyboard-shortcut first-keystroke="ctrl 9" second-keystroke="9" />
+  </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="shift 9" second-keystroke="9" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="alt 8" second-keystroke="8" />
+  </action>
+  <action id="ExternalSystem_8fb221e2DemoApp8e7a8296runAutograder">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="alt 3" second-keystroke="3" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="3" second-keystroke="3" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="shift 3" second-keystroke="3" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt 7" second-keystroke="7" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+    <keyboard-shortcut first-keystroke="ctrl 7" second-keystroke="7" />
+  </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+    <keyboard-shortcut first-keystroke="ctrl 3" second-keystroke="3" />
+  </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift alt f7" />
+    <keyboard-shortcut first-keystroke="shift alt 7" second-keystroke="7" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="shift alt f8" />
+    <keyboard-shortcut first-keystroke="shift alt 8" second-keystroke="8" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
+  <action id="MakeModule">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+    <keyboard-shortcut first-keystroke="shift ctrl 9" second-keystroke="9" />
+  </action>
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="shift 0" second-keystroke="0" />
+  </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="alt f9" />
+    <keyboard-shortcut first-keystroke="alt 9" second-keystroke="9" />
+  </action>
+  <action id="ShowSettingsAndFindUsages">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt 7" second-keystroke="7" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl alt 7" second-keystroke="7" />
+  </action>
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="shift 7" second-keystroke="7" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="7" second-keystroke="7" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="shift 8" second-keystroke="8" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="8" second-keystroke="8" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+    <keyboard-shortcut first-keystroke="ctrl 2" second-keystroke="2" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+    <keyboard-shortcut first-keystroke="ctrl 8" second-keystroke="8" />
+  </action>
+  <action id="ToggleTemporaryLineBreakpoint">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f8" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt 8" second-keystroke="8" />
+  </action>
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift ctrl f8" />
+    <keyboard-shortcut first-keystroke="shift ctrl 8" second-keystroke="8" />
+  </action>
+</keymap>
