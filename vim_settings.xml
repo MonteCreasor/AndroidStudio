@@ -176,11 +176,6 @@
         <mark key="]" line="63" column="1" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/security/WebApiAuthenticationRepository.java" timestamp="1559622795603">
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="43" column="17" />
-        <mark key="." line="43" column="17" />
-      </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/debug/res/layout/settings_dialog_fragment.xml" timestamp="1559504481145">
         <mark key="a" line="97" column="5" />
         <mark key="'" line="67" column="4" />
@@ -205,7 +200,7 @@
         <mark key="^" line="127" column="17" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" timestamp="1559705991346">
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" timestamp="1559707129594">
         <mark key="'" line="88" column="16" />
         <mark key="[" line="37" column="102" />
         <mark key="]" line="37" column="102" />
@@ -218,6 +213,11 @@
         <mark key="]" line="108" column="82" />
         <mark key="." line="108" column="82" />
         <mark key="^" line="108" column="82" />
+      </file>
+      <file name="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/web/security/WebApiAuthenticationRepository.kt" timestamp="1559706986994">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/client/ideal-life/health-tablet/tablet-app/src/main/java/com/ideallife/healthtablet/fragments/MessageDialogFragment.java" timestamp="1559430391967">
         <mark key="'" line="130" column="16" />
@@ -557,8 +557,8 @@
       <jump line="88" column="16" filename="$USER_HOME$/client/ideal-life/health-tablet/il-services/src/main/java/com/ideallife/repositories/AbstractNonAuthenticatedWebApiRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>io</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gVW5pdCAvLyBEbyBub3RoaW5nCg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">cmVzcG9uc2UgIT0gbnVsbCAmJiA=</text>
@@ -602,52 +602,52 @@
         <text>$hklll</text>
       </register>
       <register name="-" type="4">
-        <text>io</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>handle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBOZXR3b3JrQ29ubmVjdGlvbkV4Y2VwdGlvbihzdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgLT4gVW5pdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5ldHdvcmtDb25uZWN0aW9uRXhjZXB0aW9uKGV4KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgLT4gVW5pdCAvLyBEbyBub3RoaW5nCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChVbmtub3duSG9zdEV4Y2VwdGlvbiBleCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgLT4gVW5pdCAvLyBEbyBub3RoaW5nCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgTmV0d29ya0Nvbm5lY3Rpb25FeGNlcHRpb24oc3RlKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFNvY2tldFRpbWVvdXRFeGNlcHRpb24gc3RlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHVzZSBHb29nbGUncyBKU09OIHBhcnNlciB0byBnZXQgdGhlIHNlc3Npb24gaW5mb3JtYXRpb24K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB1c2UgR29vZ2xlJ3MgSlNPTiBwYXJzZXIgdG8gZ2V0IHRoZSBzZXNzaW9uIGluZm9ybWF0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
